@@ -1,5 +1,5 @@
 const API_CONFIG ={
-  BACKEND_URL: 'https://YOUR_VERCEL_URL.vercel.app/api/contests',
+  BACKEND_URL: 'https://algoradar-extension.vercel.app/api/contests.js',
   CACHE_DURATION: 20 * 60 * 1000,
   MAX_RETRIES: 3
 };
