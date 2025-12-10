@@ -1,4 +1,4 @@
-```markdown
+
 # 🎯 AlgoRadar Extension
 
 Chrome extension to track upcoming competitive programming contests from multiple platforms.
@@ -25,7 +25,7 @@ Chrome extension to track upcoming competitive programming contests from multipl
 5. Select the `extension` folder
 
 ## 🏗️ Project Structure
-```
+
 algoradar/
 ├── api/              # Backend (Vercel serverless)
 │   └── contests.js   # CLIST API proxy
@@ -45,7 +45,7 @@ vercel dev
 
 # Deploy to production
 vercel --prod
-```
+
 
 ### Extension Development
 1. Make changes in `extension/` folder
