@@ -1,0 +1,20 @@
+{
+  "name": "algoradar-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension to track coding contests with secure backend",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "competitive-programming",
+    "contests",
+    "chrome-extension"
+  ],
+  "author": "Nilanshu Sharma",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilanshucodes/algoradar-extension.git"
+  }
+}

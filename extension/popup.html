@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AlgoRadar</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1 class="logo">AlgoRadar</h1>
+      <button id="refreshBtn" class="icon-btn" title="Refresh">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/>
+        </svg>
+      </button>
+    </header>
+
+    <div class="filters">
+      <div class="filter-section">
+        <label class="checkbox-label">
+          <input type="checkbox" value="codeforces.com" class="platform-filter" checked>
+          <span>Codeforces</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" value="atcoder.jp" class="platform-filter" checked>
+          <span>AtCoder</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" value="leetcode.com" class="platform-filter" checked>
+          <span>LeetCode</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" value="codechef.com" class="platform-filter" checked>
+          <span>CodeChef</span>
+        </label>
+      </div>
+      
+      <select id="timeFilter" class="time-select">
+        <option value="all">All Time</option>
+        <option value="today">Today</option>
+        <option value="week">This Week</option>
+        <option value="month">This Month</option>
+      </select>
+    </div>
+
+    <div id="loadingState" class="loading-state">
+      <div class="spinner"></div>
+      <p>Loading contests...</p>
+    </div>
+
+    <div id="errorState" class="error-state" style="display: none;">
+      <p>Failed to load contests</p>
+      <button id="retryBtn" class="retry-btn">Retry</button>
+    </div>
+
+    <div id="contestsList" class="contests-list"></div>
+
+    <div id="emptyState" class="empty-state" style="display: none;">
+      <p>No upcoming contests found</p>
+    </div>
+
+    <footer class="footer">
+      <p>Powered by <a href="https://clist.by" target="_blank">CLIST</a></p>
+      <a href="https://github.com/nilanshucodes/algoradar-extension" target="_blank">GitHub</a>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "AlgoRadar - Extension",
+  "version": "1.0.0",
+  "description": "Track upcoming coding contests from Codeforces, AtCoder, LeetCode, CodeChef and more",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "alarms"
+  ],
+  "host_permissions": [
+    "https://YOUR_VERCEL_URL.vercel.app/*"
+  ]
+}
