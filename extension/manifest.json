@@ -24,6 +24,6 @@
     "alarms"
   ],
   "host_permissions": [
-    "https://YOUR_VERCEL_URL.vercel.app/*"
+    "https://algoradar-extension7.vercel.app/*"
   ]
 }
