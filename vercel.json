@@ -4,22 +4,14 @@
     {
       "src": "api/**/*.js",
       "use": "@vercel/node"
-    },
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
     }
   ],
-  "routes": [
-    {
-      "src": "/api/contests",
-      "dest": "/api/contests.js" 
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ],
+
+
+
+
+
+
   "headers": [
     {
       "source": "/api/(.*)",
@@ -38,12 +30,9 @@
         },
         {
           "key": "Cache-Control",
-          "value": "s-maxage=1200, stale-while-revalidate=86400"
+          "value": "s-maxage=1200, stale-while-revalidate"
         }
       ]
     }
-  ],
-  "env": {
-    "NODE_ENV": "production"
-  }
+  ]
 }
