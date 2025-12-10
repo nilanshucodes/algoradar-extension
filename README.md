@@ -26,6 +26,7 @@ Chrome extension to track upcoming competitive programming contests from multipl
 
 ## 🏗️ Project Structure
 
+```markdown
 algoradar/
 ├── api/              # Backend (Vercel serverless)
 │   └── contests.js   # CLIST API proxy
@@ -35,6 +36,7 @@ algoradar/
 │   ├── popup.html
 │   ├── popup.css
 │   └── popup.js
+```
 🛠️ Development
 Backend Development
 bash# Install dependencies
