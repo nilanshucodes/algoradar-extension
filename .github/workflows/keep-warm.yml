@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping backend
-        run: curl -s https://algoradar-extension.vercel.app/api/contests.js
+        run: curl -s -o /dev/null -w "%{http_code}" https://algoradar-extension.vercel.app/api/contests.js
