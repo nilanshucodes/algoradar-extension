@@ -1,4 +1,9 @@
 //Backend for AlgoRadar extension
+import { inject } from '@vercel/analytics';
+
+// Initialize Vercel Web Analytics
+inject();
+
 const CACHE_DURATION = 20 * 60 * 1000; 
 const STALE_CACHE_DURATION = 24 * 60 * 60 * 1000; 
 const RATE_LIMIT_WINDOW = 60 * 1000; 

@@ -1,3 +1,8 @@
+import { inject } from '@vercel/analytics';
+
+// Initialize Vercel Web Analytics for background service worker
+inject();
+
 const API_CONFIG ={
   BACKEND_URL: 'https://algoradar-extension.vercel.app/api/contests.js',
   CACHE_DURATION: 20 * 60 * 1000,

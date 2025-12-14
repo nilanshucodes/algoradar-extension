@@ -1,5 +1,10 @@
 //AlgoRadar Extension UI Logic
 
+import { inject } from '@vercel/analytics';
+
+// Initialize Vercel Web Analytics
+inject();
+
 let allContests = [];
 
 const loadingState = document.getElementById('loadingState');
