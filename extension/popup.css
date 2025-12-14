@@ -207,6 +207,7 @@ body {
   border-top: 1px solid var(--border-color);
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-size: 11px;
   color: var(--text-secondary);
 }
@@ -214,6 +215,12 @@ body {
 .footer a {
   color: var(--primary-blue);
   text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer a:hover {
+  color: #5dafff;
+  text-decoration: underline;
 }
 
 .hidden {
