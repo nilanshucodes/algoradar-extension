@@ -81,6 +81,17 @@ Contributions welcome! Please:
 3. Make your changes
 4. Submit a pull request
 
+## Known Limitations (v1.0)
+
+- **Cache resets on cold starts**: Backend uses in-memory cache which resets when serverless function goes cold (after ~5 minutes of inactivity). This is expected behavior and doesn't affect functionality, but first load after inactivity may be slower.
+- **Icons are placeholder quality**: Professional icons coming in v1.1
+- **Manual installation only**: Chrome Web Store release planned for v1.1
+
+### Future Improvements
+- Persistent cache with Vercel KV (planned for v1.2 when user base grows)
+- Better icons (v1.1)
+- Chrome Web Store publication (v1.1)
+
 ## License
 
 MIT License - see [LICENSE](LICENSE)
