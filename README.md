@@ -1,18 +1,18 @@
 
-# 🎯 AlgoRadar Extension
+# 🎯 AlgoRadar Extension 
 
 Chrome extension to track upcoming competitive programming contests from multiple platforms.
 
-## 🚀 Features
+## Features
 
-- 📅 **Multi-Platform**: Codeforces, AtCoder, LeetCode, CodeChef, Kaggle, and more
-- 🔍 **Smart Filters**: Filter by platform and time (Today, Week, Month)
-- ⚡ **Fast**: Smart caching with 20-minute refresh
-- 🎨 **Beautiful**: Clean dark theme interface
-- 🔒 **Secure**: Backend API protects CLIST credentials
-- 🆓 **Free Forever**: No ads, no tracking, open source
+- **Multi-Platform**: Codeforces, AtCoder, LeetCode, CodeChef, Kaggle, and more
+- **Smart Filters**: Filter by platform and time (Today, Week, Month)
+- **Fast**: Smart caching with 20-minute refresh
+- **Beautiful**: Clean dark theme interface
+- **Secure**: Backend API protects CLIST credentials
+- **Free Forever**: No ads, no tracking, open source
 
-## 📦 Installation
+##  Installation
 
 ### From Chrome Web Store (Coming Soon)
 [Link will be added after approval]
@@ -24,7 +24,7 @@ Chrome extension to track upcoming competitive programming contests from multipl
 4. Click "Load unpacked"
 5. Select the `extension` folder
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```markdown
 algoradar/
@@ -37,7 +37,7 @@ algoradar/
 │   ├── popup.css
 │   └── popup.js
 ```
-🛠️ Development
+ Development
 Backend Development
 bash# Install dependencies
 npm install -g vercel
@@ -55,25 +55,25 @@ vercel --prod
 3. Click reload icon on AlgoRadar
 4. Test changes
 
-## 🌐 Backend API
+##  Backend API(Proxy Server)
 
 The backend is deployed on Vercel and provides:
-- ✅ Secure CLIST API proxy
-- ✅ 20-minute caching
-- ✅ Request queuing (prevents rate limits)
-- ✅ Rate limiting per IP
-- ✅ Graceful error handling
+- Secure CLIST API proxy
+- 20-minute caching
+- Request queuing (prevents rate limits)
+- Rate limiting per IP
+- Graceful error handling
 
-**Endpoint**: `https://your-app.vercel.app/api/contests`
+**Endpoint**: `https://algoradar-extension.vercel.app/api/contests`
 
-## 📊 Tech Stack
+## Tech Stack
 
 - **Frontend**: Vanilla JavaScript, HTML, CSS
 - **Backend**: Vercel Serverless Functions
 - **API**: CLIST API
 - **Deployment**: Vercel (backend), Chrome Web Store (extension)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Please:
 1. Fork the repository
@@ -81,19 +81,19 @@ Contributions welcome! Please:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](LICENSE)
 
-## 🙏 Attribution
+## Attribution
 
 - Contest data powered by [CLIST](https://clist.by)
 - AlgoRadar is an independent community project
 
-## 📧 Contact
+## Contact
 
 - Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/algoradar/issues)
-- Email: your-email@example.com
+- Contact: [Website](https://algo-radar.vercel.app/contact)
 
 ---
 
