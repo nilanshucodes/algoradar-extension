@@ -24,6 +24,6 @@
     "alarms"
   ],
   "host_permissions": [
-    "https://algoradar-extension.vercel.app/*"
+    "https://algoradar-extension.vercel.app/api/contests.js"
   ]
 }
