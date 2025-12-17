@@ -1,9 +1,9 @@
 
-# 🎯 AlgoRadar Extension 
+# <img width="30" height="30" alt="android-icon-48x48" src="https://github.com/user-attachments/assets/1d4f7a25-6c09-4fe7-87e3-a42be8a6e7f9" /> AlgoRadar Extension 
 
 Chrome extension to track upcoming competitive programming contests from multiple platforms.
 
-## Features
+## Feature
 
 - **Multi-Platform**: Codeforces, AtCoder, LeetCode, CodeChef, Kaggle, and more
 - **Smart Filters**: Filter by platform and time (Today, Week, Month)
