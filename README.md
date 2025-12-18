@@ -7,9 +7,9 @@ Chrome extension to track upcoming competitive programming contests from multipl
 
 - **Multi-Platform**: Codeforces, AtCoder, LeetCode, CodeChef, Kaggle, and more
 - **Smart Filters**: Filter by platform and time (Today, Week, Month)
-- **Fast**: Smart caching with 20-minute refresh
+- **Fast & Reliable**: Contest data is served from scheduled, cached JSON updates with automatic background refresh
 - **Beautiful**: Clean dark theme interface
-- **Secure**: Backend API protects CLIST credentials
+- **Secure**: Backend API aggregates and caches CLIST data without exposing credentials
 - **Free Forever**: No ads, no tracking, open source
 
 ##  Installation
@@ -28,14 +28,25 @@ Chrome extension to track upcoming competitive programming contests from multipl
 
 ```markdown
 algoradar/
-├── api/              # Backend (Vercel serverless)
-│   └── contests.js   # CLIST API proxy
-├── extension/        # Chrome extension
-│   ├── manifest.json
-│   ├── background.js
-│   ├── popup.html
-│   ├── popup.css
-│   └── popup.js
+├── api/                      # Backend (Vercel serverless)
+│   └── contests.js           # Serves pre-generated contest data (no runtime CLIST calls)
+│
+├── data/                     # Generated contest data
+│   └── contests.json         # Cached JSON updated via GitHub Actions cron
+│
+├── extension/                # Chrome extension
+│   ├── manifest.json         # Extension manifest (MV3)
+│   ├── background.js         # Background service worker (fetch + cache logic)
+│   ├── popup.html            # Extension popup UI
+│   ├── popup.css             # Popup styles
+│   └── popup.js              # Popup interaction logic
+│
+├── .github/
+│   └── workflows/
+│       └── update-contests.yml  # Cron job to fetch contests from CLIST
+│
+└── README.md
+
 ```
  Development
 Backend Development
@@ -55,16 +66,19 @@ vercel --prod
 3. Click reload icon on AlgoRadar
 4. Test changes
 
-##  Backend API(Proxy Server)
+## Backend API (Data Service)
 
-The backend is deployed on Vercel and provides:
-- Secure CLIST API proxy
-- 20-minute caching
-- Request queuing (prevents rate limits)
-- Rate limiting per IP
-- Graceful error handling
+The backend is deployed on Vercel and serves **pre-generated static contest data**.
 
-**Endpoint**: `https://algoradar-extension.vercel.app/api/contests`
+- Contest data is fetched via a scheduled GitHub Actions cron job
+- Data is stored as static JSON and served to clients
+- No runtime calls to CLIST API
+- Eliminates rate-limit risks and cold-start issues
+- Backend only reads cached data at request time
+
+Endpoint:
+https://algoradar-extension.vercel.app/api/contests
+
 
 ## Tech Stack
 
@@ -81,20 +95,25 @@ Contributions welcome! Please:
 3. Make your changes
 4. Submit a pull request
 
-## Known Limitations (v1.0)
+## Known Limitations
 
-- **Cache resets on cold starts**: Backend uses in-memory cache which resets when serverless function goes cold (after ~5 minutes of inactivity). This is expected behavior and doesn't affect functionality, but first load after inactivity may be slower.
-- **Icons are placeholder quality**: Professional icons coming in v1.1
-- **Manual installation only**: Chrome Web Store release planned for v1.1
+- Contest data updates depend on the scheduled refresh interval (every 15–30 minutes)
+- UI remains intentionally minimal to keep the extension lightweight
+
 
 ### Future Improvements
-- Persistent cache with Vercel KV (planned for v1.2 when user base grows)
-- Better icons (v1.1)
-- Chrome Web Store publication (v1.1)
+- Optional persistent storage (only if future scale requires it)
+
+## Latest Release (v1.1.0)
+
+- Switched to cron-based contest data ingestion
+- Backend now serves static JSON for improved reliability
+- Fixed extension cache correctness edge cases
+- No UI changes
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+GPL-3.0 License - see [LICENSE](LICENSE)
 
 ## Attribution
 
@@ -103,7 +122,7 @@ MIT License - see [LICENSE](LICENSE)
 
 ## Contact
 
-- Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/algoradar/issues)
+- Issues: [GitHub Issues](https://github.com/nilanshucodes/algoradar-extension/issues)
 - Contact: [Website](https://algo-radar.vercel.app/contact)
 
 ---
