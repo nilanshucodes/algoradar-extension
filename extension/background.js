@@ -69,9 +69,10 @@ async function fetchAndCacheContests(forceRefresh = false) {
     }
 
     const cached = await getCachedData();
-    if (cached.contests && cached.contests.length > 0) {
+    if (cached.contests) {
       return cached.contests;
     }
+
     
     return [];
   }
