@@ -23,7 +23,7 @@ async function fetchAndCacheContests(forceRefresh = false) {
       const cached = await getCachedData();
       const age = Date.now() - (cached.timestamp || 0);
       
-      if (cached.contests && cached.contests.length > 0 && age < API_CONFIG.CACHE_DURATION) {
+      if (cached.contests && age < API_CONFIG.CACHE_DURATION) {
         return cached.contests;
       }
     }
