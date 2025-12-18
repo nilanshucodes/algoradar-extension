@@ -14,8 +14,8 @@ Chrome extension to track upcoming competitive programming contests from multipl
 
 ##  Installation
 
-### From Chrome Web Store (Coming Soon)
-[Link will be added after approval]
+### From Chrome Web Store 
+[AlgoRadar](https://chromewebstore.google.com/detail/epmfbchmonbfhpmpkbpjlbdgngkilkea?utm_source=item-share-cb)
 
 ### Manual Installation (For Development)
 1. Clone this repository
