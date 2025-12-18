@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T22:51:13Z",
+  "lastUpdated": "2025-12-18T23:26:11Z",
   "count": 119,
   "contests": [
     {
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1940,
-      "parsed_at": "2025-12-18T21:26:08.307012",
+      "n_statistics": 1942,
+      "parsed_at": "2025-12-18T23:22:08.120623",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 718,
-      "parsed_at": "2025-12-18T22:07:08.216426",
+      "parsed_at": "2025-12-18T23:09:09.136672",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
