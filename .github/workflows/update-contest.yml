@@ -1,0 +1,107 @@
+name: Update Contests Data
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' #every 20mins 
+  workflow_dispatch:
+  
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-contest.yml'
+
+jobs:
+  update-contests:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Create data directory
+        run: mkdir -p data
+      
+      - name: Fetch contests from CLIST API
+        id: fetch
+        env:
+          CLIST_USERNAME: ${{ secrets.CLIST_USERNAME }}
+          CLIST_API_KEY: ${{ secrets.CLIST_API_KEY }}
+        run: |
+          echo "fetching contests from CLIST..."
+          
+          if [ -z "$CLIST_USERNAME" ] || [ -z "$CLIST_API_KEY" ]; then
+            echo "error: CLIST credentials not set in secrets!"
+            exit 1
+          fi
+          
+          HTTP_STATUS=$(curl -s -w "%{http_code}"\
+            "https://clist.by/api/v2/contest/?username=${CLIST_USERNAME}&api_key=${CLIST_API_KEY}&upcoming=true&limit=500&order_by=start" \
+            -H "Accept: application/json"\
+            -H "User-Agent: AlgoRadar-Extension/1.0"\
+            -o response.json\
+            --max-time 30)
+          
+          echo "HTTP Status: $HTTP_STATUS"
+          
+          if [ "$HTTP_STATUS" != "200" ]; then
+            echo "CLIST API error: $HTTP_STATUS"
+            echo "Response:"
+            cat response.json
+            exit 1
+          fi
+          
+          if ! jq empty response.json 2>/dev/null; then
+            echo "invalid JSON response"
+            exit 1
+          fi
+          
+          CONTESTS=$(cat response.json | jq '.objects // []')
+          COUNT=$(echo "$CONTESTS" | jq 'length')
+          UPDATED=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          
+          jq -n \
+            --arg updated "$UPDATED" \
+            --argjson count "$COUNT" \
+            --argjson contests "$CONTESTS" \
+            '{
+              lastUpdated: $updated,
+              count: $count,
+              contests: $contests
+            }'> data/contests.json
+          
+          echo "fetched $COUNT contests"
+          echo "file size: $(wc -c < data/contests.json) bytes"
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          
+          rm -f response.json
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add data/contests.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit - data is same"
+          else
+            CONTEST_COUNT=$(cat data/contests.json | jq '.count')
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            
+            git commit -m "Update contests: $CONTEST_COUNT upcoming [$TIMESTAMP]"
+            git push
+            
+            echo "Changes pushed successfully"
+          fi
+
+      - name: Summary
+        run: |
+          echo "## Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **contests fetched:** $(cat data/contests.json | jq '.count')">>$GITHUB_STEP_SUMMARY
+          echo "- **last updated:** $(cat data/contests.json | jq -r '.lastUpdated')">>$GITHUB_STEP_SUMMARY
+          echo "- **file size:** $(wc -c < data/contests.json) bytes">>$GITHUB_STEP_SUMMARY

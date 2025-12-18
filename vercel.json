@@ -6,6 +6,12 @@
       "use": "@vercel/node"
     }
   ],
+  "rewrites": [
+    {
+      "source": "/api/contests",
+      "destination": "/api/contests.js"
+    }
+  ],
   "headers": [
     {
       "source": "/api/(.*)",
@@ -24,7 +30,7 @@
         },
         {
           "key": "Cache-Control",
-          "value": "s-maxage=1200, stale-while-revalidate"
+          "value": "public, s-maxage=300, stale-while-revalidate=600"
         }
       ]
     }
