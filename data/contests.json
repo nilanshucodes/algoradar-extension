@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-19T02:07:53Z",
-  "count": 120,
+  "lastUpdated": "2025-12-19T03:41:52Z",
+  "count": 122,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1943,
-      "parsed_at": "2025-12-19T01:18:08.673459",
+      "n_statistics": 1944,
+      "parsed_at": "2025-12-19T03:14:08.778516",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 718,
-      "parsed_at": "2025-12-19T01:13:08.202893",
+      "parsed_at": "2025-12-19T03:17:09.596918",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -1143,6 +1143,21 @@
       "start": "2025-12-31T14:30:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-01-01T09:00:00",
+      "event": "GenshinOI Round 6 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/261469",
+      "id": 64124792,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-01T06:00:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-01-01T17:00:00",
       "event": "New Year's Contest 2026",
@@ -1156,6 +1171,21 @@
       "resource": "andgein.ru",
       "resource_id": 181,
       "start": "2026-01-01T12:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-02T09:30:00",
+      "event": "GenshinOI Round 7 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/261472",
+      "id": 64124791,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-02T05:30:00"
     },
     {
       "duration": 18000,
