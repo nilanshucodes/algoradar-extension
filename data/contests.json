@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T11:49:13Z",
+  "lastUpdated": "2025-12-19T13:48:55Z",
   "count": 123,
   "contests": [
     {
@@ -101,7 +101,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 195,
-      "parsed_at": "2025-12-19T01:01:09.830273",
+      "parsed_at": "2025-12-19T13:02:08.930536",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 185,
-      "parsed_at": "2025-12-19T10:59:08.398441",
+      "parsed_at": "2025-12-19T13:12:09.530723",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1958,
-      "parsed_at": "2025-12-19T10:58:09.549244",
+      "n_statistics": 1960,
+      "parsed_at": "2025-12-19T12:54:09.371031",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 723,
-      "parsed_at": "2025-12-19T11:34:08.264134",
+      "n_statistics": 726,
+      "parsed_at": "2025-12-19T13:38:08.985269",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -496,21 +496,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-19T08:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2025-12-19T13:30:00",
-      "event": "牛客练习赛147 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/125084",
-      "id": 63747357,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2025-12-19T11:00:00"
     },
     {
       "duration": 10800,
@@ -1126,6 +1111,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2025-12-28T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2025-12-29T16:35:00",
+      "event": "Educational Codeforces Round 186 (Rated for Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2182",
+      "id": 64133111,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2025-12-29T14:35:00"
     },
     {
       "duration": 11100,
