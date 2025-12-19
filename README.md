@@ -87,6 +87,12 @@ https://algoradar-extension.vercel.app/api/contests
 - **API**: CLIST API
 - **Deployment**: Vercel (backend), Chrome Web Store (extension)
 
+## Documentation
+- Architecture and design rationale:  
+  https://github.com/nilanshucodes/algoradar/wiki/Architecture-and-Design-Rationale
+- Also Checkout:
+  [Wiki](https://github.com/nilanshucodes/algoradar/wiki/)
+
 ## Contributing
 
 Contributions welcome! Please:
