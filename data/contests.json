@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-19T16:34:57Z",
-  "count": 122,
+  "lastUpdated": "2025-12-19T17:20:06Z",
+  "count": 121,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1964,
-      "parsed_at": "2025-12-19T14:50:09.893052",
+      "n_statistics": 1967,
+      "parsed_at": "2025-12-19T16:46:09.386287",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 729,
-      "parsed_at": "2025-12-19T15:42:10.189795",
+      "n_statistics": 731,
+      "parsed_at": "2025-12-19T16:44:09.687968",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -496,21 +496,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-19T08:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2025-12-19T17:05:00",
-      "event": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2180",
-      "id": 63906395,
-      "n_problems": 10,
-      "n_statistics": 16077,
-      "parsed_at": "2025-12-19T16:25:09.138499",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2025-12-19T14:35:00"
     },
     {
       "duration": 93600,
