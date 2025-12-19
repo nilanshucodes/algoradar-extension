@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T17:25:21Z",
+  "lastUpdated": "2025-12-19T17:48:21Z",
   "count": 121,
   "contests": [
     {
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 185,
-      "parsed_at": "2025-12-19T15:25:08.823063",
+      "parsed_at": "2025-12-19T17:38:08.429973",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 731,
-      "parsed_at": "2025-12-19T16:44:09.687968",
+      "n_statistics": 733,
+      "parsed_at": "2025-12-19T17:46:09.080866",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -445,8 +445,8 @@
       "href": "https://lightoj.com/contest/contest1buet222324batch",
       "id": 64030910,
       "n_problems": 6,
-      "n_statistics": 9,
-      "parsed_at": "2025-12-19T14:05:10.293851",
+      "n_statistics": 10,
+      "parsed_at": "2025-12-19T17:26:08.188959",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
