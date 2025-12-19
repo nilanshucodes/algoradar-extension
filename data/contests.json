@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-19T09:52:39Z",
-  "count": 123,
+  "lastUpdated": "2025-12-19T10:30:01Z",
+  "count": 124,
   "contests": [
     {
       "duration": 189388800,
@@ -1110,6 +1110,21 @@
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
+      "start": "2025-12-28T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2025-12-28T13:00:00",
+      "event": "牛客周赛 Round 124 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/126120",
+      "id": 64130864,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
       "start": "2025-12-28T11:00:00"
     },
     {
