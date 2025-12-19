@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-19T04:38:17Z",
-  "count": 122,
+  "lastUpdated": "2025-12-19T04:59:46Z",
+  "count": 123,
   "contests": [
     {
       "duration": 189388800,
@@ -811,6 +811,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2025-12-21T15:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2025-12-22T15:30:00",
+      "event": "Monday Munch - DSA Challenge 17",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY17",
+      "id": 64126047,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2025-12-22T12:30:00"
     },
     {
       "duration": 9000,
