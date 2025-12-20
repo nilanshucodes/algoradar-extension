@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T14:24:08Z",
+  "lastUpdated": "2025-12-20T14:48:43Z",
   "count": 118,
   "contests": [
     {
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 742,
-      "parsed_at": "2025-12-20T13:27:09.540711",
+      "n_statistics": 743,
+      "parsed_at": "2025-12-20T14:29:08.893771",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -551,7 +551,7 @@
       "id": 62296541,
       "n_problems": 7,
       "n_statistics": 25,
-      "parsed_at": "2025-12-20T14:21:48.546338",
+      "parsed_at": "2025-12-20T14:47:10.567979",
       "problems": null,
       "resource": "facebook.com/hackercup",
       "resource_id": 29,
