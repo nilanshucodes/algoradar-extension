@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-20T16:52:16Z",
-  "count": 118,
+  "lastUpdated": "2025-12-20T17:21:29Z",
+  "count": 117,
   "contests": [
     {
       "duration": 189388800,
@@ -468,21 +468,6 @@
       "start": "2025-12-19T08:00:00"
     },
     {
-      "duration": 93600,
-      "end": "2025-12-20T17:00:00",
-      "event": "DatsJingleBang",
-      "host": "datsteam.dev",
-      "href": "https://gamethon.datsteam.dev/datsjinglebang",
-      "id": 63918488,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "datsteam.dev",
-      "resource_id": 174,
-      "start": "2025-12-19T15:00:00"
-    },
-    {
       "duration": 172800,
       "end": "2025-12-21T18:30:00",
       "event": "Weekend Dev Challenge 29: SQL Projects",
@@ -490,8 +475,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND29",
       "id": 64063537,
       "n_problems": 6,
-      "n_statistics": 126,
-      "parsed_at": "2025-12-20T13:47:09.091254",
+      "n_statistics": 167,
+      "parsed_at": "2025-12-20T17:00:12.216491",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -551,7 +536,7 @@
       "id": 62296541,
       "n_problems": 7,
       "n_statistics": 25,
-      "parsed_at": "2025-12-20T16:51:24.340267",
+      "parsed_at": "2025-12-20T17:19:07.707631",
       "problems": null,
       "resource": "facebook.com/hackercup",
       "resource_id": 29,
