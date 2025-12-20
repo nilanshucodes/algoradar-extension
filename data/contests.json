@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-20T09:48:06Z",
-  "count": 119,
+  "lastUpdated": "2025-12-20T10:34:24Z",
+  "count": 118,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1984,
-      "parsed_at": "2025-12-20T08:14:08.299819",
+      "n_statistics": 1987,
+      "parsed_at": "2025-12-20T10:10:09.158248",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 738,
-      "parsed_at": "2025-12-20T09:18:09.569474",
+      "n_statistics": 739,
+      "parsed_at": "2025-12-20T10:20:09.651552",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -490,8 +490,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND29",
       "id": 64063537,
       "n_problems": 6,
-      "n_statistics": 68,
-      "parsed_at": "2025-12-20T07:21:09.398821",
+      "n_statistics": 96,
+      "parsed_at": "2025-12-20T10:34:08.600623",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -525,21 +525,6 @@
       "problems": null,
       "resource": "ucup.ac",
       "resource_id": 139,
-      "start": "2025-12-20T05:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-20T10:00:00",
-      "event": "[CCPC 2024 哈尔滨站] CCPC 2024 分站赛哈尔滨站重现赛 [rated, icpc]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/298025",
-      "id": 64032538,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
       "start": "2025-12-20T05:00:00"
     },
     {
