@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T14:48:43Z",
+  "lastUpdated": "2025-12-20T15:25:11Z",
   "count": 118,
   "contests": [
     {
@@ -551,7 +551,7 @@
       "id": 62296541,
       "n_problems": 7,
       "n_statistics": 25,
-      "parsed_at": "2025-12-20T14:47:10.567979",
+      "parsed_at": "2025-12-20T15:24:05.038839",
       "problems": null,
       "resource": "facebook.com/hackercup",
       "resource_id": 29,
@@ -564,9 +564,9 @@
       "host": "leetcode.com",
       "href": "https://leetcode.com/contest/biweekly-contest-172",
       "id": 63698397,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 5072,
+      "parsed_at": "2025-12-20T15:07:09.099149",
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
