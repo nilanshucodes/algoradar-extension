@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-20T13:31:43Z",
-  "count": 119,
+  "lastUpdated": "2025-12-20T13:49:10Z",
+  "count": 118,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 186,
-      "parsed_at": "2025-12-20T11:22:08.689263",
+      "parsed_at": "2025-12-20T13:35:10.254462",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -490,8 +490,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND29",
       "id": 64063537,
       "n_problems": 6,
-      "n_statistics": 96,
-      "parsed_at": "2025-12-20T10:34:08.600623",
+      "n_statistics": 126,
+      "parsed_at": "2025-12-20T13:47:09.091254",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -541,21 +541,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-20T07:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2025-12-20T13:40:00",
-      "event": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc437",
-      "id": 63417089,
-      "n_problems": 7,
-      "n_statistics": 10984,
-      "parsed_at": "2025-12-20T13:24:09.434628",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2025-12-20T12:00:00"
     },
     {
       "duration": 14400,
