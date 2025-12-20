@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T23:24:14Z",
+  "lastUpdated": "2025-12-20T23:47:59Z",
   "count": 113,
   "contests": [
     {
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 2007,
-      "parsed_at": "2025-12-20T21:46:08.890974",
+      "n_statistics": 2010,
+      "parsed_at": "2025-12-20T23:42:08.421398",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -475,8 +475,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND29",
       "id": 64063537,
       "n_problems": 6,
-      "n_statistics": 182,
-      "parsed_at": "2025-12-20T20:13:08.201613",
+      "n_statistics": 186,
+      "parsed_at": "2025-12-20T23:26:07.470213",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
