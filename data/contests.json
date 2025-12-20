@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-20T22:48:44Z",
-  "count": 114,
+  "lastUpdated": "2025-12-20T23:24:14Z",
+  "count": 113,
   "contests": [
     {
       "duration": 189388800,
@@ -496,21 +496,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-20T00:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-20T23:00:00",
-      "event": "The 4th Universal Cup. Extra Stage 3: Osijek",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890745,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2025-12-20T05:00:00"
     },
     {
       "duration": 86400,
