@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T13:49:10Z",
+  "lastUpdated": "2025-12-20T14:24:08Z",
   "count": 118,
   "contests": [
     {
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1988,
-      "parsed_at": "2025-12-20T12:06:09.532546",
+      "n_statistics": 1993,
+      "parsed_at": "2025-12-20T14:02:08.192502",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -549,9 +549,9 @@
       "host": "facebook.com/hackercup",
       "href": "https://facebook.com/codingcompetitions/hacker-cup/2025/final-round",
       "id": 62296541,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 7,
+      "n_statistics": 25,
+      "parsed_at": "2025-12-20T14:21:48.546338",
       "problems": null,
       "resource": "facebook.com/hackercup",
       "resource_id": 29,
