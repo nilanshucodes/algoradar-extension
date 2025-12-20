@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-20T17:48:29Z",
-  "count": 117,
+  "lastUpdated": "2025-12-20T18:34:06Z",
+  "count": 116,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 186,
-      "parsed_at": "2025-12-20T15:48:09.776237",
+      "parsed_at": "2025-12-20T18:01:08.718857",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1995,
-      "parsed_at": "2025-12-20T15:58:08.744792",
+      "n_statistics": 1998,
+      "parsed_at": "2025-12-20T17:54:09.237813",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -526,21 +526,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-20T07:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2025-12-20T18:00:00",
-      "event": "Final Round 2025",
-      "host": "facebook.com/hackercup",
-      "href": "https://facebook.com/codingcompetitions/hacker-cup/2025/final-round",
-      "id": 62296541,
-      "n_problems": 7,
-      "n_statistics": 25,
-      "parsed_at": "2025-12-20T17:46:51.508350",
-      "problems": null,
-      "resource": "facebook.com/hackercup",
-      "resource_id": 29,
-      "start": "2025-12-20T14:00:00"
     },
     {
       "duration": 10800,
