@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T15:48:33Z",
+  "lastUpdated": "2025-12-20T16:31:34Z",
   "count": 118,
   "contests": [
     {
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 1993,
-      "parsed_at": "2025-12-20T14:02:08.192502",
+      "n_statistics": 1995,
+      "parsed_at": "2025-12-20T15:58:08.744792",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -551,26 +551,11 @@
       "id": 62296541,
       "n_problems": 7,
       "n_statistics": 25,
-      "parsed_at": "2025-12-20T15:46:43.971749",
+      "parsed_at": "2025-12-20T16:30:37.781704",
       "problems": null,
       "resource": "facebook.com/hackercup",
       "resource_id": 29,
       "start": "2025-12-20T14:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2025-12-20T16:00:00",
-      "event": "Biweekly Contest 172",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/biweekly-contest-172",
-      "id": 63698397,
-      "n_problems": 4,
-      "n_statistics": 4075,
-      "parsed_at": "2025-12-20T15:26:08.757161",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2025-12-20T14:30:00"
     },
     {
       "duration": 10800,
@@ -706,6 +691,21 @@
       "resource": "kep.uz",
       "resource_id": 146,
       "start": "2025-12-21T15:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2025-12-22T17:00:00",
+      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 1",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/87581/enter/?retPage=",
+      "id": 64158152,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2025-12-22T12:00:00"
     },
     {
       "duration": 10800,
