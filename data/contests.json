@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-20T18:52:25Z",
-  "count": 116,
+  "lastUpdated": "2025-12-20T19:20:52Z",
+  "count": 115,
   "contests": [
     {
       "duration": 189388800,
@@ -541,21 +541,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-20T17:00:00"
-    },
-    {
-      "duration": 0,
-      "end": "2025-12-20T19:00:00",
-      "event": "Problem 975",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 63156424,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2025-12-20T19:00:00"
     },
     {
       "duration": 5400,
