@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T17:21:29Z",
+  "lastUpdated": "2025-12-20T17:48:29Z",
   "count": 117,
   "contests": [
     {
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 750,
-      "parsed_at": "2025-12-20T16:33:13.677893",
+      "parsed_at": "2025-12-20T17:36:09.036043",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -536,7 +536,7 @@
       "id": 62296541,
       "n_problems": 7,
       "n_statistics": 25,
-      "parsed_at": "2025-12-20T17:19:07.707631",
+      "parsed_at": "2025-12-20T17:46:51.508350",
       "problems": null,
       "resource": "facebook.com/hackercup",
       "resource_id": 29,
