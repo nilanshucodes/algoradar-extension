@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-21T09:48:25Z",
-  "count": 111,
+  "lastUpdated": "2025-12-21T10:27:10Z",
+  "count": 110,
   "contests": [
     {
       "duration": 189388800,
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 756,
-      "parsed_at": "2025-12-21T09:07:08.877875",
+      "n_statistics": 757,
+      "parsed_at": "2025-12-21T10:09:09.865820",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -495,21 +495,6 @@
       "problems": null,
       "resource": "dl.gsu.by",
       "resource_id": 4,
-      "start": "2025-12-21T06:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2025-12-21T10:00:00",
-      "event": "【LGR-255-Div.2】洛谷 12 月月赛 I &「菜菜杯」Round 1 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/276342",
-      "id": 63874191,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
       "start": "2025-12-21T06:00:00"
     },
     {
