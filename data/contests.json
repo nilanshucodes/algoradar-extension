@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T22:49:50Z",
+  "lastUpdated": "2025-12-21T23:24:36Z",
   "count": 106,
   "contests": [
     {
@@ -355,8 +355,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 186,
-      "parsed_at": "2025-12-21T20:37:09.177601",
+      "n_statistics": 187,
+      "parsed_at": "2025-12-21T22:50:07.964283",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 2029,
-      "parsed_at": "2025-12-21T20:58:08.443557",
+      "n_statistics": 2030,
+      "parsed_at": "2025-12-21T22:54:09.095822",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
