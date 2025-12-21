@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T13:32:39Z",
+  "lastUpdated": "2025-12-21T13:50:16Z",
   "count": 109,
   "contests": [
     {
@@ -490,8 +490,8 @@
       "href": "https://atcoder.jp/contests/agc075",
       "id": 63270513,
       "n_problems": 5,
-      "n_statistics": 673,
-      "parsed_at": "2025-12-21T13:29:09.670998",
+      "n_statistics": 692,
+      "parsed_at": "2025-12-21T13:42:09.441899",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
