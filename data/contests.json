@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-21T16:52:50Z",
-  "count": 109,
+  "lastUpdated": "2025-12-21T17:22:49Z",
+  "count": 108,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 2020,
-      "parsed_at": "2025-12-21T15:10:09.370904",
+      "n_statistics": 2023,
+      "parsed_at": "2025-12-21T17:06:08.939564",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -481,21 +481,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-20T00:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2025-12-21T17:00:00",
-      "event": "Weekend Practice #15",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/8oa8tul6ip5678mhp3g6pcq4qs",
-      "id": 64044119,
-      "n_problems": 5,
-      "n_statistics": 111,
-      "parsed_at": "2025-12-21T16:47:08.148567",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2025-12-21T15:00:00"
     },
     {
       "duration": 10800,
@@ -874,7 +859,7 @@
     },
     {
       "duration": 10800,
-      "end": "2025-12-28T17:35:00",
+      "end": "2025-12-28T18:35:00",
       "event": "Repovive Goodbye 2025 Round",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
@@ -885,7 +870,7 @@
       "problems": null,
       "resource": "repovive.com",
       "resource_id": 180,
-      "start": "2025-12-28T14:35:00"
+      "start": "2025-12-28T15:35:00"
     },
     {
       "duration": 7200,
