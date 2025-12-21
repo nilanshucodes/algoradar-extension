@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-21T06:57:48Z",
-  "count": 113,
+  "lastUpdated": "2025-12-21T07:27:17Z",
+  "count": 112,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 186,
-      "parsed_at": "2025-12-21T05:06:09.388146",
+      "parsed_at": "2025-12-21T07:19:08.444912",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -386,7 +386,7 @@
       "id": 63685169,
       "n_problems": 21,
       "n_statistics": 2011,
-      "parsed_at": "2025-12-21T05:30:10.462607",
+      "parsed_at": "2025-12-21T07:26:08.473910",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 754,
-      "parsed_at": "2025-12-21T06:00:11.374327",
+      "parsed_at": "2025-12-21T07:03:09.007274",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -496,21 +496,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-20T00:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2025-12-21T07:00:00",
-      "event": "TSG CTF 2025",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/2867/",
-      "id": 61183188,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2025-12-20T07:00:00"
     },
     {
       "duration": 18000,
