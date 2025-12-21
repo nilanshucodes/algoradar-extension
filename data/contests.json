@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T19:48:25Z",
+  "lastUpdated": "2025-12-21T20:28:33Z",
   "count": 106,
   "contests": [
     {
@@ -558,21 +558,6 @@
       "start": "2025-12-24T15:30:00"
     },
     {
-      "duration": 2400,
-      "end": "2025-12-25T14:10:00",
-      "event": "Tough Dash, December 2025",
-      "host": "toph.co",
-      "href": "https://toph.co/c/tough-dash-december-2025",
-      "id": 62772585,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2025-12-25T13:30:00"
-    },
-    {
       "duration": 7200,
       "end": "2025-12-25T17:01:00",
       "event": "Weekly Contest 210",
@@ -856,6 +841,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2025-12-29T14:35:00"
+    },
+    {
+      "duration": 2400,
+      "end": "2025-12-31T03:10:00",
+      "event": "Tough Dash, December 2025",
+      "host": "toph.co",
+      "href": "https://toph.co/c/tough-dash-december-2025",
+      "id": 62772585,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2025-12-31T02:30:00"
     },
     {
       "duration": 18000,
