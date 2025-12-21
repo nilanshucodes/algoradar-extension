@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T05:27:31Z",
+  "lastUpdated": "2025-12-21T05:50:26Z",
   "count": 113,
   "contests": [
     {
@@ -386,7 +386,7 @@
       "id": 63685169,
       "n_problems": 21,
       "n_statistics": 2011,
-      "parsed_at": "2025-12-21T03:34:09.689555",
+      "parsed_at": "2025-12-21T05:30:10.462607",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
