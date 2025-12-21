@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T17:22:49Z",
+  "lastUpdated": "2025-12-21T17:47:49Z",
   "count": 108,
   "contests": [
     {
@@ -168,8 +168,8 @@
       "start": "2025-10-28T20:02:37"
     },
     {
-      "duration": 3851940,
-      "end": "2025-12-21T20:59:00",
+      "duration": 4456740,
+      "end": "2025-12-28T20:59:00",
       "event": "Love to solve [design]. Math",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1490",
@@ -183,8 +183,8 @@
       "start": "2025-11-07T07:00:00"
     },
     {
-      "duration": 3851940,
-      "end": "2025-12-21T20:59:00",
+      "duration": 4456740,
+      "end": "2025-12-28T20:59:00",
       "event": "Love to solve [design]. Physics",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1491",
@@ -198,8 +198,8 @@
       "start": "2025-11-07T07:00:00"
     },
     {
-      "duration": 3851940,
-      "end": "2025-12-21T20:59:00",
+      "duration": 4456740,
+      "end": "2025-12-28T20:59:00",
       "event": "Love to solve [design]. Computer science",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1492",
@@ -213,8 +213,8 @@
       "start": "2025-11-07T07:00:00"
     },
     {
-      "duration": 3851940,
-      "end": "2025-12-21T20:59:00",
+      "duration": 4456740,
+      "end": "2025-12-28T20:59:00",
       "event": "Love to solve [design]. Biology",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1493",
@@ -228,8 +228,8 @@
       "start": "2025-11-07T07:00:00"
     },
     {
-      "duration": 3851940,
-      "end": "2025-12-21T20:59:00",
+      "duration": 4456740,
+      "end": "2025-12-28T20:59:00",
       "event": "Love to solve [design]. Astronomy",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1494",
@@ -243,8 +243,8 @@
       "start": "2025-11-07T07:00:00"
     },
     {
-      "duration": 3851940,
-      "end": "2025-12-21T20:59:00",
+      "duration": 4456740,
+      "end": "2025-12-28T20:59:00",
       "event": "Love to solve [design]. Chemistry",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1495",
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 775,
-      "parsed_at": "2025-12-21T16:22:08.041394",
+      "n_statistics": 776,
+      "parsed_at": "2025-12-21T17:24:08.958932",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
