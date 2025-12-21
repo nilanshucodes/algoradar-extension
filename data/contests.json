@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T03:51:05Z",
+  "lastUpdated": "2025-12-21T04:41:00Z",
   "count": 113,
   "contests": [
     {
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 754,
-      "parsed_at": "2025-12-21T02:54:09.353488",
+      "parsed_at": "2025-12-21T03:56:08.752617",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -511,21 +511,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-20T07:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2025-12-21T04:00:00",
-      "event": "Weekly Contest 481",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-481",
-      "id": 63911271,
-      "n_problems": 4,
-      "n_statistics": 20236,
-      "parsed_at": "2025-12-21T03:26:09.592176",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2025-12-21T02:30:00"
     },
     {
       "duration": 18000,
@@ -961,6 +946,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2025-12-28T12:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2025-12-28T17:35:00",
+      "event": "Repovive Goodbye 2025 Round",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 64169164,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2025-12-28T14:35:00"
     },
     {
       "duration": 7200,
