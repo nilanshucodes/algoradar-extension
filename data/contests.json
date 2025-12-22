@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-21T23:48:36Z",
-  "count": 106,
+  "lastUpdated": "2025-12-22T02:19:34Z",
+  "count": 105,
   "contests": [
     {
       "duration": 189388800,
@@ -101,7 +101,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 196,
-      "parsed_at": "2025-12-21T13:06:09.142959",
+      "parsed_at": "2025-12-22T01:07:08.730887",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 187,
-      "parsed_at": "2025-12-21T22:50:07.964283",
+      "parsed_at": "2025-12-22T01:03:08.479635",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 2030,
-      "parsed_at": "2025-12-21T22:54:09.095822",
+      "n_statistics": 2032,
+      "parsed_at": "2025-12-22T00:50:08.626722",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 779,
-      "parsed_at": "2025-12-21T23:37:08.380900",
+      "parsed_at": "2025-12-22T01:43:07.971024",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -451,21 +451,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2025-12-18T05:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2025-12-22T00:00:00",
-      "event": "0CTF 2025",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/2997/",
-      "id": 63222029,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2025-12-20T00:00:00"
     },
     {
       "duration": 18000,
