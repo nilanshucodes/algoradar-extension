@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T19:47:49Z",
+  "lastUpdated": "2025-12-22T20:30:27Z",
   "count": 105,
   "contests": [
     {
@@ -386,7 +386,7 @@
       "id": 63685169,
       "n_problems": 21,
       "n_statistics": 2053,
-      "parsed_at": "2025-12-22T18:14:07.999259",
+      "parsed_at": "2025-12-22T20:10:08.010686",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 803,
-      "parsed_at": "2025-12-22T19:18:08.805429",
+      "n_statistics": 807,
+      "parsed_at": "2025-12-22T20:20:08.658908",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
