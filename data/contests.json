@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T02:19:34Z",
+  "lastUpdated": "2025-12-22T03:52:26Z",
   "count": 105,
   "contests": [
     {
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 187,
-      "parsed_at": "2025-12-22T01:03:08.479635",
+      "parsed_at": "2025-12-22T03:16:09.095535",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -386,7 +386,7 @@
       "id": 63685169,
       "n_problems": 21,
       "n_statistics": 2032,
-      "parsed_at": "2025-12-22T00:50:08.626722",
+      "parsed_at": "2025-12-22T02:46:08.662448",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 779,
-      "parsed_at": "2025-12-22T01:43:07.971024",
+      "parsed_at": "2025-12-22T03:47:08.608674",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
