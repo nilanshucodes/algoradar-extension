@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-22T21:48:51Z",
-  "count": 105,
+  "lastUpdated": "2025-12-22T22:27:04Z",
+  "count": 106,
   "contests": [
     {
       "duration": 189388800,
@@ -386,7 +386,7 @@
       "id": 63685169,
       "n_problems": 21,
       "n_statistics": 2053,
-      "parsed_at": "2025-12-22T20:10:08.010686",
+      "parsed_at": "2025-12-22T22:06:07.272539",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 928,
-      "parsed_at": "2025-12-22T21:22:07.519151",
+      "parsed_at": "2025-12-22T22:24:07.754832",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -586,6 +586,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2025-12-26T11:00:00"
+    },
+    {
+      "duration": 5100,
+      "end": "2025-12-26T16:35:00",
+      "event": "Community Code Cup [sport_coding]. Speed Cup 9",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1664",
+      "id": 64207189,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2025-12-26T15:10:00"
     },
     {
       "duration": 18000,
