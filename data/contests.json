@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-22T10:32:59Z",
-  "count": 105,
+  "lastUpdated": "2025-12-22T10:53:28Z",
+  "count": 106,
   "contests": [
     {
       "duration": 189388800,
@@ -1051,6 +1051,21 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-01-10T05:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-10T10:00:00",
+      "event": "AtCoder Heuristic Contest 059",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/ahc059",
+      "id": 64197006,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-01-10T06:00:00"
     },
     {
       "duration": 6000,
