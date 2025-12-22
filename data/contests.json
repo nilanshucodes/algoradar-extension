@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T06:44:23Z",
+  "lastUpdated": "2025-12-22T07:29:48Z",
   "count": 105,
   "contests": [
     {
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 779,
-      "parsed_at": "2025-12-22T05:51:08.272319",
+      "n_statistics": 780,
+      "parsed_at": "2025-12-22T06:53:08.541733",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -905,9 +905,9 @@
     {
       "duration": 18000,
       "end": "2026-01-01T17:00:00",
-      "event": "New Year's Contest 2026",
+      "event": "New Year Contest 2026",
       "host": "andgein.ru",
-      "href": "https://2026.andgein.ru",
+      "href": "https://2026.andgein.ru/?lang=en",
       "id": 63908317,
       "n_problems": null,
       "n_statistics": null,
