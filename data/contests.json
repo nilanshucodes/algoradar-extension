@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-22T16:56:25Z",
-  "count": 105,
+  "lastUpdated": "2025-12-22T17:26:34Z",
+  "count": 104,
   "contests": [
     {
       "duration": 189388800,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 799,
-      "parsed_at": "2025-12-22T16:12:08.585783",
+      "parsed_at": "2025-12-22T17:14:09.261933",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -451,21 +451,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2025-12-18T05:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-22T17:00:00",
-      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 1",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/87581/enter/?retPage=",
-      "id": 64158152,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2025-12-22T12:00:00"
     },
     {
       "duration": 9000,
