@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-23T02:08:44Z",
-  "count": 106,
+  "lastUpdated": "2025-12-23T03:45:21Z",
+  "count": 107,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 189,
-      "parsed_at": "2025-12-23T01:26:07.518057",
+      "parsed_at": "2025-12-23T03:39:08.199900",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 928,
-      "parsed_at": "2025-12-23T01:30:09.140323",
+      "parsed_at": "2025-12-23T03:34:08.355475",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -1006,6 +1006,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-01-04T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-04T13:00:00",
+      "event": "牛客周赛 Round 125 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/126319",
+      "id": 64211745,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-01-04T11:00:00"
     },
     {
       "duration": 259200,
