@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T14:53:55Z",
+  "lastUpdated": "2025-12-23T15:29:51Z",
   "count": 110,
   "contests": [
     {
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 816,
-      "parsed_at": "2025-12-23T13:54:08.174958",
+      "n_statistics": 818,
+      "parsed_at": "2025-12-23T14:56:08.545689",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -474,9 +474,9 @@
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2179",
       "id": 63828955,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 8,
+      "n_statistics": 21607,
+      "parsed_at": "2025-12-23T15:21:09.296480",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
