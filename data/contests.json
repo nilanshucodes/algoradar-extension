@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-23T08:59:54Z",
-  "count": 108,
+  "lastUpdated": "2025-12-23T09:36:04Z",
+  "count": 109,
   "contests": [
     {
       "duration": 189388800,
@@ -1006,6 +1006,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-01-03T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-01-04T04:00:00",
+      "event": "Weekly Contest 483",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-483",
+      "id": 64217225,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-01-04T02:30:00"
     },
     {
       "duration": 18000,
