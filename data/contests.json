@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-23T16:57:24Z",
-  "count": 110,
+  "lastUpdated": "2025-12-23T17:29:28Z",
+  "count": 109,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 2065,
-      "parsed_at": "2025-12-23T15:30:13.145054",
+      "n_statistics": 2066,
+      "parsed_at": "2025-12-23T17:26:08.856289",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 820,
-      "parsed_at": "2025-12-23T15:58:09.347576",
+      "parsed_at": "2025-12-23T17:00:10.025713",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -453,36 +453,6 @@
       "start": "2025-12-18T05:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2025-12-23T17:00:00",
-      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 2",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/87637/enter/?retPage=",
-      "id": 64204234,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2025-12-23T12:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2025-12-23T17:15:00",
-      "event": "Codeforces Round 1071 (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2179",
-      "id": 63828955,
-      "n_problems": 8,
-      "n_statistics": 25543,
-      "parsed_at": "2025-12-23T16:42:08.849201",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2025-12-23T14:45:00"
-    },
-    {
       "duration": 14400,
       "end": "2025-12-24T14:00:00",
       "event": "Xmas Contest 2025",
@@ -526,6 +496,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2025-12-24T15:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2025-12-25T17:00:00",
+      "event": "Replay of DIU Take-OFF Programming Contest Fall-25 [Final]",
+      "host": "toph.co",
+      "href": "https://toph.co/c/diu-take-off-fall-25-final-r",
+      "id": 64224237,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2025-12-25T13:00:00"
     },
     {
       "duration": 7200,
