@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-24T11:48:37Z",
-  "count": 112,
+  "lastUpdated": "2025-12-24T12:55:43Z",
+  "count": 110,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 192,
-      "parsed_at": "2025-12-24T10:41:06.836971",
+      "parsed_at": "2025-12-24T12:54:07.962373",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
       "id": 63685169,
       "n_problems": 21,
-      "n_statistics": 2073,
-      "parsed_at": "2025-12-24T10:50:07.285558",
+      "n_statistics": 2078,
+      "parsed_at": "2025-12-24T12:46:07.894763",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 830,
-      "parsed_at": "2025-12-24T11:39:08.029998",
+      "parsed_at": "2025-12-24T12:41:07.235709",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -423,21 +423,6 @@
       "start": "2025-12-16T19:57:18"
     },
     {
-      "duration": 604800,
-      "end": "2025-12-24T12:00:00",
-      "event": "The 2025 Universal Cup Online Challenge sponsored by Huawei",
-      "host": "challenge.ucup.ac",
-      "href": "https://challenge.ucup.ac/contest/69391cc3f6f073c6e7628ba5",
-      "id": 64001481,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "challenge.ucup.ac",
-      "resource_id": 183,
-      "start": "2025-12-17T12:00:00"
-    },
-    {
       "duration": 10800,
       "end": "2025-12-25T05:00:00",
       "event": "An Advanced Algorithmic Assessment 1. Rated",
@@ -451,21 +436,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2025-12-18T05:00:00"
-    },
-    {
-      "duration": 518400,
-      "end": "2025-12-28T07:00:00",
-      "event": "VK RecSys Challenge LSVD. VK RecSys Challenge LSVD",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1665",
-      "id": 64237429,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2025-12-22T07:00:00"
     },
     {
       "duration": 14400,
