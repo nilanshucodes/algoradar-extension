@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T14:51:52Z",
+  "lastUpdated": "2025-12-24T15:28:10Z",
   "count": 109,
   "contests": [
     {
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 192,
-      "parsed_at": "2025-12-24T12:54:07.962373",
+      "parsed_at": "2025-12-24T15:07:08.151353",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -440,13 +440,13 @@
     {
       "duration": 7200,
       "end": "2025-12-24T16:30:00",
-      "event": "Starters 218",
+      "event": "Starters 218 (Rated till 5 stars)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START218",
       "id": 63058262,
       "n_problems": 8,
-      "n_statistics": 7654,
-      "parsed_at": "2025-12-24T14:38:08.191648",
+      "n_statistics": 17555,
+      "parsed_at": "2025-12-24T15:15:09.139239",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
