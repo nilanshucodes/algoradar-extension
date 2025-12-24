@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-24T08:59:21Z",
-  "count": 111,
+  "lastUpdated": "2025-12-24T09:34:08Z",
+  "count": 112,
   "contests": [
     {
       "duration": 189388800,
@@ -631,6 +631,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2025-12-26T18:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2025-12-27T09:30:00",
+      "event": "ICPC Kanpur 2025 Onsite - Replay Round",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/ICPCKANRP25",
+      "id": 64238549,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2025-12-27T04:30:00"
     },
     {
       "duration": 18000,
