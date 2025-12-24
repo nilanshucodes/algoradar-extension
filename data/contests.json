@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-24T13:53:39Z",
-  "count": 110,
+  "lastUpdated": "2025-12-24T14:26:32Z",
+  "count": 109,
   "contests": [
     {
       "duration": 189388800,
@@ -436,21 +436,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2025-12-18T05:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2025-12-24T14:00:00",
-      "event": "Xmas Contest 2025",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/xmascon25",
-      "id": 64108472,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2025-12-24T10:00:00"
     },
     {
       "duration": 7200,
