@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T06:43:37Z",
+  "lastUpdated": "2025-12-24T07:29:28Z",
   "count": 110,
   "contests": [
     {
@@ -386,7 +386,7 @@
       "id": 63685169,
       "n_problems": 21,
       "n_statistics": 2072,
-      "parsed_at": "2025-12-24T05:02:08.163769",
+      "parsed_at": "2025-12-24T06:58:08.126757",
       "problems": null,
       "resource": "coderun.yandex.ru",
       "resource_id": 163,
@@ -470,7 +470,7 @@
     {
       "duration": 7200,
       "end": "2025-12-24T16:30:00",
-      "event": "Starters 218",
+      "event": "Starters 218 (Rated till 5 stars)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START218",
       "id": 63058262,
