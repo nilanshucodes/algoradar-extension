@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-24T07:51:19Z",
-  "count": 110,
+  "lastUpdated": "2025-12-24T08:37:44Z",
+  "count": 111,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 192,
-      "parsed_at": "2025-12-24T06:15:09.196782",
+      "parsed_at": "2025-12-24T08:28:07.621199",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -400,8 +400,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 825,
-      "parsed_at": "2025-12-24T07:30:09.976739",
+      "n_statistics": 827,
+      "parsed_at": "2025-12-24T08:33:08.312285",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -451,6 +451,21 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2025-12-18T05:00:00"
+    },
+    {
+      "duration": 518400,
+      "end": "2025-12-28T07:00:00",
+      "event": "VK RecSys Challenge LSVD. VK RecSys Challenge LSVD",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1665",
+      "id": 64237429,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2025-12-22T07:00:00"
     },
     {
       "duration": 14400,
