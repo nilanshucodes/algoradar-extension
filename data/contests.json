@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T11:48:34Z",
-  "count": 106,
+  "lastUpdated": "2025-12-25T12:55:25Z",
+  "count": 107,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1607,
-      "parsed_at": "2025-12-25T11:27:07.806230",
+      "n_statistics": 1611,
+      "parsed_at": "2025-12-25T12:29:08.140038",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -991,6 +991,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-01-04T11:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-07T17:35:00",
+      "event": "Hello 2026",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2183",
+      "id": 64261958,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-01-07T14:35:00"
     },
     {
       "duration": 5400,
