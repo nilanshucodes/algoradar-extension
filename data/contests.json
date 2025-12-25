@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T17:48:50Z",
-  "count": 105,
+  "lastUpdated": "2025-12-25T18:37:47Z",
+  "count": 106,
   "contests": [
     {
       "duration": 189388800,
@@ -451,6 +451,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2025-12-26T11:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2025-12-26T17:00:00",
+      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 4",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/87779/enter/?retPage=",
+      "id": 64266844,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2025-12-26T12:00:00"
     },
     {
       "duration": 5100,
