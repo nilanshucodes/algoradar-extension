@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T04:42:01Z",
-  "count": 108,
+  "lastUpdated": "2025-12-25T05:30:41Z",
+  "count": 107,
   "contests": [
     {
       "duration": 189388800,
@@ -401,7 +401,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 835,
-      "parsed_at": "2025-12-25T04:12:10.613816",
+      "parsed_at": "2025-12-25T05:15:08.582222",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -421,21 +421,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-16T19:57:18"
-    },
-    {
-      "duration": 10800,
-      "end": "2025-12-25T05:00:00",
-      "event": "An Advanced Algorithmic Assessment 1. Rated",
-      "host": "dmoj.ca",
-      "href": "https://dmoj.ca/contest/aaaa1",
-      "id": 63860060,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dmoj.ca",
-      "resource_id": 77,
-      "start": "2025-12-18T05:00:00"
     },
     {
       "duration": 18000,
