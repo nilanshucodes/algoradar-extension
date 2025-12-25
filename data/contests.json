@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T16:55:26Z",
-  "count": 107,
+  "lastUpdated": "2025-12-25T17:24:41Z",
+  "count": 105,
   "contests": [
     {
       "duration": 189388800,
@@ -408,51 +408,6 @@
       "start": "2025-12-16T19:57:18"
     },
     {
-      "duration": 18000,
-      "end": "2025-12-25T17:00:00",
-      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 3",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/87711/enter/?retPage=",
-      "id": 64228166,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2025-12-25T12:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2025-12-25T17:00:00",
-      "event": "Replay of DIU Take-OFF Programming Contest Fall-25 [Final]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/diu-take-off-fall-25-final-r",
-      "id": 64224237,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2025-12-25T13:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2025-12-25T17:01:00",
-      "event": "Weekly Contest 210",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-210",
-      "id": 64115671,
-      "n_problems": null,
-      "n_statistics": 177,
-      "parsed_at": "2025-12-25T16:48:08.105489",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2025-12-25T15:01:00"
-    },
-    {
       "duration": 1382400,
       "end": "2026-01-11T11:00:00",
       "event": "ICPC 2025 Online Winter Challenge powered by Huawei",
@@ -856,6 +811,21 @@
       "resource": "andgein.ru",
       "resource_id": 181,
       "start": "2026-01-01T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-01T17:01:00",
+      "event": "Weekly Contest 211",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-211",
+      "id": 64265940,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-01-01T15:01:00"
     },
     {
       "duration": 14400,
