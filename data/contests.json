@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T10:52:41Z",
-  "count": 107,
+  "lastUpdated": "2025-12-25T11:23:36Z",
+  "count": 106,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 192,
-      "parsed_at": "2025-12-25T08:51:07.925092",
+      "parsed_at": "2025-12-25T11:04:07.207757",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -376,21 +376,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-01T00:00:06"
-    },
-    {
-      "duration": 2073600,
-      "end": "2025-12-25T11:00:00",
-      "event": "CodeRun Winter Challenge",
-      "host": "coderun.yandex.ru",
-      "href": "https://coderun.yandex.ru/seasons/2025-winter/tracks/common/",
-      "id": 63685169,
-      "n_problems": 21,
-      "n_statistics": 2090,
-      "parsed_at": "2025-12-25T10:02:07.878687",
-      "problems": null,
-      "resource": "coderun.yandex.ru",
-      "resource_id": 163,
-      "start": "2025-12-01T11:00:00"
     },
     {
       "duration": 3715200,
