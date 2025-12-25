@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T21:24:49Z",
+  "lastUpdated": "2025-12-25T21:47:58Z",
   "count": 106,
   "contests": [
     {
@@ -386,7 +386,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1620,
-      "parsed_at": "2025-12-25T20:45:08.000336",
+      "parsed_at": "2025-12-25T21:47:08.177094",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
