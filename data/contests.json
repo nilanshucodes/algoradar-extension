@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T16:33:48Z",
+  "lastUpdated": "2025-12-25T16:55:26Z",
   "count": 107,
   "contests": [
     {
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1615,
-      "parsed_at": "2025-12-25T15:35:07.933473",
+      "n_statistics": 1617,
+      "parsed_at": "2025-12-25T16:37:07.524845",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -445,8 +445,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-210",
       "id": 64115671,
       "n_problems": null,
-      "n_statistics": 170,
-      "parsed_at": "2025-12-25T16:30:09.406963",
+      "n_statistics": 177,
+      "parsed_at": "2025-12-25T16:48:08.105489",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
