@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T15:27:22Z",
+  "lastUpdated": "2025-12-25T15:50:00Z",
   "count": 107,
   "contests": [
     {
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 192,
-      "parsed_at": "2025-12-25T13:17:07.452275",
+      "parsed_at": "2025-12-25T15:30:08.400435",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1612,
-      "parsed_at": "2025-12-25T14:33:08.171499",
+      "n_statistics": 1615,
+      "parsed_at": "2025-12-25T15:35:07.933473",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -445,8 +445,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-210",
       "id": 64115671,
       "n_problems": null,
-      "n_statistics": 107,
-      "parsed_at": "2025-12-25T15:27:08.112389",
+      "n_statistics": 143,
+      "parsed_at": "2025-12-25T15:45:08.308882",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
