@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-26T17:23:19Z",
-  "count": 105,
+  "lastUpdated": "2025-12-26T17:48:24Z",
+  "count": 107,
   "contests": [
     {
       "duration": 189388800,
@@ -386,7 +386,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 861,
-      "parsed_at": "2025-12-26T16:23:07.737005",
+      "parsed_at": "2025-12-26T17:25:07.582780",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -676,6 +676,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2025-12-28T15:35:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2025-12-29T17:00:00",
+      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 5",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/87805/enter/?retPage=",
+      "id": 64287240,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2025-12-29T12:00:00"
     },
     {
       "duration": 10800,
@@ -1081,6 +1096,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-01-11T12:00:00"
+    },
+    {
+      "duration": 8100,
+      "end": "2026-01-12T16:50:00",
+      "event": "Codeforces Round (Div. 3)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2184",
+      "id": 64287303,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-01-12T14:35:00"
     },
     {
       "duration": 2818740,
