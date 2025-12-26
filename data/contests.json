@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T23:48:54Z",
-  "count": 106,
+  "lastUpdated": "2025-12-26T02:08:03Z",
+  "count": 107,
   "contests": [
     {
       "duration": 189388800,
@@ -101,7 +101,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 197,
-      "parsed_at": "2025-12-25T13:14:07.218434",
+      "parsed_at": "2025-12-26T01:15:09.600473",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 192,
-      "parsed_at": "2025-12-25T22:09:07.778214",
+      "parsed_at": "2025-12-26T00:22:08.045132",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1620,
-      "parsed_at": "2025-12-25T22:49:07.019741",
+      "n_statistics": 1621,
+      "parsed_at": "2025-12-26T01:55:09.631679",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -1276,6 +1276,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-31T08:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-01-31T13:40:00",
+      "event": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc443",
+      "id": 64273512,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-01-31T12:00:00"
     },
     {
       "duration": 14400,
