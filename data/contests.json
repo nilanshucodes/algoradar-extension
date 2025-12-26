@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-26T12:55:31Z",
-  "count": 108,
+  "lastUpdated": "2025-12-26T13:37:32Z",
+  "count": 106,
   "contests": [
     {
       "duration": 189388800,
@@ -101,7 +101,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 197,
-      "parsed_at": "2025-12-26T01:15:09.600473",
+      "parsed_at": "2025-12-26T13:16:07.860832",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1625,
-      "parsed_at": "2025-12-26T12:15:08.821387",
+      "n_statistics": 1627,
+      "parsed_at": "2025-12-26T13:17:07.682286",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -420,36 +420,6 @@
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
-      "start": "2025-12-26T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2025-12-26T13:00:00",
-      "event": "牛客小白月赛126 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/125955",
-      "id": 64050730,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2025-12-26T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2025-12-26T13:00:00",
-      "event": "【LGR-259-Div.4】洛谷入门赛 #42 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/298165",
-      "id": 64057621,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
       "start": "2025-12-26T11:00:00"
     },
     {
