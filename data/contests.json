@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T22:26:23Z",
+  "lastUpdated": "2025-12-26T22:50:53Z",
   "count": 106,
   "contests": [
     {
@@ -355,8 +355,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 192,
-      "parsed_at": "2025-12-26T20:19:07.942170",
+      "n_statistics": 193,
+      "parsed_at": "2025-12-26T22:32:07.221480",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 864,
-      "parsed_at": "2025-12-26T21:33:08.737831",
+      "n_statistics": 865,
+      "parsed_at": "2025-12-26T22:35:07.603535",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
