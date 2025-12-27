@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T03:40:33Z",
+  "lastUpdated": "2025-12-27T04:37:23Z",
   "count": 106,
   "contests": [
     {
@@ -386,7 +386,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 865,
-      "parsed_at": "2025-12-27T02:43:07.381167",
+      "parsed_at": "2025-12-27T03:45:08.363974",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -430,8 +430,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND30",
       "id": 64220892,
       "n_problems": 6,
-      "n_statistics": 22,
-      "parsed_at": "2025-12-27T00:55:09.115230",
+      "n_statistics": 39,
+      "parsed_at": "2025-12-27T04:08:07.290912",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
