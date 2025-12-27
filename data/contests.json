@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-27T13:33:12Z",
-  "count": 104,
+  "lastUpdated": "2025-12-27T13:50:10Z",
+  "count": 103,
   "contests": [
     {
       "duration": 189388800,
@@ -430,8 +430,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND30",
       "id": 64220892,
       "n_problems": 6,
-      "n_statistics": 111,
-      "parsed_at": "2025-12-27T10:34:05.528178",
+      "n_statistics": 161,
+      "parsed_at": "2025-12-27T13:47:05.722907",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -451,21 +451,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2025-12-27T05:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2025-12-27T13:40:00",
-      "event": "AtCoder Beginner Contest 438",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc438",
-      "id": 63437185,
-      "n_problems": 7,
-      "n_statistics": 10884,
-      "parsed_at": "2025-12-27T13:25:06.238590",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2025-12-27T12:00:00"
     },
     {
       "duration": 86400,
