@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-27T09:27:09Z",
-  "count": 106,
+  "lastUpdated": "2025-12-27T09:49:03Z",
+  "count": 105,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 193,
-      "parsed_at": "2025-12-27T07:24:06.305362",
+      "parsed_at": "2025-12-27T09:37:06.328794",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -436,21 +436,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2025-12-26T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-27T09:30:00",
-      "event": "ICPC Kanpur 2025 Onsite - Replay Round",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/ICPCKANRP25",
-      "id": 64238549,
-      "n_problems": 11,
-      "n_statistics": 231,
-      "parsed_at": "2025-12-27T09:23:05.654826",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2025-12-27T04:30:00"
     },
     {
       "duration": 18000,
