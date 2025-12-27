@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T15:48:25Z",
+  "lastUpdated": "2025-12-27T16:31:48Z",
   "count": 110,
   "contests": [
     {
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 193,
-      "parsed_at": "2025-12-27T14:03:06.701468",
+      "parsed_at": "2025-12-27T16:16:06.740432",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 875,
-      "parsed_at": "2025-12-27T15:07:06.437519",
+      "n_statistics": 876,
+      "parsed_at": "2025-12-27T16:09:07.547031",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -475,8 +475,8 @@
       "href": "https://codeforces.com/contests/2178",
       "id": 63827565,
       "n_problems": 9,
-      "n_statistics": 18440,
-      "parsed_at": "2025-12-27T15:44:06.183525",
+      "n_statistics": 19031,
+      "parsed_at": "2025-12-27T16:26:06.008674",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
