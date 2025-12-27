@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-27T10:50:44Z",
-  "count": 105,
+  "lastUpdated": "2025-12-27T11:21:49Z",
+  "count": 104,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 865,
-      "parsed_at": "2025-12-27T09:57:06.343070",
+      "n_statistics": 868,
+      "parsed_at": "2025-12-27T10:59:05.616725",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -451,21 +451,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2025-12-27T05:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2025-12-27T11:00:00",
-      "event": "Midas - Future Talent League 2025 - Qualification Round (unrated, icpc, individual)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/midas-future-talent-league-2025-qualification-round/",
-      "id": 63706904,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
-      "start": "2025-12-27T08:00:00"
     },
     {
       "duration": 6000,
