@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-27T22:49:53Z",
-  "count": 108,
+  "lastUpdated": "2025-12-27T23:25:06Z",
+  "count": 107,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 193,
-      "parsed_at": "2025-12-27T20:42:06.455745",
+      "parsed_at": "2025-12-27T22:55:06.318154",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -386,7 +386,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 879,
-      "parsed_at": "2025-12-27T22:21:05.691061",
+      "parsed_at": "2025-12-27T23:23:06.137984",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -436,21 +436,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2025-12-26T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-27T23:00:00",
-      "event": "The 4th Universal Cup. Stage 10: TBD",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890746,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2025-12-27T05:00:00"
     },
     {
       "duration": 86400,
