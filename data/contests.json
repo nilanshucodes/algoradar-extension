@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T21:46:38Z",
+  "lastUpdated": "2025-12-28T22:20:12Z",
   "count": 93,
   "contests": [
     {
@@ -10,8 +10,8 @@
       "href": "https://algotester.com/en/Contest/Display/60416",
       "id": 39813412,
       "n_problems": 16,
-      "n_statistics": 90,
-      "parsed_at": "2025-12-26T21:46:07.250206",
+      "n_statistics": 91,
+      "parsed_at": "2025-12-28T21:47:09.015790",
       "problems": null,
       "resource": "algotester.com",
       "resource_id": 132,
@@ -296,7 +296,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 894,
-      "parsed_at": "2025-12-28T21:05:06.328272",
+      "parsed_at": "2025-12-28T22:07:06.072271",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
