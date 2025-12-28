@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-28T12:53:47Z",
-  "count": 104,
+  "lastUpdated": "2025-12-28T13:33:49Z",
+  "count": 103,
   "contests": [
     {
       "duration": 189388800,
@@ -101,7 +101,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 200,
-      "parsed_at": "2025-12-28T01:19:06.246979",
+      "parsed_at": "2025-12-28T13:20:06.927786",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -468,21 +468,6 @@
       "start": "2025-12-27T20:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2025-12-28T13:00:00",
-      "event": "牛客周赛 Round 124 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/126120",
-      "id": 64130864,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2025-12-28T11:00:00"
-    },
-    {
       "duration": 10800,
       "end": "2025-12-28T15:00:00",
       "event": "AtCoder Grand Contest 076",
@@ -490,8 +475,8 @@
       "href": "https://atcoder.jp/contests/agc076",
       "id": 63270514,
       "n_problems": 5,
-      "n_statistics": 418,
-      "parsed_at": "2025-12-28T12:50:06.648462",
+      "n_statistics": 515,
+      "parsed_at": "2025-12-28T13:28:05.590946",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
