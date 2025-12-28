@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-27T23:49:04Z",
-  "count": 107,
+  "lastUpdated": "2025-12-28T02:26:30Z",
+  "count": 108,
   "contests": [
     {
       "duration": 189388800,
@@ -100,8 +100,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 199,
-      "parsed_at": "2025-12-27T13:18:06.307823",
+      "n_statistics": 200,
+      "parsed_at": "2025-12-28T01:19:06.246979",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 193,
-      "parsed_at": "2025-12-27T22:55:06.318154",
+      "parsed_at": "2025-12-28T01:08:06.099086",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -386,7 +386,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 879,
-      "parsed_at": "2025-12-27T23:23:06.137984",
+      "parsed_at": "2025-12-28T01:27:06.322701",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -616,6 +616,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2025-12-29T14:35:00"
+    },
+    {
+      "duration": 140340,
+      "end": "2025-12-31T17:59:00",
+      "event": "Contest 2 [protected, icpc, individual]",
+      "host": "lightoj.com",
+      "href": "https://lightoj.com/contest/contest2-5thbatch",
+      "id": 64313910,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "lightoj.com",
+      "resource_id": 122,
+      "start": "2025-12-30T03:00:00"
     },
     {
       "duration": 2400,
