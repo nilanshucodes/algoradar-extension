@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T10:51:30Z",
+  "lastUpdated": "2025-12-28T11:22:37Z",
   "count": 106,
   "contests": [
     {
@@ -468,8 +468,8 @@
       "start": "2025-12-27T20:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2025-12-28T11:00:00",
+      "duration": 21600,
+      "end": "2025-12-28T12:00:00",
       "event": "Подготовка к области/республике 2026",
       "host": "dl.gsu.by",
       "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
@@ -489,9 +489,9 @@
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/2rc5re6vmh2cnc6vlkshhn1ad8",
       "id": 64014316,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 101,
+      "parsed_at": "2025-12-28T11:20:06.961664",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
