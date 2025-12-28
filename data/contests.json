@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-28T14:50:41Z",
-  "count": 102,
+  "lastUpdated": "2025-12-28T15:26:09Z",
+  "count": 101,
   "contests": [
     {
       "duration": 189388800,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 889,
-      "parsed_at": "2025-12-28T13:51:06.722250",
+      "n_statistics": 890,
+      "parsed_at": "2025-12-28T14:53:06.277241",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -451,21 +451,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-27T20:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2025-12-28T15:00:00",
-      "event": "AtCoder Grand Contest 076",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/agc076",
-      "id": 63270514,
-      "n_problems": 5,
-      "n_statistics": 610,
-      "parsed_at": "2025-12-28T14:46:06.308190",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2025-12-28T12:00:00"
     },
     {
       "duration": 10800,
