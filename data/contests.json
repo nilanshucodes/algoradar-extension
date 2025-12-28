@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-28T18:29:56Z",
-  "count": 101,
+  "lastUpdated": "2025-12-28T18:54:55Z",
+  "count": 99,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 193,
-      "parsed_at": "2025-12-28T16:39:06.618524",
+      "parsed_at": "2025-12-28T18:52:06.008796",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -424,21 +424,6 @@
     },
     {
       "duration": 172800,
-      "end": "2025-12-28T18:30:00",
-      "event": "Weekend Dev Challenge 30: SQL Projects",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND30",
-      "id": 64220892,
-      "n_problems": 6,
-      "n_statistics": 354,
-      "parsed_at": "2025-12-28T15:31:06.539716",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2025-12-26T18:30:00"
-    },
-    {
-      "duration": 172800,
       "end": "2025-12-29T20:00:00",
       "event": "hxp 39C3 CTF",
       "host": "ctftime.org",
@@ -451,21 +436,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-27T20:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2025-12-28T18:35:00",
-      "event": "Repovive Goodbye 2025 Round",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 64169164,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2025-12-28T15:35:00"
     },
     {
       "duration": 18000,
