@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-28T02:26:30Z",
-  "count": 108,
+  "lastUpdated": "2025-12-28T04:01:11Z",
+  "count": 107,
   "contests": [
     {
       "duration": 189388800,
@@ -356,7 +356,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 193,
-      "parsed_at": "2025-12-28T01:08:06.099086",
+      "parsed_at": "2025-12-28T03:21:05.781102",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 879,
-      "parsed_at": "2025-12-28T01:27:06.322701",
+      "n_statistics": 880,
+      "parsed_at": "2025-12-28T03:31:06.856274",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -430,8 +430,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND30",
       "id": 64220892,
       "n_problems": 6,
-      "n_statistics": 232,
-      "parsed_at": "2025-12-27T23:26:05.237351",
+      "n_statistics": 233,
+      "parsed_at": "2025-12-28T02:39:06.351433",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -466,21 +466,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-27T20:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2025-12-28T04:00:00",
-      "event": "Weekly Contest 482",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-482",
-      "id": 64076355,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2025-12-28T02:30:00"
     },
     {
       "duration": 18000,
