@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-29T16:27:06Z",
-  "count": 97,
+  "lastUpdated": "2025-12-29T16:54:45Z",
+  "count": 96,
   "contests": [
     {
       "duration": 189388800,
@@ -295,8 +295,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 904,
-      "parsed_at": "2025-12-29T15:41:07.135729",
+      "n_statistics": 905,
+      "parsed_at": "2025-12-29T16:43:06.521055",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -361,21 +361,6 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2025-12-29T12:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2025-12-29T16:35:00",
-      "event": "Educational Codeforces Round 186 (Rated for Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2182",
-      "id": 64133111,
-      "n_problems": 8,
-      "n_statistics": 15720,
-      "parsed_at": "2025-12-29T16:21:06.487942",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2025-12-29T14:35:00"
     },
     {
       "duration": 140340,
