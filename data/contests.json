@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-29T15:23:05Z",
-  "count": 98,
+  "lastUpdated": "2025-12-29T15:51:10Z",
+  "count": 97,
   "contests": [
     {
       "duration": 189388800,
@@ -295,8 +295,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 903,
-      "parsed_at": "2025-12-29T14:39:06.554152",
+      "n_statistics": 904,
+      "parsed_at": "2025-12-29T15:41:07.135729",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -363,21 +363,6 @@
       "start": "2025-12-29T12:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2025-12-29T15:30:00",
-      "event": "Monday Munch - DSA Challenge 18",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY18",
-      "id": 64280715,
-      "n_problems": 6,
-      "n_statistics": 1378,
-      "parsed_at": "2025-12-29T15:17:08.400226",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2025-12-29T12:30:00"
-    },
-    {
       "duration": 7200,
       "end": "2025-12-29T16:35:00",
       "event": "Educational Codeforces Round 186 (Rated for Div. 2)",
@@ -385,8 +370,8 @@
       "href": "https://codeforces.com/contests/2182",
       "id": 64133111,
       "n_problems": 8,
-      "n_statistics": 14020,
-      "parsed_at": "2025-12-29T15:16:06.789214",
+      "n_statistics": 15165,
+      "parsed_at": "2025-12-29T15:46:05.833493",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
