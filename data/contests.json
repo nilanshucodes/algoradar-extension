@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-29T19:18:07Z",
-  "count": 96,
+  "lastUpdated": "2025-12-29T19:45:46Z",
+  "count": 97,
   "contests": [
     {
       "duration": 189388800,
@@ -420,6 +420,21 @@
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
+      "start": "2025-12-31T14:30:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2025-12-31T17:00:00",
+      "event": "Happy New Year | RoboContest Round #106",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3238",
+      "id": 64348997,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
       "start": "2025-12-31T14:30:00"
     },
     {
