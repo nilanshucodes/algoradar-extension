@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T16:54:45Z",
+  "lastUpdated": "2025-12-29T17:48:19Z",
   "count": 96,
   "contests": [
     {
@@ -266,7 +266,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 196,
-      "parsed_at": "2025-12-29T14:49:06.873781",
+      "parsed_at": "2025-12-29T17:02:05.993040",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -295,8 +295,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 905,
-      "parsed_at": "2025-12-29T16:43:06.521055",
+      "n_statistics": 908,
+      "parsed_at": "2025-12-29T17:45:06.944407",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -346,21 +346,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2025-12-27T20:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-29T17:00:00",
-      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 5",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/87805/enter/?retPage=",
-      "id": 64287240,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2025-12-29T12:00:00"
     },
     {
       "duration": 140340,
@@ -961,6 +946,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-18T07:00:00"
+    },
+    {
+      "duration": 2400,
+      "end": "2026-01-22T15:10:00",
+      "event": "Tough Dash, January 2026",
+      "host": "toph.co",
+      "href": "https://toph.co/c/tough-dash-january-2026",
+      "id": 64347396,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2026-01-22T14:30:00"
     },
     {
       "duration": 18000,
