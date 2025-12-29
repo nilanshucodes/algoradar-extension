@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-29T07:01:27Z",
-  "count": 95,
+  "lastUpdated": "2025-12-29T07:50:10Z",
+  "count": 97,
   "contests": [
     {
       "duration": 189388800,
@@ -296,7 +296,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 894,
-      "parsed_at": "2025-12-29T06:23:05.491411",
+      "parsed_at": "2025-12-29T07:25:05.757707",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -663,6 +663,21 @@
       "start": "2026-01-04T11:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-01-07T16:30:00",
+      "event": "Starters 220",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START220",
+      "id": 64339339,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-01-07T14:30:00"
+    },
+    {
       "duration": 10800,
       "end": "2026-01-07T17:35:00",
       "event": "Hello 2026",
@@ -841,6 +856,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-01-12T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-14T16:30:00",
+      "event": "Starters 221",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START221",
+      "id": 64339338,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-01-14T14:30:00"
     },
     {
       "duration": 2818740,
