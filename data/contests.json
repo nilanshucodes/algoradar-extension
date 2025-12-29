@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T01:52:53Z",
+  "lastUpdated": "2025-12-29T03:49:57Z",
   "count": 93,
   "contests": [
     {
@@ -265,8 +265,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 194,
-      "parsed_at": "2025-12-29T01:31:32.537839",
+      "n_statistics": 195,
+      "parsed_at": "2025-12-29T03:44:06.807565",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -296,7 +296,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 894,
-      "parsed_at": "2025-12-29T01:13:06.273342",
+      "parsed_at": "2025-12-29T03:17:06.362830",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -325,8 +325,8 @@
       "href": "https://codeforces.com/contests/2177",
       "id": 63823844,
       "n_problems": 1,
-      "n_statistics": 1628,
-      "parsed_at": "2025-12-28T07:26:05.750869",
+      "n_statistics": 1777,
+      "parsed_at": "2025-12-29T02:39:06.915868",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
