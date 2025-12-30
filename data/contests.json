@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-30T11:19:54Z",
-  "count": 96,
+  "lastUpdated": "2025-12-30T11:47:46Z",
+  "count": 97,
   "contests": [
     {
       "duration": 189388800,
@@ -341,7 +341,7 @@
       "id": 64313910,
       "n_problems": 6,
       "n_statistics": 1,
-      "parsed_at": "2025-12-30T09:00:08.534163",
+      "parsed_at": "2025-12-30T11:36:06.936814",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -361,6 +361,21 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2025-12-30T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2025-12-31T09:30:00",
+      "event": "ICPC Chennai 2025 - Onsite Round",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/ICPCCHNRP25",
+      "id": 64362922,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2025-12-31T04:30:00"
     },
     {
       "duration": 18000,
