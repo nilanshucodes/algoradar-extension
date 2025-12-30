@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-30T16:56:27Z",
-  "count": 97,
+  "lastUpdated": "2025-12-30T17:24:18Z",
+  "count": 96,
   "contests": [
     {
       "duration": 189388800,
@@ -325,8 +325,8 @@
       "href": "https://codeforces.com/contests/2177",
       "id": 63823844,
       "n_problems": 1,
-      "n_statistics": 1940,
-      "parsed_at": "2025-12-29T21:54:06.167492",
+      "n_statistics": 2056,
+      "parsed_at": "2025-12-30T17:06:08.727815",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -346,21 +346,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2025-12-30T03:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-30T17:00:00",
-      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 6",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/87869/enter/?retPage=",
-      "id": 64351460,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2025-12-30T12:00:00"
     },
     {
       "duration": 18000,
