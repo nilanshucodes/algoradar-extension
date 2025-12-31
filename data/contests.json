@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-31T09:50:56Z",
-  "count": 92,
+  "lastUpdated": "2025-12-31T10:22:31Z",
+  "count": 93,
   "contests": [
     {
       "duration": 189388800,
@@ -295,8 +295,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 946,
-      "parsed_at": "2025-12-31T09:01:06.766796",
+      "n_statistics": 947,
+      "parsed_at": "2025-12-31T10:03:06.182639",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -856,6 +856,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-01-15T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-16T13:00:00",
+      "event": "牛客小白月赛127 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/126634",
+      "id": 64381475,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-01-16T11:00:00"
     },
     {
       "duration": 43200,
