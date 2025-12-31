@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T10:51:16Z",
+  "lastUpdated": "2025-12-31T11:19:20Z",
   "count": 95,
   "contests": [
     {
@@ -266,7 +266,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 196,
-      "parsed_at": "2025-12-31T08:56:05.963231",
+      "parsed_at": "2025-12-31T11:09:06.131955",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -296,7 +296,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 947,
-      "parsed_at": "2025-12-31T10:03:06.182639",
+      "parsed_at": "2025-12-31T11:05:06.984701",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -335,13 +335,13 @@
     {
       "duration": 140340,
       "end": "2025-12-31T17:59:00",
-      "event": "Contest 2 [protected, icpc, individual]",
+      "event": "Contest 2 [public, icpc, individual]",
       "host": "lightoj.com",
       "href": "https://lightoj.com/contest/contest2-5thbatch",
       "id": 64313910,
       "n_problems": 6,
-      "n_statistics": 2,
-      "parsed_at": "2025-12-31T08:24:06.390005",
+      "n_statistics": 3,
+      "parsed_at": "2025-12-31T11:00:07.101929",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
