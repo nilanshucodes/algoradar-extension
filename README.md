@@ -134,4 +134,4 @@ GPL-3.0 License - see [LICENSE](LICENSE)
 ---
 
 Built with ❤️ for the competitive programming community
-```
+
