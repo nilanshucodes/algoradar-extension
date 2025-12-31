@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T13:32:47Z",
+  "lastUpdated": "2025-12-31T13:52:34Z",
   "count": 95,
   "contests": [
     {
@@ -340,8 +340,8 @@
       "href": "https://lightoj.com/contest/contest2-5thbatch",
       "id": 64313910,
       "n_problems": 6,
-      "n_statistics": 3,
-      "parsed_at": "2025-12-31T11:00:07.101929",
+      "n_statistics": 5,
+      "parsed_at": "2025-12-31T13:36:07.281465",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
