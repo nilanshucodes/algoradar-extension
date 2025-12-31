@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-31T10:22:31Z",
-  "count": 93,
+  "lastUpdated": "2025-12-31T10:51:16Z",
+  "count": 95,
   "contests": [
     {
       "duration": 189388800,
@@ -693,6 +693,21 @@
       "start": "2026-01-09T00:00:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-01-09T14:00:00",
+      "event": "牛客挑战赛85 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/126635",
+      "id": 64381754,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-01-09T11:00:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-01-12T00:00:00",
       "event": "UofTCTF 2026",
@@ -781,6 +796,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-01-11T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-11T13:00:00",
+      "event": "牛客周赛 Round 126 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/126636",
+      "id": 64381755,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-01-11T11:00:00"
     },
     {
       "duration": 7200,
