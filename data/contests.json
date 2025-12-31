@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-31T16:27:01Z",
-  "count": 95,
+  "lastUpdated": "2025-12-31T16:54:16Z",
+  "count": 92,
   "contests": [
     {
       "duration": 189388800,
@@ -346,51 +346,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2025-12-30T03:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2025-12-31T16:30:00",
-      "event": "【LGR-260-Div.1+2】洛谷 12 月月赛 II & FAOI R10: 2025-2026 跨年赛 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/251472",
-      "id": 64179335,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2025-12-31T11:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2025-12-31T16:30:00",
-      "event": "Starters 219 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START219",
-      "id": 63058263,
-      "n_problems": 8,
-      "n_statistics": 18065,
-      "parsed_at": "2025-12-31T16:11:06.805396",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2025-12-31T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2025-12-31T16:30:00",
-      "event": "Happy New Year | RoboContest Round #106",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3238",
-      "id": 64348997,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2025-12-31T14:30:00"
     },
     {
       "duration": 10800,
