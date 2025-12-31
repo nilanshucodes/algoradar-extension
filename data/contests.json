@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T17:19:05Z",
+  "lastUpdated": "2025-12-31T17:47:14Z",
   "count": 92,
   "contests": [
     {
@@ -266,7 +266,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 196,
-      "parsed_at": "2025-12-31T15:34:09.288810",
+      "parsed_at": "2025-12-31T17:47:06.259574",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -333,8 +333,8 @@
       "start": "2025-12-26T11:00:00"
     },
     {
-      "duration": 140340,
-      "end": "2025-12-31T17:59:00",
+      "duration": 572340,
+      "end": "2026-01-05T17:59:00",
       "event": "Contest 2 [public, icpc, individual]",
       "host": "lightoj.com",
       "href": "https://lightoj.com/contest/contest2-5thbatch",
