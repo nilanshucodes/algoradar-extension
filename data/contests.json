@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-31T15:21:28Z",
-  "count": 95,
+  "lastUpdated": "2025-12-31T15:48:59Z",
+  "count": 96,
   "contests": [
     {
       "duration": 189388800,
@@ -266,7 +266,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 196,
-      "parsed_at": "2025-12-31T13:22:06.419836",
+      "parsed_at": "2025-12-31T15:34:09.288810",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -385,8 +385,8 @@
       "href": "https://www.codechef.com/START219",
       "id": 63058263,
       "n_problems": 8,
-      "n_statistics": 12970,
-      "parsed_at": "2025-12-31T15:05:06.623422",
+      "n_statistics": 14908,
+      "parsed_at": "2025-12-31T15:23:07.127113",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -496,6 +496,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-03T04:30:00",
+      "event": "『LBA-OI』Round 2 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/292354",
+      "id": 64386196,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-03T00:30:00"
     },
     {
       "duration": 18000,
