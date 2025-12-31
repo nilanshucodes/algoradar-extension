@@ -108,6 +108,7 @@ Contributions welcome! Please:
 
 
 ### Future Improvements
+- Introduce Time zones 
 - Optional persistent storage (only if future scale requires it)
 
 ## Latest Release (v1.1.0)
