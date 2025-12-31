@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T05:00:21Z",
+  "lastUpdated": "2025-12-31T05:52:07Z",
   "count": 90,
   "contests": [
     {
@@ -341,7 +341,7 @@
       "id": 64313910,
       "n_problems": 6,
       "n_statistics": 2,
-      "parsed_at": "2025-12-31T03:12:06.532070",
+      "parsed_at": "2025-12-31T05:48:06.478906",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -355,8 +355,8 @@
       "href": "https://www.codechef.com/ICPCCHNRP25",
       "id": 64362922,
       "n_problems": 11,
-      "n_statistics": 6,
-      "parsed_at": "2025-12-31T04:50:05.848044",
+      "n_statistics": 41,
+      "parsed_at": "2025-12-31T05:32:05.933298",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
