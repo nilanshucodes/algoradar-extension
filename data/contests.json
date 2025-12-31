@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-31T06:59:15Z",
-  "count": 90,
+  "lastUpdated": "2025-12-31T07:31:25Z",
+  "count": 91,
   "contests": [
     {
       "duration": 189388800,
@@ -355,8 +355,8 @@
       "href": "https://www.codechef.com/ICPCCHNRP25",
       "id": 64362922,
       "n_problems": 11,
-      "n_statistics": 77,
-      "parsed_at": "2025-12-31T06:56:06.086955",
+      "n_statistics": 79,
+      "parsed_at": "2025-12-31T07:17:07.007030",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -395,7 +395,7 @@
     {
       "duration": 7200,
       "end": "2025-12-31T16:30:00",
-      "event": "Starters 219",
+      "event": "Starters 219 (Rated till 5 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START219",
       "id": 63058263,
@@ -408,8 +408,8 @@
       "start": "2025-12-31T14:30:00"
     },
     {
-      "duration": 9000,
-      "end": "2025-12-31T17:00:00",
+      "duration": 7200,
+      "end": "2025-12-31T16:30:00",
       "event": "Happy New Year | RoboContest Round #106",
       "host": "robocontest.uz",
       "href": "https://robocontest.uz/olympiads/3238",
@@ -496,6 +496,21 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-01-02T12:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-01-04T18:30:00",
+      "event": "Weekend Dev Challenge 30: SQL Projects",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DEVWEEKEND31",
+      "id": 64379270,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-01-02T18:30:00"
     },
     {
       "duration": 18000,
