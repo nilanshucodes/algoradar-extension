@@ -1,22 +1,7 @@
 {
-  "lastUpdated": "2025-12-31T21:46:33Z",
-  "count": 91,
+  "lastUpdated": "2025-12-31T22:20:53Z",
+  "count": 90,
   "contests": [
-    {
-      "duration": 189388800,
-      "end": "2025-12-31T22:00:00",
-      "event": "HOT • Practice",
-      "host": "algotester.com",
-      "href": "https://algotester.com/en/Contest/Display/60416",
-      "id": 39813412,
-      "n_problems": 16,
-      "n_statistics": 92,
-      "parsed_at": "2025-12-30T21:48:06.975246",
-      "problems": null,
-      "resource": "algotester.com",
-      "resource_id": 132,
-      "start": "2019-12-31T22:00:00"
-    },
     {
       "duration": 112665600,
       "end": "2026-01-01T00:00:00",
@@ -251,7 +236,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 196,
-      "parsed_at": "2025-12-31T20:00:07.838981",
+      "parsed_at": "2025-12-31T22:13:06.413427",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
