@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T17:47:14Z",
+  "lastUpdated": "2025-12-31T18:30:31Z",
   "count": 92,
   "contests": [
     {
@@ -295,8 +295,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 955,
-      "parsed_at": "2025-12-31T17:17:08.738840",
+      "n_statistics": 956,
+      "parsed_at": "2025-12-31T18:19:07.244747",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -340,8 +340,8 @@
       "href": "https://lightoj.com/contest/contest2-5thbatch",
       "id": 64313910,
       "n_problems": 6,
-      "n_statistics": 5,
-      "parsed_at": "2025-12-31T16:12:06.407103",
+      "n_statistics": 6,
+      "parsed_at": "2025-12-31T18:09:09.241619",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
