@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-01T06:59:31Z",
-  "count": 89,
+  "lastUpdated": "2026-01-01T07:31:06Z",
+  "count": 92,
   "contests": [
     {
       "duration": 15234248,
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 197,
-      "parsed_at": "2026-01-01T04:52:06.049865",
+      "parsed_at": "2026-01-01T07:05:06.416399",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -799,6 +799,21 @@
     },
     {
       "duration": 7200,
+      "end": "2026-01-15T16:30:00",
+      "event": "RoboContest Round #107",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3396",
+      "id": 64398856,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-01-15T14:30:00"
+    },
+    {
+      "duration": 7200,
       "end": "2026-01-16T13:00:00",
       "event": "牛客小白月赛127 [ACM]",
       "host": "ac.nowcoder.com",
@@ -841,6 +856,21 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-01-17T05:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-17T10:00:00",
+      "event": "『GTOI』Round 2 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/298257",
+      "id": 64398880,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-17T06:00:00"
     },
     {
       "duration": 6000,
@@ -961,6 +991,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-28T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-29T16:30:00",
+      "event": "RoboContest Round #108",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3397",
+      "id": 64398857,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-01-29T14:30:00"
     },
     {
       "duration": 32400,
