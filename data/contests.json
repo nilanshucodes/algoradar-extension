@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-01T16:55:37Z",
-  "count": 91,
+  "lastUpdated": "2026-01-01T17:20:53Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 966,
-      "parsed_at": "2026-01-01T16:01:06.216980",
+      "n_statistics": 967,
+      "parsed_at": "2026-01-01T17:03:06.387473",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -301,36 +301,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-31T23:58:51"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-01T17:00:00",
-      "event": "New Year Contest 2026",
-      "host": "andgein.ru",
-      "href": "https://2026.andgein.ru/?lang=en",
-      "id": 63908317,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "andgein.ru",
-      "resource_id": 181,
-      "start": "2026-01-01T12:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-01T17:01:00",
-      "event": "Weekly Contest 211",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-211",
-      "id": 64265940,
-      "n_problems": null,
-      "n_statistics": 167,
-      "parsed_at": "2026-01-01T16:48:06.709141",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-01-01T15:01:00"
     },
     {
       "duration": 14400,
@@ -571,6 +541,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-01-07T15:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-08T17:01:00",
+      "event": "Weekly Contest 212",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-212",
+      "id": 64406700,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-01-08T15:01:00"
     },
     {
       "duration": 259200,
