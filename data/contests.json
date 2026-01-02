@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T01:46:51Z",
+  "lastUpdated": "2026-01-02T03:40:29Z",
   "count": 90,
   "contests": [
     {
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-02T00:49:05.340823",
+      "parsed_at": "2026-01-02T03:02:06.388301",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -236,7 +236,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 969,
-      "parsed_at": "2026-01-02T01:19:05.699376",
+      "parsed_at": "2026-01-02T03:23:05.470395",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -280,8 +280,8 @@
       "href": "https://lightoj.com/contest/contest2-5thbatch",
       "id": 64313910,
       "n_problems": 6,
-      "n_statistics": 7,
-      "parsed_at": "2026-01-01T15:21:07.298853",
+      "n_statistics": 9,
+      "parsed_at": "2026-01-02T01:57:06.329400",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
