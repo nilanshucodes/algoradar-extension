@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-02T03:40:29Z",
-  "count": 90,
+  "lastUpdated": "2026-01-02T04:41:28Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 969,
-      "parsed_at": "2026-01-02T03:23:05.470395",
+      "n_statistics": 970,
+      "parsed_at": "2026-01-02T04:25:06.756278",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -346,21 +346,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-03T04:30:00",
-      "event": "『LBA-OI』Round 2 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/292354",
-      "id": 64386196,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-03T00:30:00"
     },
     {
       "duration": 18000,
@@ -496,6 +481,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-04T15:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-05T15:30:00",
+      "event": "Monday Munch - DSA Challenge 19",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY19",
+      "id": 64415445,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-01-05T12:30:00"
     },
     {
       "duration": 7200,
@@ -646,6 +646,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-01-10T12:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-11T04:30:00",
+      "event": "『LBA-OI』Round 2 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/292354",
+      "id": 64386196,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-11T00:30:00"
     },
     {
       "duration": 5400,
