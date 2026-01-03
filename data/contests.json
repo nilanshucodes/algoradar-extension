@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T21:46:21Z",
-  "count": 87,
+  "lastUpdated": "2026-01-03T22:19:53Z",
+  "count": 88,
   "contests": [
     {
       "duration": 15234248,
@@ -391,6 +391,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-04T15:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-01-05T17:00:00",
+      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 9",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/87902/enter/?retPage=standings",
+      "id": 64449211,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-01-05T12:00:00"
     },
     {
       "duration": 10800,
