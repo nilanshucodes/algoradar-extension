@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T09:21:07Z",
-  "count": 91,
+  "lastUpdated": "2026-01-03T09:47:43Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -236,7 +236,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1002,
-      "parsed_at": "2026-01-03T08:19:06.755781",
+      "parsed_at": "2026-01-03T09:21:07.208062",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -281,7 +281,7 @@
       "id": 64313910,
       "n_problems": 6,
       "n_statistics": 9,
-      "parsed_at": "2026-01-02T23:09:06.031158",
+      "parsed_at": "2026-01-03T09:45:07.184848",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -316,21 +316,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-03T09:30:00",
-      "event": "ICPC Amritapuri 2025 - Onsite Round Replay",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/ICPCAMRRP25",
-      "id": 64425455,
-      "n_problems": 11,
-      "n_statistics": 125,
-      "parsed_at": "2026-01-03T09:02:06.539609",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-03T04:30:00"
     },
     {
       "duration": 18000,
