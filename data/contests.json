@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T14:48:42Z",
+  "lastUpdated": "2026-01-03T15:19:52Z",
   "count": 90,
   "contests": [
     {
@@ -369,9 +369,9 @@
       "host": "leetcode.com",
       "href": "https://leetcode.com/contest/biweekly-contest-173",
       "id": 64076354,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 1925,
+      "parsed_at": "2026-01-03T15:07:07.313758",
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
