@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T11:46:08Z",
-  "count": 90,
+  "lastUpdated": "2026-01-03T12:40:45Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-03T10:04:05.945859",
+      "parsed_at": "2026-01-03T12:17:07.079425",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1008,
-      "parsed_at": "2026-01-03T11:25:06.244505",
+      "n_statistics": 1009,
+      "parsed_at": "2026-01-03T12:27:07.394495",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -354,9 +354,9 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/abc439",
       "id": 63913970,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 7,
+      "n_statistics": 9217,
+      "parsed_at": "2026-01-03T12:35:06.272926",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -615,6 +615,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-01-10T06:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-10T10:00:00",
+      "event": "【LGR-258-Div.2】洛谷 1 月月赛 II & KWOI Round 1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/280819",
+      "id": 64441327,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-01-10T06:00:00"
     },
     {
