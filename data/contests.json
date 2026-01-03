@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T07:23:56Z",
+  "lastUpdated": "2026-01-03T07:45:25Z",
   "count": 91,
   "contests": [
     {
@@ -325,8 +325,8 @@
       "href": "https://www.codechef.com/ICPCAMRRP25",
       "id": 64425455,
       "n_problems": 11,
-      "n_statistics": 99,
-      "parsed_at": "2026-01-03T07:17:05.941848",
+      "n_statistics": 110,
+      "parsed_at": "2026-01-03T07:38:06.365893",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
