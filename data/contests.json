@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T16:52:20Z",
-  "count": 88,
+  "lastUpdated": "2026-01-03T17:17:47Z",
+  "count": 87,
   "contests": [
     {
       "duration": 15234248,
@@ -265,8 +265,8 @@
       "href": "https://codeforces.com/contests/2177",
       "id": 63823844,
       "n_problems": 1,
-      "n_statistics": 2417,
-      "parsed_at": "2026-01-02T21:58:06.498425",
+      "n_statistics": 2506,
+      "parsed_at": "2026-01-03T17:11:05.971293",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND31",
       "id": 64379270,
       "n_problems": 6,
-      "n_statistics": 96,
-      "parsed_at": "2026-01-03T13:47:06.602851",
+      "n_statistics": 140,
+      "parsed_at": "2026-01-03T17:00:12.403477",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -331,21 +331,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-01-03T05:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-03T17:00:00",
-      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 8",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/87893/enter/?retPage=",
-      "id": 64426948,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-01-03T12:00:00"
     },
     {
       "duration": 5400,
