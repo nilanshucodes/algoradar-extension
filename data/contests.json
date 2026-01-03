@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T13:28:56Z",
-  "count": 91,
+  "lastUpdated": "2026-01-03T13:49:09Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -71,7 +71,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 201,
-      "parsed_at": "2026-01-03T01:30:07.155653",
+      "parsed_at": "2026-01-03T13:31:06.376361",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1009,
-      "parsed_at": "2026-01-03T12:27:07.394495",
+      "n_statistics": 1011,
+      "parsed_at": "2026-01-03T13:29:06.370858",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND31",
       "id": 64379270,
       "n_problems": 6,
-      "n_statistics": 68,
-      "parsed_at": "2026-01-03T10:34:06.528375",
+      "n_statistics": 96,
+      "parsed_at": "2026-01-03T13:47:06.602851",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -346,21 +346,6 @@
       "resource": "algoleague.com",
       "resource_id": 170,
       "start": "2026-01-03T11:15:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-01-03T13:40:00",
-      "event": "AtCoder Beginner Contest 439",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc439",
-      "id": 63913970,
-      "n_problems": 7,
-      "n_statistics": 9693,
-      "parsed_at": "2026-01-03T13:24:07.074439",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-03T12:00:00"
     },
     {
       "duration": 18000,
