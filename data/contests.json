@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T09:47:43Z",
-  "count": 90,
+  "lastUpdated": "2026-01-03T10:21:21Z",
+  "count": 89,
   "contests": [
     {
       "duration": 15234248,
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-03T07:51:06.355792",
+      "parsed_at": "2026-01-03T10:04:05.945859",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -331,21 +331,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-01-03T05:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-03T10:00:00",
-      "event": "【LGR-257-Div.2】洛谷 1 月月赛 I & ffbb OI round 1 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/226658",
-      "id": 64214848,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-03T06:00:00"
     },
     {
       "duration": 18000,
