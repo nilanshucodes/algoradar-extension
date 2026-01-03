@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T14:19:22Z",
+  "lastUpdated": "2026-01-03T14:48:42Z",
   "count": 90,
   "contests": [
     {
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-03T12:17:07.079425",
+      "parsed_at": "2026-01-03T14:30:08.172522",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1011,
-      "parsed_at": "2026-01-03T13:29:06.370858",
+      "n_statistics": 1012,
+      "parsed_at": "2026-01-03T14:31:06.752578",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
