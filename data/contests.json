@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T12:40:45Z",
+  "lastUpdated": "2026-01-03T13:28:56Z",
   "count": 91,
   "contests": [
     {
@@ -355,8 +355,8 @@
       "href": "https://atcoder.jp/contests/abc439",
       "id": 63913970,
       "n_problems": 7,
-      "n_statistics": 9217,
-      "parsed_at": "2026-01-03T12:35:06.272926",
+      "n_statistics": 9693,
+      "parsed_at": "2026-01-03T13:24:07.074439",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
