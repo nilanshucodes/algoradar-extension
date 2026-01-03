@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T10:21:21Z",
-  "count": 89,
+  "lastUpdated": "2026-01-03T10:49:47Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1002,
-      "parsed_at": "2026-01-03T09:21:07.208062",
+      "n_statistics": 1006,
+      "parsed_at": "2026-01-03T10:23:05.841815",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND31",
       "id": 64379270,
       "n_problems": 6,
-      "n_statistics": 51,
-      "parsed_at": "2026-01-03T07:21:06.264741",
+      "n_statistics": 68,
+      "parsed_at": "2026-01-03T10:34:06.528375",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -466,6 +466,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-05T12:30:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-01-06T17:00:00",
+      "event": "Happy New Year 2026",
+      "host": "judge.eluminatis-of-lu.com",
+      "href": "https://serious-oj.com/contest/6958ec767fb6ae0008e7bf4a",
+      "id": 64439631,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "judge.eluminatis-of-lu.com",
+      "resource_id": 177,
+      "start": "2026-01-06T14:30:00"
     },
     {
       "duration": 7200,
