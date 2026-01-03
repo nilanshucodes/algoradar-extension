@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T10:49:47Z",
+  "lastUpdated": "2026-01-03T11:17:20Z",
   "count": 90,
   "contests": [
     {
@@ -334,7 +334,7 @@
     },
     {
       "duration": 18000,
-      "end": "2026-01-03T16:00:00",
+      "end": "2026-01-03T16:15:00",
       "event": "Algorithm Competition Winter Camp 2026 - Qualification Round ☃️ (unrated, icpc, individual)",
       "host": "algoleague.com",
       "href": "https://algoleague.com/contest/algorithm-competition-winter-camp-2026-qualification-round/",
@@ -345,7 +345,7 @@
       "problems": null,
       "resource": "algoleague.com",
       "resource_id": 170,
-      "start": "2026-01-03T11:00:00"
+      "start": "2026-01-03T11:15:00"
     },
     {
       "duration": 6000,
