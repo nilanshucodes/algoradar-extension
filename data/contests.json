@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-03T22:49:10Z",
-  "count": 95,
+  "lastUpdated": "2026-01-03T23:20:01Z",
+  "count": 94,
   "contests": [
     {
       "duration": 15234248,
@@ -316,21 +316,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-03T23:00:00",
-      "event": "The 4th Universal Cup. Stage 11: TBD",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890747,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-01-03T05:00:00"
     },
     {
       "duration": 0,
