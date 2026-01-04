@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-04T18:29:59Z",
-  "count": 91,
+  "lastUpdated": "2026-01-04T18:54:49Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -301,21 +301,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-31T23:58:51"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-01-04T18:30:00",
-      "event": "Weekend Dev Challenge 31: Data Analysis & Visualization Projects",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND31",
-      "id": 64379270,
-      "n_problems": 6,
-      "n_statistics": 230,
-      "parsed_at": "2026-01-04T15:30:08.273630",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-02T18:30:00"
     },
     {
       "duration": 18000,
