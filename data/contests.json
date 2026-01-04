@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T15:19:31Z",
+  "lastUpdated": "2026-01-04T15:46:56Z",
   "count": 92,
   "contests": [
     {
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND31",
       "id": 64379270,
       "n_problems": 6,
-      "n_statistics": 206,
-      "parsed_at": "2026-01-04T12:18:06.483474",
+      "n_statistics": 230,
+      "parsed_at": "2026-01-04T15:30:08.273630",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/m7f5egpjit7n32822i6ged4m1k",
       "id": 64341730,
       "n_problems": 5,
-      "n_statistics": 90,
-      "parsed_at": "2026-01-04T15:17:06.532470",
+      "n_statistics": 109,
+      "parsed_at": "2026-01-04T15:44:06.580529",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
