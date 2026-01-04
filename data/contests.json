@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-04T04:49:48Z",
-  "count": 94,
+  "lastUpdated": "2026-01-04T05:26:03Z",
+  "count": 93,
   "contests": [
     {
       "duration": 15234248,
@@ -236,7 +236,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1025,
-      "parsed_at": "2026-01-04T03:57:05.579701",
+      "parsed_at": "2026-01-04T04:59:06.879790",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -316,21 +316,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
-    },
-    {
-      "duration": 8400,
-      "end": "2026-01-04T04:50:00",
-      "event": "Weekly Contest 483",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-483",
-      "id": 64217225,
-      "n_problems": 4,
-      "n_statistics": 13246,
-      "parsed_at": "2026-01-04T04:13:06.216081",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-01-04T02:30:00"
     },
     {
       "duration": 18000,
