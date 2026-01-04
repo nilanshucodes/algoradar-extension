@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-04T16:52:22Z",
-  "count": 92,
+  "lastUpdated": "2026-01-04T17:18:04Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-04T14:53:06.437238",
+      "parsed_at": "2026-01-04T17:06:06.300426",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -316,21 +316,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-04T17:00:00",
-      "event": "Weekend Practice #16",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/m7f5egpjit7n32822i6ged4m1k",
-      "id": 64341730,
-      "n_problems": 5,
-      "n_statistics": 115,
-      "parsed_at": "2026-01-04T16:47:06.222072",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-01-04T15:00:00"
     },
     {
       "duration": 18000,
