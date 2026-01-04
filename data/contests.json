@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T05:26:03Z",
+  "lastUpdated": "2026-01-04T05:52:41Z",
   "count": 93,
   "contests": [
     {
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND31",
       "id": 64379270,
       "n_problems": 6,
-      "n_statistics": 158,
-      "parsed_at": "2026-01-04T02:39:06.936780",
+      "n_statistics": 182,
+      "parsed_at": "2026-01-04T05:52:06.310296",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -319,7 +319,7 @@
     },
     {
       "duration": 18000,
-      "end": "2026-01-04T11:00:00",
+      "end": "2026-01-04T10:00:00",
       "event": "Подготовка к области/республике 2026",
       "host": "dl.gsu.by",
       "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
@@ -330,7 +330,7 @@
       "problems": null,
       "resource": "dl.gsu.by",
       "resource_id": 4,
-      "start": "2026-01-04T06:00:00"
+      "start": "2026-01-04T05:00:00"
     },
     {
       "duration": 7200,
