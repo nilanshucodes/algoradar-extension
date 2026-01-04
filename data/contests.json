@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-04T10:49:13Z",
-  "count": 94,
+  "lastUpdated": "2026-01-04T11:17:19Z",
+  "count": 93,
   "contests": [
     {
       "duration": 15234248,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1033,
-      "parsed_at": "2026-01-04T10:09:07.616598",
+      "n_statistics": 1035,
+      "parsed_at": "2026-01-04T11:11:06.355464",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -316,21 +316,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-04T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 63407623,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-01-04T06:00:00"
     },
     {
       "duration": 7200,
