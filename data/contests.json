@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-04T12:41:06Z",
-  "count": 93,
+  "lastUpdated": "2026-01-04T13:29:51Z",
+  "count": 92,
   "contests": [
     {
       "duration": 15234248,
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1037,
-      "parsed_at": "2026-01-04T12:13:06.648678",
+      "n_statistics": 1038,
+      "parsed_at": "2026-01-04T13:15:08.338612",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -316,21 +316,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-02T18:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-04T13:00:00",
-      "event": "牛客周赛 Round 125 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/126319",
-      "id": 64211745,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-01-04T11:00:00"
     },
     {
       "duration": 7200,
