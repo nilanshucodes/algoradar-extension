@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T15:46:56Z",
+  "lastUpdated": "2026-01-04T16:25:05Z",
   "count": 92,
   "contests": [
     {
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1041,
-      "parsed_at": "2026-01-04T15:19:06.160477",
+      "n_statistics": 1042,
+      "parsed_at": "2026-01-04T16:21:07.398363",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/m7f5egpjit7n32822i6ged4m1k",
       "id": 64341730,
       "n_problems": 5,
-      "n_statistics": 109,
-      "parsed_at": "2026-01-04T15:44:06.580529",
+      "n_statistics": 115,
+      "parsed_at": "2026-01-04T16:20:07.242043",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
