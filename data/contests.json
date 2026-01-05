@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T11:48:24Z",
+  "lastUpdated": "2026-01-05T12:48:47Z",
   "count": 90,
   "contests": [
     {
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1057,
-      "parsed_at": "2026-01-05T10:57:06.749473",
+      "n_statistics": 1059,
+      "parsed_at": "2026-01-05T11:59:06.463980",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -304,10 +304,10 @@
     },
     {
       "duration": 18000,
-      "end": "2026-01-05T17:00:00",
+      "end": "2026-01-05T17:15:00",
       "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 9",
       "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/87902/enter/?retPage=standings",
+      "href": "https://official.contest.yandex.ru/CYF/contest/87902/enter/?retPage=",
       "id": 64449211,
       "n_problems": null,
       "n_statistics": null,
@@ -315,7 +315,7 @@
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
-      "start": "2026-01-05T12:00:00"
+      "start": "2026-01-05T12:15:00"
     },
     {
       "duration": 10800,
@@ -324,9 +324,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DSAMONDAY19",
       "id": 64415445,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 6,
+      "n_statistics": 362,
+      "parsed_at": "2026-01-05T12:42:06.975868",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
