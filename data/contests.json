@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-05T21:21:16Z",
-  "count": 89,
+  "lastUpdated": "2026-01-05T21:49:05Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -286,6 +286,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-31T23:58:51"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-01-06T17:00:00",
+      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 10",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/87926/enter/?retPage=",
+      "id": 64487899,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-01-06T12:00:00"
     },
     {
       "duration": 9000,
