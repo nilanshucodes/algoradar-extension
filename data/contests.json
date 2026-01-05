@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-05T15:27:44Z",
-  "count": 91,
+  "lastUpdated": "2026-01-05T15:53:08Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -316,21 +316,6 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-01-05T12:15:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-05T15:30:00",
-      "event": "Monday Munch - DSA Challenge 19",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY19",
-      "id": 64415445,
-      "n_problems": 6,
-      "n_statistics": 1684,
-      "parsed_at": "2026-01-05T15:18:07.431384",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-05T12:30:00"
     },
     {
       "duration": 9000,
