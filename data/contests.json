@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T18:59:24Z",
+  "lastUpdated": "2026-01-05T19:27:24Z",
   "count": 89,
   "contests": [
     {
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1066,
-      "parsed_at": "2026-01-05T18:11:07.254089",
+      "n_statistics": 1067,
+      "parsed_at": "2026-01-05T19:13:07.190837",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -453,8 +453,8 @@
       "start": "2026-01-10T06:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-01-10T10:00:00",
+      "duration": 10800,
+      "end": "2026-01-10T11:00:00",
       "event": "HackTheART",
       "host": "kilonova.ro",
       "href": "https://kilonova.ro/contests/2246",
