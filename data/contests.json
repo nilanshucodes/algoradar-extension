@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T01:56:04Z",
+  "lastUpdated": "2026-01-05T03:58:00Z",
   "count": 90,
   "contests": [
     {
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-04T23:45:07.208246",
+      "parsed_at": "2026-01-05T01:58:07.630527",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -236,7 +236,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1052,
-      "parsed_at": "2026-01-05T01:39:07.674614",
+      "parsed_at": "2026-01-05T03:43:06.999266",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
