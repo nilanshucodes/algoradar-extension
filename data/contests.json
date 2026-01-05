@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T14:25:20Z",
+  "lastUpdated": "2026-01-05T14:55:54Z",
   "count": 91,
   "contests": [
     {
@@ -281,7 +281,7 @@
       "id": 64313910,
       "n_problems": 6,
       "n_statistics": 8,
-      "parsed_at": "2026-01-05T04:09:06.488961",
+      "parsed_at": "2026-01-05T14:45:07.480991",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -325,8 +325,8 @@
       "href": "https://www.codechef.com/DSAMONDAY19",
       "id": 64415445,
       "n_problems": 6,
-      "n_statistics": 1237,
-      "parsed_at": "2026-01-05T14:13:07.281365",
+      "n_statistics": 1525,
+      "parsed_at": "2026-01-05T14:52:06.645958",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
