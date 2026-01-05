@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T17:51:46Z",
+  "lastUpdated": "2026-01-05T18:34:01Z",
   "count": 89,
   "contests": [
     {
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1065,
-      "parsed_at": "2026-01-05T17:09:07.726788",
+      "n_statistics": 1066,
+      "parsed_at": "2026-01-05T18:11:07.254089",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -271,21 +271,6 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2025-12-26T11:00:00"
-    },
-    {
-      "duration": 572340,
-      "end": "2026-01-05T17:59:00",
-      "event": "Contest 2 [protected, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/contest2-5thbatch",
-      "id": 64313910,
-      "n_problems": 6,
-      "n_statistics": 8,
-      "parsed_at": "2026-01-05T14:45:07.480991",
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2025-12-30T03:00:00"
     },
     {
       "duration": 2678409,
@@ -466,6 +451,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-01-10T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-10T10:00:00",
+      "event": "HackTheART",
+      "host": "kilonova.ro",
+      "href": "https://kilonova.ro/contests/2246",
+      "id": 64484923,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kilonova.ro",
+      "resource_id": 175,
+      "start": "2026-01-10T08:00:00"
     },
     {
       "duration": 172800,
