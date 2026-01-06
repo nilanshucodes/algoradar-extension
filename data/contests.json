@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-06T19:20:09Z",
-  "count": 89,
+  "lastUpdated": "2026-01-06T19:48:00Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -331,6 +331,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-01-07T15:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-01-08T17:00:00",
+      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 11",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/87947/enter/?retPage=",
+      "id": 64504949,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-01-08T12:00:00"
     },
     {
       "duration": 7200,
