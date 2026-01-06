@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-06T01:47:12Z",
-  "count": 91,
+  "lastUpdated": "2026-01-06T03:39:01Z",
+  "count": 92,
   "contests": [
     {
       "duration": 15234248,
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-06T00:08:06.626793",
+      "parsed_at": "2026-01-06T02:21:06.376431",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -236,7 +236,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1071,
-      "parsed_at": "2026-01-06T01:25:07.875593",
+      "parsed_at": "2026-01-06T03:29:07.588442",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -265,8 +265,8 @@
       "href": "https://codeforces.com/contests/2177",
       "id": 63823844,
       "n_problems": 1,
-      "n_statistics": 2631,
-      "parsed_at": "2026-01-05T07:41:07.286257",
+      "n_statistics": 2694,
+      "parsed_at": "2026-01-06T02:54:07.422943",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -631,6 +631,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-01-11T12:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-11T17:35:00",
+      "event": "Hello 2026 Round",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 64492066,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-01-11T14:35:00"
     },
     {
       "duration": 7200,
