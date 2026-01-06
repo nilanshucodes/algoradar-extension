@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T16:29:56Z",
+  "lastUpdated": "2026-01-06T16:59:14Z",
   "count": 91,
   "contests": [
     {
@@ -235,8 +235,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1089,
-      "parsed_at": "2026-01-06T15:53:06.976998",
+      "n_statistics": 1090,
+      "parsed_at": "2026-01-06T16:55:07.758030",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -303,8 +303,8 @@
       "start": "2026-01-06T12:00:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-01-06T17:00:00",
+      "duration": 9900,
+      "end": "2026-01-06T17:15:00",
       "event": "Happy New Year 2026",
       "host": "judge.eluminatis-of-lu.com",
       "href": "https://serious-oj.com/contest/6958ec767fb6ae0008e7bf4a",
