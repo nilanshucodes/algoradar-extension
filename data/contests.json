@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-06T07:01:15Z",
-  "count": 90,
+  "lastUpdated": "2026-01-06T07:50:30Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -236,7 +236,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1072,
-      "parsed_at": "2026-01-06T06:35:06.730088",
+      "parsed_at": "2026-01-06T07:37:06.666876",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -841,6 +841,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-18T07:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-18T13:00:00",
+      "event": "牛客周赛 Round 127 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/126798",
+      "id": 64495937,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-01-18T11:00:00"
     },
     {
       "duration": 7200,
