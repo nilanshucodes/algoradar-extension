@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-05T23:47:58Z",
-  "count": 90,
+  "lastUpdated": "2026-01-06T01:47:12Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -71,7 +71,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 202,
-      "parsed_at": "2026-01-05T13:35:06.800721",
+      "parsed_at": "2026-01-06T01:36:07.154569",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-05T21:55:06.426364",
+      "parsed_at": "2026-01-06T00:08:06.626793",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -236,7 +236,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1071,
-      "parsed_at": "2026-01-05T23:21:07.766613",
+      "parsed_at": "2026-01-06T01:25:07.875593",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -438,6 +438,21 @@
       "start": "2026-01-10T05:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-01-10T23:00:00",
+      "event": "The 4th Universal Cup. Stage 12: Shanghai",
+      "host": "ucup.ac",
+      "href": "https://ucup.ac/",
+      "id": 63890749,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ucup.ac",
+      "resource_id": 139,
+      "start": "2026-01-10T05:00:00"
+    },
+    {
       "duration": 14400,
       "end": "2026-01-10T10:00:00",
       "event": "AtCoder Heuristic Contest 059",
@@ -618,6 +633,21 @@
       "start": "2026-01-11T12:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-01-11T17:00:00",
+      "event": "Weekend Practice #17",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/68ise1j0d17fp04bqe407psjqg",
+      "id": 64490557,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-01-11T15:00:00"
+    },
+    {
       "duration": 8100,
       "end": "2026-01-12T16:50:00",
       "event": "Codeforces Round (Div. 3)",
@@ -725,10 +755,10 @@
     {
       "duration": 18000,
       "end": "2026-01-17T23:00:00",
-      "event": "The 4th Universal Cup. Stage 12: TBD",
+      "event": "The 4th Universal Cup. Stage 13: TBD",
       "host": "ucup.ac",
       "href": "https://ucup.ac/",
-      "id": 63890749,
+      "id": 63890750,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -845,10 +875,10 @@
     {
       "duration": 18000,
       "end": "2026-01-24T23:00:00",
-      "event": "The 4th Universal Cup. Stage 13: TBD",
+      "event": "The 4th Universal Cup. Stage 14: TBD",
       "host": "ucup.ac",
       "href": "https://ucup.ac/",
-      "id": 63890750,
+      "id": 63890751,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -965,10 +995,10 @@
     {
       "duration": 18000,
       "end": "2026-01-31T23:00:00",
-      "event": "The 4th Universal Cup. Stage 14: TBD",
+      "event": "The 4th Universal Cup. Stage 15: TBD",
       "host": "ucup.ac",
       "href": "https://ucup.ac/",
-      "id": 63890751,
+      "id": 63890752,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -1066,21 +1096,6 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-02-05T06:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-02-07T23:00:00",
-      "event": "The 4th Universal Cup. Stage 15: TBD",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890752,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-02-07T05:00:00"
     },
     {
       "duration": 0,
