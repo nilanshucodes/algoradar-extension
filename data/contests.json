@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T08:59:09Z",
+  "lastUpdated": "2026-01-06T09:35:44Z",
   "count": 91,
   "contests": [
     {
@@ -221,7 +221,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-06T06:47:06.595351",
+      "parsed_at": "2026-01-06T08:59:07.944654",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -633,21 +633,6 @@
       "start": "2026-01-11T14:35:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-01-11T17:00:00",
-      "event": "Weekend Practice #17",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/68ise1j0d17fp04bqe407psjqg",
-      "id": 64490557,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-01-11T15:00:00"
-    },
-    {
       "duration": 8100,
       "end": "2026-01-12T16:50:00",
       "event": "Codeforces Round (Div. 3)",
@@ -856,6 +841,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-01-18T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-18T17:00:00",
+      "event": "Weekend Practice #17",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/68ise1j0d17fp04bqe407psjqg",
+      "id": 64490557,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-01-18T15:00:00"
     },
     {
       "duration": 7200,
