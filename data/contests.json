@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T17:00:19Z",
+  "lastUpdated": "2026-01-07T17:53:43Z",
   "count": 90,
   "contests": [
     {
@@ -220,8 +220,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1112,
-      "parsed_at": "2026-01-07T16:41:27.896972",
+      "n_statistics": 1113,
+      "parsed_at": "2026-01-07T17:44:08.000920",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -250,8 +250,8 @@
       "href": "https://codeforces.com/contests/2177",
       "id": 63823844,
       "n_problems": 1,
-      "n_statistics": 2785,
-      "parsed_at": "2026-01-06T22:07:06.922165",
+      "n_statistics": 2884,
+      "parsed_at": "2026-01-07T17:20:09.554962",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -271,21 +271,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-31T23:58:51"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-07T17:35:00",
-      "event": "Hello 2026",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2183",
-      "id": 64261958,
-      "n_problems": 11,
-      "n_statistics": 18918,
-      "parsed_at": "2026-01-07T16:50:06.908601",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-01-07T14:35:00"
     },
     {
       "duration": 18000,
@@ -826,6 +811,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-21T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-01-21T17:00:00",
+      "event": "Beginner Contest 104",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-104",
+      "id": 64521320,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-01-21T15:30:00"
     },
     {
       "duration": 2400,
