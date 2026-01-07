@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-07T15:53:52Z",
-  "count": 92,
+  "lastUpdated": "2026-01-07T16:31:32Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -206,7 +206,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-07T13:48:07.206339",
+      "parsed_at": "2026-01-07T16:00:17.138116",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -273,21 +273,6 @@
       "start": "2025-12-31T23:58:51"
     },
     {
-      "duration": 7200,
-      "end": "2026-01-07T16:30:00",
-      "event": "Starters 220 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START220",
-      "id": 64339339,
-      "n_problems": 9,
-      "n_statistics": 22862,
-      "parsed_at": "2026-01-07T15:19:07.741880",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-07T14:30:00"
-    },
-    {
       "duration": 10800,
       "end": "2026-01-07T17:35:00",
       "event": "Hello 2026",
@@ -295,8 +280,8 @@
       "href": "https://codeforces.com/contests/2183",
       "id": 64261958,
       "n_problems": 11,
-      "n_statistics": 17763,
-      "parsed_at": "2026-01-07T15:44:07.323173",
+      "n_statistics": 18670,
+      "parsed_at": "2026-01-07T16:26:06.845075",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -310,8 +295,8 @@
       "href": "https://www.naukri.com/code360/contests/beginner-contest-103",
       "id": 64245395,
       "n_problems": null,
-      "n_statistics": 5,
-      "parsed_at": "2026-01-07T15:50:16.459803",
+      "n_statistics": 14,
+      "parsed_at": "2026-01-07T16:25:07.615524",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
