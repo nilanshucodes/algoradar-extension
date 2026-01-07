@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-07T07:00:20Z",
-  "count": 90,
+  "lastUpdated": "2026-01-07T07:51:13Z",
+  "count": 92,
   "contests": [
     {
       "duration": 15234248,
@@ -206,7 +206,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-07T04:56:06.553587",
+      "parsed_at": "2026-01-07T07:09:08.274837",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -221,7 +221,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1097,
-      "parsed_at": "2026-01-07T06:21:07.425419",
+      "parsed_at": "2026-01-07T07:23:07.443618",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -1098,6 +1098,21 @@
       "start": "2026-02-05T06:00:00"
     },
     {
+      "duration": 6000,
+      "end": "2026-02-07T13:40:00",
+      "event": "AtCoder Beginner Contest 444",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc444",
+      "id": 64513764,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-02-07T12:00:00"
+    },
+    {
       "duration": 0,
       "end": "2026-02-07T16:00:00",
       "event": "Problem 983",
@@ -1156,6 +1171,21 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-02-21T14:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2026-03-01T10:00:00",
+      "event": "The 3rd Masters Championship-qual-",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/masters2026-qual",
+      "id": 64513765,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-01T04:00:00"
     },
     {
       "duration": 172800,
