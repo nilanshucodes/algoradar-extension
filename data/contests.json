@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-07T19:47:32Z",
-  "count": 90,
+  "lastUpdated": "2026-01-07T20:26:17Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -206,7 +206,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-07T18:13:07.721137",
+      "parsed_at": "2026-01-07T20:26:06.695447",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -220,8 +220,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1113,
-      "parsed_at": "2026-01-07T18:46:06.924543",
+      "n_statistics": 1116,
+      "parsed_at": "2026-01-07T19:48:09.367522",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -271,6 +271,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-31T23:58:51"
+    },
+    {
+      "duration": 6667074,
+      "end": "2026-03-25T23:59:00",
+      "event": "Stanford RNA 3D Folding Part 2 [video games, biology, chemistry, biotechnology, regression, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/stanford-rna-3d-folding-2",
+      "id": 64522578,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-01-07T20:01:06"
     },
     {
       "duration": 18000,
