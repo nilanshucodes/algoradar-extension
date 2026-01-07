@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-06T23:46:47Z",
-  "count": 90,
+  "lastUpdated": "2026-01-07T01:46:40Z",
+  "count": 89,
   "contests": [
     {
       "duration": 15234248,
@@ -33,21 +33,6 @@
       "start": "2025-09-16T17:04:06"
     },
     {
-      "duration": 8932670,
-      "end": "2026-01-06T23:59:00",
-      "event": "NFL Big Data Bowl 2026 - Prediction [football, sports, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction",
-      "id": 62116533,
-      "n_problems": null,
-      "n_statistics": 1000,
-      "parsed_at": "2025-11-26T16:05:07.852650",
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-09-25T14:41:10"
-    },
-    {
       "duration": 8211600,
       "end": "2026-01-09T05:00:00",
       "event": "Booster Soccer Showdown",
@@ -70,8 +55,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 203,
-      "parsed_at": "2026-01-06T13:37:07.175819",
+      "n_statistics": 204,
+      "parsed_at": "2026-01-07T01:38:06.574254",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -221,7 +206,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-06T22:17:07.776356",
+      "parsed_at": "2026-01-07T00:30:08.878621",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -236,7 +221,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1096,
-      "parsed_at": "2026-01-06T23:07:07.259893",
+      "parsed_at": "2026-01-07T01:11:06.463817",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
