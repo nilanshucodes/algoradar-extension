@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T14:55:56Z",
+  "lastUpdated": "2026-01-07T15:28:48Z",
   "count": 92,
   "contests": [
     {
@@ -280,8 +280,8 @@
       "href": "https://www.codechef.com/START220",
       "id": 64339339,
       "n_problems": 9,
-      "n_statistics": 9111,
-      "parsed_at": "2026-01-07T14:38:06.477966",
+      "n_statistics": 19269,
+      "parsed_at": "2026-01-07T15:02:07.505802",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -295,8 +295,8 @@
       "href": "https://codeforces.com/contests/2183",
       "id": 64261958,
       "n_problems": 11,
-      "n_statistics": 9945,
-      "parsed_at": "2026-01-07T14:50:06.730620",
+      "n_statistics": 16498,
+      "parsed_at": "2026-01-07T15:20:07.960239",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
