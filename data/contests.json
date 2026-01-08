@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-08T21:21:55Z",
-  "count": 90,
+  "lastUpdated": "2026-01-08T21:49:46Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -221,7 +221,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1146,
-      "parsed_at": "2026-01-08T20:36:06.698676",
+      "parsed_at": "2026-01-08T21:38:06.360814",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -316,6 +316,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-01-09T11:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-01-09T17:00:00",
+      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 12",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/88002/enter/?retPage=",
+      "id": 64541099,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-01-09T12:00:00"
     },
     {
       "duration": 172800,
