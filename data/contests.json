@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T08:59:36Z",
+  "lastUpdated": "2026-01-08T09:37:09Z",
   "count": 91,
   "contests": [
     {
@@ -221,7 +221,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1130,
-      "parsed_at": "2026-01-08T08:12:07.523304",
+      "parsed_at": "2026-01-08T09:14:07.391341",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -543,8 +543,8 @@
       "start": "2026-01-11T11:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-01-11T12:00:00",
+      "duration": 5400,
+      "end": "2026-01-11T12:30:00",
       "event": "Blitz Round #10",
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/94ulnr964l011arqjc94v5e5sk",
