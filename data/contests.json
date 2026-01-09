@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T21:21:17Z",
+  "lastUpdated": "2026-01-09T21:48:25Z",
   "count": 98,
   "contests": [
     {
@@ -220,8 +220,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1178,
-      "parsed_at": "2026-01-09T20:22:07.567996",
+      "n_statistics": 1179,
+      "parsed_at": "2026-01-09T21:24:08.775205",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -309,9 +309,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND32",
       "id": 64512488,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 6,
+      "n_statistics": 13,
+      "parsed_at": "2026-01-09T21:42:06.510158",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
