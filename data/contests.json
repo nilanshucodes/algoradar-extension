@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-09T13:58:27Z",
-  "count": 91,
+  "lastUpdated": "2026-01-09T14:33:16Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -206,7 +206,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 198,
-      "parsed_at": "2026-01-09T12:18:09.299343",
+      "parsed_at": "2026-01-09T14:31:07.456088",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -220,8 +220,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1160,
-      "parsed_at": "2026-01-09T13:08:07.919340",
+      "n_statistics": 1163,
+      "parsed_at": "2026-01-09T14:10:07.451858",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -301,21 +301,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-09T00:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-09T14:00:00",
-      "event": "牛客挑战赛85 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/126635",
-      "id": 64381754,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-01-09T11:00:00"
     },
     {
       "duration": 18000,
