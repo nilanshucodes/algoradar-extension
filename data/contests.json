@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T11:19:40Z",
+  "lastUpdated": "2026-01-09T11:48:07Z",
   "count": 91,
   "contests": [
     {
@@ -319,7 +319,7 @@
     },
     {
       "duration": 18000,
-      "end": "2026-01-09T17:00:00",
+      "end": "2026-01-09T17:30:00",
       "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 12",
       "host": "contest.yandex.ru/CYF",
       "href": "https://official.contest.yandex.ru/CYF/contest/88002/enter/?retPage=",
@@ -330,7 +330,7 @@
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
-      "start": "2026-01-09T12:00:00"
+      "start": "2026-01-09T12:30:00"
     },
     {
       "duration": 172800,
