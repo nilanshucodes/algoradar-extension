@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-09T17:30:38Z",
-  "count": 97,
+  "lastUpdated": "2026-01-09T17:51:51Z",
+  "count": 98,
   "contests": [
     {
       "duration": 15234248,
@@ -541,6 +541,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-01-11T14:35:00"
+    },
+    {
+      "duration": 604500,
+      "end": "2026-01-18T19:55:00",
+      "event": "Educational Round #6",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/ikoi44ho994uj2rcj49h0l45v4",
+      "id": 64555556,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-01-11T20:00:00"
     },
     {
       "duration": 8100,
