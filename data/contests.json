@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-09T16:58:33Z",
-  "count": 98,
+  "lastUpdated": "2026-01-09T17:30:38Z",
+  "count": 97,
   "contests": [
     {
       "duration": 15234248,
@@ -220,8 +220,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1166,
-      "parsed_at": "2026-01-09T16:14:07.220718",
+      "n_statistics": 1168,
+      "parsed_at": "2026-01-09T17:16:07.981055",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -301,21 +301,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-09T00:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-09T17:30:00",
-      "event": "Сборы перед третьим этапом BelOI 2026, декабрь 2025 - январь 2026. День 12",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/88002/enter/?retPage=",
-      "id": 64541099,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-01-09T12:30:00"
     },
     {
       "duration": 172800,
