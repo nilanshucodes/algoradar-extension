@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T16:25:46Z",
+  "lastUpdated": "2026-01-10T16:52:42Z",
   "count": 97,
   "contests": [
     {
@@ -785,7 +785,7 @@
     {
       "duration": 14400,
       "end": "2026-01-18T10:00:00",
-      "event": "【LGR-261-Div.1】洛谷 1 月月赛 III [rated, ioi]",
+      "event": "【LGR-262-Div.1】洛谷 1 月月赛 III [rated, ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/302392",
       "id": 64568807,
@@ -800,7 +800,7 @@
     {
       "duration": 14400,
       "end": "2026-01-18T10:00:00",
-      "event": "【LGR-261-Div.2】洛谷 1 月月赛 III [rated, ioi]",
+      "event": "【LGR-262-Div.2】洛谷 1 月月赛 III [rated, ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/302393",
       "id": 64568808,
