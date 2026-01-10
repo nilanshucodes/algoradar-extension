@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T12:40:26Z",
+  "lastUpdated": "2026-01-10T13:29:23Z",
   "count": 98,
   "contests": [
     {
@@ -191,7 +191,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 201,
-      "parsed_at": "2026-01-10T10:28:09.919943",
+      "parsed_at": "2026-01-10T12:41:09.116661",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1194,
-      "parsed_at": "2026-01-10T11:52:08.535286",
+      "n_statistics": 1196,
+      "parsed_at": "2026-01-10T12:54:08.962168",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -355,8 +355,8 @@
       "href": "https://atcoder.jp/contests/abc440",
       "id": 64030485,
       "n_problems": 7,
-      "n_statistics": 10764,
-      "parsed_at": "2026-01-10T12:36:09.533023",
+      "n_statistics": 11256,
+      "parsed_at": "2026-01-10T13:18:09.844107",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
