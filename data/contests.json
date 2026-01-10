@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T10:20:58Z",
+  "lastUpdated": "2026-01-10T10:49:45Z",
   "count": 97,
   "contests": [
     {
@@ -190,8 +190,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 200,
-      "parsed_at": "2026-01-10T08:15:10.310863",
+      "n_statistics": 201,
+      "parsed_at": "2026-01-10T10:28:09.919943",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND32",
       "id": 64512488,
       "n_problems": 6,
-      "n_statistics": 37,
-      "parsed_at": "2026-01-10T07:21:09.519357",
+      "n_statistics": 56,
+      "parsed_at": "2026-01-10T10:34:08.756215",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
