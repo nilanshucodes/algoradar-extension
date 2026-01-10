@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T10:49:45Z",
-  "count": 97,
+  "lastUpdated": "2026-01-10T11:17:23Z",
+  "count": 98,
   "contests": [
     {
       "duration": 15234248,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1185,
-      "parsed_at": "2026-01-10T09:48:08.164677",
+      "n_statistics": 1190,
+      "parsed_at": "2026-01-10T10:50:08.996619",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -331,21 +331,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-01-10T05:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-10T11:00:00",
-      "event": "HackTheART",
-      "host": "kilonova.ro",
-      "href": "https://kilonova.ro/contests/2246",
-      "id": 64484923,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kilonova.ro",
-      "resource_id": 175,
-      "start": "2026-01-10T08:00:00"
     },
     {
       "duration": 172800,
@@ -811,6 +796,36 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-01-18T02:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-18T10:00:00",
+      "event": "【LGR-259-Div.1】洛谷 1 月月赛 III [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/302392",
+      "id": 64568807,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-18T06:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-18T10:00:00",
+      "event": "【LGR-259-Div.2】洛谷 1 月月赛 III [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/302393",
+      "id": 64568808,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-18T06:00:00"
     },
     {
       "duration": 0,
