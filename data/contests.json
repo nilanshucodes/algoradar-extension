@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T20:22:38Z",
-  "count": 98,
+  "lastUpdated": "2026-01-10T20:49:21Z",
+  "count": 97,
   "contests": [
     {
       "duration": 15234248,
@@ -1006,21 +1006,6 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-25T10:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-01-25T16:30:00",
-      "event": "Blitz Round #11",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/hsr4988ib93ur8kp2jf56vho4s",
-      "id": 64573252,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-01-25T15:00:00"
     },
     {
       "duration": 7200,
