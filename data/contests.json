@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T09:47:31Z",
-  "count": 99,
+  "lastUpdated": "2026-01-10T10:20:58Z",
+  "count": 97,
   "contests": [
     {
       "duration": 15234248,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1182,
-      "parsed_at": "2026-01-10T08:46:08.931481",
+      "n_statistics": 1185,
+      "parsed_at": "2026-01-10T09:48:08.164677",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -331,36 +331,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-01-10T05:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-10T10:00:00",
-      "event": "AtCoder Heuristic Contest 059",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/ahc059",
-      "id": 64197006,
-      "n_problems": 1,
-      "n_statistics": 1429,
-      "parsed_at": "2026-01-10T09:40:09.611807",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-10T06:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-10T10:00:00",
-      "event": "【LGR-258-Div.2】洛谷 1 月月赛 II & KWOI Round 1 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/280819",
-      "id": 64441327,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-10T06:00:00"
     },
     {
       "duration": 10800,
