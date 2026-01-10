@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T07:22:31Z",
+  "lastUpdated": "2026-01-10T07:45:45Z",
   "count": 99,
   "contests": [
     {
@@ -206,7 +206,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1182,
-      "parsed_at": "2026-01-10T06:42:08.895827",
+      "parsed_at": "2026-01-10T07:44:09.124168",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -340,8 +340,8 @@
       "href": "https://atcoder.jp/contests/ahc059",
       "id": 64197006,
       "n_problems": 1,
-      "n_statistics": 1318,
-      "parsed_at": "2026-01-10T07:07:09.824221",
+      "n_statistics": 1351,
+      "parsed_at": "2026-01-10T07:41:08.618007",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
