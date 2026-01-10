@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T04:57:30Z",
-  "count": 98,
+  "lastUpdated": "2026-01-10T05:28:31Z",
+  "count": 97,
   "contests": [
     {
       "duration": 15234248,
@@ -31,21 +31,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-09-16T17:04:06"
-    },
-    {
-      "duration": 8298000,
-      "end": "2026-01-10T05:00:00",
-      "event": "Booster Soccer Showdown",
-      "host": "competesai.com",
-      "href": "https://competesai.com/competitions/booster-soccer-showdown",
-      "id": 63991367,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "competesai.com",
-      "resource_id": 182,
-      "start": "2025-10-06T04:00:00"
     },
     {
       "duration": 31536000,
