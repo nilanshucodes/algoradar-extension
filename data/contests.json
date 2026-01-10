@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T22:49:24Z",
-  "count": 97,
+  "lastUpdated": "2026-01-10T23:19:50Z",
+  "count": 96,
   "contests": [
     {
       "duration": 15234248,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1212,
-      "parsed_at": "2026-01-10T22:14:08.104668",
+      "n_statistics": 1213,
+      "parsed_at": "2026-01-10T23:16:09.554489",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -316,21 +316,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-10T00:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-10T23:00:00",
-      "event": "The 4th Universal Cup. Stage 12: Shanghai",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890749,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-01-10T05:00:00"
     },
     {
       "duration": 172800,
