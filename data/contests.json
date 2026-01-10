@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T16:52:42Z",
-  "count": 97,
+  "lastUpdated": "2026-01-10T17:18:12Z",
+  "count": 98,
   "contests": [
     {
       "duration": 15234248,
@@ -191,7 +191,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 201,
-      "parsed_at": "2026-01-10T14:54:09.445398",
+      "parsed_at": "2026-01-10T17:07:09.374484",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1202,
-      "parsed_at": "2026-01-10T16:00:11.777141",
+      "n_statistics": 1205,
+      "parsed_at": "2026-01-10T17:03:08.752036",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND32",
       "id": 64512488,
       "n_problems": 6,
-      "n_statistics": 73,
-      "parsed_at": "2026-01-10T13:47:09.523577",
+      "n_statistics": 96,
+      "parsed_at": "2026-01-10T17:00:09.606714",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -1006,6 +1006,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-25T10:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-01-25T16:30:00",
+      "event": "Blitz Round #11",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/hsr4988ib93ur8kp2jf56vho4s",
+      "id": 64573252,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-01-25T15:00:00"
     },
     {
       "duration": 7200,
