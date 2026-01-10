@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T11:46:02Z",
+  "lastUpdated": "2026-01-10T12:40:26Z",
   "count": 98,
   "contests": [
     {
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1190,
-      "parsed_at": "2026-01-10T10:50:08.996619",
+      "n_statistics": 1194,
+      "parsed_at": "2026-01-10T11:52:08.535286",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -354,9 +354,9 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/abc440",
       "id": 64030485,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 7,
+      "n_statistics": 10764,
+      "parsed_at": "2026-01-10T12:36:09.533023",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
