@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T05:49:40Z",
-  "count": 97,
+  "lastUpdated": "2026-01-10T06:31:19Z",
+  "count": 99,
   "contests": [
     {
       "duration": 15234248,
@@ -191,7 +191,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 200,
-      "parsed_at": "2026-01-10T03:49:08.266071",
+      "parsed_at": "2026-01-10T06:02:08.395324",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -339,9 +339,9 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/ahc059",
       "id": 64197006,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 1,
+      "n_statistics": 1230,
+      "parsed_at": "2026-01-10T06:16:09.612886",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -858,6 +858,21 @@
       "start": "2026-01-18T07:00:00"
     },
     {
+      "duration": 1123200,
+      "end": "2026-01-31T08:00:00",
+      "event": "Марафон №2 по задачам В.И. Лукьянчикова",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46031",
+      "id": 64564843,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-01-18T08:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-01-18T13:00:00",
       "event": "牛客周赛 Round 127 [IOI]",
@@ -1126,6 +1141,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-31T13:00:00"
+    },
+    {
+      "duration": 1296000,
+      "end": "2026-02-16T08:00:00",
+      "event": "Марафон №3 по задачам В.И. Лукьянчикова",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46032",
+      "id": 64565191,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-02-01T08:00:00"
     },
     {
       "duration": 14400,
