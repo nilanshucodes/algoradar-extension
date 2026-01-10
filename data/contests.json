@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T21:18:39Z",
+  "lastUpdated": "2026-01-10T21:46:33Z",
   "count": 97,
   "contests": [
     {
@@ -191,7 +191,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 201,
-      "parsed_at": "2026-01-10T19:20:09.540722",
+      "parsed_at": "2026-01-10T21:33:08.980071",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -451,21 +451,6 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-01-11T12:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-11T17:35:00",
-      "event": "Hello 2026 Round",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 64492066,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-01-11T14:35:00"
     },
     {
       "duration": 604500,
@@ -856,6 +841,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-01-18T11:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-18T17:35:00",
+      "event": "Repovive Hello 2026 Round",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 64492066,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-01-18T14:35:00"
     },
     {
       "duration": 8100,
