@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T13:29:23Z",
-  "count": 98,
+  "lastUpdated": "2026-01-10T13:49:40Z",
+  "count": 97,
   "contests": [
     {
       "duration": 15234248,
@@ -41,7 +41,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 204,
-      "parsed_at": "2026-01-10T01:43:08.710607",
+      "parsed_at": "2026-01-10T13:44:09.607361",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND32",
       "id": 64512488,
       "n_problems": 6,
-      "n_statistics": 56,
-      "parsed_at": "2026-01-10T10:34:08.756215",
+      "n_statistics": 73,
+      "parsed_at": "2026-01-10T13:47:09.523577",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -346,21 +346,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-10T09:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-01-10T13:40:00",
-      "event": "AtCoder Beginner Contest 440",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc440",
-      "id": 64030485,
-      "n_problems": 7,
-      "n_statistics": 11256,
-      "parsed_at": "2026-01-10T13:18:09.844107",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-10T12:00:00"
     },
     {
       "duration": 14400,
