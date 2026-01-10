@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T06:56:12Z",
+  "lastUpdated": "2026-01-10T07:22:31Z",
   "count": 99,
   "contests": [
     {
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND32",
       "id": 64512488,
       "n_problems": 6,
-      "n_statistics": 20,
-      "parsed_at": "2026-01-10T04:08:08.405584",
+      "n_statistics": 37,
+      "parsed_at": "2026-01-10T07:21:09.519357",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -340,8 +340,8 @@
       "href": "https://atcoder.jp/contests/ahc059",
       "id": 64197006,
       "n_problems": 1,
-      "n_statistics": 1298,
-      "parsed_at": "2026-01-10T06:50:09.263926",
+      "n_statistics": 1318,
+      "parsed_at": "2026-01-10T07:07:09.824221",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
