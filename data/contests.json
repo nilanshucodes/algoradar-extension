@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T13:30:16Z",
+  "lastUpdated": "2026-01-11T13:50:41Z",
   "count": 89,
   "contests": [
     {
@@ -41,7 +41,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 204,
-      "parsed_at": "2026-01-11T01:45:11.678035",
+      "parsed_at": "2026-01-11T13:46:07.892029",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1235,
-      "parsed_at": "2026-01-11T12:44:08.225392",
+      "n_statistics": 1241,
+      "parsed_at": "2026-01-11T13:46:07.891562",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -325,8 +325,8 @@
       "href": "https://atcoder.jp/contests/arc212",
       "id": 64037730,
       "n_problems": 6,
-      "n_statistics": 1254,
-      "parsed_at": "2026-01-11T13:20:09.279890",
+      "n_statistics": 1326,
+      "parsed_at": "2026-01-11T13:47:08.193804",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
