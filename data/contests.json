@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-11T03:52:21Z",
-  "count": 96,
+  "lastUpdated": "2026-01-11T04:48:25Z",
+  "count": 93,
   "contests": [
     {
       "duration": 15234248,
@@ -191,7 +191,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 201,
-      "parsed_at": "2026-01-11T01:59:08.983420",
+      "parsed_at": "2026-01-11T04:12:10.003819",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -206,7 +206,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1214,
-      "parsed_at": "2026-01-11T03:24:09.828974",
+      "parsed_at": "2026-01-11T04:26:10.465945",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -331,51 +331,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-10T09:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-11T04:30:00",
-      "event": "『LBA-OI』Round 2 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/292354",
-      "id": 64386196,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-11T00:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-01-11T04:00:00",
-      "event": "Weekly Contest 484",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-484",
-      "id": 64336707,
-      "n_problems": 4,
-      "n_statistics": 2575,
-      "parsed_at": "2026-01-11T03:45:09.303553",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-01-11T02:30:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-01-11T04:00:00",
-      "event": "Problem 978",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 64449662,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-01-11T04:00:00"
     },
     {
       "duration": 18000,
