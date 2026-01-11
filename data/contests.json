@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-11T13:50:41Z",
-  "count": 89,
+  "lastUpdated": "2026-01-11T14:19:26Z",
+  "count": 88,
   "contests": [
     {
       "duration": 15234248,
@@ -316,21 +316,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-10T09:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-11T14:00:00",
-      "event": "AtCoder Regular Contest 212 (Div. 2)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/arc212",
-      "id": 64037730,
-      "n_problems": 6,
-      "n_statistics": 1326,
-      "parsed_at": "2026-01-11T13:47:08.193804",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-11T12:00:00"
     },
     {
       "duration": 604500,
