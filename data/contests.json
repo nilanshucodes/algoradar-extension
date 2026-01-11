@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-11T16:43:27Z",
-  "count": 88,
+  "lastUpdated": "2026-01-11T16:52:27Z",
+  "count": 89,
   "contests": [
     {
       "duration": 15234248,
@@ -436,6 +436,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-01-16T11:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-17T04:00:00",
+      "event": "『LHB-OI』Round 1 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/302723",
+      "id": 64598559,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-17T00:00:00"
     },
     {
       "duration": 43200,
