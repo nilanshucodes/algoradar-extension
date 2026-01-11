@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-11T11:46:04Z",
-  "count": 91,
+  "lastUpdated": "2026-01-11T12:41:50Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -280,8 +280,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND32",
       "id": 64512488,
       "n_problems": 6,
-      "n_statistics": 134,
-      "parsed_at": "2026-01-11T09:06:10.350689",
+      "n_statistics": 145,
+      "parsed_at": "2026-01-11T12:19:09.871812",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -333,30 +333,15 @@
       "start": "2026-01-11T11:00:00"
     },
     {
-      "duration": 5400,
-      "end": "2026-01-11T12:30:00",
-      "event": "Blitz Round #10",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/94ulnr964l011arqjc94v5e5sk",
-      "id": 64481627,
-      "n_problems": 5,
-      "n_statistics": 80,
-      "parsed_at": "2026-01-11T11:41:09.343743",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-01-11T11:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-01-11T14:00:00",
       "event": "AtCoder Regular Contest 212 (Div. 2)",
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/arc212",
       "id": 64037730,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 6,
+      "n_statistics": 1063,
+      "parsed_at": "2026-01-11T12:35:09.119209",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
