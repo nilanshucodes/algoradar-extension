@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T16:58:55Z",
-  "count": 88,
+  "lastUpdated": "2026-01-12T17:32:02Z",
+  "count": 90,
   "contests": [
     {
       "duration": 15234248,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1274,
-      "parsed_at": "2026-01-12T16:15:12.983513",
+      "n_statistics": 1276,
+      "parsed_at": "2026-01-12T17:18:09.657206",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -556,6 +556,36 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-01-17T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-17T16:35:00",
+      "event": "Codeforces Round (Div. 1)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2190",
+      "id": 64620779,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-01-17T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-17T16:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2191",
+      "id": 64620780,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-01-17T14:35:00"
     },
     {
       "duration": 5400,
