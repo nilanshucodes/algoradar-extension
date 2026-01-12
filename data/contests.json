@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T03:50:03Z",
-  "count": 86,
+  "lastUpdated": "2026-01-12T04:51:07Z",
+  "count": 87,
   "contests": [
     {
       "duration": 15234248,
@@ -191,7 +191,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 203,
-      "parsed_at": "2026-01-12T02:22:09.100349",
+      "parsed_at": "2026-01-12T04:35:09.254514",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -286,6 +286,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-11T20:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-12T15:30:00",
+      "event": "Monday Munch - DSA Challenge 20",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY20",
+      "id": 64609423,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-01-12T12:30:00"
     },
     {
       "duration": 8100,
