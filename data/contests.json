@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T23:17:35Z",
+  "lastUpdated": "2026-01-12T23:47:13Z",
   "count": 90,
   "contests": [
     {
@@ -206,7 +206,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1286,
-      "parsed_at": "2026-01-12T22:29:08.478918",
+      "parsed_at": "2026-01-12T23:31:08.458807",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -558,8 +558,8 @@
       "start": "2026-01-17T14:30:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-01-17T16:35:00",
+      "duration": 10800,
+      "end": "2026-01-17T17:35:00",
       "event": "Codeforces Round (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2190",
@@ -573,8 +573,8 @@
       "start": "2026-01-17T14:35:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-01-17T16:35:00",
+      "duration": 10800,
+      "end": "2026-01-17T17:35:00",
       "event": "Codeforces Round (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2191",
