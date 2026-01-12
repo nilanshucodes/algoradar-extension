@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T13:42:16Z",
+  "lastUpdated": "2026-01-12T14:26:41Z",
   "count": 90,
   "contests": [
     {
@@ -41,7 +41,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 204,
-      "parsed_at": "2026-01-12T01:47:08.132777",
+      "parsed_at": "2026-01-12T13:48:08.857252",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -206,7 +206,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1268,
-      "parsed_at": "2026-01-12T13:09:09.322735",
+      "parsed_at": "2026-01-12T14:11:08.107140",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -280,8 +280,8 @@
       "href": "https://www.codechef.com/DSAMONDAY20",
       "id": 64609423,
       "n_problems": 6,
-      "n_statistics": 381,
-      "parsed_at": "2026-01-12T13:34:09.643543",
+      "n_statistics": 568,
+      "parsed_at": "2026-01-12T14:26:08.994422",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
