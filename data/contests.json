@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T07:27:36Z",
-  "count": 87,
+  "lastUpdated": "2026-01-12T07:51:55Z",
+  "count": 89,
   "contests": [
     {
       "duration": 15234248,
@@ -828,6 +828,21 @@
       "start": "2026-01-24T14:00:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-01-25T04:00:00",
+      "event": "Weekly Contest 486",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-486",
+      "id": 64612120,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-01-25T02:30:00"
+    },
+    {
       "duration": 0,
       "end": "2026-01-25T10:00:00",
       "event": "Problem 980",
@@ -961,6 +976,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-31T13:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-01-31T16:00:00",
+      "event": "Biweekly Contest 175",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/biweekly-contest-175",
+      "id": 64612119,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-01-31T14:30:00"
     },
     {
       "duration": 1296000,
