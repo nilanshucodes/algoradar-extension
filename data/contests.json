@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T11:21:19Z",
-  "count": 90,
+  "lastUpdated": "2026-01-12T11:48:47Z",
+  "count": 91,
   "contests": [
     {
       "duration": 15234248,
@@ -271,6 +271,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-11T20:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-01-12T12:50:00",
+      "event": "Дворец пионеров, Подготовка к региону №1",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46037",
+      "id": 64616186,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-01-12T11:20:00"
     },
     {
       "duration": 10800,
