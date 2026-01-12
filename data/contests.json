@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T19:46:32Z",
+  "lastUpdated": "2026-01-12T20:26:28Z",
   "count": 90,
   "contests": [
     {
@@ -191,7 +191,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 204,
-      "parsed_at": "2026-01-12T17:53:08.211834",
+      "parsed_at": "2026-01-12T20:06:10.147433",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -205,8 +205,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1280,
-      "parsed_at": "2026-01-12T19:23:08.522662",
+      "n_statistics": 1283,
+      "parsed_at": "2026-01-12T20:25:08.983413",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -1099,7 +1099,7 @@
     },
     {
       "duration": 10800,
-      "end": "2026-02-08T10:05:00",
+      "end": "2026-02-08T10:35:00",
       "event": "Technocup 2025-2026 [sport_coding]. Second qualifying stage",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1579",
@@ -1110,7 +1110,7 @@
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
-      "start": "2026-02-08T07:05:00"
+      "start": "2026-02-08T07:35:00"
     },
     {
       "duration": 7254000,
