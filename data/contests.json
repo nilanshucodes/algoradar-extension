@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T16:28:14Z",
-  "count": 89,
+  "lastUpdated": "2026-01-12T16:58:55Z",
+  "count": 88,
   "contests": [
     {
       "duration": 15234248,
@@ -271,21 +271,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-11T20:00:00"
-    },
-    {
-      "duration": 8100,
-      "end": "2026-01-12T16:50:00",
-      "event": "Codeforces Round 1072 (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2184",
-      "id": 64287303,
-      "n_problems": 7,
-      "n_statistics": 28632,
-      "parsed_at": "2026-01-12T16:12:10.760342",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-01-12T14:35:00"
     },
     {
       "duration": 7200,
