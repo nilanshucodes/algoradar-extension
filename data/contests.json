@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T23:47:13Z",
-  "count": 90,
+  "lastUpdated": "2026-01-13T01:44:12Z",
+  "count": 89,
   "contests": [
     {
       "duration": 15234248,
@@ -108,21 +108,6 @@
       "start": "2025-10-28T20:02:37"
     },
     {
-      "duration": 5383610,
-      "end": "2026-01-12T23:59:00",
-      "event": "Google Tunix Hack - Train a model to show its work [reinforcement learning, tpu, ml ethics, text generation, coding]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/google-tunix-hackathon",
-      "id": 63202079,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-11-11T16:32:10"
-    },
-    {
       "duration": 31536000,
       "end": "2026-11-13T00:00:00",
       "event": "Snake3D",
@@ -191,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 204,
-      "parsed_at": "2026-01-12T22:19:08.479333",
+      "parsed_at": "2026-01-13T00:32:09.226599",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -205,8 +190,8 @@
       "href": "https://inf-open.ru/schedule/",
       "id": 63350906,
       "n_problems": 9,
-      "n_statistics": 1286,
-      "parsed_at": "2026-01-12T23:31:08.458807",
+      "n_statistics": 1287,
+      "parsed_at": "2026-01-13T01:35:08.460619",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -265,8 +250,8 @@
       "href": "https://basecamp.eolymp.com/contests/ikoi44ho994uj2rcj49h0l45v4",
       "id": 64555556,
       "n_problems": 10,
-      "n_statistics": 22,
-      "parsed_at": "2026-01-12T13:12:09.274481",
+      "n_statistics": 30,
+      "parsed_at": "2026-01-13T00:24:09.701704",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
