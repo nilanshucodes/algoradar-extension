@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T14:26:17Z",
+  "lastUpdated": "2026-01-13T14:57:26Z",
   "count": 93,
   "contests": [
     {
@@ -258,8 +258,8 @@
       "start": "2026-01-11T20:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-01-14T10:20:00",
+      "duration": 11400,
+      "end": "2026-01-14T10:30:00",
       "event": "Подготовка к региональному этапу ВсОШ, ФМШ",
       "host": "acmp.ru",
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46038",
