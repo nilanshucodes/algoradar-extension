@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T08:59:44Z",
+  "lastUpdated": "2026-01-13T09:37:10Z",
   "count": 94,
   "contests": [
     {
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 204,
-      "parsed_at": "2026-01-13T07:11:08.382426",
+      "parsed_at": "2026-01-13T09:24:09.939673",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -395,7 +395,7 @@
     {
       "duration": 18000,
       "end": "2026-01-17T23:00:00",
-      "event": "The 4th Universal Cup. Stage 13: TBD",
+      "event": "The 4th Universal Cup. Stage 13: Ōokayama",
       "host": "ucup.ac",
       "href": "https://ucup.ac/",
       "id": 63890750,
