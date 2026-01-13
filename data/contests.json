@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T20:53:10Z",
+  "lastUpdated": "2026-01-13T21:21:50Z",
   "count": 94,
   "contests": [
     {
@@ -183,21 +183,6 @@
       "start": "2025-11-22T00:00:00"
     },
     {
-      "duration": 3715200,
-      "end": "2026-01-13T21:00:00",
-      "event": "Отборочный этап. XX Открытая олимпиада по программированию",
-      "host": "inf-open.ru",
-      "href": "https://inf-open.ru/schedule/",
-      "id": 63350906,
-      "n_problems": 9,
-      "n_statistics": 1327,
-      "parsed_at": "2026-01-13T20:12:11.012863",
-      "problems": null,
-      "resource": "inf-open.ru",
-      "resource_id": 85,
-      "start": "2025-12-01T21:00:00"
-    },
-    {
       "duration": 8395302,
       "end": "2026-03-23T23:59:00",
       "event": "Deep Past Challenge - Translate Akkadian to English [history, text, translation, custom metric]",
@@ -256,6 +241,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-11T20:00:00"
+    },
+    {
+      "duration": 3639512,
+      "end": "2026-02-24T23:59:00",
+      "event": "The MedGemma Impact Challenge [healthcare, health, model comparison]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/med-gemma-impact-challenge",
+      "id": 64645557,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-01-13T21:00:28"
     },
     {
       "duration": 11400,
