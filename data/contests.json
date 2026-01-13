@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T11:20:43Z",
-  "count": 95,
+  "lastUpdated": "2026-01-13T11:49:10Z",
+  "count": 93,
   "contests": [
     {
       "duration": 15234248,
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 204,
-      "parsed_at": "2026-01-13T09:24:09.939673",
+      "parsed_at": "2026-01-13T11:37:07.949891",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -250,8 +250,8 @@
       "href": "https://basecamp.eolymp.com/contests/ikoi44ho994uj2rcj49h0l45v4",
       "id": 64555556,
       "n_problems": 10,
-      "n_statistics": 30,
-      "parsed_at": "2026-01-13T00:24:09.701704",
+      "n_statistics": 32,
+      "parsed_at": "2026-01-13T11:36:08.176241",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -798,21 +798,6 @@
       "start": "2026-01-23T14:35:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-01-24T23:00:00",
-      "event": "The 4th Universal Cup. Stage 14: TBD",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890751,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-01-24T05:00:00"
-    },
-    {
       "duration": 6000,
       "end": "2026-01-24T13:40:00",
       "event": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
@@ -976,21 +961,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-30T09:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-31T23:00:00",
-      "event": "The 4th Universal Cup. Stage 15: TBD",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890752,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-01-31T05:00:00"
     },
     {
       "duration": 86400,
