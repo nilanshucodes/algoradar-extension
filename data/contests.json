@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T07:00:42Z",
-  "count": 93,
+  "lastUpdated": "2026-01-13T07:49:58Z",
+  "count": 94,
   "contests": [
     {
       "duration": 15234248,
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 204,
-      "parsed_at": "2026-01-13T04:58:08.478196",
+      "parsed_at": "2026-01-13T07:11:08.382426",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -191,7 +191,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1287,
-      "parsed_at": "2026-01-13T06:45:09.175878",
+      "parsed_at": "2026-01-13T07:47:08.250503",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -721,6 +721,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-18T15:00:00"
+    },
+    {
+      "duration": 12600,
+      "end": "2026-01-20T11:30:00",
+      "event": "Подготовка к региональному этапу ВсОШ, ФМШ",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46038",
+      "id": 64633458,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-01-20T08:00:00"
     },
     {
       "duration": 7200,
