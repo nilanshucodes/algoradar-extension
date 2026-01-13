@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T04:26:42Z",
-  "count": 89,
+  "lastUpdated": "2026-01-13T05:01:43Z",
+  "count": 93,
   "contests": [
     {
       "duration": 15234248,
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 204,
-      "parsed_at": "2026-01-13T02:45:09.355200",
+      "parsed_at": "2026-01-13T04:58:08.478196",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -191,7 +191,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1287,
-      "parsed_at": "2026-01-13T03:39:08.248895",
+      "parsed_at": "2026-01-13T04:41:08.310795",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
@@ -618,6 +618,21 @@
       "start": "2026-01-18T06:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-01-18T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 64630932,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-01-18T06:00:00"
+    },
+    {
       "duration": 0,
       "end": "2026-01-18T07:00:00",
       "event": "Problem 979",
@@ -813,6 +828,21 @@
       "start": "2026-01-25T02:30:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-01-25T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 64630933,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-01-25T06:00:00"
+    },
+    {
       "duration": 0,
       "end": "2026-01-25T10:00:00",
       "event": "Problem 980",
@@ -993,6 +1023,21 @@
       "start": "2026-01-31T14:30:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-02-01T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 64630934,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-01T06:00:00"
+    },
+    {
       "duration": 1296000,
       "end": "2026-02-16T08:00:00",
       "event": "Марафон №3 по задачам В.И. Лукьянчикова",
@@ -1111,6 +1156,21 @@
       "resource": "competesai.com",
       "resource_id": 182,
       "start": "2026-02-09T05:00:00"
+    },
+    {
+      "duration": 864000,
+      "end": "2026-02-23T10:00:00",
+      "event": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/ahc061",
+      "id": 64630685,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-02-13T10:00:00"
     },
     {
       "duration": 10800,
