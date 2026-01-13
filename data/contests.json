@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T13:41:24Z",
+  "lastUpdated": "2026-01-13T14:26:17Z",
   "count": 93,
   "contests": [
     {
@@ -40,8 +40,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 205,
-      "parsed_at": "2026-01-13T01:49:08.240731",
+      "n_statistics": 206,
+      "parsed_at": "2026-01-13T13:50:08.679645",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 204,
-      "parsed_at": "2026-01-13T11:37:07.949891",
+      "parsed_at": "2026-01-13T13:50:08.686517",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -191,7 +191,7 @@
       "id": 63350906,
       "n_problems": 9,
       "n_statistics": 1297,
-      "parsed_at": "2026-01-13T12:57:09.488969",
+      "parsed_at": "2026-01-13T13:59:09.074739",
       "problems": null,
       "resource": "inf-open.ru",
       "resource_id": 85,
