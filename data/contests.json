@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T10:54:34Z",
-  "count": 94,
+  "lastUpdated": "2026-01-13T11:20:43Z",
+  "count": 95,
   "contests": [
     {
       "duration": 15234248,
@@ -783,6 +783,21 @@
       "start": "2026-01-22T14:30:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-01-23T16:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2189",
+      "id": 64636419,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-01-23T14:35:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-01-24T23:00:00",
       "event": "The 4th Universal Cup. Stage 14: TBD",
@@ -918,8 +933,8 @@
       "start": "2026-01-29T14:30:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-01-29T16:35:00",
+      "duration": 9000,
+      "end": "2026-01-29T17:05:00",
       "event": "Codeforces Round (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2187",
@@ -933,8 +948,8 @@
       "start": "2026-01-29T14:35:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-01-29T16:35:00",
+      "duration": 9000,
+      "end": "2026-01-29T17:05:00",
       "event": "Codeforces Round (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2188",
