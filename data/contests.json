@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-14T10:28:22Z",
-  "count": 99,
+  "lastUpdated": "2026-01-14T10:56:00Z",
+  "count": 98,
   "contests": [
     {
       "duration": 15234248,
@@ -258,24 +258,9 @@
       "start": "2026-01-13T21:00:28"
     },
     {
-      "duration": 11400,
-      "end": "2026-01-14T10:30:00",
-      "event": "Подготовка к региональному этапу ВсОШ, ФМШ",
-      "host": "acmp.ru",
-      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46038",
-      "id": 64633458,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "acmp.ru",
-      "resource_id": 5,
-      "start": "2026-01-14T07:20:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-01-14T16:30:00",
-      "event": "Starters 221",
+      "event": "Starters 221 (Rated till 6 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START221",
       "id": 64339338,
