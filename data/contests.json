@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T12:48:21Z",
+  "lastUpdated": "2026-01-14T13:40:45Z",
   "count": 98,
   "contests": [
     {
@@ -271,36 +271,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-14T14:30:00"
-    },
-    {
-      "duration": 2818740,
-      "end": "2026-02-16T20:59:00",
-      "event": "Международная олимпиада Innopolis Open 2025 – Профиль «Робототехника». Второй тур заочного отборочного этапа, 7-8 класс",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1584",
-      "id": 63173001,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-01-15T06:00:00"
-    },
-    {
-      "duration": 2818740,
-      "end": "2026-02-16T20:59:00",
-      "event": "Международная олимпиада Innopolis Open 2025 – Профиль «Робототехника». Второй тур заочного отборочного этапа, 9-11 класс",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1585",
-      "id": 63173002,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-01-15T06:00:00"
     },
     {
       "duration": 7200,
@@ -781,6 +751,36 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-01-21T15:30:00"
+    },
+    {
+      "duration": 2213940,
+      "end": "2026-02-16T20:59:00",
+      "event": "Международная олимпиада Innopolis Open 2025 – Профиль «Робототехника». Второй тур заочного отборочного этапа, 7-8 класс",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1584",
+      "id": 63173001,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-01-22T06:00:00"
+    },
+    {
+      "duration": 2213940,
+      "end": "2026-02-16T20:59:00",
+      "event": "Международная олимпиада Innopolis Open 2025 – Профиль «Робототехника». Второй тур заочного отборочного этапа, 9-11 класс",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1585",
+      "id": 63173002,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-01-22T06:00:00"
     },
     {
       "duration": 2400,
