@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T15:51:59Z",
+  "lastUpdated": "2026-01-14T16:31:25Z",
   "count": 98,
   "contests": [
     {
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 206,
-      "parsed_at": "2026-01-14T14:13:08.920607",
+      "parsed_at": "2026-01-14T16:26:08.352368",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -256,21 +256,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-01-13T21:00:28"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-14T16:30:00",
-      "event": "Starters 221 (Rated till 6 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START221",
-      "id": 64339338,
-      "n_problems": 9,
-      "n_statistics": 19471,
-      "parsed_at": "2026-01-14T15:33:08.491003",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-14T14:30:00"
     },
     {
       "duration": 7200,
@@ -916,6 +901,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-25T10:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-01-25T14:30:00",
+      "event": "AtCoder Regular Contest 213 (Div. 1)",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc213",
+      "id": 64663191,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-01-25T12:00:00"
     },
     {
       "duration": 7200,
