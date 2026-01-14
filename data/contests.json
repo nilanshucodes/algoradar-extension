@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T20:51:48Z",
+  "lastUpdated": "2026-01-14T21:22:13Z",
   "count": 98,
   "contests": [
     {
@@ -175,8 +175,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 206,
-      "parsed_at": "2026-01-14T18:39:08.789772",
+      "n_statistics": 208,
+      "parsed_at": "2026-01-14T20:52:08.635749",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -235,8 +235,8 @@
       "href": "https://basecamp.eolymp.com/contests/ikoi44ho994uj2rcj49h0l45v4",
       "id": 64555556,
       "n_problems": 10,
-      "n_statistics": 42,
-      "parsed_at": "2026-01-14T10:00:10.194609",
+      "n_statistics": 48,
+      "parsed_at": "2026-01-14T21:12:08.158386",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
