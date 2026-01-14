@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-14T08:31:41Z",
-  "count": 95,
+  "lastUpdated": "2026-01-14T08:59:41Z",
+  "count": 98,
   "contests": [
     {
       "duration": 15234248,
@@ -993,6 +993,21 @@
       "start": "2026-01-30T09:00:00"
     },
     {
+      "duration": 14400,
+      "end": "2026-02-03T12:00:00",
+      "event": "Second Contest",
+      "host": "usaco.org",
+      "href": "https://usaco.org/",
+      "id": 64656375,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "usaco.org",
+      "resource_id": 25,
+      "start": "2026-01-30T12:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-02-01T08:00:00",
       "event": "PascalCTF Beginners 2026",
@@ -1203,6 +1218,21 @@
       "start": "2026-02-13T10:00:00"
     },
     {
+      "duration": 14400,
+      "end": "2026-02-24T12:00:00",
+      "event": "Third Contest",
+      "host": "usaco.org",
+      "href": "https://usaco.org/",
+      "id": 64656376,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "usaco.org",
+      "resource_id": 25,
+      "start": "2026-02-20T12:00:00"
+    },
+    {
       "duration": 10800,
       "end": "2026-02-21T17:00:00",
       "event": "CONTEST #5",
@@ -1411,6 +1441,21 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-05-10T14:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-05-19T12:00:00",
+      "event": "EGOI (Italy)",
+      "host": "usaco.org",
+      "href": "https://usaco.org/",
+      "id": 64656377,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "usaco.org",
+      "resource_id": 25,
+      "start": "2026-05-12T12:00:00"
     },
     {
       "duration": 86400,
