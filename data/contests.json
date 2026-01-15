@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-15T14:00:59Z",
-  "count": 96,
+  "lastUpdated": "2026-01-15T14:56:15Z",
+  "count": 97,
   "contests": [
     {
       "duration": 15234248,
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 208,
-      "parsed_at": "2026-01-15T12:23:08.292328",
+      "parsed_at": "2026-01-15T14:36:09.443607",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -530,7 +530,7 @@
     {
       "duration": 10800,
       "end": "2026-01-17T17:35:00",
-      "event": "Codeforces Round (Div. 1)",
+      "event": "Codeforces Round 1073 (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2190",
       "id": 64620779,
@@ -545,7 +545,7 @@
     {
       "duration": 10800,
       "end": "2026-01-17T17:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1073 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2191",
       "id": 64620780,
@@ -691,6 +691,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-18T15:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-01-23T13:50:00",
+      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Второй отборочный тур",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1666",
+      "id": 64682809,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-01-21T13:50:00"
     },
     {
       "duration": 7200,
