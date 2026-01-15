@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T14:56:15Z",
+  "lastUpdated": "2026-01-15T15:29:30Z",
   "count": 97,
   "contests": [
     {
@@ -280,8 +280,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-213",
       "id": 64537889,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 131,
+      "parsed_at": "2026-01-15T15:27:09.470459",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
