@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-15T15:59:36Z",
-  "count": 97,
+  "lastUpdated": "2026-01-15T16:47:24Z",
+  "count": 96,
   "contests": [
     {
       "duration": 15234248,
@@ -259,29 +259,14 @@
     },
     {
       "duration": 7200,
-      "end": "2026-01-15T16:30:00",
-      "event": "Vatan himoyachilari kuni | RoboContest Round #107",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3396",
-      "id": 64398856,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-01-15T14:30:00"
-    },
-    {
-      "duration": 7200,
       "end": "2026-01-15T17:01:00",
       "event": "Weekly Contest 213",
       "host": "naukri.com/code360",
       "href": "https://www.naukri.com/code360/contests/weekly-contest-213",
       "id": 64537889,
       "n_problems": null,
-      "n_statistics": 151,
-      "parsed_at": "2026-01-15T15:54:08.677511",
+      "n_statistics": 166,
+      "parsed_at": "2026-01-15T16:39:08.689202",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
