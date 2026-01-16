@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-16T14:55:22Z",
-  "count": 99,
+  "lastUpdated": "2026-01-16T15:25:29Z",
+  "count": 109,
   "contests": [
     {
       "duration": 15234248,
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 209,
-      "parsed_at": "2026-01-16T12:46:07.790189",
+      "parsed_at": "2026-01-16T14:59:08.182993",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -663,6 +663,21 @@
       "start": "2026-01-18T15:00:00"
     },
     {
+      "duration": 86400,
+      "end": "2026-01-21T15:00:00",
+      "event": "KnightCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3053/",
+      "id": 64704876,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-20T15:00:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-01-23T13:50:00",
       "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Второй отборочный тур",
@@ -768,6 +783,21 @@
       "start": "2026-01-22T15:01:00"
     },
     {
+      "duration": 129600,
+      "end": "2026-01-25T01:00:00",
+      "event": "0xL4ugh CTF v5",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3024/",
+      "id": 64704875,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-23T13:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-01-23T16:35:00",
       "event": "Codeforces Round (Div. 2)",
@@ -783,6 +813,51 @@
       "start": "2026-01-23T14:35:00"
     },
     {
+      "duration": 172800,
+      "end": "2026-01-25T19:00:00",
+      "event": "HackDay 2026 - Qualifications",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3038/",
+      "id": 64704874,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-23T19:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-01-25T00:00:00",
+      "event": "Dreamhack Invitational Quals 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3025/",
+      "id": 64704873,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-24T00:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-01-26T01:00:00",
+      "event": "LilacCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3071/",
+      "id": 64704872,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-24T01:00:00"
+    },
+    {
       "duration": 14400,
       "end": "2026-01-24T10:00:00",
       "event": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9 [rated, ioi]",
@@ -796,6 +871,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-01-24T06:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-01-25T08:00:00",
+      "event": "VSL CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3060/",
+      "id": 64704871,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-24T08:00:00"
     },
     {
       "duration": 6000,
@@ -903,6 +993,21 @@
       "start": "2026-01-25T12:00:00"
     },
     {
+      "duration": 27000,
+      "end": "2026-01-28T11:00:00",
+      "event": "CyberQuest 26",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3080/",
+      "id": 64704870,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-28T03:30:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-01-28T16:30:00",
       "event": "Starters 223",
@@ -963,6 +1068,21 @@
       "start": "2026-01-29T14:35:00"
     },
     {
+      "duration": 345599,
+      "end": "2026-02-02T23:59:59",
+      "event": "Hack for a Change 2026 January: UN SDG 15",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3083/",
+      "id": 64704869,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-30T00:00:00"
+    },
+    {
       "duration": 32400,
       "end": "2026-01-30T18:00:00",
       "event": "Jeanne d'Hack CTF 2026 | 3ème Édition",
@@ -991,6 +1111,36 @@
       "resource": "usaco.org",
       "resource_id": 25,
       "start": "2026-01-30T12:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-01-31T14:00:00",
+      "event": "ATC Winter Vibes Community CTF 2.0",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3068/",
+      "id": 64704868,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-30T14:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-02-01T04:30:00",
+      "event": "Eschaton CTF 2026 Quals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3072/",
+      "id": 64704867,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-31T04:30:00"
     },
     {
       "duration": 86400,
