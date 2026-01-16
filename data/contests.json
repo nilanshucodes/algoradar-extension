@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-16T08:58:02Z",
-  "count": 99,
+  "lastUpdated": "2026-01-16T09:34:50Z",
+  "count": 100,
   "contests": [
     {
       "duration": 15234248,
@@ -1141,6 +1141,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-02-05T06:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-02-08T09:00:00",
+      "event": "DUCKERZ CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3067/",
+      "id": 64699319,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-07T09:00:00"
     },
     {
       "duration": 6000,
