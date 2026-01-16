@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T23:48:43Z",
+  "lastUpdated": "2026-01-16T01:48:29Z",
   "count": 96,
   "contests": [
     {
@@ -78,8 +78,8 @@
       "start": "2025-10-21T17:00:05"
     },
     {
-      "duration": 7278959,
-      "end": "2026-01-15T23:59:00",
+      "duration": 16869359,
+      "end": "2026-05-06T23:59:00",
       "event": "Recod.ai/LUC - Scientific Image Forgery Detection [research, biology, medicine, image, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection",
@@ -176,7 +176,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 208,
-      "parsed_at": "2026-01-15T23:28:08.256360",
+      "parsed_at": "2026-01-16T01:41:08.083913",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
