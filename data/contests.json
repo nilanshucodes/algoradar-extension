@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-16T17:52:18Z",
-  "count": 109,
+  "lastUpdated": "2026-01-16T18:33:42Z",
+  "count": 108,
   "contests": [
     {
       "duration": 15234248,
@@ -256,21 +256,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-01-13T21:00:28"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-16T18:00:00",
-      "event": "#DoTheMath-11 (unrated, icpc, individual)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/dothemath-11/",
-      "id": 64645055,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
-      "start": "2026-01-16T15:00:00"
     },
     {
       "duration": 172800,
