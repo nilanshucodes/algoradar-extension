@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-16T05:52:42Z",
-  "count": 97,
+  "lastUpdated": "2026-01-16T06:35:35Z",
+  "count": 99,
   "contests": [
     {
       "duration": 15234248,
@@ -175,8 +175,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 208,
-      "parsed_at": "2026-01-16T03:54:09.019558",
+      "n_statistics": 209,
+      "parsed_at": "2026-01-16T06:07:09.297974",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -573,6 +573,21 @@
       "start": "2026-01-18T06:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-01-18T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 64696988,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-01-18T06:00:00"
+    },
+    {
       "duration": 0,
       "end": "2026-01-18T07:00:00",
       "event": "Problem 979",
@@ -841,6 +856,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-01-25T02:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-01-25T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 64696989,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-01-25T06:00:00"
     },
     {
       "duration": 0,
