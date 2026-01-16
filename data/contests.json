@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-16T04:26:59Z",
-  "count": 96,
+  "lastUpdated": "2026-01-16T05:00:57Z",
+  "count": 97,
   "contests": [
     {
       "duration": 15234248,
@@ -1186,6 +1186,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-02-13T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-14T13:00:00",
+      "event": "牛客2026年情人节比赛 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/127094",
+      "id": 64695262,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-02-14T11:00:00"
     },
     {
       "duration": 14400,
