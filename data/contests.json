@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-16T12:46:14Z",
-  "count": 100,
+  "lastUpdated": "2026-01-16T13:37:52Z",
+  "count": 99,
   "contests": [
     {
       "duration": 15234248,
@@ -256,21 +256,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-01-13T21:00:28"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-16T13:00:00",
-      "event": "牛客小白月赛127 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/126634",
-      "id": 64381475,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-01-16T11:00:00"
     },
     {
       "duration": 10800,
