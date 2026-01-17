@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-17T17:17:39Z",
-  "count": 120,
+  "lastUpdated": "2026-01-17T17:46:28Z",
+  "count": 119,
   "contests": [
     {
       "duration": 23612094,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 209,
-      "parsed_at": "2026-01-17T15:22:08.689911",
+      "parsed_at": "2026-01-17T17:35:10.364245",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -378,34 +378,19 @@
       "start": "2026-01-17T09:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-01-17T17:35:00",
-      "event": "Codeforces Round 1073 (Div. 1)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2190",
-      "id": 64620779,
-      "n_problems": 8,
-      "n_statistics": 896,
-      "parsed_at": "2026-01-17T17:08:08.765709",
+      "duration": 3600,
+      "end": "2026-01-18T02:00:00",
+      "event": "プログラミングバトル 予選",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/guildfes-2026-qual",
+      "id": 64728664,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
       "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-01-17T14:35:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-17T17:35:00",
-      "event": "Codeforces Round 1073 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2191",
-      "id": 64620780,
-      "n_problems": 8,
-      "n_statistics": 16846,
-      "parsed_at": "2026-01-17T17:10:09.565651",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-01-17T14:35:00"
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-01-18T01:00:00"
     },
     {
       "duration": 5400,
