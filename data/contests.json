@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-17T09:47:35Z",
-  "count": 106,
+  "lastUpdated": "2026-01-17T10:20:49Z",
+  "count": 105,
   "contests": [
     {
       "duration": 23612094,
@@ -286,21 +286,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-01-17T05:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-17T10:00:00",
-      "event": "『GTOI』Round 2 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/298257",
-      "id": 64398880,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-17T06:00:00"
     },
     {
       "duration": 10800,
