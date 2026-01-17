@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T16:23:51Z",
+  "lastUpdated": "2026-01-17T16:50:56Z",
   "count": 120,
   "contests": [
     {
@@ -220,8 +220,8 @@
       "href": "https://basecamp.eolymp.com/contests/ikoi44ho994uj2rcj49h0l45v4",
       "id": 64555556,
       "n_problems": 10,
-      "n_statistics": 59,
-      "parsed_at": "2026-01-17T05:12:08.475268",
+      "n_statistics": 63,
+      "parsed_at": "2026-01-17T16:24:10.008527",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -386,7 +386,7 @@
       "id": 64620779,
       "n_problems": 8,
       "n_statistics": 895,
-      "parsed_at": "2026-01-17T16:19:09.992782",
+      "parsed_at": "2026-01-17T16:40:20.082082",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -400,8 +400,8 @@
       "href": "https://codeforces.com/contests/2191",
       "id": 64620780,
       "n_problems": 8,
-      "n_statistics": 16337,
-      "parsed_at": "2026-01-17T16:13:37.834995",
+      "n_statistics": 16655,
+      "parsed_at": "2026-01-17T16:42:08.358922",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
