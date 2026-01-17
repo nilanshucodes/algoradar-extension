@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-17T13:28:53Z",
-  "count": 109,
+  "lastUpdated": "2026-01-17T13:49:10Z",
+  "count": 108,
   "contests": [
     {
       "duration": 23612094,
@@ -250,8 +250,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND33",
       "id": 64655123,
       "n_problems": 4,
-      "n_statistics": 55,
-      "parsed_at": "2026-01-17T10:34:08.667756",
+      "n_statistics": 64,
+      "parsed_at": "2026-01-17T13:47:08.661475",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -391,21 +391,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-01-17T09:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-01-17T13:40:00",
-      "event": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc441",
-      "id": 64030486,
-      "n_problems": 7,
-      "n_statistics": 11360,
-      "parsed_at": "2026-01-17T13:24:09.779352",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-17T12:00:00"
     },
     {
       "duration": 5400,
