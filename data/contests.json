@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-17T22:49:21Z",
-  "count": 136,
+  "lastUpdated": "2026-01-17T23:19:37Z",
+  "count": 135,
   "contests": [
     {
       "duration": 23612094,
@@ -256,21 +256,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-16T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-17T23:00:00",
-      "event": "The 4th Universal Cup. Stage 13: Ōokayama",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 63890750,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-01-17T05:00:00"
     },
     {
       "duration": 10800,
