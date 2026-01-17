@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-17T17:46:28Z",
-  "count": 119,
+  "lastUpdated": "2026-01-17T18:29:26Z",
+  "count": 137,
   "contests": [
     {
       "duration": 23612094,
@@ -663,6 +663,21 @@
       "start": "2026-01-22T15:01:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-01-23T01:00:00",
+      "event": "MetaCTF January 2026 Flash CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3079/",
+      "id": 64729367,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-22T22:00:00"
+    },
+    {
       "duration": 129600,
       "end": "2026-01-25T01:00:00",
       "event": "0xL4ugh CTF v5",
@@ -781,6 +796,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-01-24T12:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-01-25T13:00:00",
+      "event": "Fluid Attacks' CTF 2026-1",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3087/",
+      "id": 64729366,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-01-24T13:00:00"
     },
     {
       "duration": 10800,
@@ -1174,6 +1204,21 @@
     },
     {
       "duration": 172800,
+      "end": "2026-02-08T05:30:00",
+      "event": "BITSCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3047/",
+      "id": 64729365,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-06T05:30:00"
+    },
+    {
+      "duration": 172800,
       "end": "2026-02-08T13:00:00",
       "event": "Pragyan CTF 2026",
       "host": "ctftime.org",
@@ -1186,6 +1231,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-02-06T13:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-02-09T02:00:00",
+      "event": "LA CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3015/",
+      "id": 64729364,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-07T02:00:00"
     },
     {
       "duration": 86400,
@@ -1324,6 +1384,21 @@
     },
     {
       "duration": 86400,
+      "end": "2026-02-15T07:30:00",
+      "event": "Breach Point CTF - Siege Of Troy(Online Round)",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3075/",
+      "id": 64729363,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-14T07:30:00"
+    },
+    {
+      "duration": 86400,
       "end": "2026-02-15T10:00:00",
       "event": "TaipanByte’s Chart CTF",
       "host": "ctftime.org",
@@ -1383,6 +1458,21 @@
       "start": "2026-02-21T00:00:01"
     },
     {
+      "duration": 36000,
+      "end": "2026-02-21T14:30:00",
+      "event": "Escathon CTF 2026 Finals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3078/",
+      "id": 64729362,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-21T04:30:00"
+    },
+    {
       "duration": 28800,
       "end": "2026-02-21T17:00:00",
       "event": "EPIHACK CTF: L'arène numérique",
@@ -1411,6 +1501,21 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-02-21T14:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-02-22T17:00:00",
+      "event": "BearcatCTF 2026 - Setting Sail",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3046/",
+      "id": 64729361,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-21T17:00:00"
     },
     {
       "duration": 0,
@@ -1548,6 +1653,21 @@
       "start": "2026-03-13T23:00:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-03-21T17:00:00",
+      "event": "ZeroDays CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3063/",
+      "id": 64729360,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-21T10:00:00"
+    },
+    {
       "duration": 28800,
       "end": "2026-03-21T19:00:00",
       "event": "Undutmaning 2026",
@@ -1576,6 +1696,96 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-03-21T14:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-03-29T17:00:00",
+      "event": "KalmarCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/2983/",
+      "id": 64729359,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-27T17:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-03-28T18:00:00",
+      "event": "HackDay 2026 - Finals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3039/",
+      "id": 64729358,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-27T18:00:00"
+    },
+    {
+      "duration": 36000,
+      "end": "2026-03-28T19:00:00",
+      "event": "Flag Wars",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3084/",
+      "id": 64729357,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-28T09:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-03-29T13:00:00",
+      "event": "VolgaCTF 2026 Qualifier",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3045/",
+      "id": 64729356,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-28T13:00:00"
+    },
+    {
+      "duration": 32400,
+      "end": "2026-03-29T21:00:00",
+      "event": "GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3057/",
+      "id": 64729355,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-29T12:00:00"
+    },
+    {
+      "duration": 57600,
+      "end": "2026-04-05T04:00:00",
+      "event": "SillyCTF 2",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3042/",
+      "id": 64729354,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-04-04T12:00:00"
     },
     {
       "duration": 54000,
@@ -1621,6 +1831,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-11T10:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-04-19T11:00:00",
+      "event": "CPCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3077/",
+      "id": 64729353,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-04-17T11:00:00"
     },
     {
       "duration": 129600,
@@ -1786,6 +2011,51 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-21T12:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-08-30T14:00:00",
+      "event": "ASIS CTF Quals 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3033/",
+      "id": 64729352,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-08-29T14:00:00"
+    },
+    {
+      "duration": 129600,
+      "end": "2026-11-15T21:00:00",
+      "event": "Platypwn 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3082/",
+      "id": 64729351,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-11-14T09:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-12-28T14:00:00",
+      "event": "ASIS CTF Finals 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3062/",
+      "id": 64729350,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-12-27T14:00:00"
     }
   ]
 }
