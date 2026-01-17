@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T12:40:43Z",
+  "lastUpdated": "2026-01-17T13:28:53Z",
   "count": 109,
   "contests": [
     {
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 209,
-      "parsed_at": "2026-01-17T10:56:07.988508",
+      "parsed_at": "2026-01-17T13:09:08.906495",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -400,8 +400,8 @@
       "href": "https://atcoder.jp/contests/abc441",
       "id": 64030486,
       "n_problems": 7,
-      "n_statistics": 10747,
-      "parsed_at": "2026-01-17T12:35:08.264205",
+      "n_statistics": 11360,
+      "parsed_at": "2026-01-17T13:24:09.779352",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
