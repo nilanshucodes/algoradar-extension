@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T01:42:38Z",
+  "lastUpdated": "2026-01-17T03:22:50Z",
   "count": 107,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 217,
-      "parsed_at": "2026-01-16T13:56:08.223896",
+      "parsed_at": "2026-01-17T01:57:08.325936",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 209,
-      "parsed_at": "2026-01-16T23:51:07.973569",
+      "parsed_at": "2026-01-17T02:04:08.074627",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
