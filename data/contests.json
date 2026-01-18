@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T15:47:13Z",
+  "lastUpdated": "2026-01-18T16:25:33Z",
   "count": 130,
   "contests": [
     {
@@ -400,8 +400,8 @@
       "href": "https://codeforces.com/contests/2185",
       "id": 64553699,
       "n_problems": 8,
-      "n_statistics": 26350,
-      "parsed_at": "2026-01-18T15:35:10.193957",
+      "n_statistics": 27545,
+      "parsed_at": "2026-01-18T16:04:08.574777",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -415,8 +415,8 @@
       "href": "https://basecamp.eolymp.com/contests/68ise1j0d17fp04bqe407psjqg",
       "id": 64490557,
       "n_problems": 5,
-      "n_statistics": 74,
-      "parsed_at": "2026-01-18T15:44:08.604896",
+      "n_statistics": 80,
+      "parsed_at": "2026-01-18T16:20:44.612096",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
