@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T06:57:19Z",
-  "count": 135,
+  "lastUpdated": "2026-01-18T07:26:15Z",
+  "count": 134,
   "contests": [
     {
       "duration": 23612094,
@@ -408,19 +408,19 @@
       "start": "2026-01-18T06:00:00"
     },
     {
-      "duration": 0,
-      "end": "2026-01-18T07:00:00",
-      "event": "Problem 979",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 64449663,
+      "duration": 4500,
+      "end": "2026-01-18T08:00:00",
+      "event": "プログラミングバトル 本戦",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/guildfes-2026-final",
+      "id": 64741305,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-01-18T07:00:00"
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-01-18T06:45:00"
     },
     {
       "duration": 1123200,
@@ -481,21 +481,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-18T15:00:00"
-    },
-    {
-      "duration": 4500,
-      "end": "2026-01-19T08:00:00",
-      "event": "プログラミングバトル 本戦",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/guildfes-2026-final",
-      "id": 64741305,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-19T06:45:00"
     },
     {
       "duration": 86400,
