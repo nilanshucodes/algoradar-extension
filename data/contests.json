@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T05:50:47Z",
-  "count": 134,
+  "lastUpdated": "2026-01-18T06:32:16Z",
+  "count": 135,
   "contests": [
     {
       "duration": 23612094,
@@ -250,8 +250,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND33",
       "id": 64655123,
       "n_problems": 4,
-      "n_statistics": 100,
-      "parsed_at": "2026-01-18T02:39:09.258967",
+      "n_statistics": 107,
+      "parsed_at": "2026-01-18T05:52:08.894570",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -481,6 +481,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-18T15:00:00"
+    },
+    {
+      "duration": 4500,
+      "end": "2026-01-19T08:00:00",
+      "event": "プログラミングバトル 本戦",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/guildfes-2026-final",
+      "id": 64741305,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-01-19T06:45:00"
     },
     {
       "duration": 86400,
