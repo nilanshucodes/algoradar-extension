@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T10:49:49Z",
-  "count": 131,
+  "lastUpdated": "2026-01-18T11:17:17Z",
+  "count": 130,
   "contests": [
     {
       "duration": 23612094,
@@ -361,21 +361,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-01-17T09:00:00"
-    },
-    {
-      "duration": 21600,
-      "end": "2026-01-18T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 64696988,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-01-18T05:00:00"
     },
     {
       "duration": 1123200,
