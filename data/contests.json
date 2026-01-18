@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T03:46:35Z",
-  "count": 135,
+  "lastUpdated": "2026-01-18T04:41:43Z",
+  "count": 133,
   "contests": [
     {
       "duration": 23612094,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 210,
-      "parsed_at": "2026-01-18T02:27:08.873366",
+      "parsed_at": "2026-01-18T04:40:09.007758",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -363,21 +363,6 @@
       "start": "2026-01-17T09:00:00"
     },
     {
-      "duration": 5400,
-      "end": "2026-01-18T04:00:00",
-      "event": "Weekly Contest 485",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-485",
-      "id": 64457758,
-      "n_problems": 4,
-      "n_statistics": 2350,
-      "parsed_at": "2026-01-18T03:26:08.170296",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-01-18T02:30:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-01-18T10:00:00",
       "event": "【LGR-262-Div.1】洛谷 1 月月赛 III [rated, ioi]",
@@ -466,21 +451,6 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-01-18T11:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-18T17:35:00",
-      "event": "Repovive Hello 2026 Round",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 64492066,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-01-18T14:35:00"
     },
     {
       "duration": 8100,
