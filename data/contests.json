@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T06:32:16Z",
+  "lastUpdated": "2026-01-18T06:57:19Z",
   "count": 135,
   "contests": [
     {
@@ -160,8 +160,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 210,
-      "parsed_at": "2026-01-18T04:40:09.007758",
+      "n_statistics": 211,
+      "parsed_at": "2026-01-18T06:53:08.067731",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
