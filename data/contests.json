@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T16:25:33Z",
-  "count": 130,
+  "lastUpdated": "2026-01-18T16:52:09Z",
+  "count": 129,
   "contests": [
     {
       "duration": 23612094,
@@ -393,21 +393,6 @@
       "start": "2026-01-18T13:00:00"
     },
     {
-      "duration": 8100,
-      "end": "2026-01-18T16:50:00",
-      "event": "Codeforces Round 1074 (Div. 4)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2185",
-      "id": 64553699,
-      "n_problems": 8,
-      "n_statistics": 27545,
-      "parsed_at": "2026-01-18T16:04:08.574777",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-01-18T14:35:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-01-18T17:00:00",
       "event": "Weekend Practice #17",
@@ -415,8 +400,8 @@
       "href": "https://basecamp.eolymp.com/contests/68ise1j0d17fp04bqe407psjqg",
       "id": 64490557,
       "n_problems": 5,
-      "n_statistics": 80,
-      "parsed_at": "2026-01-18T16:20:44.612096",
+      "n_statistics": 84,
+      "parsed_at": "2026-01-18T16:48:10.511415",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
