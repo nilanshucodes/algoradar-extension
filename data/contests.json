@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T12:40:40Z",
-  "count": 131,
+  "lastUpdated": "2026-01-18T13:27:23Z",
+  "count": 130,
   "contests": [
     {
       "duration": 23612094,
@@ -376,21 +376,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-01-18T08:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-18T13:00:00",
-      "event": "牛客周赛 Round 127 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/126798",
-      "id": 64495937,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-01-18T11:00:00"
     },
     {
       "duration": 14400,
