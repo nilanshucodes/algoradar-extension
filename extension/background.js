@@ -22,17 +22,15 @@ async function fetchAndCacheContests(forceRefresh = false) {
     if (!forceRefresh) {
       const cached = await getCachedData();
       const age = Date.now() - (cached.timestamp || 0);
-      
-      if (cached.contests && age < API_CONFIG.CACHE_DURATION) {
+
+      if (cached.contests && cached.contests.length > 0 && age < API_CONFIG.CACHE_DURATION) {
         return cached.contests;
       }
     }
 
     console.log('Fetching from backend...');
-    
     const controller = new AbortController();
     const timeoutId = setTimeout(() => controller.abort(), 15000);
-    
     const response = await fetch(API_CONFIG.BACKEND_URL, {
       signal: controller.signal,
       headers: {
@@ -69,12 +67,7 @@ async function fetchAndCacheContests(forceRefresh = false) {
     }
 
     const cached = await getCachedData();
-    if (cached.contests) {
-      return cached.contests;
-    }
-
-    
-    return [];
+    return cached.contests || [];
   }
 }
 
@@ -92,30 +85,52 @@ async function getCachedData() {
   }
 }
 
-function processContests(contests) {
-  const IST_OFFSET = 5.5 * 60 * 60 * 1000;
-  const now = new Date();
+function ensureUTC(timeStr) {//timestamp is treated as UTC
+  if (!timeStr) return null;
+  
+  // Already has timezone indicator
+  if (timeStr.endsWith('Z') || /[+-]\d{2}:?\d{2}$/.test(timeStr)) {
+    return timeStr;
+  }
+  return timeStr + 'Z';
+}
+
+function processContests(contests) {//without manual IST offset
+  const now = Date.now();
 
   return contests
     .map(c => {
-      const start = new Date(c.start);
-      const end = new Date(c.end);
-      const startIST = new Date(start.getTime() + IST_OFFSET);
-      const endIST = new Date(end.getTime() + IST_OFFSET);
+      try {
+        const startStr = ensureUTC(c.start);
+        const endStr = ensureUTC(c.end);
 
-      return {
-        id: c.id,
-        name: c.event,
-        platform: c.resource,
-        url: c.href,
-        start: c.start,
-        startDate: formatDate(startIST),
-        startTime: formatTime(startIST),
-        endTime: formatTime(endIST),
-        startTimestamp: start.getTime()
-      };
+        if (!startStr) return null;
+
+        const startDate = new Date(startStr);
+        const endDate = endStr ? new Date(endStr) : null;
+
+        if (isNaN(startDate.getTime())) {
+          console.error('Invalid start time:', c.start);
+          return null;
+        }
+
+        return {
+          id: c.id,
+          name: c.event,
+          platform: c.resource,
+          url: c.href,
+          start: startDate.toISOString(),
+          startDate: formatDate(startDate), //Format in LOCAL timezone automatically
+          startTime: formatTime(startDate),
+          endTime: endDate ? formatTime(endDate) : '',
+          startTimestamp: startDate.getTime()
+        };
+      } catch (error) {
+        console.error('Error processing:', c.event, error);
+        return null;
+      }
     })
-    .filter(c => new Date(c.start) > now)
+    .filter(c => c !== null && c.startTimestamp > now)
     .sort((a, b) => a.startTimestamp - b.startTimestamp);
 }
 
@@ -135,10 +150,9 @@ function formatTime(date) {
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === 'getContests') {
     getCachedData().then(data => {
-      sendResponse({ 
-        contests: data.contests || [],
-        lastUpdated: data.lastUpdated
-      });
+      const now = Date.now();
+      const active = (data.contests || []).filter(c => c.startTimestamp > now);
+      sendResponse({ contests: active, lastUpdated: data.lastUpdated });
     });
     return true;
   }
