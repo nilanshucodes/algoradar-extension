@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "AlgoRadar - Extension",
-  "version": "1.0.0",
+  "name": "AlgoRadar",
+  "version": "1.2.0",
   "description": "Track upcoming coding contests from Codeforces, AtCoder, LeetCode, CodeChef and more",
   "icons": {
     "16": "icons/icon16.png",
