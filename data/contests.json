@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T13:49:26Z",
+  "lastUpdated": "2026-01-18T14:18:45Z",
   "count": 130,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 217,
-      "parsed_at": "2026-01-18T01:59:07.600742",
+      "parsed_at": "2026-01-18T14:00:09.742830",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -369,9 +369,9 @@
       "host": "acmp.ru",
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46031",
       "id": 64564843,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 26,
+      "n_statistics": 3,
+      "parsed_at": "2026-01-18T14:00:09.738879",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
