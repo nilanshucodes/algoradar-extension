@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T16:52:09Z",
-  "count": 129,
+  "lastUpdated": "2026-01-18T17:18:14Z",
+  "count": 128,
   "contests": [
     {
       "duration": 23612094,
@@ -391,21 +391,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-01-18T13:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-18T17:00:00",
-      "event": "Weekend Practice #17",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/68ise1j0d17fp04bqe407psjqg",
-      "id": 64490557,
-      "n_problems": 5,
-      "n_statistics": 84,
-      "parsed_at": "2026-01-18T16:48:10.511415",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-01-18T15:00:00"
     },
     {
       "duration": 86400,
