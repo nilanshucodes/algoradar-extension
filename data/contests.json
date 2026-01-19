@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T17:00:02Z",
-  "count": 136,
+  "lastUpdated": "2026-01-19T17:32:32Z",
+  "count": 137,
   "contests": [
     {
       "duration": 23612094,
@@ -1260,6 +1260,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-02-07T12:00:00"
+    },
+    {
+      "duration": 43140,
+      "end": "2026-02-07T23:59:00",
+      "event": "algoComp'26 Qualification Round (unrated, icpc, team)",
+      "host": "algoleague.com",
+      "href": "https://algoleague.com/contest/algocomp26-qualification-round/",
+      "id": 64776220,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "algoleague.com",
+      "resource_id": 170,
       "start": "2026-02-07T12:00:00"
     },
     {
