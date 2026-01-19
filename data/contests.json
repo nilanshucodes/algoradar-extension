@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T01:52:57Z",
-  "count": 129,
+  "lastUpdated": "2026-01-19T03:51:03Z",
+  "count": 131,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 217,
-      "parsed_at": "2026-01-18T14:00:09.742830",
+      "parsed_at": "2026-01-19T02:01:09.987921",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 211,
-      "parsed_at": "2026-01-19T00:37:08.226867",
+      "parsed_at": "2026-01-19T02:50:07.998357",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -361,6 +361,21 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-01-18T13:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-19T15:30:00",
+      "event": "Monday Munch - DSA Challenge 21",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY21",
+      "id": 64763054,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-01-19T12:30:00"
     },
     {
       "duration": 86400,
@@ -706,6 +721,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-01-25T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-25T13:00:00",
+      "event": "牛客周赛 Round 128 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/127240",
+      "id": 64762938,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-01-25T11:00:00"
     },
     {
       "duration": 9000,
