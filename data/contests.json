@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T07:53:49Z",
-  "count": 131,
+  "lastUpdated": "2026-01-19T08:34:16Z",
+  "count": 133,
   "contests": [
     {
       "duration": 23612094,
@@ -393,19 +393,19 @@
       "start": "2026-01-20T15:00:00"
     },
     {
-      "duration": 172800,
-      "end": "2026-01-23T13:50:00",
-      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Второй отборочный тур",
+      "duration": 39600,
+      "end": "2026-01-21T18:00:00",
+      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Пробный тур Второго отборочного этапа",
       "host": "cups.online",
-      "href": "https://cups.online/rounds/1666",
-      "id": 64682809,
+      "href": "https://cups.online/rounds/1668",
+      "id": 64767372,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
-      "start": "2026-01-21T13:50:00"
+      "start": "2026-01-21T07:00:00"
     },
     {
       "duration": 7200,
@@ -468,6 +468,21 @@
       "start": "2026-01-22T06:00:00"
     },
     {
+      "duration": 39600,
+      "end": "2026-01-22T18:00:00",
+      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Первый тур Второго отборочного этапа",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1666",
+      "id": 64682809,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-01-22T07:00:00"
+    },
+    {
       "duration": 2400,
       "end": "2026-01-22T15:10:00",
       "event": "Tough Dash, January 2026",
@@ -511,6 +526,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-22T22:00:00"
+    },
+    {
+      "duration": 39600,
+      "end": "2026-01-23T18:00:00",
+      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Второй тур Второго отборочного этапа",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1669",
+      "id": 64767374,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-01-23T07:00:00"
     },
     {
       "duration": 129600,
