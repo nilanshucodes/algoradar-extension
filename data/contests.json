@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T20:25:14Z",
-  "count": 137,
+  "lastUpdated": "2026-01-19T20:51:24Z",
+  "count": 138,
   "contests": [
     {
       "duration": 23612094,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 211,
-      "parsed_at": "2026-01-19T18:21:08.495206",
+      "parsed_at": "2026-01-19T20:34:08.882445",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -541,6 +541,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-01-23T11:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-01-23T17:00:00",
+      "event": "ICPC Dhaka 2025 Online Preliminary - Replay Contest. raihatneloy",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106315",
+      "id": 64779536,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-01-23T12:00:00"
     },
     {
       "duration": 129600,
