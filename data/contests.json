@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T23:48:14Z",
-  "count": 128,
+  "lastUpdated": "2026-01-19T01:52:57Z",
+  "count": 129,
   "contests": [
     {
       "duration": 23612094,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 211,
-      "parsed_at": "2026-01-18T22:24:08.648773",
+      "parsed_at": "2026-01-19T00:37:08.226867",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -1291,6 +1291,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-02-14T11:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-02-14T13:40:00",
+      "event": "AtCoder Beginner Contest 445",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc445",
+      "id": 64760775,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-02-14T12:00:00"
     },
     {
       "duration": 14400,
