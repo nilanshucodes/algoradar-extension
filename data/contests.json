@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T11:50:21Z",
+  "lastUpdated": "2026-01-19T12:51:40Z",
   "count": 137,
   "contests": [
     {
@@ -369,9 +369,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DSAMONDAY21",
       "id": 64763054,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 6,
+      "n_statistics": 28,
+      "parsed_at": "2026-01-19T12:42:09.649438",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
