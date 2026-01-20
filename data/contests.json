@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-20T16:46:55Z",
-  "count": 139,
+  "lastUpdated": "2026-01-20T17:30:18Z",
+  "count": 140,
   "contests": [
     {
       "duration": 23612094,
@@ -1336,6 +1336,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-02-08T07:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-08T11:05:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2194",
+      "id": 64799644,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-02-08T09:05:00"
     },
     {
       "duration": 7254000,
