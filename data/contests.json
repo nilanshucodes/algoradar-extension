@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-20T17:30:18Z",
-  "count": 140,
+  "lastUpdated": "2026-01-20T17:57:24Z",
+  "count": 141,
   "contests": [
     {
       "duration": 23612094,
@@ -826,6 +826,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-01-25T14:35:00"
+    },
+    {
+      "duration": 604740,
+      "end": "2026-02-01T19:59:00",
+      "event": "Educational Round #7",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/0fdopgb6et7g3allmrhbicn9cg",
+      "id": 64799951,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-01-25T20:00:00"
     },
     {
       "duration": 27000,
