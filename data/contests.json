@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T13:46:14Z",
+  "lastUpdated": "2026-01-21T14:31:16Z",
   "count": 149,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 220,
-      "parsed_at": "2026-01-21T02:05:08.520279",
+      "n_statistics": 222,
+      "parsed_at": "2026-01-21T14:06:08.348421",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -466,21 +466,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-01-22T07:00:00"
-    },
-    {
-      "duration": 2400,
-      "end": "2026-01-22T15:10:00",
-      "event": "Tough Dash, January 2026",
-      "host": "toph.co",
-      "href": "https://toph.co/c/tough-dash-january-2026",
-      "id": 64347396,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2026-01-22T14:30:00"
     },
     {
       "duration": 7200,
@@ -1366,6 +1351,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-02-07T16:00:00"
+    },
+    {
+      "duration": 655140,
+      "end": "2026-02-15T20:59:00",
+      "event": "Соревнование для ВШЖ [ml]. Задача",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1670",
+      "id": 64819775,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-02-08T07:00:00"
     },
     {
       "duration": 10800,
