@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T11:51:14Z",
-  "count": 144,
+  "lastUpdated": "2026-01-21T12:51:43Z",
+  "count": 149,
   "contests": [
     {
       "duration": 23612094,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 211,
-      "parsed_at": "2026-01-21T10:15:09.845675",
+      "parsed_at": "2026-01-21T12:28:07.929852",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -1173,6 +1173,21 @@
       "start": "2026-02-01T11:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-02-01T17:00:00",
+      "event": "Интернет-олимпиада",
+      "host": "nerc.itmo.ru/school",
+      "href": "https://nerc.itmo.ru/school/io/",
+      "id": 64817658,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "nerc.itmo.ru/school",
+      "resource_id": 11,
+      "start": "2026-02-01T12:00:00"
+    },
+    {
       "duration": 14400,
       "end": "2026-02-03T10:00:00",
       "event": "2026牛客寒假算法基础集训营1 [ACM]",
@@ -1428,6 +1443,21 @@
       "start": "2026-02-13T10:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-02-14T09:00:00",
+      "event": "UTPC 2025",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/utpc2025",
+      "id": 64817932,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-02-14T04:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-02-15T07:30:00",
       "event": "Breach Point CTF - Siege Of Troy(Online Round)",
@@ -1486,6 +1516,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-02-14T12:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-15T17:00:00",
+      "event": "Интернет-олимпиада",
+      "host": "nerc.itmo.ru/school",
+      "href": "https://nerc.itmo.ru/school/io/",
+      "id": 64817659,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "nerc.itmo.ru/school",
+      "resource_id": 11,
+      "start": "2026-02-15T12:00:00"
     },
     {
       "duration": 14400,
@@ -1606,6 +1651,21 @@
       "resource": "toph.co",
       "resource_id": 110,
       "start": "2026-02-26T14:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-28T17:00:00",
+      "event": "Интернет-олимпиада",
+      "host": "nerc.itmo.ru/school",
+      "href": "https://nerc.itmo.ru/school/io/",
+      "id": 64817660,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "nerc.itmo.ru/school",
+      "resource_id": 11,
+      "start": "2026-02-28T12:00:00"
     },
     {
       "duration": 0,
@@ -1741,6 +1801,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-13T23:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-03-14T17:00:00",
+      "event": "Интернет-олимпиада",
+      "host": "nerc.itmo.ru/school",
+      "href": "https://nerc.itmo.ru/school/io/",
+      "id": 64817661,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "nerc.itmo.ru/school",
+      "resource_id": 11,
+      "start": "2026-03-14T12:00:00"
     },
     {
       "duration": 25200,
