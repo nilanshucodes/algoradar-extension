@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T14:31:16Z",
-  "count": 149,
+  "lastUpdated": "2026-01-21T15:00:57Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 211,
-      "parsed_at": "2026-01-21T12:28:07.929852",
+      "parsed_at": "2026-01-21T14:41:07.426516",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -363,21 +363,6 @@
       "start": "2026-01-18T13:00:00"
     },
     {
-      "duration": 86400,
-      "end": "2026-01-21T15:00:00",
-      "event": "KnightCTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3053/",
-      "id": 64704876,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-20T15:00:00"
-    },
-    {
       "duration": 39600,
       "end": "2026-01-21T18:00:00",
       "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Пробный тур Второго отборочного этапа",
@@ -399,9 +384,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/START222",
       "id": 64379562,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 8,
+      "n_statistics": 15647,
+      "parsed_at": "2026-01-21T14:47:07.535284",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
