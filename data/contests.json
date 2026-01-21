@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T03:44:06Z",
-  "count": 141,
+  "lastUpdated": "2026-01-21T04:44:59Z",
+  "count": 142,
   "contests": [
     {
       "duration": 23612094,
@@ -340,8 +340,8 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46031",
       "id": 64564843,
       "n_problems": 26,
-      "n_statistics": 3,
-      "parsed_at": "2026-01-20T07:38:08.471032",
+      "n_statistics": 4,
+      "parsed_at": "2026-01-21T04:27:08.970271",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -1531,6 +1531,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-02-21T09:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-02-21T13:40:00",
+      "event": "AtCoder Beginner Contest 446",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc446",
+      "id": 64810205,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-02-21T12:00:00"
     },
     {
       "duration": 10800,
