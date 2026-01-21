@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T07:28:58Z",
+  "lastUpdated": "2026-01-21T07:53:38Z",
   "count": 143,
   "contests": [
     {
@@ -543,8 +543,8 @@
       "start": "2026-01-23T11:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-01-23T17:00:00",
+      "duration": 14400,
+      "end": "2026-01-23T16:00:00",
       "event": "ICPC Dhaka 2025 Online Preliminary - Replay Contest. raihatneloy",
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106315",
