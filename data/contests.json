@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T17:40:47Z",
-  "count": 147,
+  "lastUpdated": "2026-01-21T18:43:13Z",
+  "count": 145,
   "contests": [
     {
       "duration": 23612094,
@@ -361,21 +361,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-01-18T13:00:00"
-    },
-    {
-      "duration": 39600,
-      "end": "2026-01-21T18:00:00",
-      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Пробный тур Второго отборочного этапа",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1668",
-      "id": 64767372,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-01-21T07:00:00"
     },
     {
       "duration": 2213940,
@@ -1321,21 +1306,6 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-02-07T16:00:00"
-    },
-    {
-      "duration": 655140,
-      "end": "2026-02-15T20:59:00",
-      "event": "Соревнование для ВШЖ [ml]. Задача",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1670",
-      "id": 64819775,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-02-08T07:00:00"
     },
     {
       "duration": 10800,
