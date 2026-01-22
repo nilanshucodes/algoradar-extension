@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T07:52:41Z",
+  "lastUpdated": "2026-01-22T08:33:40Z",
   "count": 145,
   "contests": [
     {
@@ -160,8 +160,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 212,
-      "parsed_at": "2026-01-22T06:12:07.432176",
+      "n_statistics": 213,
+      "parsed_at": "2026-01-22T08:25:07.048677",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -393,8 +393,8 @@
       "start": "2026-01-22T06:00:00"
     },
     {
-      "duration": 39600,
-      "end": "2026-01-22T18:00:00",
+      "duration": 41400,
+      "end": "2026-01-22T18:30:00",
       "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Первый тур Второго отборочного этапа",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1666",
