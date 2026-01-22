@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-22T17:57:15Z",
-  "count": 147,
+  "lastUpdated": "2026-01-22T18:42:04Z",
+  "count": 146,
   "contests": [
     {
       "duration": 23612094,
@@ -391,21 +391,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-01-22T06:00:00"
-    },
-    {
-      "duration": 41400,
-      "end": "2026-01-22T18:30:00",
-      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Первый тур Второго отборочного этапа",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1666",
-      "id": 64682809,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-01-22T07:00:00"
     },
     {
       "duration": 10800,
