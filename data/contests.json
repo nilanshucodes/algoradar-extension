@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T16:46:49Z",
+  "lastUpdated": "2026-01-22T17:29:22Z",
   "count": 147,
   "contests": [
     {
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 213,
-      "parsed_at": "2026-01-22T15:04:07.331278",
+      "parsed_at": "2026-01-22T17:17:07.686421",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -406,21 +406,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-01-22T07:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-22T17:01:00",
-      "event": "Weekly Contest 214",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-214",
-      "id": 64685405,
-      "n_problems": null,
-      "n_statistics": 232,
-      "parsed_at": "2026-01-22T16:39:07.989596",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-01-22T15:01:00"
     },
     {
       "duration": 10800,
@@ -871,6 +856,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-01-29T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-29T17:01:00",
+      "event": "Weekly Contest 215",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-215",
+      "id": 64845152,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-01-29T15:01:00"
     },
     {
       "duration": 345599,
