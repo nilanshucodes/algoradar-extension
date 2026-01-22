@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T12:51:45Z",
+  "lastUpdated": "2026-01-22T13:47:26Z",
   "count": 147,
   "contests": [
     {
@@ -843,8 +843,8 @@
       "start": "2026-01-29T14:30:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-01-29T17:05:00",
+      "duration": 10800,
+      "end": "2026-01-29T17:35:00",
       "event": "Codeforces Round 1077 (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2187",
@@ -858,8 +858,8 @@
       "start": "2026-01-29T14:35:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-01-29T17:05:00",
+      "duration": 10800,
+      "end": "2026-01-29T17:35:00",
       "event": "Codeforces Round 1077 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2188",
