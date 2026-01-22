@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T23:53:23Z",
+  "lastUpdated": "2026-01-22T01:51:11Z",
   "count": 145,
   "contests": [
     {
@@ -161,7 +161,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 212,
-      "parsed_at": "2026-01-21T23:33:07.124333",
+      "parsed_at": "2026-01-22T01:46:07.764998",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -340,8 +340,8 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46031",
       "id": 64564843,
       "n_problems": 26,
-      "n_statistics": 4,
-      "parsed_at": "2026-01-21T04:27:08.970271",
+      "n_statistics": 5,
+      "parsed_at": "2026-01-22T01:16:07.650094",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
