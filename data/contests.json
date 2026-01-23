@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-23T19:01:40Z",
-  "count": 151,
+  "lastUpdated": "2026-01-23T19:47:33Z",
+  "count": 152,
   "contests": [
     {
       "duration": 23612094,
@@ -451,6 +451,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-24T01:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-24T07:00:00",
+      "event": "Breaking Code 2.0 : Programming Contest by CSE, MBSTU [private]",
+      "host": "toph.co",
+      "href": "https://toph.co/c/mbstu-cse-idpc-2026",
+      "id": 64870551,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2026-01-24T03:00:00"
     },
     {
       "duration": 14400,
