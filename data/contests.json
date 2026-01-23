@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-23T01:47:50Z",
-  "count": 144,
+  "lastUpdated": "2026-01-23T03:42:52Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 224,
-      "parsed_at": "2026-01-22T14:08:07.399833",
+      "n_statistics": 226,
+      "parsed_at": "2026-01-23T02:09:07.694351",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 213,
-      "parsed_at": "2026-01-22T23:56:06.889169",
+      "parsed_at": "2026-01-23T02:09:07.702350",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -1546,21 +1546,6 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-02-21T14:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-02-22T17:00:00",
-      "event": "BearcatCTF 2026 - Setting Sail",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3046/",
-      "id": 64729361,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-02-21T17:00:00"
     },
     {
       "duration": 2400,
