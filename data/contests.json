@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T13:42:44Z",
+  "lastUpdated": "2026-01-23T14:26:14Z",
   "count": 144,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 226,
-      "parsed_at": "2026-01-23T02:09:07.694351",
+      "parsed_at": "2026-01-23T14:10:07.152307",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
