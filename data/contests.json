@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-23T12:49:40Z",
-  "count": 145,
+  "lastUpdated": "2026-01-23T13:42:44Z",
+  "count": 144,
   "contests": [
     {
       "duration": 23612094,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 213,
-      "parsed_at": "2026-01-23T11:01:07.586080",
+      "parsed_at": "2026-01-23T13:14:07.700773",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -391,21 +391,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-01-23T07:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-01-23T13:30:00",
-      "event": "牛客练习赛148 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/127263",
-      "id": 64768174,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-01-23T11:00:00"
     },
     {
       "duration": 172800,
