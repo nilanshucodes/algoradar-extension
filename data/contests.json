@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T18:34:47Z",
+  "lastUpdated": "2026-01-23T19:01:40Z",
   "count": 151,
   "contests": [
     {
@@ -325,8 +325,8 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46031",
       "id": 64564843,
       "n_problems": 26,
-      "n_statistics": 5,
-      "parsed_at": "2026-01-22T22:05:07.167574",
+      "n_statistics": 6,
+      "parsed_at": "2026-01-23T18:54:07.517022",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
