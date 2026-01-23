@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-23T17:00:42Z",
-  "count": 151,
+  "lastUpdated": "2026-01-23T17:52:19Z",
+  "count": 152,
   "contests": [
     {
       "duration": 23612094,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 213,
-      "parsed_at": "2026-01-23T15:27:07.693875",
+      "parsed_at": "2026-01-23T17:40:08.312250",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -556,6 +556,21 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-01-24T14:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-24T16:30:00",
+      "event": "Тренировки первой подзадачи 2026. День 1",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89075/enter/?retPage=standings",
+      "id": 64868774,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-01-24T14:30:00"
     },
     {
       "duration": 5400,
