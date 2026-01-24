@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T17:47:39Z",
+  "lastUpdated": "2026-01-24T18:30:39Z",
   "count": 142,
   "contests": [
     {
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 214,
-      "parsed_at": "2026-01-24T15:50:07.697942",
+      "parsed_at": "2026-01-24T18:03:08.283919",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -680,7 +680,7 @@
     {
       "duration": 7200,
       "end": "2026-01-30T13:00:00",
-      "event": "【LGR-263-Div.4】洛谷入门赛 #43 · 洛谷 2026 [rated, ioi]",
+      "event": "【LGR-263-Div.4】洛谷入门赛 #43 [rated, ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/304401",
       "id": 64740084,
