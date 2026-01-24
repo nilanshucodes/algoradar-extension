@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T14:19:58Z",
+  "lastUpdated": "2026-01-24T14:49:42Z",
   "count": 151,
   "contests": [
     {
@@ -517,11 +517,11 @@
       "end": "2026-01-24T16:30:00",
       "event": "Тренировки первой подзадачи 2026. День 1",
       "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89075/enter/?retPage=standings",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89075/standings",
       "id": 64868774,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 12,
+      "n_statistics": 9,
+      "parsed_at": "2026-01-24T14:48:44.936154",
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
