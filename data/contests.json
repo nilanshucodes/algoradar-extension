@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-24T16:52:54Z",
-  "count": 143,
+  "lastUpdated": "2026-01-24T17:18:34Z",
+  "count": 142,
   "contests": [
     {
       "duration": 23612094,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND34",
       "id": 64811763,
       "n_problems": 4,
-      "n_statistics": 68,
-      "parsed_at": "2026-01-24T13:47:07.591840",
+      "n_statistics": 108,
+      "parsed_at": "2026-01-24T17:00:08.759509",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -391,21 +391,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-24T13:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-24T17:00:00",
-      "event": "CONTEST #4",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 62431051,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2026-01-24T14:00:00"
     },
     {
       "duration": 5400,
