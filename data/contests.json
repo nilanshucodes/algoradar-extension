@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-24T16:25:48Z",
-  "count": 144,
+  "lastUpdated": "2026-01-24T16:52:54Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -406,21 +406,6 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-01-24T14:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-24T16:30:00",
-      "event": "Тренировки первой подзадачи 2026. День 1",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89075/standings",
-      "id": 64868774,
-      "n_problems": 12,
-      "n_statistics": 9,
-      "parsed_at": "2026-01-24T16:25:18.172504",
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-01-24T14:30:00"
     },
     {
       "duration": 5400,
