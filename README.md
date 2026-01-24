@@ -111,11 +111,11 @@ Contributions welcome! Please:
 - Introduce Time zones 
 - Optional persistent storage (only if future scale requires it)
 
-## Latest Release (v1.1.0)
+## Latest Release (v1.2.0)
 
-- Switched to cron-based contest data ingestion
-- Backend now serves static JSON for improved reliability
-- Fixed extension cache correctness edge cases
+- **Global Timezone:** automatically detects your computer's system timezone.
+- The "Time Remaining" now accurately matches the actual start time.
+- Contests now remain visible and accessible right up until their official start time.
 - No UI changes
 
 ## License
