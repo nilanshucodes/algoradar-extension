@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T19:45:55Z",
+  "lastUpdated": "2026-01-24T20:22:33Z",
   "count": 142,
   "contests": [
     {
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 214,
-      "parsed_at": "2026-01-24T18:03:08.283919",
+      "parsed_at": "2026-01-24T20:16:07.796079",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND34",
       "id": 64811763,
       "n_problems": 4,
-      "n_statistics": 108,
-      "parsed_at": "2026-01-24T17:00:08.759509",
+      "n_statistics": 123,
+      "parsed_at": "2026-01-24T20:13:07.852591",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
