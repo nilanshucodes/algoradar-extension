@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T08:28:04Z",
+  "lastUpdated": "2026-01-24T08:54:16Z",
   "count": 152,
   "contests": [
     {
@@ -454,21 +454,6 @@
     },
     {
       "duration": 14400,
-      "end": "2026-01-24T08:30:00",
-      "event": "Breaking Code 2.0 : Programming Contest by CSE, MBSTU [private]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/mbstu-cse-idpc-2026",
-      "id": 64870551,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2026-01-24T04:30:00"
-    },
-    {
-      "duration": 14400,
       "end": "2026-01-24T10:00:00",
       "event": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9 [rated, ioi]",
       "host": "luogu.com.cn",
@@ -496,6 +481,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-24T08:00:00"
+    },
+    {
+      "duration": 950400,
+      "end": "2026-02-04T09:00:00",
+      "event": "洛谷 2025 年度试题推荐选集 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/305403",
+      "id": 64883837,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-24T09:00:00"
     },
     {
       "duration": 6000,
