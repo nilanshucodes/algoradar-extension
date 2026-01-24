@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-24T12:41:44Z",
-  "count": 151,
+  "lastUpdated": "2026-01-24T13:31:04Z",
+  "count": 152,
   "contests": [
     {
       "duration": 23612094,
@@ -490,8 +490,8 @@
       "href": "https://atcoder.jp/contests/abc442",
       "id": 64123669,
       "n_problems": 7,
-      "n_statistics": 10316,
-      "parsed_at": "2026-01-24T12:35:07.662595",
+      "n_statistics": 10862,
+      "parsed_at": "2026-01-24T13:24:07.353517",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -1576,6 +1576,21 @@
       "resource": "nerc.itmo.ru/school",
       "resource_id": 11,
       "start": "2026-02-15T10:00:00"
+    },
+    {
+      "duration": 8100,
+      "end": "2026-02-15T16:50:00",
+      "event": "Codeforces Round (Div. 3)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2195",
+      "id": 64888008,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-02-15T14:35:00"
     },
     {
       "duration": 14400,
