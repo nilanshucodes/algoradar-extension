@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-24T13:31:04Z",
-  "count": 152,
+  "lastUpdated": "2026-01-24T13:51:12Z",
+  "count": 151,
   "contests": [
     {
       "duration": 23612094,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 214,
-      "parsed_at": "2026-01-24T11:24:08.481630",
+      "parsed_at": "2026-01-24T13:37:08.229631",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -400,8 +400,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND34",
       "id": 64811763,
       "n_problems": 4,
-      "n_statistics": 52,
-      "parsed_at": "2026-01-24T10:34:07.553024",
+      "n_statistics": 68,
+      "parsed_at": "2026-01-24T13:47:07.591840",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -481,21 +481,6 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-01-24T09:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-01-24T13:40:00",
-      "event": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc442",
-      "id": 64123669,
-      "n_problems": 7,
-      "n_statistics": 10862,
-      "parsed_at": "2026-01-24T13:24:07.353517",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-24T12:00:00"
     },
     {
       "duration": 86400,
