@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T03:27:08Z",
+  "lastUpdated": "2026-01-24T04:20:52Z",
   "count": 152,
   "contests": [
     {
@@ -400,8 +400,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND34",
       "id": 64811763,
       "n_problems": 4,
-      "n_statistics": 10,
-      "parsed_at": "2026-01-24T00:55:07.800850",
+      "n_statistics": 18,
+      "parsed_at": "2026-01-24T04:08:07.808146",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -454,21 +454,6 @@
     },
     {
       "duration": 14400,
-      "end": "2026-01-24T07:30:00",
-      "event": "Breaking Code 2.0 : Programming Contest by CSE, MBSTU [private]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/mbstu-cse-idpc-2026",
-      "id": 64870551,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2026-01-24T03:30:00"
-    },
-    {
-      "duration": 14400,
       "end": "2026-01-24T08:00:00",
       "event": "ICPC Dhaka 2025 Online Preliminary - Replay Contest. raihatneloy",
       "host": "codeforces.com/gyms",
@@ -481,6 +466,21 @@
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
       "start": "2026-01-24T04:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-24T08:15:00",
+      "event": "Breaking Code 2.0 : Programming Contest by CSE, MBSTU [private]",
+      "host": "toph.co",
+      "href": "https://toph.co/c/mbstu-cse-idpc-2026",
+      "id": 64870551,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2026-01-24T04:15:00"
     },
     {
       "duration": 14400,
