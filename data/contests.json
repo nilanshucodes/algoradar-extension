@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T20:25:08Z",
+  "lastUpdated": "2026-01-25T20:51:10Z",
   "count": 128,
   "contests": [
     {
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 215,
-      "parsed_at": "2026-01-25T18:26:06.189773",
+      "parsed_at": "2026-01-25T20:39:06.271509",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
