@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-25T14:19:45Z",
-  "count": 133,
+  "lastUpdated": "2026-01-25T14:49:32Z",
+  "count": 131,
   "contests": [
     {
       "duration": 23612094,
@@ -333,45 +333,15 @@
       "start": "2026-01-24T09:00:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-01-25T14:30:00",
-      "event": "AtCoder Regular Contest 213 (Div. 1)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/arc213",
-      "id": 64663191,
-      "n_problems": 4,
-      "n_statistics": 832,
-      "parsed_at": "2026-01-25T14:10:05.844738",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-25T12:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-01-25T14:30:00",
-      "event": "Blitz Round #11",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/2ad26u26792v7aamtvg0b9c4bg",
-      "id": 64727633,
-      "n_problems": 5,
-      "n_statistics": 75,
-      "parsed_at": "2026-01-25T14:16:05.757736",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-01-25T13:00:00"
-    },
-    {
       "duration": 8100,
       "end": "2026-01-25T16:50:00",
       "event": "Codeforces Round 1076 (Div. 3)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2193",
       "id": 64753329,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 8,
+      "n_statistics": 10708,
+      "parsed_at": "2026-01-25T14:42:06.109179",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
