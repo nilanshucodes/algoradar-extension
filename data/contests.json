@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-24T23:48:01Z",
-  "count": 142,
+  "lastUpdated": "2026-01-25T01:57:52Z",
+  "count": 141,
   "contests": [
     {
       "duration": 23612094,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 214,
-      "parsed_at": "2026-01-24T22:29:07.202289",
+      "parsed_at": "2026-01-25T00:42:07.455271",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -316,21 +316,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-23T19:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-01-25T00:00:00",
-      "event": "Dreamhack Invitational Quals 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3025/",
-      "id": 64704873,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-24T00:00:00"
     },
     {
       "duration": 172800,
