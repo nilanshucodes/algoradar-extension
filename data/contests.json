@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T15:48:27Z",
+  "lastUpdated": "2026-01-25T16:26:26Z",
   "count": 131,
   "contests": [
     {
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 215,
-      "parsed_at": "2026-01-25T14:00:07.429912",
+      "parsed_at": "2026-01-25T16:13:06.709871",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -340,8 +340,8 @@
       "href": "https://codeforces.com/contests/2193",
       "id": 64753329,
       "n_problems": 8,
-      "n_statistics": 26271,
-      "parsed_at": "2026-01-25T15:32:05.804288",
+      "n_statistics": 27859,
+      "parsed_at": "2026-01-25T16:09:08.960409",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
