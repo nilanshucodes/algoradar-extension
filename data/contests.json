@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-25T10:51:35Z",
-  "count": 137,
+  "lastUpdated": "2026-01-25T11:18:22Z",
+  "count": 136,
   "contests": [
     {
       "duration": 23612094,
@@ -361,21 +361,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-24T13:00:00"
-    },
-    {
-      "duration": 21600,
-      "end": "2026-01-25T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 64696989,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-01-25T05:00:00"
     },
     {
       "duration": 7200,
