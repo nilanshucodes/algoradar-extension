@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-25T10:22:17Z",
-  "count": 136,
+  "lastUpdated": "2026-01-25T10:51:35Z",
+  "count": 137,
   "contests": [
     {
       "duration": 23612094,
@@ -496,6 +496,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-28T14:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-29T14:00:00",
+      "event": "嘟嘟哒哒大作战 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/304744",
+      "id": 64908922,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-29T10:00:00"
     },
     {
       "duration": 7200,
