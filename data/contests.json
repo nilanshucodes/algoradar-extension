@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T13:32:22Z",
+  "lastUpdated": "2026-01-25T13:52:33Z",
   "count": 133,
   "contests": [
     {
@@ -340,8 +340,8 @@
       "href": "https://atcoder.jp/contests/arc213",
       "id": 64663191,
       "n_problems": 4,
-      "n_statistics": 754,
-      "parsed_at": "2026-01-25T13:15:06.837466",
+      "n_statistics": 810,
+      "parsed_at": "2026-01-25T13:48:07.209013",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -355,8 +355,8 @@
       "href": "https://basecamp.eolymp.com/contests/2ad26u26792v7aamtvg0b9c4bg",
       "id": 64727633,
       "n_problems": 5,
-      "n_statistics": 68,
-      "parsed_at": "2026-01-25T13:27:06.660930",
+      "n_statistics": 72,
+      "parsed_at": "2026-01-25T13:48:07.173823",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
