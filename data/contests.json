@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-25T17:48:38Z",
-  "count": 130,
+  "lastUpdated": "2026-01-25T18:30:35Z",
+  "count": 129,
   "contests": [
     {
       "duration": 23612094,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 215,
-      "parsed_at": "2026-01-25T16:13:06.709871",
+      "parsed_at": "2026-01-25T18:26:06.189773",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -271,21 +271,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-01-22T06:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-01-25T18:30:00",
-      "event": "Weekend Dev Challenge 34: Data Analysis & Visualization Projects",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND34",
-      "id": 64811763,
-      "n_problems": 4,
-      "n_statistics": 195,
-      "parsed_at": "2026-01-25T15:31:06.879143",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-23T18:30:00"
     },
     {
       "duration": 172800,
