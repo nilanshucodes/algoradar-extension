@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-25T20:51:10Z",
-  "count": 128,
+  "lastUpdated": "2026-01-25T21:19:27Z",
+  "count": 127,
   "contests": [
     {
       "duration": 23612094,
@@ -226,21 +226,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-01-18T08:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-25T21:00:00",
-      "event": "Baraj Juniori București Info(1) Mirror",
-      "host": "kilonova.ro",
-      "href": "https://kilonova.ro/contests/2326",
-      "id": 64747338,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kilonova.ro",
-      "resource_id": 175,
-      "start": "2026-01-18T13:00:00"
     },
     {
       "duration": 2213940,
