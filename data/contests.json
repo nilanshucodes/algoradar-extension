@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-26T13:44:29Z",
-  "count": 127,
+  "lastUpdated": "2026-01-26T14:29:11Z",
+  "count": 128,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 239,
-      "parsed_at": "2026-01-26T02:15:07.437708",
+      "n_statistics": 246,
+      "parsed_at": "2026-01-26T14:16:05.750561",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 215,
-      "parsed_at": "2026-01-26T12:10:05.613184",
+      "parsed_at": "2026-01-26T14:23:05.083275",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DSAMONDAY22",
       "id": 64928173,
       "n_problems": 6,
-      "n_statistics": 392,
-      "parsed_at": "2026-01-26T13:34:05.981224",
+      "n_statistics": 538,
+      "parsed_at": "2026-01-26T14:26:06.671823",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -316,6 +316,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-28T03:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-28T10:00:00",
+      "event": "COCI 2025/2026 #4 Unofficial Mirror [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/305806",
+      "id": 64935143,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-28T07:00:00"
     },
     {
       "duration": 7200,
