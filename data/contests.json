@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-26T14:59:26Z",
-  "count": 128,
+  "lastUpdated": "2026-01-26T15:38:11Z",
+  "count": 132,
   "contests": [
     {
       "duration": 23612094,
@@ -286,21 +286,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-25T20:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-01-26T15:30:00",
-      "event": "Monday Munch - DSA Challenge 22",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY22",
-      "id": 64928173,
-      "n_problems": 6,
-      "n_statistics": 623,
-      "parsed_at": "2026-01-26T14:52:07.406735",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-26T12:30:00"
     },
     {
       "duration": 27000,
@@ -1338,6 +1323,51 @@
       "start": "2026-02-26T14:30:00"
     },
     {
+      "duration": 86400,
+      "end": "2026-02-28T08:00:00",
+      "event": "UniVsThreats 26 Quals CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3092/",
+      "id": 64936481,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-27T08:00:00"
+    },
+    {
+      "duration": 115200,
+      "end": "2026-03-01T09:00:00",
+      "event": "SECCON CTF 14 International Finals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3106/",
+      "id": 64936479,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-28T01:00:00"
+    },
+    {
+      "duration": 115200,
+      "end": "2026-03-01T09:00:00",
+      "event": "SECCON CTF 14 Domestic Finals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3107/",
+      "id": 64936480,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-28T01:00:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-02-28T17:00:00",
       "event": "Интернет-олимпиада",
@@ -1429,6 +1459,21 @@
     },
     {
       "duration": 18000,
+      "end": "2026-03-07T19:00:00",
+      "event": "CodeVinci Beginner CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3101/",
+      "id": 64936478,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-07T14:00:00"
+    },
+    {
+      "duration": 18000,
       "end": "2026-03-13T11:00:00",
       "event": "Международная олимпиада Innopolis Open 2025 – Профиль «Робототехника». Заключительный этап, 7-8 класс",
       "host": "cups.online",
@@ -1486,6 +1531,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-13T23:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-03-15T05:00:00",
+      "event": "tkbctf5",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3091/",
+      "id": 64936477,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-14T05:00:00"
     },
     {
       "duration": 18000,
