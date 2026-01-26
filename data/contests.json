@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T12:50:28Z",
+  "lastUpdated": "2026-01-26T13:44:29Z",
   "count": 127,
   "contests": [
     {
@@ -280,8 +280,8 @@
       "href": "https://basecamp.eolymp.com/contests/0fdopgb6et7g3allmrhbicn9cg",
       "id": 64799951,
       "n_problems": 10,
-      "n_statistics": 2,
-      "parsed_at": "2026-01-26T02:00:07.191266",
+      "n_statistics": 9,
+      "parsed_at": "2026-01-26T13:12:05.803289",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DSAMONDAY22",
       "id": 64928173,
       "n_problems": 6,
-      "n_statistics": 136,
-      "parsed_at": "2026-01-26T12:42:06.119544",
+      "n_statistics": 392,
+      "parsed_at": "2026-01-26T13:34:05.981224",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
