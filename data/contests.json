@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-26T05:58:07Z",
-  "count": 126,
+  "lastUpdated": "2026-01-26T06:51:29Z",
+  "count": 127,
   "contests": [
     {
       "duration": 23612094,
@@ -301,6 +301,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-01-26T05:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-26T15:30:00",
+      "event": "Monday Munch - DSA Challenge 22",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY22",
+      "id": 64928173,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-01-26T12:30:00"
     },
     {
       "duration": 27000,
