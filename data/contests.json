@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-26T09:59:00Z",
-  "count": 127,
+  "lastUpdated": "2026-01-26T10:37:25Z",
+  "count": 126,
   "contests": [
     {
       "duration": 23612094,
@@ -286,21 +286,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-25T20:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-01-26T10:00:00",
-      "event": "[ICPC2024 Chengdu R] ICPC 2024 区域赛成都站重现赛 [rated, icpc]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/305336",
-      "id": 64880533,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-26T05:00:00"
     },
     {
       "duration": 10800,
