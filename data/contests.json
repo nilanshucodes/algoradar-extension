@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-27T08:34:11Z",
-  "count": 134,
+  "lastUpdated": "2026-01-27T09:02:01Z",
+  "count": 135,
   "contests": [
     {
       "duration": 23612094,
@@ -796,6 +796,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-02-05T06:00:00"
+    },
+    {
+      "duration": 2620800,
+      "end": "2026-03-07T15:00:00",
+      "event": "Technocup 2025-2026 [sport_coding]. Пробный раунд для прокторинга",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1674",
+      "id": 64953123,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-02-05T07:00:00"
     },
     {
       "duration": 172800,
