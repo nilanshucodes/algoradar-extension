@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T22:23:28Z",
+  "lastUpdated": "2026-01-27T22:52:42Z",
   "count": 138,
   "contests": [
     {
@@ -280,8 +280,8 @@
       "href": "https://basecamp.eolymp.com/contests/0fdopgb6et7g3allmrhbicn9cg",
       "id": 64799951,
       "n_problems": 10,
-      "n_statistics": 26,
-      "parsed_at": "2026-01-27T11:36:05.899694",
+      "n_statistics": 32,
+      "parsed_at": "2026-01-27T22:48:06.379894",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
