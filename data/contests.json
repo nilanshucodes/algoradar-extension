@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T13:48:42Z",
+  "lastUpdated": "2026-01-27T14:30:18Z",
   "count": 138,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 254,
-      "parsed_at": "2026-01-27T02:17:05.879528",
+      "n_statistics": 259,
+      "parsed_at": "2026-01-27T14:18:05.988800",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
