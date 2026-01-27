@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-27T12:52:15Z",
-  "count": 137,
+  "lastUpdated": "2026-01-27T13:48:42Z",
+  "count": 138,
   "contests": [
     {
       "duration": 23612094,
@@ -540,6 +540,21 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
+      "start": "2026-01-31T08:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-01-31T12:00:00",
+      "event": "RoAlgo Cup 1",
+      "host": "kilonova.ro",
+      "href": "https://kilonova.ro/contests/2425",
+      "id": 64957402,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kilonova.ro",
+      "resource_id": 175,
       "start": "2026-01-31T08:00:00"
     },
     {
