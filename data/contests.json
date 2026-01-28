@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T15:01:03Z",
+  "lastUpdated": "2026-01-28T16:02:53Z",
   "count": 140,
   "contests": [
     {
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-28T12:55:06.075265",
+      "parsed_at": "2026-01-28T15:08:06.724473",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/START223",
       "id": 64379844,
       "n_problems": 8,
-      "n_statistics": 2092,
-      "parsed_at": "2026-01-28T14:38:06.510746",
+      "n_statistics": 18986,
+      "parsed_at": "2026-01-28T15:39:06.305620",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -540,21 +540,6 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
-      "start": "2026-01-31T08:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-31T12:00:00",
-      "event": "RoAlgo Cup 1",
-      "host": "kilonova.ro",
-      "href": "https://kilonova.ro/contests/2425",
-      "id": 64957402,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kilonova.ro",
-      "resource_id": 175,
       "start": "2026-01-31T08:00:00"
     },
     {
@@ -1036,6 +1021,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-02-08T09:05:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-02-08T17:00:00",
+      "event": "RoAlgo Cup 1",
+      "host": "kilonova.ro",
+      "href": "https://kilonova.ro/contests/2425",
+      "id": 64957402,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kilonova.ro",
+      "resource_id": 175,
+      "start": "2026-02-08T13:00:00"
     },
     {
       "duration": 7254000,
