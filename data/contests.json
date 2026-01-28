@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T16:02:53Z",
-  "count": 140,
+  "lastUpdated": "2026-01-28T17:08:32Z",
+  "count": 139,
   "contests": [
     {
       "duration": 23612094,
@@ -286,21 +286,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-25T20:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-28T16:30:00",
-      "event": "Starters 223 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START223",
-      "id": 64379844,
-      "n_problems": 8,
-      "n_statistics": 18986,
-      "parsed_at": "2026-01-28T15:39:06.305620",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-28T14:30:00"
     },
     {
       "duration": 10800,
