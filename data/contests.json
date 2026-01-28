@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T07:04:13Z",
+  "lastUpdated": "2026-01-28T07:52:20Z",
   "count": 138,
   "contests": [
     {
@@ -305,7 +305,7 @@
     {
       "duration": 7200,
       "end": "2026-01-28T16:30:00",
-      "event": "Starters 223",
+      "event": "Starters 223 (Rated till 5 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START223",
       "id": 64379844,
