@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T14:30:59Z",
-  "count": 139,
+  "lastUpdated": "2026-01-28T15:01:03Z",
+  "count": 140,
   "contests": [
     {
       "duration": 23612094,
@@ -294,9 +294,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/START223",
       "id": 64379844,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 8,
+      "n_statistics": 2092,
+      "parsed_at": "2026-01-28T14:38:06.510746",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -1081,6 +1081,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-02-10T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-11T16:30:00",
+      "event": "Starters 225",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START225",
+      "id": 64982733,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-11T14:30:00"
     },
     {
       "duration": 7200,
