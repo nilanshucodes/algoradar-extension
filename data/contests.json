@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T10:39:41Z",
-  "count": 139,
+  "lastUpdated": "2026-01-28T11:00:49Z",
+  "count": 138,
   "contests": [
     {
       "duration": 23612094,
@@ -146,7 +146,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-28T08:29:06.013402",
+      "parsed_at": "2026-01-28T10:42:05.972760",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -286,21 +286,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-25T20:00:00"
-    },
-    {
-      "duration": 27000,
-      "end": "2026-01-28T11:00:00",
-      "event": "CyberQuest 26",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3080/",
-      "id": 64704870,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-28T03:30:00"
     },
     {
       "duration": 7200,
