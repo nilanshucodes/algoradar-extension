@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T22:58:34Z",
-  "count": 139,
+  "lastUpdated": "2026-01-28T23:34:32Z",
+  "count": 140,
   "contests": [
     {
       "duration": 23612094,
@@ -286,6 +286,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-25T20:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-01-29T02:30:00",
+      "event": "UTPC Contest 1-28-2026. UTPC_Admin",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106339",
+      "id": 64989904,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-01-29T00:30:00"
     },
     {
       "duration": 10800,
