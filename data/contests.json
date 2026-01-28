@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T13:49:40Z",
-  "count": 138,
+  "lastUpdated": "2026-01-28T14:30:59Z",
+  "count": 139,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 259,
-      "parsed_at": "2026-01-28T02:19:06.306321",
+      "parsed_at": "2026-01-28T14:20:06.238044",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -766,6 +766,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-02-03T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-04T16:30:00",
+      "event": "Starters 224",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START224",
+      "id": 64982327,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-04T14:30:00"
     },
     {
       "duration": 5400,
