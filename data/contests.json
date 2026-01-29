@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T19:57:20Z",
+  "lastUpdated": "2026-01-29T20:37:58Z",
   "count": 146,
   "contests": [
     {
@@ -206,7 +206,7 @@
       "id": 64564843,
       "n_problems": 26,
       "n_statistics": 7,
-      "parsed_at": "2026-01-28T23:48:06.157179",
+      "parsed_at": "2026-01-29T20:37:05.740623",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
