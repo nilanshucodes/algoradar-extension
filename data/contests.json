@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T23:54:10Z",
-  "count": 140,
+  "lastUpdated": "2026-01-29T02:03:55Z",
+  "count": 139,
   "contests": [
     {
       "duration": 23612094,
@@ -61,21 +61,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-10-23T18:03:01"
-    },
-    {
-      "duration": 7962983,
-      "end": "2026-01-28T23:59:00",
-      "event": "CSIRO - Image2Biomass Prediction [biology, agriculture, r2 score]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/csiro-biomass",
-      "id": 62881700,
-      "n_problems": null,
-      "n_statistics": 1479,
-      "parsed_at": "2025-11-26T16:11:08.702812",
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-10-28T20:02:37"
     },
     {
       "duration": 31536000,
