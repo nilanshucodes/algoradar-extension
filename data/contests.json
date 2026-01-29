@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-29T13:13:51Z",
-  "count": 148,
+  "lastUpdated": "2026-01-29T14:23:38Z",
+  "count": 147,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 263,
-      "parsed_at": "2026-01-29T02:21:05.637151",
+      "parsed_at": "2026-01-29T14:22:05.992857",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -131,7 +131,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-29T11:05:05.773445",
+      "parsed_at": "2026-01-29T13:18:06.128850",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -271,21 +271,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-01-25T20:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-01-29T14:00:00",
-      "event": "嘟嘟哒哒大作战 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/304744",
-      "id": 64908922,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-29T10:00:00"
     },
     {
       "duration": 10800,
