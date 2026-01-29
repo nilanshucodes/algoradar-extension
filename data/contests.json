@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-29T16:06:14Z",
-  "count": 147,
+  "lastUpdated": "2026-01-29T17:20:47Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -280,8 +280,8 @@
       "href": "https://codeforces.com/contests/2187",
       "id": 64614581,
       "n_problems": 8,
-      "n_statistics": 742,
-      "parsed_at": "2026-01-29T16:00:08.973722",
+      "n_statistics": 747,
+      "parsed_at": "2026-01-29T17:17:06.603075",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -295,27 +295,12 @@
       "href": "https://codeforces.com/contests/2188",
       "id": 64614582,
       "n_problems": 7,
-      "n_statistics": 19007,
-      "parsed_at": "2026-01-29T16:00:22.846682",
+      "n_statistics": 19865,
+      "parsed_at": "2026-01-29T17:12:08.568636",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-01-29T14:35:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-29T17:01:00",
-      "event": "Weekly Contest 215",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-215",
-      "id": 64845152,
-      "n_problems": null,
-      "n_statistics": 141,
-      "parsed_at": "2026-01-29T16:03:07.393669",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-01-29T15:01:00"
     },
     {
       "duration": 345599,
@@ -498,21 +483,6 @@
       "start": "2026-01-31T08:00:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-01-31T14:00:00",
-      "event": "UOJ Round #33",
-      "host": "uoj.ac",
-      "href": "https://uoj.ac/contest/104",
-      "id": 64770277,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "uoj.ac",
-      "resource_id": 172,
-      "start": "2026-01-31T10:00:00"
-    },
-    {
       "duration": 6000,
       "end": "2026-01-31T13:40:00",
       "event": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
@@ -555,6 +525,21 @@
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
+      "start": "2026-01-31T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-01-31T16:00:00",
+      "event": "Тренировки первой подзадачи 2026. День 2",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89398/enter/?retPage=standings",
+      "id": 65007430,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-01-31T14:30:00"
     },
     {
@@ -615,6 +600,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-02-01T10:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-02-01T14:00:00",
+      "event": "UOJ Round #33",
+      "host": "uoj.ac",
+      "href": "https://uoj.ac/contest/104",
+      "id": 64770277,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "uoj.ac",
+      "resource_id": 172,
       "start": "2026-02-01T10:00:00"
     },
     {
@@ -781,6 +781,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-02-05T07:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-05T17:01:00",
+      "event": "Weekly Contest 216",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-216",
+      "id": 65007624,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-02-05T15:01:00"
     },
     {
       "duration": 172800,
