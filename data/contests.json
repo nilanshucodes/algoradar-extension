@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-29T09:23:01Z",
-  "count": 146,
+  "lastUpdated": "2026-01-29T10:19:57Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -1024,6 +1024,21 @@
     },
     {
       "duration": 7200,
+      "end": "2026-02-08T13:00:00",
+      "event": "牛客周赛 Round 130 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/127702",
+      "id": 65001149,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-02-08T11:00:00"
+    },
+    {
+      "duration": 7200,
       "end": "2026-02-08T14:00:00",
       "event": "AtCoder Regular Contest 214",
       "host": "atcoder.jp",
@@ -1366,6 +1381,21 @@
       "resource": "nerc.itmo.ru/school",
       "resource_id": 11,
       "start": "2026-02-15T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-15T13:00:00",
+      "event": "牛客周赛 Round 131 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/127703",
+      "id": 65001154,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-02-15T11:00:00"
     },
     {
       "duration": 8100,
