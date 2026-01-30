@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-30T11:55:41Z",
-  "count": 153,
+  "lastUpdated": "2026-01-30T13:00:20Z",
+  "count": 151,
   "contests": [
     {
       "duration": 23612094,
@@ -316,36 +316,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-30T09:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-30T13:00:00",
-      "event": "【LGR-263-Div.4】洛谷入门赛 #43 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/304401",
-      "id": 64740084,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-30T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-30T13:00:00",
-      "event": "牛客小白月赛128 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/127265",
-      "id": 64768927,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-01-30T11:00:00"
     },
     {
       "duration": 14400,
