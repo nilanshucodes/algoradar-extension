@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-30T16:03:14Z",
-  "count": 151,
+  "lastUpdated": "2026-01-30T17:18:45Z",
+  "count": 150,
   "contests": [
     {
       "duration": 23612094,
@@ -346,21 +346,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-30T14:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-01-30T16:30:00",
-      "event": "RoboContest Round #108",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3397",
-      "id": 64398857,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-01-30T14:30:00"
     },
     {
       "duration": 172800,
