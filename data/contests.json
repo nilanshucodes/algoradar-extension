@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T06:27:09Z",
+  "lastUpdated": "2026-01-30T07:27:16Z",
   "count": 146,
   "contests": [
     {
@@ -131,7 +131,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-30T04:48:06.819977",
+      "parsed_at": "2026-01-30T07:01:05.792322",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -265,8 +265,8 @@
       "href": "https://basecamp.eolymp.com/contests/0fdopgb6et7g3allmrhbicn9cg",
       "id": 64799951,
       "n_problems": 10,
-      "n_statistics": 45,
-      "parsed_at": "2026-01-29T19:36:06.226190",
+      "n_statistics": 46,
+      "parsed_at": "2026-01-30T06:48:06.887953",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
