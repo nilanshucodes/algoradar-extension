@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T17:18:45Z",
+  "lastUpdated": "2026-01-30T18:02:26Z",
   "count": 150,
   "contests": [
     {
@@ -206,7 +206,7 @@
       "id": 64564843,
       "n_problems": 26,
       "n_statistics": 7,
-      "parsed_at": "2026-01-29T20:37:05.740623",
+      "parsed_at": "2026-01-30T17:26:05.579224",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -288,19 +288,19 @@
       "start": "2026-01-30T00:00:00"
     },
     {
-      "duration": 32400,
-      "end": "2026-01-30T18:00:00",
-      "event": "Jeanne d'Hack CTF 2026 | 3ème Édition",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/2941/",
-      "id": 62259707,
+      "duration": 259200,
+      "end": "2026-02-02T05:00:00",
+      "event": "UAIS RL Tournament",
+      "host": "competesai.com",
+      "href": "https://competesai.com/competitions/squid-hunt-ualberta",
+      "id": 65030017,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-30T09:00:00"
+      "resource": "competesai.com",
+      "resource_id": 182,
+      "start": "2026-01-30T05:00:00"
     },
     {
       "duration": 86400,
