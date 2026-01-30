@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T04:22:25Z",
+  "lastUpdated": "2026-01-30T05:34:21Z",
   "count": 146,
   "contests": [
     {
@@ -131,7 +131,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-30T02:35:06.040620",
+      "parsed_at": "2026-01-30T04:48:06.819977",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -288,21 +288,6 @@
       "start": "2026-01-30T00:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-01-30T10:00:00",
-      "event": "COCI 2025/2026 #4 Unofficial Mirror [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/305806",
-      "id": 64935143,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-30T07:00:00"
-    },
-    {
       "duration": 32400,
       "end": "2026-01-30T18:00:00",
       "event": "Jeanne d'Hack CTF 2026 | 3ème Édition",
@@ -436,6 +421,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-31T04:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-01-31T10:00:00",
+      "event": "COCI 2025/2026 #4 Unofficial Mirror [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/305806",
+      "id": 64935143,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-01-31T07:00:00"
     },
     {
       "duration": 86400,
