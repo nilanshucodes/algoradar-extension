@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-30T07:27:16Z",
-  "count": 146,
+  "lastUpdated": "2026-01-30T08:02:53Z",
+  "count": 147,
   "contests": [
     {
       "duration": 23612094,
@@ -1170,6 +1170,21 @@
       "problems": null,
       "resource": "dl.gsu.by",
       "resource_id": 4,
+      "start": "2026-02-12T06:00:00"
+    },
+    {
+      "duration": 12600,
+      "end": "2026-02-12T09:30:00",
+      "event": "【LGR-264-Div.3】洛谷基础赛 #30 & YLLOI Round 3 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/273960",
+      "id": 65020927,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-02-12T06:00:00"
     },
     {
