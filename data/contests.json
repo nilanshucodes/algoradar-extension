@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-30T23:54:34Z",
-  "count": 151,
+  "lastUpdated": "2026-01-31T02:00:19Z",
+  "count": 150,
   "contests": [
     {
       "duration": 23612094,
@@ -93,21 +93,6 @@
       "start": "2025-11-13T17:44:07"
     },
     {
-      "duration": 6413611,
-      "end": "2026-01-30T23:59:00",
-      "event": "Santa 2025 - Christmas Tree Packing Challenge [optimization, holidays and cultural events, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/santa-2025",
-      "id": 63356162,
-      "n_problems": null,
-      "n_statistics": 966,
-      "parsed_at": "2025-11-26T04:26:05.664257",
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-11-17T18:25:29"
-    },
-    {
       "duration": 12646717,
       "end": "2026-04-15T23:59:00",
       "event": "AI Mathematical Olympiad - Progress Prize 3 [nlp, mathematics, custom metric]",
@@ -131,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-30T22:32:05.517947",
+      "parsed_at": "2026-01-31T00:45:06.512335",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -356,7 +341,7 @@
       "id": 64977350,
       "n_problems": 4,
       "n_statistics": 7,
-      "parsed_at": "2026-01-30T21:42:06.304086",
+      "parsed_at": "2026-01-31T00:55:05.458669",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
