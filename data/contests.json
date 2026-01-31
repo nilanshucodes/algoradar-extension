@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-31T15:52:36Z",
-  "count": 144,
+  "lastUpdated": "2026-01-31T16:29:25Z",
+  "count": 142,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-31T14:02:05.930368",
+      "parsed_at": "2026-01-31T16:15:38.410593",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -235,8 +235,8 @@
       "href": "https://basecamp.eolymp.com/contests/0fdopgb6et7g3allmrhbicn9cg",
       "id": 64799951,
       "n_problems": 10,
-      "n_statistics": 51,
-      "parsed_at": "2026-01-31T05:12:06.269755",
+      "n_statistics": 53,
+      "parsed_at": "2026-01-31T16:24:09.219032",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -331,36 +331,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-31T08:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-01-31T16:00:00",
-      "event": "Biweekly Contest 175",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/biweekly-contest-175",
-      "id": 64612119,
-      "n_problems": 4,
-      "n_statistics": 4731,
-      "parsed_at": "2026-01-31T15:44:05.945176",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-01-31T14:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-01-31T16:00:00",
-      "event": "Тренировки первой подзадачи 2026. День 2",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89398/standings",
-      "id": 65007430,
-      "n_problems": 15,
-      "n_statistics": 10,
-      "parsed_at": "2026-01-31T15:52:06.584204",
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-01-31T14:30:00"
     },
     {
       "duration": 5400,
