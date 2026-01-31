@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-31T07:53:55Z",
-  "count": 150,
+  "lastUpdated": "2026-01-31T08:31:17Z",
+  "count": 149,
   "contests": [
     {
       "duration": 23612094,
@@ -181,21 +181,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-01-13T21:00:28"
-    },
-    {
-      "duration": 1123200,
-      "end": "2026-01-31T08:00:00",
-      "event": "Марафон №2 по задачам В.И. Лукьянчикова",
-      "host": "acmp.ru",
-      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46031",
-      "id": 64564843,
-      "n_problems": 26,
-      "n_statistics": 7,
-      "parsed_at": "2026-01-30T17:26:05.579224",
-      "problems": null,
-      "resource": "acmp.ru",
-      "resource_id": 5,
-      "start": "2026-01-18T08:00:00"
     },
     {
       "duration": 2213940,
