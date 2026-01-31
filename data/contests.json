@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T14:25:13Z",
+  "lastUpdated": "2026-01-31T14:55:49Z",
   "count": 144,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 265,
-      "parsed_at": "2026-01-31T02:25:06.330412",
+      "parsed_at": "2026-01-31T14:26:06.262304",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -352,11 +352,11 @@
       "end": "2026-01-31T16:00:00",
       "event": "Тренировки первой подзадачи 2026. День 2",
       "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89398/enter/?retPage=standings",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89398/standings",
       "id": 65007430,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 15,
+      "n_statistics": 7,
+      "parsed_at": "2026-01-31T14:53:21.391933",
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
