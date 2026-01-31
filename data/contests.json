@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-31T21:51:47Z",
-  "count": 145,
+  "lastUpdated": "2026-01-31T22:23:19Z",
+  "count": 146,
   "contests": [
     {
       "duration": 23612094,
@@ -481,6 +481,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-02-02T06:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-02T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 1 | A",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89507/enter/?retPage=",
+      "id": 65058321,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-02-02T07:00:00"
     },
     {
       "duration": 14400,
