@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-31T19:48:43Z",
-  "count": 143,
+  "lastUpdated": "2026-01-31T20:26:38Z",
+  "count": 145,
   "contests": [
     {
       "duration": 23612094,
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND35",
       "id": 64977350,
       "n_problems": 4,
-      "n_statistics": 80,
-      "parsed_at": "2026-01-31T16:59:09.648478",
+      "n_statistics": 88,
+      "parsed_at": "2026-01-31T20:12:08.994536",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -1383,6 +1383,21 @@
       "start": "2026-02-21T14:00:00"
     },
     {
+      "duration": 777600,
+      "end": "2026-03-02T14:30:00",
+      "event": "Kotlin Heroes: Practice 14",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2198",
+      "id": 65056546,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-02-21T14:30:00"
+    },
+    {
       "duration": 2400,
       "end": "2026-02-26T15:10:00",
       "event": "Tough Dash, February 2026",
@@ -1486,6 +1501,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-01T04:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-03-02T17:05:00",
+      "event": "Kotlin Heroes: Episode 14",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2199",
+      "id": 65056545,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-03-02T14:35:00"
     },
     {
       "duration": 172800,
