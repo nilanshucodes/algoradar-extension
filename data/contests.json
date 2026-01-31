@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-31T12:49:27Z",
-  "count": 148,
+  "lastUpdated": "2026-01-31T13:41:10Z",
+  "count": 146,
   "contests": [
     {
       "duration": 23612094,
@@ -361,36 +361,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-31T08:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-01-31T13:40:00",
-      "event": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc443",
-      "id": 64273512,
-      "n_problems": 7,
-      "n_statistics": 10582,
-      "parsed_at": "2026-01-31T12:42:06.260573",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-01-31T12:00:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-01-31T13:00:00",
-      "event": "Problem 982",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 64449666,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-01-31T13:00:00"
     },
     {
       "duration": 5400,
