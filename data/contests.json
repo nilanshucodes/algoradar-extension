@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-31T08:59:24Z",
-  "count": 149,
+  "lastUpdated": "2026-01-31T09:37:23Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-31T07:24:06.411776",
+      "parsed_at": "2026-01-31T09:36:10.101251",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -271,21 +271,6 @@
       "resource": "competesai.com",
       "resource_id": 182,
       "start": "2026-01-30T05:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-01-31T09:00:00",
-      "event": "ASCF CTF",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3099/",
-      "id": 64933888,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-30T09:00:00"
     },
     {
       "duration": 14400,
