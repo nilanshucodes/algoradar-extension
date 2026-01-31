@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T16:58:17Z",
+  "lastUpdated": "2026-01-31T17:31:49Z",
   "count": 142,
   "contests": [
     {
@@ -295,8 +295,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND35",
       "id": 64977350,
       "n_problems": 4,
-      "n_statistics": 42,
-      "parsed_at": "2026-01-31T13:47:05.993888",
+      "n_statistics": 80,
+      "parsed_at": "2026-01-31T16:59:09.648478",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
