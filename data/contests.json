@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T23:52:45Z",
+  "lastUpdated": "2026-02-01T02:28:26Z",
   "count": 147,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 265,
-      "parsed_at": "2026-01-31T14:26:06.262304",
+      "parsed_at": "2026-02-01T02:27:06.307018",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-01-31T22:54:05.459679",
+      "parsed_at": "2026-02-01T01:07:05.618798",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -136,21 +136,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-12-16T19:57:18"
-    },
-    {
-      "duration": 2678409,
-      "end": "2026-01-31T23:59:00",
-      "event": "Predicting Student Test Scores [beginner, tabular, rmse]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/playground-series-s6e1",
-      "id": 64393151,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-12-31T23:58:51"
     },
     {
       "duration": 6667074,
@@ -331,6 +316,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-01-31T08:00:00"
+    },
+    {
+      "duration": 2419140,
+      "end": "2026-02-28T23:59:00",
+      "event": "Predicting Heart Disease [beginner, tabular, roc auc score]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/playground-series-s6e2",
+      "id": 65060352,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-02-01T00:00:00"
     },
     {
       "duration": 5400,
