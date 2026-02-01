@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T19:03:35Z",
-  "count": 142,
+  "lastUpdated": "2026-02-01T19:51:53Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -795,6 +795,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-02-08T11:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-02-08T12:30:00",
+      "event": "Blitz Round #12",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/qjgameovtl0l7dprd0o9efta48",
+      "id": 65078745,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
       "start": "2026-02-08T11:00:00"
     },
     {
