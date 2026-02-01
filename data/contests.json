@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T15:53:47Z",
-  "count": 140,
+  "lastUpdated": "2026-02-01T16:30:16Z",
+  "count": 142,
   "contests": [
     {
       "duration": 23612094,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/rdm1k2j4hl01t781obt10ku2lo",
       "id": 64864259,
       "n_problems": 5,
-      "n_statistics": 99,
-      "parsed_at": "2026-02-01T15:52:08.306482",
+      "n_statistics": 101,
+      "parsed_at": "2026-02-01T16:27:09.481902",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -601,6 +601,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-02-07T02:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-07T23:00:00",
+      "event": "The 4th Universal Cup. Stage 15: China",
+      "host": "ucup.ac",
+      "href": "https://ucup.ac/",
+      "id": 65075912,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ucup.ac",
+      "resource_id": 139,
+      "start": "2026-02-07T05:00:00"
     },
     {
       "duration": 14400,
@@ -1051,6 +1066,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-02-14T04:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-14T23:00:00",
+      "event": "The 4th Universal Cup. Stage 16: Warsaw",
+      "host": "ucup.ac",
+      "href": "https://ucup.ac/",
+      "id": 65075913,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ucup.ac",
+      "resource_id": 139,
+      "start": "2026-02-14T05:00:00"
     },
     {
       "duration": 86400,
