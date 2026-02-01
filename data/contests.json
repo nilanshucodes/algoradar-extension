@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T19:51:53Z",
-  "count": 143,
+  "lastUpdated": "2026-02-01T20:27:37Z",
+  "count": 142,
   "contests": [
     {
       "duration": 23612094,
@@ -211,21 +211,6 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-01-24T09:00:00"
-    },
-    {
-      "duration": 604740,
-      "end": "2026-02-01T19:59:00",
-      "event": "Educational Round #7",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/0fdopgb6et7g3allmrhbicn9cg",
-      "id": 64799951,
-      "n_problems": 10,
-      "n_statistics": 59,
-      "parsed_at": "2026-02-01T14:49:06.102527",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-01-25T20:00:00"
     },
     {
       "duration": 345599,
