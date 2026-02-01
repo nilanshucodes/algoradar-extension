@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T12:51:32Z",
+  "lastUpdated": "2026-02-01T13:43:21Z",
   "count": 143,
   "contests": [
     {
@@ -325,8 +325,8 @@
       "href": "https://atcoder.jp/contests/ahc060",
       "id": 64057873,
       "n_problems": 1,
-      "n_statistics": 1418,
-      "parsed_at": "2026-02-01T12:43:06.028457",
+      "n_statistics": 1452,
+      "parsed_at": "2026-02-01T13:34:09.864514",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -361,21 +361,6 @@
       "resource": "nerc.itmo.ru/school",
       "resource_id": 11,
       "start": "2026-02-01T10:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-01T13:00:00",
-      "event": "牛客周赛 Round 129 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/127264",
-      "id": 64768541,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-02-01T11:00:00"
     },
     {
       "duration": 7200,
@@ -796,6 +781,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-02-08T02:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-02-08T10:00:00",
+      "event": "「CROI」Round 3 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/236252",
+      "id": 65073020,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-08T06:00:00"
     },
     {
       "duration": 10800,
