@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T13:43:21Z",
-  "count": 143,
+  "lastUpdated": "2026-02-01T14:26:29Z",
+  "count": 141,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-02-01T12:12:06.480038",
+      "parsed_at": "2026-02-01T14:25:06.711408",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -309,43 +309,13 @@
       "host": "acmp.ru",
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46032",
       "id": 64565191,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 26,
+      "n_statistics": 8,
+      "parsed_at": "2026-02-01T14:00:08.421636",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-02-01T08:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-02-01T14:00:00",
-      "event": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/ahc060",
-      "id": 64057873,
-      "n_problems": 1,
-      "n_statistics": 1452,
-      "parsed_at": "2026-02-01T13:34:09.864514",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-02-01T10:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-02-01T14:00:00",
-      "event": "UOJ Round #33",
-      "host": "uoj.ac",
-      "href": "https://uoj.ac/contest/104",
-      "id": 64770277,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "uoj.ac",
-      "resource_id": 172,
-      "start": "2026-02-01T10:00:00"
     },
     {
       "duration": 18000,
@@ -785,7 +755,7 @@
     {
       "duration": 14400,
       "end": "2026-02-08T10:00:00",
-      "event": "「CROI」Round 3 [rated, ioi]",
+      "event": "【LGR-266-Div.2】洛谷 2 月月赛 I &「CROI」Round 3 [rated, ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/236252",
       "id": 65073020,
