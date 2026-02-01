@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T10:32:35Z",
+  "lastUpdated": "2026-02-01T10:57:27Z",
   "count": 144,
   "contests": [
     {
@@ -340,8 +340,8 @@
       "href": "https://atcoder.jp/contests/ahc060",
       "id": 64057873,
       "n_problems": 1,
-      "n_statistics": 1183,
-      "parsed_at": "2026-02-01T10:16:06.701146",
+      "n_statistics": 1260,
+      "parsed_at": "2026-02-01T10:50:05.806786",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
