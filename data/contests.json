@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T14:56:57Z",
-  "count": 141,
+  "lastUpdated": "2026-02-01T15:31:04Z",
+  "count": 140,
   "contests": [
     {
       "duration": 23612094,
@@ -280,8 +280,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND35",
       "id": 64977350,
       "n_problems": 4,
-      "n_statistics": 121,
-      "parsed_at": "2026-02-01T12:17:06.075511",
+      "n_statistics": 138,
+      "parsed_at": "2026-02-01T15:29:07.544318",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -318,30 +318,15 @@
       "start": "2026-02-01T08:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-02-01T15:00:00",
-      "event": "Интернет-олимпиада",
-      "host": "nerc.itmo.ru/school",
-      "href": "https://nerc.itmo.ru/school/io/",
-      "id": 64817658,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "nerc.itmo.ru/school",
-      "resource_id": 11,
-      "start": "2026-02-01T10:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-02-01T17:00:00",
       "event": "Weekend Practice #18",
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/rdm1k2j4hl01t781obt10ku2lo",
       "id": 64864259,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 91,
+      "parsed_at": "2026-02-01T15:26:11.152053",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
