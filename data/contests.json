@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T16:59:28Z",
-  "count": 143,
+  "lastUpdated": "2026-02-01T17:33:34Z",
+  "count": 142,
   "contests": [
     {
       "duration": 23612094,
@@ -316,21 +316,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-02-01T08:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-01T17:00:00",
-      "event": "Weekend Practice #18",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/rdm1k2j4hl01t781obt10ku2lo",
-      "id": 64864259,
-      "n_problems": 5,
-      "n_statistics": 103,
-      "parsed_at": "2026-02-01T16:54:06.015295",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-02-01T15:00:00"
     },
     {
       "duration": 18000,
