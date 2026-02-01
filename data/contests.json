@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T17:55:30Z",
+  "lastUpdated": "2026-02-01T18:36:45Z",
   "count": 142,
   "contests": [
     {
@@ -273,21 +273,6 @@
       "start": "2026-01-30T12:00:00"
     },
     {
-      "duration": 172800,
-      "end": "2026-02-01T18:30:00",
-      "event": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND35",
-      "id": 64977350,
-      "n_problems": 4,
-      "n_statistics": 138,
-      "parsed_at": "2026-02-01T15:29:07.544318",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-01-30T18:30:00"
-    },
-    {
       "duration": 2419140,
       "end": "2026-02-28T23:59:00",
       "event": "Predicting Heart Disease [beginner, tabular, roc auc score]",
@@ -504,6 +489,21 @@
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106342",
       "id": 65031635,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-02-05T13:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-02-05T16:00:00",
+      "event": "Zaglol Contest - FCDS level 2 contest 2026. Baraa-Ahmed",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106345",
+      "id": 65077643,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
