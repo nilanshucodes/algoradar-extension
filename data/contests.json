@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T02:28:26Z",
-  "count": 147,
+  "lastUpdated": "2026-02-01T04:51:40Z",
+  "count": 145,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-02-01T01:07:05.618798",
+      "parsed_at": "2026-02-01T03:20:06.146075",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -220,8 +220,8 @@
       "href": "https://basecamp.eolymp.com/contests/0fdopgb6et7g3allmrhbicn9cg",
       "id": 64799951,
       "n_problems": 10,
-      "n_statistics": 53,
-      "parsed_at": "2026-01-31T16:24:09.219032",
+      "n_statistics": 55,
+      "parsed_at": "2026-02-01T03:37:05.400605",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -280,27 +280,12 @@
       "href": "https://www.codechef.com/DEVWEEKEND35",
       "id": 64977350,
       "n_problems": 4,
-      "n_statistics": 89,
-      "parsed_at": "2026-01-31T23:25:14.633799",
+      "n_statistics": 91,
+      "parsed_at": "2026-02-01T02:38:06.289864",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-30T18:30:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-02-01T04:30:00",
-      "event": "Eschaton CTF 2026 Quals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3072/",
-      "id": 64704867,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-31T04:30:00"
     },
     {
       "duration": 86400,
@@ -331,21 +316,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-02-01T00:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-02-01T04:00:00",
-      "event": "Weekly Contest 487",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-487",
-      "id": 64861727,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-02-01T02:30:00"
     },
     {
       "duration": 18000,
