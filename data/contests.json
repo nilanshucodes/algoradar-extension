@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T07:58:54Z",
-  "count": 145,
+  "lastUpdated": "2026-02-01T08:43:47Z",
+  "count": 144,
   "contests": [
     {
       "duration": 23612094,
@@ -286,21 +286,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-01-30T18:30:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-02-01T08:00:00",
-      "event": "PascalCTF Beginners 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/2767/",
-      "id": 59577865,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-31T08:00:00"
     },
     {
       "duration": 2419140,
