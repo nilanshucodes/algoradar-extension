@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T16:30:16Z",
-  "count": 142,
+  "lastUpdated": "2026-02-01T16:59:28Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-02-01T14:25:06.711408",
+      "parsed_at": "2026-02-01T16:38:05.583507",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/rdm1k2j4hl01t781obt10ku2lo",
       "id": 64864259,
       "n_problems": 5,
-      "n_statistics": 101,
-      "parsed_at": "2026-02-01T16:27:09.481902",
+      "n_statistics": 103,
+      "parsed_at": "2026-02-01T16:54:06.015295",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -1051,6 +1051,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-02-13T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-13T16:30:00",
+      "event": "RoboContest Round #109",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3492",
+      "id": 65076412,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-02-13T14:30:00"
     },
     {
       "duration": 18000,
