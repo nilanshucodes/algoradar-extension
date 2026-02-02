@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T17:22:33Z",
+  "lastUpdated": "2026-02-02T18:07:01Z",
   "count": 143,
   "contests": [
     {
@@ -349,7 +349,7 @@
     },
     {
       "duration": 10800,
-      "end": "2026-02-03T13:00:00",
+      "end": "2026-02-03T14:00:00",
       "event": "Inter University Programming Contest Powered By Phitron | Prime Now Presents BUET CSE Fest 2026 Mock [private]",
       "host": "toph.co",
       "href": "https://toph.co/c/inter-university-buet-cse-fest-2026-mock",
@@ -360,7 +360,7 @@
       "problems": null,
       "resource": "toph.co",
       "resource_id": 110,
-      "start": "2026-02-03T10:00:00"
+      "start": "2026-02-03T11:00:00"
     },
     {
       "duration": 7200,
