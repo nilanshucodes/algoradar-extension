@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T02:12:12Z",
-  "count": 142,
+  "lastUpdated": "2026-02-02T04:37:11Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 265,
-      "parsed_at": "2026-02-01T14:27:09.305644",
+      "n_statistics": 268,
+      "parsed_at": "2026-02-02T02:28:05.979550",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-02-02T01:30:06.726640",
+      "parsed_at": "2026-02-02T03:43:06.542812",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -331,6 +331,21 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-02-02T07:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-02-02T15:30:00",
+      "event": "Monday Munch - DSA Challenge 23",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY23",
+      "id": 65087886,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-02T12:30:00"
     },
     {
       "duration": 14400,
