@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T09:29:01Z",
-  "count": 142,
+  "lastUpdated": "2026-02-02T10:27:07Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-02-02T08:09:07.505646",
+      "parsed_at": "2026-02-02T10:22:08.313191",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -376,6 +376,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-02-03T07:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-02-03T13:00:00",
+      "event": "Inter University Programming Contest Powered By Phitron | Prime Now Presents BUET CSE Fest 2026 Mock [private]",
+      "host": "toph.co",
+      "href": "https://toph.co/c/inter-university-buet-cse-fest-2026-mock",
+      "id": 65093421,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2026-02-03T10:00:00"
     },
     {
       "duration": 7200,
