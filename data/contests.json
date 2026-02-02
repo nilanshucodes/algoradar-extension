@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T07:03:03Z",
-  "count": 143,
+  "lastUpdated": "2026-02-02T08:04:51Z",
+  "count": 142,
   "contests": [
     {
       "duration": 23612094,
@@ -271,21 +271,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-02-01T08:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-02-02T07:50:00",
-      "event": "Zaglol Contest - FCDS level 1 contest 2026. Baraa-Ahmed",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106342",
-      "id": 65031635,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-02-02T04:50:00"
     },
     {
       "duration": 18000,
