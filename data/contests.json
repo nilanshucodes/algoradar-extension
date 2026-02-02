@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T13:20:41Z",
-  "count": 142,
+  "lastUpdated": "2026-02-02T14:24:19Z",
+  "count": 145,
   "contests": [
     {
       "duration": 23612094,
@@ -265,8 +265,8 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46032",
       "id": 64565191,
       "n_problems": 26,
-      "n_statistics": 8,
-      "parsed_at": "2026-02-01T14:00:08.421636",
+      "n_statistics": 12,
+      "parsed_at": "2026-02-02T14:01:05.281671",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -280,8 +280,8 @@
       "href": "https://www.codechef.com/DSAMONDAY23",
       "id": 65087886,
       "n_problems": 6,
-      "n_statistics": 385,
-      "parsed_at": "2026-02-02T13:20:07.958913",
+      "n_statistics": 703,
+      "parsed_at": "2026-02-02T14:12:08.108842",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -330,6 +330,36 @@
       "problems": null,
       "resource": "luogu.com.cn",
       "resource_id": 162,
+      "start": "2026-02-03T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-03T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 2 | A",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89585/enter/?retPage=",
+      "id": 65096888,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-02-03T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-03T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 2 | B",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89625/enter/?retPage=",
+      "id": 65096889,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-02-03T07:00:00"
     },
     {
@@ -885,6 +915,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-02-11T06:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-02-11T10:00:00",
+      "event": "【LGR-267-Div.2】洛谷 2 月月赛 II & UTOI Round 1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/282947",
+      "id": 65096647,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-02-11T06:00:00"
     },
     {
