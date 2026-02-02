@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T05:49:42Z",
-  "count": 142,
+  "lastUpdated": "2026-02-02T07:03:03Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-02-02T03:43:06.542812",
+      "parsed_at": "2026-02-02T05:56:08.239174",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -273,21 +273,6 @@
       "start": "2026-02-01T08:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-02-02T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 64868511,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-02-02T04:00:00"
-    },
-    {
       "duration": 10800,
       "end": "2026-02-02T07:50:00",
       "event": "Zaglol Contest - FCDS level 1 contest 2026. Baraa-Ahmed",
@@ -301,6 +286,21 @@
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
       "start": "2026-02-02T04:50:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-02T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 64868511,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-02T06:00:00"
     },
     {
       "duration": 18000,
@@ -1425,6 +1425,21 @@
       "problems": null,
       "resource": "nerc.itmo.ru/school",
       "resource_id": 11,
+      "start": "2026-02-28T12:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-02-28T13:40:00",
+      "event": "AtCoder Beginner Contest 447",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc447",
+      "id": 65089484,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
       "start": "2026-02-28T12:00:00"
     },
     {
