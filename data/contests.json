@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-03T04:46:30Z",
-  "count": 147,
+  "lastUpdated": "2026-02-03T05:50:47Z",
+  "count": 149,
   "contests": [
     {
       "duration": 23612094,
@@ -768,6 +768,21 @@
       "start": "2026-02-08T12:00:00"
     },
     {
+      "duration": 8100,
+      "end": "2026-02-08T14:20:00",
+      "event": "TLX Regular Open Contest #43 (based on Arkavidia 10.0)",
+      "host": "tlx.toki.id",
+      "href": "https://tlx.toki.id/contests/troc-43",
+      "id": 65113632,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "tlx.toki.id",
+      "resource_id": 103,
+      "start": "2026-02-08T12:05:00"
+    },
+    {
       "duration": 14400,
       "end": "2026-02-08T17:00:00",
       "event": "RoAlgo Cup 1",
@@ -1216,6 +1231,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-02-16T15:00:00"
+    },
+    {
+      "duration": 216000,
+      "end": "2026-02-21T12:00:00",
+      "event": "FeSo4OI Long Round #1 春节欢乐赛 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/305706",
+      "id": 65113791,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-19T00:00:00"
     },
     {
       "duration": 14400,
