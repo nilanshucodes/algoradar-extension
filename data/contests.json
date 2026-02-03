@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-03T11:59:58Z",
-  "count": 147,
+  "lastUpdated": "2026-02-03T13:21:15Z",
+  "count": 144,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 217,
-      "parsed_at": "2026-02-03T10:45:07.720682",
+      "parsed_at": "2026-02-03T12:58:05.415714",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -213,21 +213,6 @@
       "start": "2026-01-24T09:00:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-02-03T12:00:00",
-      "event": "Second Contest",
-      "host": "usaco.org",
-      "href": "https://usaco.org/",
-      "id": 64656375,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "usaco.org",
-      "resource_id": 25,
-      "start": "2026-01-30T12:00:00"
-    },
-    {
       "duration": 2419140,
       "end": "2026-02-28T23:59:00",
       "event": "Predicting Heart Disease [beginner, tabular, roc auc score]",
@@ -258,49 +243,19 @@
       "start": "2026-02-01T08:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-02-03T12:00:00",
-      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 2 | A",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89585/enter/?retPage=",
-      "id": 65096888,
+      "duration": 86400,
+      "end": "2026-02-04T12:27:00",
+      "event": "ДЕМО Технокубок. тест тест",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1678",
+      "id": 65120921,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-03T07:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-02-03T12:00:00",
-      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 2 | B",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89625/enter/?retPage=",
-      "id": 65096889,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-03T07:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-03T13:50:00",
-      "event": "Inter University Programming Contest Powered By Phitron | Prime Now Presents BUET CSE Fest 2026 Mock [private]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/inter-university-buet-cse-fest-2026-mock",
-      "id": 65093421,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2026-02-03T11:50:00"
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-02-03T12:27:00"
     },
     {
       "duration": 7200,
