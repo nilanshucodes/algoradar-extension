@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T05:50:47Z",
+  "lastUpdated": "2026-02-03T06:52:54Z",
   "count": 149,
   "contests": [
     {
@@ -115,8 +115,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 216,
-      "parsed_at": "2026-02-03T04:06:05.632788",
+      "n_statistics": 217,
+      "parsed_at": "2026-02-03T06:19:06.658190",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -258,21 +258,6 @@
       "start": "2026-02-01T08:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-02-03T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 64868512,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-02-03T04:00:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-02-03T10:00:00",
       "event": "2026牛客寒假算法基础集训营1 [ACM]",
@@ -288,19 +273,19 @@
       "start": "2026-02-03T06:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-02-03T10:00:00",
-      "event": "COCI 2025/2026 #4 Unofficial Mirror [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/305806",
-      "id": 64935143,
+      "duration": 18000,
+      "end": "2026-02-03T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 64868512,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-02-03T07:00:00"
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-03T06:00:00"
     },
     {
       "duration": 18000,
@@ -511,6 +496,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-02-06T06:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-02-06T10:00:00",
+      "event": "COCI 2025/2026 #4 Unofficial Mirror [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/305806",
+      "id": 64935143,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-06T07:00:00"
     },
     {
       "duration": 172800,
