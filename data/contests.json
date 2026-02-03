@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T23:57:55Z",
-  "count": 149,
+  "lastUpdated": "2026-02-03T02:50:06Z",
+  "count": 147,
   "contests": [
     {
       "duration": 23612094,
@@ -26,15 +26,15 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 269,
-      "parsed_at": "2026-02-02T14:28:07.680190",
+      "parsed_at": "2026-02-03T02:29:06.121359",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2025-10-08T07:00:00"
     },
     {
-      "duration": 9521648,
-      "end": "2026-02-02T23:59:00",
+      "duration": 19803248,
+      "end": "2026-06-01T23:59:00",
       "event": "CAFA 6 Protein Function Prediction [healthcare, biology, tabular, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/cafa-6-protein-function-prediction",
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 216,
-      "parsed_at": "2026-02-02T23:40:05.689569",
+      "parsed_at": "2026-02-03T01:53:05.902695",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -211,21 +211,6 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-01-24T09:00:00"
-    },
-    {
-      "duration": 345599,
-      "end": "2026-02-02T23:59:59",
-      "event": "Hack for a Change 2026 January: UN SDG 15",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3083/",
-      "id": 64704869,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-01-30T00:00:00"
     },
     {
       "duration": 14400,
@@ -661,21 +646,6 @@
       "resource": "algoleague.com",
       "resource_id": 170,
       "start": "2026-02-07T12:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-07T16:35:00",
-      "event": "Codeforces Round (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2192",
-      "id": 64752685,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-02-07T14:35:00"
     },
     {
       "duration": 0,
