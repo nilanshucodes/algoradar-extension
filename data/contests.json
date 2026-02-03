@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-03T14:28:07Z",
-  "count": 144,
+  "lastUpdated": "2026-02-03T16:31:12Z",
+  "count": 145,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 269,
-      "parsed_at": "2026-02-03T02:29:06.121359",
+      "parsed_at": "2026-02-03T14:30:07.641465",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -115,8 +115,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 217,
-      "parsed_at": "2026-02-03T12:58:05.415714",
+      "n_statistics": 218,
+      "parsed_at": "2026-02-03T15:11:05.454155",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -495,6 +495,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-02-07T06:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-02-07T10:00:00",
+      "event": "「LCOI」Round 1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/274734",
+      "id": 65124321,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-02-07T06:00:00"
     },
     {
