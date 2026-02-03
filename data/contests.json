@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-03T09:22:01Z",
-  "count": 149,
+  "lastUpdated": "2026-02-03T10:22:20Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -256,21 +256,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-02-01T08:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-02-03T10:00:00",
-      "event": "2026牛客寒假算法基础集训营1 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/120561",
-      "id": 62911774,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-02-03T06:00:00"
     },
     {
       "duration": 18000,
