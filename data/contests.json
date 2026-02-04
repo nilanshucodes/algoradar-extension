@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T16:07:21Z",
+  "lastUpdated": "2026-02-04T16:08:19Z",
   "count": 150,
   "contests": [
     {
@@ -251,7 +251,7 @@
       "id": 65054559,
       "n_problems": 10,
       "n_statistics": 4,
-      "parsed_at": "2026-02-04T16:04:15.058811",
+      "parsed_at": "2026-02-04T16:07:18.625672",
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
