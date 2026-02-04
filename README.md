@@ -76,8 +76,6 @@ The backend is deployed on Vercel and serves **pre-generated static contest data
 - Eliminates rate-limit risks and cold-start issues
 - Backend only reads cached data at request time
 
-Endpoint:
-https://algoradar-extension.vercel.app/api/contests
 
 
 ## Tech Stack
