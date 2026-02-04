@@ -2,7 +2,7 @@ name: Update Contests Data
 
 on:
   schedule:
-    - cron: '*/40 * * * *' #every 40mins 
+    - cron: '*/90 * * * *' #every 40mins 
   workflow_dispatch:
   
   push:
