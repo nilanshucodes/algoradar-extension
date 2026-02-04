@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T08:43:41Z",
+  "lastUpdated": "2026-02-04T13:51:51Z",
   "count": 147,
   "contests": [
     {
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 218,
-      "parsed_at": "2026-02-04T06:42:06.192284",
+      "parsed_at": "2026-02-04T13:21:05.592047",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -198,21 +198,6 @@
       "start": "2026-01-22T06:00:00"
     },
     {
-      "duration": 950400,
-      "end": "2026-02-04T09:00:00",
-      "event": "洛谷 2025 年度试题推荐选集 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/305403",
-      "id": 64883837,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-01-24T09:00:00"
-    },
-    {
       "duration": 2419140,
       "end": "2026-02-28T23:59:00",
       "event": "Predicting Heart Disease [beginner, tabular, roc auc score]",
@@ -243,24 +228,9 @@
       "start": "2026-02-01T08:00:00"
     },
     {
-      "duration": 86400,
-      "end": "2026-02-04T12:27:00",
-      "event": "ДЕМО Технокубок. тест тест",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1678",
-      "id": 65120921,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-02-03T12:27:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-02-04T16:30:00",
-      "event": "Starters 224",
+      "event": "Starters 224 (Rated till 6 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START224",
       "id": 64982327,
@@ -455,7 +425,7 @@
     {
       "duration": 172800,
       "end": "2026-02-08T18:30:00",
-      "event": "Weekend Dev Challenge 35: Data Analysis & Visualization Projects",
+      "event": "Weekend Dev Challenge 36: Spring Boot Projects",
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND36",
       "id": 65139076,
@@ -1203,6 +1173,21 @@
       "start": "2026-02-16T15:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-02-18T16:30:00",
+      "event": "Starters 226",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START226",
+      "id": 65142080,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-18T14:30:00"
+    },
+    {
       "duration": 216000,
       "end": "2026-02-21T12:00:00",
       "event": "FeSo4OI Long Round #1 春节欢乐赛 [ioi]",
@@ -1351,6 +1336,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-02-21T22:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-25T16:30:00",
+      "event": "Starters 227",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START227",
+      "id": 65142349,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-25T14:30:00"
     },
     {
       "duration": 2400,
