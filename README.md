@@ -32,7 +32,7 @@ algoradar/
 │   └── contests.js           # Serves pre-generated contest data (no runtime CLIST calls)
 │
 ├── data/                     # Generated contest data
-│   └── contests.json         # Cached JSON updated via GitHub Actions cron
+│   └── contests.json         # Cached JSON updated via local scheduled script
 │
 ├── extension/                # Chrome extension
 │   ├── manifest.json         # Extension manifest (MV3)
@@ -76,12 +76,25 @@ The backend is deployed on Vercel and serves **pre-generated static contest data
 - Eliminates rate-limit risks and cold-start issues
 - Backend only reads cached data at request time
 
+# Data Update Architecture
 
+## Previous Approach(Deprecated)
+- GitHub Actions cron job fetched from CLIST API
+- Worked for 1700+ commits
+- **Issue:** Cloudflare bot protection started blocking GitHub Actions IPs (403 errors)
+
+## Current Approach
+- Local macOS script runs every 3 hours + on system wake
+- Uses residential IP (trusted by Cloudflare)
+- Commits and pushes to GitHub automatically
+- Vercel detects push and serves updated data
+- Zero Cloudflare blocks
 
 ## Tech Stack
 
 - **Frontend**: Vanilla JavaScript, HTML, CSS
 - **Backend**: Vercel Serverless Functions
+- **Data Pipeline**: Local scheduling script->GitHub->Vercel
 - **API**: CLIST API
 - **Deployment**: Vercel (backend), Chrome Web Store (extension)
 
@@ -101,12 +114,13 @@ Contributions welcome! Please:
 
 ## Known Limitations
 
-- Contest data updates depend on the scheduled refresh interval (every 15–30 minutes)
+- Contest data updates when maintainer's machine is online (typically every 3-6 hours)
+- If machine is offline for extended periods, data may be slightly stale (contests are announced days/weeks ahead, so this rarely affects users)
 - UI remains intentionally minimal to keep the extension lightweight
 
 
 ### Future Improvements
-- Introduce Time zones 
+- Migrate to a 24/7 VPS for always-on updates (Oracle Cloud Free Tier or similar)
 - Optional persistent storage (only if future scale requires it)
 
 ## Latest Release (v1.2.0)
