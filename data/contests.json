@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-04T16:08:19Z",
-  "count": 150,
+  "lastUpdated": "2026-02-04T19:30:40Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 218,
-      "parsed_at": "2026-02-04T15:34:06.339690",
+      "parsed_at": "2026-02-04T17:47:06.453267",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -226,51 +226,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-02-01T08:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-04T16:30:00",
-      "event": "Starters 224 (Rated till 6 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START224",
-      "id": 64982327,
-      "n_problems": 9,
-      "n_statistics": 32276,
-      "parsed_at": "2026-02-04T15:46:06.038509",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-02-04T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-04T16:30:00",
-      "event": "Тренировки первой подзадачи 2026. День 3",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89499/standings",
-      "id": 65054559,
-      "n_problems": 10,
-      "n_statistics": 4,
-      "parsed_at": "2026-02-04T16:07:18.625672",
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-04T14:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-02-04T17:00:00",
-      "event": "Beginner Contest 105",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-105",
-      "id": 64822453,
-      "n_problems": null,
-      "n_statistics": 16,
-      "parsed_at": "2026-02-04T16:03:08.281048",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-02-04T15:30:00"
     },
     {
       "duration": 18000,
@@ -1231,6 +1186,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-02-18T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-02-18T17:00:00",
+      "event": "Beginner Contest 106",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-106",
+      "id": 65147767,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-02-18T15:30:00"
     },
     {
       "duration": 216000,
