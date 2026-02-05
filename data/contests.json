@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-04T19:30:40Z",
-  "count": 148,
+  "lastUpdated": "2026-02-05T03:24:38Z",
+  "count": 149,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 270,
-      "parsed_at": "2026-02-04T14:32:05.856172",
+      "n_statistics": 273,
+      "parsed_at": "2026-02-05T02:33:06.082550",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 218,
-      "parsed_at": "2026-02-04T17:47:06.453267",
+      "parsed_at": "2026-02-05T02:39:06.482560",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -229,7 +229,7 @@
     },
     {
       "duration": 18000,
-      "end": "2026-02-05T07:30:00",
+      "end": "2026-02-05T08:30:00",
       "event": "Inter University Programming Contest Powered By Phitron | Prime Now Presents BUET CSE Fest 2026 [private]",
       "host": "toph.co",
       "href": "https://toph.co/c/inter-university-buet-cse-fest-2026",
@@ -240,7 +240,7 @@
       "problems": null,
       "resource": "toph.co",
       "resource_id": 110,
-      "start": "2026-02-05T02:30:00"
+      "start": "2026-02-05T03:30:00"
     },
     {
       "duration": 14400,
@@ -528,6 +528,21 @@
       "start": "2026-02-07T09:00:00"
     },
     {
+      "duration": 43200,
+      "end": "2026-02-07T21:00:00",
+      "event": "algoComp'26 Qualification Round (unrated, icpc, team)",
+      "host": "algoleague.com",
+      "href": "https://algoleague.com/contest/algocomp26-qualification-round/",
+      "id": 64776220,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "algoleague.com",
+      "resource_id": 170,
+      "start": "2026-02-07T09:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-02-08T11:00:00",
       "event": "EncipherX CTF 4.0",
@@ -555,21 +570,6 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
-      "start": "2026-02-07T12:00:00"
-    },
-    {
-      "duration": 43140,
-      "end": "2026-02-07T23:59:00",
-      "event": "algoComp'26 Qualification Round (unrated, icpc, team)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/algocomp26-qualification-round/",
-      "id": 64776220,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
       "start": "2026-02-07T12:00:00"
     },
     {
@@ -721,6 +721,21 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-02-08T13:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-02-08T17:35:00",
+      "event": "Repovive Premier Round 1",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 65149821,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-02-08T14:35:00"
     },
     {
       "duration": 7254000,
