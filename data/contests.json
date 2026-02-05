@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T10:11:55Z",
+  "lastUpdated": "2026-02-05T16:25:50Z",
   "count": 148,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 273,
-      "parsed_at": "2026-02-05T02:33:06.082550",
+      "n_statistics": 274,
+      "parsed_at": "2026-02-05T14:34:08.141371",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 219,
-      "parsed_at": "2026-02-05T09:18:07.761639",
+      "parsed_at": "2026-02-05T15:57:08.564599",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -221,26 +221,11 @@
       "id": 64565191,
       "n_problems": 26,
       "n_statistics": 13,
-      "parsed_at": "2026-02-04T14:03:06.157135",
+      "parsed_at": "2026-02-05T14:04:07.379705",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-02-01T08:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-02-05T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 64868513,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-02-05T06:00:00"
     },
     {
       "duration": 2620800,
@@ -258,66 +243,6 @@
       "start": "2026-02-05T07:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-02-05T12:00:00",
-      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 3 | A",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89788/enter/?retPage=",
-      "id": 65145680,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-05T07:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-02-05T12:00:00",
-      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 3 | B",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/89795/enter/?retPage=",
-      "id": 65146069,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-05T07:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-02-05T11:30:00",
-      "event": "Zaglol Contest - FCDS level 2 contest 2026. Baraa-Ahmed",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106351",
-      "id": 65096250,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-02-05T08:30:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-02-05T11:30:00",
-      "event": "Zaglol Contest - FCDS level 1 contest 2026. Baraa-Ahmed",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106350",
-      "id": 65096251,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-02-05T08:30:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-02-05T17:01:00",
       "event": "Weekly Contest 216",
@@ -325,8 +250,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-216",
       "id": 65007624,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 138,
+      "parsed_at": "2026-02-05T16:21:07.999391",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -375,6 +300,36 @@
       "problems": null,
       "resource": "luogu.com.cn",
       "resource_id": 162,
+      "start": "2026-02-06T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-06T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 4 | A",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89854/enter/?retPage=",
+      "id": 65169011,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-02-06T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-06T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 4 | B",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89855/enter/?retPage=",
+      "id": 65169012,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-02-06T07:00:00"
     },
     {
@@ -634,7 +589,7 @@
     },
     {
       "duration": 5400,
-      "end": "2026-02-08T12:30:00",
+      "end": "2026-02-08T13:00:00",
       "event": "Blitz Round #12",
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/qjgameovtl0l7dprd0o9efta48",
@@ -645,7 +600,7 @@
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
-      "start": "2026-02-08T11:00:00"
+      "start": "2026-02-08T11:30:00"
     },
     {
       "duration": 7200,
@@ -663,21 +618,6 @@
       "start": "2026-02-08T12:00:00"
     },
     {
-      "duration": 8100,
-      "end": "2026-02-08T14:20:00",
-      "event": "TLX Regular Open Contest #43 (based on Arkavidia 10.0)",
-      "host": "tlx.toki.id",
-      "href": "https://tlx.toki.id/contests/troc-43",
-      "id": 65113632,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "tlx.toki.id",
-      "resource_id": 103,
-      "start": "2026-02-08T12:05:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-02-08T17:00:00",
       "event": "RoAlgo Cup 1",
@@ -693,6 +633,21 @@
       "start": "2026-02-08T13:00:00"
     },
     {
+      "duration": 8100,
+      "end": "2026-02-08T16:30:00",
+      "event": "TLX Regular Open Contest #43 (based on Arkavidia 10.0)",
+      "host": "tlx.toki.id",
+      "href": "https://tlx.toki.id/contests/troc-43",
+      "id": 65113632,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "tlx.toki.id",
+      "resource_id": 103,
+      "start": "2026-02-08T14:15:00"
+    },
+    {
       "duration": 10800,
       "end": "2026-02-08T17:35:00",
       "event": "Repovive Premier Round 1",
@@ -706,6 +661,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-02-08T14:35:00"
+    },
+    {
+      "duration": 604740,
+      "end": "2026-02-15T19:59:00",
+      "event": "Educational Round #8",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/14cdci32oh7jbeka1gkkrobpms",
+      "id": 65166167,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-02-08T20:00:00"
     },
     {
       "duration": 7254000,
@@ -1098,6 +1068,21 @@
       "start": "2026-02-14T19:00:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-02-15T04:00:00",
+      "event": "Weekly Contest 489",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-489",
+      "id": 65165338,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-02-15T02:30:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-02-15T09:00:00",
       "event": "慶應義塾大学プログラミングコンテスト 2025",
@@ -1351,6 +1336,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-02-21T22:00:00"
+    },
+    {
+      "duration": 399540,
+      "end": "2026-03-01T20:59:00",
+      "event": "Хакатон VK Process Mining. Раунд 1",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1682",
+      "id": 65167199,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-02-25T06:00:00"
     },
     {
       "duration": 7200,
