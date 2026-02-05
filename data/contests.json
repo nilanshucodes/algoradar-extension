@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-05T03:24:38Z",
-  "count": 149,
+  "lastUpdated": "2026-02-05T10:11:55Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -115,8 +115,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 218,
-      "parsed_at": "2026-02-05T02:39:06.482560",
+      "n_statistics": 219,
+      "parsed_at": "2026-02-05T09:18:07.761639",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -229,36 +229,6 @@
     },
     {
       "duration": 18000,
-      "end": "2026-02-05T08:30:00",
-      "event": "Inter University Programming Contest Powered By Phitron | Prime Now Presents BUET CSE Fest 2026 [private]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/inter-university-buet-cse-fest-2026",
-      "id": 65146114,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2026-02-05T03:30:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-02-05T10:00:00",
-      "event": "2026牛客寒假算法基础集训营2 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/120562",
-      "id": 63747707,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-02-05T06:00:00"
-    },
-    {
-      "duration": 18000,
       "end": "2026-02-05T11:00:00",
       "event": "Подготовка к области/республике 2026",
       "host": "dl.gsu.by",
@@ -319,7 +289,7 @@
     },
     {
       "duration": 10800,
-      "end": "2026-02-05T11:00:00",
+      "end": "2026-02-05T11:30:00",
       "event": "Zaglol Contest - FCDS level 2 contest 2026. Baraa-Ahmed",
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106351",
@@ -330,11 +300,11 @@
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
-      "start": "2026-02-05T08:00:00"
+      "start": "2026-02-05T08:30:00"
     },
     {
       "duration": 10800,
-      "end": "2026-02-05T11:00:00",
+      "end": "2026-02-05T11:30:00",
       "event": "Zaglol Contest - FCDS level 1 contest 2026. Baraa-Ahmed",
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106350",
@@ -345,7 +315,7 @@
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
-      "start": "2026-02-05T08:00:00"
+      "start": "2026-02-05T08:30:00"
     },
     {
       "duration": 7200,
@@ -855,6 +825,21 @@
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
+      "start": "2026-02-11T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-02-11T16:00:00",
+      "event": "Тренировки первой подзадачи 2026. День 4",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/89825/enter/?retPage=standings",
+      "id": 65162212,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-02-11T14:30:00"
     },
     {
