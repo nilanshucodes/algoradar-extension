@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-05T16:25:50Z",
-  "count": 148,
+  "lastUpdated": "2026-02-06T07:29:06Z",
+  "count": 149,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 274,
-      "parsed_at": "2026-02-05T14:34:08.141371",
+      "n_statistics": 276,
+      "parsed_at": "2026-02-06T02:35:07.852381",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 219,
-      "parsed_at": "2026-02-05T15:57:08.564599",
+      "parsed_at": "2026-02-06T07:28:07.387009",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -241,21 +241,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-02-05T07:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-05T17:01:00",
-      "event": "Weekly Contest 216",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-216",
-      "id": 65007624,
-      "n_problems": null,
-      "n_statistics": 138,
-      "parsed_at": "2026-02-05T16:21:07.999391",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-02-05T15:01:00"
     },
     {
       "duration": 172800,
@@ -873,6 +858,21 @@
       "start": "2026-02-12T06:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-02-12T17:01:00",
+      "event": "Weekly Contest 217",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-217",
+      "id": 65171179,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-02-12T15:01:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-02-14T18:00:00",
       "event": "0xFUN CTF 2026",
@@ -1336,6 +1336,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-02-21T22:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-22T14:00:00",
+      "event": "AtCoder Regular Contest 215",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc215",
+      "id": 65181951,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-02-22T12:00:00"
     },
     {
       "duration": 399540,
