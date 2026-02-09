@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-09T16:21:05Z",
-  "count": 141,
+  "lastUpdated": "2026-02-09T19:30:57Z",
+  "count": 153,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 222,
-      "parsed_at": "2026-02-09T15:15:08.927851",
+      "parsed_at": "2026-02-09T17:28:07.482385",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -858,6 +858,21 @@
       "start": "2026-02-15T14:35:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-02-16T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271330,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-16T04:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-02-16T17:00:00",
       "event": "牛客2026年除夕娱乐赛 [ACM]",
@@ -871,6 +886,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-02-16T15:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-02-17T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271331,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-17T04:00:00"
     },
     {
       "duration": 7200,
@@ -916,6 +946,36 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-02-19T00:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-02-19T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271332,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-19T04:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-02-20T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271333,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-20T04:00:00"
     },
     {
       "duration": 14400,
@@ -1053,7 +1113,7 @@
       "start": "2026-02-21T22:00:00"
     },
     {
-      "duration": 18000,
+      "duration": 25200,
       "end": "2026-02-22T11:00:00",
       "event": "Подготовка к области/республике 2026",
       "host": "dl.gsu.by",
@@ -1065,7 +1125,7 @@
       "problems": null,
       "resource": "dl.gsu.by",
       "resource_id": 4,
-      "start": "2026-02-22T06:00:00"
+      "start": "2026-02-22T04:00:00"
     },
     {
       "duration": 7200,
@@ -1113,6 +1173,21 @@
       "start": "2026-02-22T14:35:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-02-23T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271335,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-23T04:00:00"
+    },
+    {
       "duration": 6044400,
       "end": "2026-05-04T04:00:00",
       "event": "ICRA 2026 Sim2Real Soccer Challenge",
@@ -1126,6 +1201,21 @@
       "resource": "competesai.com",
       "resource_id": 182,
       "start": "2026-02-23T05:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-02-24T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271336,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-24T04:00:00"
     },
     {
       "duration": 399540,
@@ -1158,6 +1248,21 @@
       "start": "2026-02-25T14:30:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-02-26T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271337,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-26T04:00:00"
+    },
+    {
       "duration": 2400,
       "end": "2026-02-26T15:10:00",
       "event": "Tough Dash, February 2026",
@@ -1171,6 +1276,21 @@
       "resource": "toph.co",
       "resource_id": 110,
       "start": "2026-02-26T14:30:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-02-27T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271338,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-02-27T04:00:00"
     },
     {
       "duration": 86400,
@@ -1323,7 +1443,7 @@
       "start": "2026-03-01T04:00:00"
     },
     {
-      "duration": 18000,
+      "duration": 25200,
       "end": "2026-03-01T11:00:00",
       "event": "Подготовка к области/республике 2026",
       "host": "dl.gsu.by",
@@ -1335,7 +1455,22 @@
       "problems": null,
       "resource": "dl.gsu.by",
       "resource_id": 4,
-      "start": "2026-03-01T06:00:00"
+      "start": "2026-03-01T04:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-03-02T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271651,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-03-02T04:00:00"
     },
     {
       "duration": 9000,
@@ -1353,6 +1488,21 @@
       "start": "2026-03-02T14:35:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-03-03T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271652,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-03-03T04:00:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-03-06T21:00:00",
       "event": "Заключительный этап. XX Открытая олимпиада по программированию",
@@ -1366,6 +1516,36 @@
       "resource": "inf-open.ru",
       "resource_id": 85,
       "start": "2026-03-04T21:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-03-05T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271653,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-03-05T04:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-03-06T11:00:00",
+      "event": "Подготовка к области/республике 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 65271654,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-03-06T04:00:00"
     },
     {
       "duration": 172800,
