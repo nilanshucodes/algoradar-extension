@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T12:51:48Z",
+  "lastUpdated": "2026-02-09T16:08:24Z",
   "count": 141,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 278,
-      "parsed_at": "2026-02-09T02:41:07.307262",
+      "parsed_at": "2026-02-09T14:42:07.592629",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -115,8 +115,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 221,
-      "parsed_at": "2026-02-09T10:49:07.239566",
+      "n_statistics": 222,
+      "parsed_at": "2026-02-09T15:15:08.927851",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -220,8 +220,8 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46032",
       "id": 64565191,
       "n_problems": 26,
-      "n_statistics": 16,
-      "parsed_at": "2026-02-08T14:07:08.002882",
+      "n_statistics": 17,
+      "parsed_at": "2026-02-09T14:08:07.953911",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -250,27 +250,12 @@
       "href": "https://basecamp.eolymp.com/contests/14cdci32oh7jbeka1gkkrobpms",
       "id": 65166167,
       "n_problems": 10,
-      "n_statistics": 9,
-      "parsed_at": "2026-02-09T02:00:08.429497",
+      "n_statistics": 24,
+      "parsed_at": "2026-02-09T13:12:07.923040",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-02-08T20:00:00"
-    },
-    {
-      "duration": 7254000,
-      "end": "2026-05-04T04:00:00",
-      "event": "ICRA 2026 Sim2Real Soccer Challenge",
-      "host": "competesai.com",
-      "href": "https://competesai.com/competitions/icra-sim2real-soccer",
-      "id": 63991366,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "competesai.com",
-      "resource_id": 182,
-      "start": "2026-02-09T05:00:00"
     },
     {
       "duration": 14400,
@@ -301,21 +286,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-02-09T06:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-02-09T15:30:00",
-      "event": "Monday Munch - DSA Challenge 24",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY24",
-      "id": 65258571,
-      "n_problems": 6,
-      "n_statistics": 67,
-      "parsed_at": "2026-02-09T12:42:07.811549",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-02-09T12:30:00"
     },
     {
       "duration": 18000,
@@ -425,7 +395,7 @@
     {
       "duration": 7200,
       "end": "2026-02-11T16:30:00",
-      "event": "Starters 225",
+      "event": "Starters 225 (Rated till 5 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START225",
       "id": 64982733,
@@ -676,6 +646,21 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-02-14T05:00:00"
+    },
+    {
+      "duration": 16200,
+      "end": "2026-02-14T10:30:00",
+      "event": "【MX-X24】梦熊 X 组 · RiOI-7（同步赛） [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/309581",
+      "id": 65268923,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-14T06:00:00"
     },
     {
       "duration": 86400,
@@ -1126,6 +1111,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-02-22T14:35:00"
+    },
+    {
+      "duration": 6044400,
+      "end": "2026-05-04T04:00:00",
+      "event": "ICRA 2026 Sim2Real Soccer Challenge",
+      "host": "competesai.com",
+      "href": "https://competesai.com/competitions/icra-sim2real-soccer",
+      "id": 63991366,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "competesai.com",
+      "resource_id": 182,
+      "start": "2026-02-23T05:00:00"
     },
     {
       "duration": 399540,
