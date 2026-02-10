@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-09T19:30:57Z",
-  "count": 153,
+  "lastUpdated": "2026-02-10T10:36:55Z",
+  "count": 156,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 278,
-      "parsed_at": "2026-02-09T14:42:07.592629",
+      "parsed_at": "2026-02-10T02:43:07.779777",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -78,8 +78,8 @@
       "start": "2025-11-13T00:00:00"
     },
     {
-      "duration": 7971293,
-      "end": "2026-02-13T23:59:00",
+      "duration": 9180893,
+      "end": "2026-02-27T23:59:00",
       "event": "Vesuvius Challenge - Surface Detection [history, image segmentation, segmentation, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection",
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 222,
-      "parsed_at": "2026-02-09T17:28:07.482385",
+      "parsed_at": "2026-02-10T08:59:08.126703",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -250,8 +250,8 @@
       "href": "https://basecamp.eolymp.com/contests/14cdci32oh7jbeka1gkkrobpms",
       "id": 65166167,
       "n_problems": 10,
-      "n_statistics": 24,
-      "parsed_at": "2026-02-09T13:12:07.923040",
+      "n_statistics": 30,
+      "parsed_at": "2026-02-10T00:24:08.803020",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -303,19 +303,34 @@
       "start": "2026-02-10T06:00:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-02-10T10:00:00",
-      "event": "NOSOI Round 1 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/303869",
-      "id": 65138792,
+      "duration": 18000,
+      "end": "2026-02-10T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 6 | A",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/90081/enter/?retPage=",
+      "id": 65274619,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-02-10T06:00:00"
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-02-10T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-02-10T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 6 | B",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/90097/enter/?retPage=",
+      "id": 65275063,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-02-10T07:00:00"
     },
     {
       "duration": 5400,
@@ -784,21 +799,6 @@
     },
     {
       "duration": 18000,
-      "end": "2026-02-15T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 65219654,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-02-15T06:00:00"
-    },
-    {
-      "duration": 18000,
       "end": "2026-02-15T15:00:00",
       "event": "Интернет-олимпиада",
       "host": "nerc.itmo.ru/school",
@@ -1008,6 +1008,21 @@
       "start": "2026-02-20T18:30:00"
     },
     {
+      "duration": 2606400,
+      "end": "2026-03-22T23:00:00",
+      "event": "Sandbox",
+      "host": "gameaicup.com",
+      "href": "https://gameaicup.com/sandbox-overview",
+      "id": 65277011,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "gameaicup.com",
+      "resource_id": 184,
+      "start": "2026-02-20T19:00:00"
+    },
+    {
       "duration": 133199,
       "end": "2026-02-22T13:00:00",
       "event": "THJCC CTF 2026",
@@ -1111,6 +1126,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-02-21T22:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-02-22T04:00:00",
+      "event": "Weekly Contest 490",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-490",
+      "id": 65286067,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-02-22T02:30:00"
     },
     {
       "duration": 25200,
@@ -1398,6 +1428,21 @@
       "start": "2026-02-28T12:00:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-02-28T16:00:00",
+      "event": "Biweekly Contest 177",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/biweekly-contest-177",
+      "id": 65286066,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-02-28T14:30:00"
+    },
+    {
       "duration": 0,
       "end": "2026-02-28T18:00:00",
       "event": "Srdnlen CTF 2026 Quals",
@@ -1456,6 +1501,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-03-01T04:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-03-03T02:00:00",
+      "event": "Round 1",
+      "host": "gameaicup.com",
+      "href": "https://gameaicup.com/round1-overview",
+      "id": 65277012,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "gameaicup.com",
+      "resource_id": 184,
+      "start": "2026-03-02T02:00:00"
     },
     {
       "duration": 25200,
@@ -1638,19 +1698,19 @@
       "start": "2026-03-08T04:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-03-08T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 65219657,
+      "duration": 86400,
+      "end": "2026-03-10T01:00:00",
+      "event": "Round 2",
+      "host": "gameaicup.com",
+      "href": "https://gameaicup.com/round2-overview",
+      "id": 65277013,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-03-08T06:00:00"
+      "resource": "gameaicup.com",
+      "resource_id": 184,
+      "start": "2026-03-09T01:00:00"
     },
     {
       "duration": 18000,
@@ -1758,21 +1818,6 @@
       "start": "2026-03-14T12:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-03-15T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 65219658,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-03-15T06:00:00"
-    },
-    {
       "duration": 0,
       "end": "2026-03-15T07:00:00",
       "event": "Problem 988",
@@ -1786,6 +1831,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-03-15T07:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-03-17T01:00:00",
+      "event": "Final Round",
+      "host": "gameaicup.com",
+      "href": "https://gameaicup.com/final-overview",
+      "id": 65277014,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "gameaicup.com",
+      "resource_id": 184,
+      "start": "2026-03-16T01:00:00"
     },
     {
       "duration": 172800,
@@ -1861,21 +1921,6 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-03-21T14:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-03-22T11:00:00",
-      "event": "Подготовка к области/республике 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 65219659,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-03-22T06:00:00"
     },
     {
       "duration": 0,
