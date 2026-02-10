@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-10T16:26:42Z",
-  "count": 151,
+  "lastUpdated": "2026-02-10T17:55:21Z",
+  "count": 150,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 222,
-      "parsed_at": "2026-02-10T15:38:08.142062",
+      "parsed_at": "2026-02-10T17:51:07.857362",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -286,21 +286,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-02-09T06:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-02-10T17:00:00",
-      "event": "Replay of BUET IUPC 2026, Powered By Phitron. arman_ferdous",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106356",
-      "id": 65260766,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-02-10T12:00:00"
     },
     {
       "duration": 14400,
@@ -768,9 +753,9 @@
       "start": "2026-02-15T11:00:00"
     },
     {
-      "duration": 8100,
-      "end": "2026-02-15T16:50:00",
-      "event": "Codeforces Round (Div. 3)",
+      "duration": 9000,
+      "end": "2026-02-15T17:05:00",
+      "event": "Codeforces Round 1080 (Div. 3)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2195",
       "id": 64888008,
