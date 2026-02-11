@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-10T17:55:21Z",
-  "count": 150,
+  "lastUpdated": "2026-02-11T09:07:48Z",
+  "count": 153,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 279,
-      "parsed_at": "2026-02-10T14:44:07.069705",
+      "parsed_at": "2026-02-11T02:45:09.138684",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -115,8 +115,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 222,
-      "parsed_at": "2026-02-10T17:51:07.857362",
+      "n_statistics": 224,
+      "parsed_at": "2026-02-11T07:09:08.948494",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -250,8 +250,8 @@
       "href": "https://basecamp.eolymp.com/contests/14cdci32oh7jbeka1gkkrobpms",
       "id": 65166167,
       "n_problems": 10,
-      "n_statistics": 33,
-      "parsed_at": "2026-02-10T11:37:07.389908",
+      "n_statistics": 38,
+      "parsed_at": "2026-02-10T22:49:07.503898",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -543,6 +543,21 @@
       "start": "2026-02-13T14:30:00"
     },
     {
+      "duration": 172800,
+      "end": "2026-02-15T18:30:00",
+      "event": "Weekend Dev Challenge 37: Spring Boot Projects",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DEVWEEKEND37",
+      "id": 65310229,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-13T18:30:00"
+    },
+    {
       "duration": 12600,
       "end": "2026-02-14T04:00:00",
       "event": "NFC-OI Round 1 [ioi]",
@@ -590,7 +605,7 @@
     {
       "duration": 16200,
       "end": "2026-02-14T10:30:00",
-      "event": "【MX-X24】梦熊 X 组 · RiOI Round 7（同步赛） [rated, ioi]",
+      "event": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛） [rated, ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/309581",
       "id": 65268923,
@@ -798,6 +813,21 @@
       "start": "2026-02-16T04:00:00"
     },
     {
+      "duration": 12600,
+      "end": "2026-02-16T16:00:00",
+      "event": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/300994",
+      "id": 65306484,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-16T12:30:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-02-16T17:00:00",
       "event": "牛客2026年除夕娱乐赛 [ACM]",
@@ -976,6 +1006,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-02-21T04:30:00"
+    },
+    {
+      "duration": 16200,
+      "end": "2026-02-21T10:30:00",
+      "event": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/299754",
+      "id": 65312555,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-21T06:00:00"
     },
     {
       "duration": 28800,
@@ -1414,7 +1459,7 @@
     },
     {
       "duration": 86400,
-      "end": "2026-03-03T02:00:00",
+      "end": "2026-03-03T01:00:00",
       "event": "Round 1",
       "host": "gameaicup.com",
       "href": "https://gameaicup.com/round1-overview",
@@ -1425,7 +1470,7 @@
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
-      "start": "2026-03-02T02:00:00"
+      "start": "2026-03-02T01:00:00"
     },
     {
       "duration": 25200,
