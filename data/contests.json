@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-12T03:24:43Z",
-  "count": 133,
+  "lastUpdated": "2026-02-12T06:28:05Z",
+  "count": 136,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 225,
-      "parsed_at": "2026-02-12T03:06:08.363223",
+      "parsed_at": "2026-02-12T05:19:07.368385",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -934,6 +934,21 @@
     },
     {
       "duration": 7200,
+      "end": "2026-02-22T13:00:00",
+      "event": "牛客周赛 Round 132 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/128672",
+      "id": 65329904,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-02-22T11:00:00"
+    },
+    {
+      "duration": 7200,
       "end": "2026-02-22T14:00:00",
       "event": "AtCoder Regular Contest 215",
       "host": "atcoder.jp",
@@ -1051,6 +1066,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-02-27T08:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-27T13:00:00",
+      "event": "牛客小白月赛129 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/128675",
+      "id": 65330914,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-02-27T11:00:00"
     },
     {
       "duration": 8100,
@@ -1201,6 +1231,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-01T04:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-01T13:00:00",
+      "event": "牛客周赛 Round 133 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/128678",
+      "id": 65330915,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-03-01T11:00:00"
     },
     {
       "duration": 86400,
