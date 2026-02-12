@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T15:32:33Z",
+  "lastUpdated": "2026-02-12T17:36:46Z",
   "count": 141,
   "contests": [
     {
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 225,
-      "parsed_at": "2026-02-12T14:11:07.854622",
+      "parsed_at": "2026-02-12T16:24:08.824977",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -271,21 +271,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-02-09T06:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-12T17:01:00",
-      "event": "Weekly Contest 217",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-217",
-      "id": 65171179,
-      "n_problems": null,
-      "n_statistics": 122,
-      "parsed_at": "2026-02-12T15:27:08.440135",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-02-12T15:01:00"
     },
     {
       "duration": 172800,
@@ -811,6 +796,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-02-19T00:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-19T17:01:00",
+      "event": "Weekly Contest 218",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-218",
+      "id": 65340645,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-02-19T15:01:00"
     },
     {
       "duration": 14400,
