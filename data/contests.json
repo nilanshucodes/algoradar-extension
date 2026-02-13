@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-13T10:57:30Z",
-  "count": 148,
+  "lastUpdated": "2026-02-13T14:11:38Z",
+  "count": 147,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 225,
-      "parsed_at": "2026-02-13T10:09:17.198101",
+      "parsed_at": "2026-02-13T12:22:05.535628",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -176,7 +176,7 @@
       "id": 63173001,
       "n_problems": 14,
       "n_statistics": 29,
-      "parsed_at": "2026-02-13T00:43:07.277550",
+      "parsed_at": "2026-02-13T12:44:10.186527",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -190,8 +190,8 @@
       "href": "https://cups.online/rounds/1585",
       "id": 63173002,
       "n_problems": 12,
-      "n_statistics": 88,
-      "parsed_at": "2026-02-13T00:43:09.794479",
+      "n_statistics": 91,
+      "parsed_at": "2026-02-13T12:44:06.392665",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -288,36 +288,6 @@
       "start": "2026-02-12T18:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-02-13T12:00:00",
-      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 8 | A",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/90318/enter/?retPage=",
-      "id": 65343973,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-13T07:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-02-13T12:00:00",
-      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 8 | B",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/90320/enter/?retPage=",
-      "id": 65344285,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-13T07:00:00"
-    },
-    {
       "duration": 864000,
       "end": "2026-02-23T10:00:00",
       "event": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
@@ -331,21 +301,6 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-02-13T10:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-02-13T12:30:00",
-      "event": "AtCoder Weekday Contest 0005 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0005",
-      "id": 65259540,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-02-13T11:00:00"
     },
     {
       "duration": 172800,
@@ -769,6 +724,21 @@
     },
     {
       "duration": 10800,
+      "end": "2026-02-16T15:30:00",
+      "event": "Monday Munch - DSA Challenge 25",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY25",
+      "id": 65361863,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-16T12:30:00"
+    },
+    {
+      "duration": 10800,
       "end": "2026-02-16T17:35:00",
       "event": "Repovive Premier Round 2",
       "host": "repovive.com",
@@ -1171,6 +1141,21 @@
       "resource": "competesai.com",
       "resource_id": 182,
       "start": "2026-02-23T05:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-02-23T15:30:00",
+      "event": "Monday Munch - DSA Challenge 26",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY26",
+      "id": 65361861,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-02-23T12:30:00"
     },
     {
       "duration": 7200,
