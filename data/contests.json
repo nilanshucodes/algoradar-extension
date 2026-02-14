@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-14T10:14:32Z",
-  "count": 146,
+  "lastUpdated": "2026-02-14T11:47:26Z",
+  "count": 145,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 226,
-      "parsed_at": "2026-02-14T08:19:06.151975",
+      "parsed_at": "2026-02-14T10:32:07.430490",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND37",
       "id": 65310229,
       "n_problems": 4,
-      "n_statistics": 13,
-      "parsed_at": "2026-02-14T07:20:07.393347",
+      "n_statistics": 40,
+      "parsed_at": "2026-02-14T10:33:07.323496",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -331,21 +331,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-02-14T05:00:00"
-    },
-    {
-      "duration": 16200,
-      "end": "2026-02-14T10:30:00",
-      "event": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛） [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/309581",
-      "id": 65268923,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-02-14T06:00:00"
     },
     {
       "duration": 86400,
