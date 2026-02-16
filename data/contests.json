@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-16T11:27:01Z",
-  "count": 136,
+  "lastUpdated": "2026-02-16T15:56:04Z",
+  "count": 140,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 281,
-      "parsed_at": "2026-02-16T02:55:05.433470",
+      "n_statistics": 296,
+      "parsed_at": "2026-02-16T14:56:06.299002",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 227,
-      "parsed_at": "2026-02-16T11:16:06.279189",
+      "parsed_at": "2026-02-16T15:42:06.525214",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -176,7 +176,7 @@
       "id": 63173001,
       "n_problems": 14,
       "n_statistics": 31,
-      "parsed_at": "2026-02-16T00:49:10.193515",
+      "parsed_at": "2026-02-16T12:50:12.225903",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -190,8 +190,8 @@
       "href": "https://cups.online/rounds/1585",
       "id": 63173002,
       "n_problems": 12,
-      "n_statistics": 112,
-      "parsed_at": "2026-02-16T00:49:05.951714",
+      "n_statistics": 115,
+      "parsed_at": "2026-02-16T12:50:06.455632",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -348,21 +348,6 @@
       "start": "2026-02-15T22:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-02-16T12:00:00",
-      "event": "AtCoder Weekday Contest 0006 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0006",
-      "id": 65353262,
-      "n_problems": 5,
-      "n_statistics": 390,
-      "parsed_at": "2026-02-16T11:24:06.342312",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-02-16T11:00:00"
-    },
-    {
       "duration": 12600,
       "end": "2026-02-16T16:00:00",
       "event": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026 [rated, ioi]",
@@ -375,21 +360,6 @@
       "problems": null,
       "resource": "luogu.com.cn",
       "resource_id": 162,
-      "start": "2026-02-16T12:30:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-02-16T15:30:00",
-      "event": "Monday Munch - DSA Challenge 25",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY25",
-      "id": 65361863,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
       "start": "2026-02-16T12:30:00"
     },
     {
@@ -421,6 +391,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-02-16T15:00:00"
+    },
+    {
+      "duration": 3900,
+      "end": "2026-02-16T16:25:00",
+      "event": "Test1 [protected, icpc, individual]",
+      "host": "lightoj.com",
+      "href": "https://lightoj.com/contest/testcontestfor25",
+      "id": 65441940,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "lightoj.com",
+      "resource_id": 122,
+      "start": "2026-02-16T15:20:00"
     },
     {
       "duration": 3600,
@@ -1023,9 +1008,24 @@
       "start": "2026-02-28T01:00:00"
     },
     {
+      "duration": 28800,
+      "end": "2026-02-28T12:30:00",
+      "event": "CREST CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3123/",
+      "id": 65441903,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-02-28T04:30:00"
+    },
+    {
       "duration": 14400,
       "end": "2026-02-28T10:00:00",
-      "event": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1 [ioi]",
+      "event": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1 [rated, ioi]",
       "host": "luogu.com.cn",
       "href": "https://www.luogu.com.cn/contest/245434",
       "id": 65436113,
@@ -1203,6 +1203,21 @@
       "start": "2026-03-04T21:00:00"
     },
     {
+      "duration": 129600,
+      "end": "2026-03-08T19:00:00",
+      "event": "Axiom CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3129/",
+      "id": 65439007,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-07T07:00:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-03-09T09:00:00",
       "event": "upCTF 2026",
@@ -1353,6 +1368,21 @@
       "start": "2026-03-12T14:30:00"
     },
     {
+      "duration": 172800,
+      "end": "2026-03-15T00:23:00",
+      "event": "UTCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3133/",
+      "id": 65441902,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-13T00:23:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-03-13T11:00:00",
       "event": "Международная олимпиада Innopolis Open 2025 – Профиль «Робототехника». Заключительный этап, 7-8 класс",
@@ -1411,6 +1441,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-13T20:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-03-14T22:00:00",
+      "event": "Goldrush Gauntlet 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3134/",
+      "id": 65441901,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-13T22:00:00"
     },
     {
       "duration": 172800,
@@ -1636,6 +1681,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-03-25T14:30:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-03-29T12:00:00",
+      "event": "TexSAW 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3130/",
+      "id": 65441900,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-27T12:00:00"
     },
     {
       "duration": 172800,
