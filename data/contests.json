@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-16T02:52:37Z",
-  "count": 132,
+  "lastUpdated": "2026-02-16T10:06:22Z",
+  "count": 136,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 281,
-      "parsed_at": "2026-02-15T14:54:06.628449",
+      "parsed_at": "2026-02-16T02:55:05.433470",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 227,
-      "parsed_at": "2026-02-16T02:24:08.077478",
+      "parsed_at": "2026-02-16T09:03:06.436868",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -213,21 +213,6 @@
       "start": "2026-02-01T00:00:00"
     },
     {
-      "duration": 1296000,
-      "end": "2026-02-16T08:00:00",
-      "event": "Марафон №3 по задачам В.И. Лукьянчикова",
-      "host": "acmp.ru",
-      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46032",
-      "id": 64565191,
-      "n_problems": 26,
-      "n_statistics": 17,
-      "parsed_at": "2026-02-15T14:14:05.472420",
-      "problems": null,
-      "resource": "acmp.ru",
-      "resource_id": 5,
-      "start": "2026-02-01T08:00:00"
-    },
-    {
       "duration": 1468800,
       "end": "2026-03-02T00:00:00",
       "event": "Codeforces Blitz Cup 2026",
@@ -250,8 +235,8 @@
       "href": "https://atcoder.jp/contests/ahc061",
       "id": 64630685,
       "n_problems": 1,
-      "n_statistics": 2171,
-      "parsed_at": "2026-02-15T16:03:06.982242",
+      "n_statistics": 2230,
+      "parsed_at": "2026-02-16T08:04:06.239212",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -264,6 +249,21 @@
       "host": "kilonova.ro",
       "href": "https://kilonova.ro/contests/2394",
       "id": 65334513,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kilonova.ro",
+      "resource_id": 175,
+      "start": "2026-02-15T22:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-02-22T22:00:00",
+      "event": "RoAlgo PreOJI 2026 VI",
+      "host": "kilonova.ro",
+      "href": "https://kilonova.ro/contests/2395",
+      "id": 65334514,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -346,36 +346,6 @@
       "resource": "kilonova.ro",
       "resource_id": 175,
       "start": "2026-02-15T22:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-02-22T22:00:00",
-      "event": "RoAlgo PreOJI 2026 VI",
-      "host": "kilonova.ro",
-      "href": "https://kilonova.ro/contests/2395",
-      "id": 65334514,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kilonova.ro",
-      "resource_id": 175,
-      "start": "2026-02-15T23:15:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-02-16T08:30:00",
-      "event": "「LCOI」Round 2 & 除夕赛 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/308153",
-      "id": 65318905,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-02-16T06:00:00"
     },
     {
       "duration": 3600,
@@ -1053,6 +1023,21 @@
       "start": "2026-02-28T01:00:00"
     },
     {
+      "duration": 14400,
+      "end": "2026-02-28T10:00:00",
+      "event": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/245434",
+      "id": 65436113,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-28T06:00:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-02-28T17:00:00",
       "event": "Интернет-олимпиада",
@@ -1186,6 +1171,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-03-02T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-04T16:30:00",
+      "event": "Starters 228",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START228",
+      "id": 65432988,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-03-04T14:30:00"
     },
     {
       "duration": 172800,
@@ -1323,6 +1323,21 @@
       "start": "2026-03-09T01:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-03-11T16:30:00",
+      "event": "Starters 229",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START229",
+      "id": 65433317,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-03-11T14:30:00"
+    },
+    {
       "duration": 21600,
       "end": "2026-03-12T20:30:00",
       "event": "Ai Agent Challenge Home",
@@ -1458,6 +1473,21 @@
       "start": "2026-03-14T12:00:00"
     },
     {
+      "duration": 6000,
+      "end": "2026-03-14T13:40:00",
+      "event": "AtCoder Beginner Contest 449",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc449",
+      "id": 65431287,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-14T12:00:00"
+    },
+    {
       "duration": 0,
       "end": "2026-03-15T07:00:00",
       "event": "Problem 988",
@@ -1486,6 +1516,21 @@
       "resource": "gameaicup.com",
       "resource_id": 184,
       "start": "2026-03-16T01:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-18T16:30:00",
+      "event": "Starters 230",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START230",
+      "id": 65433724,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-03-18T14:30:00"
     },
     {
       "duration": 172800,
@@ -1576,6 +1621,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-03-22T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-25T16:30:00",
+      "event": "Starters 231",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START231",
+      "id": 65434063,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-03-25T14:30:00"
     },
     {
       "duration": 172800,
