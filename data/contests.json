@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-16T02:03:53Z",
-  "count": 131,
+  "lastUpdated": "2026-02-16T02:52:37Z",
+  "count": 132,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 227,
-      "parsed_at": "2026-02-16T00:12:05.649622",
+      "parsed_at": "2026-02-16T02:24:08.077478",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -886,6 +886,21 @@
       "resource": "competesai.com",
       "resource_id": 182,
       "start": "2026-02-23T05:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-02-23T10:30:00",
+      "event": "Construction Masters：yrOI R1 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/305992",
+      "id": 65428960,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-23T06:30:00"
     },
     {
       "duration": 10800,
