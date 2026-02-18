@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-17T19:31:44Z",
-  "count": 144,
+  "lastUpdated": "2026-02-18T04:36:17Z",
+  "count": 145,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 297,
-      "parsed_at": "2026-02-17T14:58:05.803360",
+      "n_statistics": 298,
+      "parsed_at": "2026-02-18T02:59:06.181704",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 227,
-      "parsed_at": "2026-02-17T18:18:06.339728",
+      "parsed_at": "2026-02-18T03:10:05.622594",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -346,6 +346,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-02-18T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-02-18T16:30:00",
+      "event": "Тренировки первой подзадачи 2026. День 5",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/90580/enter/?retPage=standings",
+      "id": 65471062,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-02-18T15:00:00"
     },
     {
       "duration": 5400,
