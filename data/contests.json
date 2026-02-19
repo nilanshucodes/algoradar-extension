@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T18:13:27Z",
+  "lastUpdated": "2026-02-19T19:17:14Z",
   "count": 151,
   "contests": [
     {
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 229,
-      "parsed_at": "2026-02-19T16:51:06.245187",
+      "parsed_at": "2026-02-19T19:04:05.719239",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -695,7 +695,7 @@
     {
       "duration": 7200,
       "end": "2026-02-21T16:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1081 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2192",
       "id": 65420528,
