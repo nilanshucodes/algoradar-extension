@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T17:22:27Z",
+  "lastUpdated": "2026-02-19T02:51:02Z",
   "count": 148,
   "contests": [
     {
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 228,
-      "parsed_at": "2026-02-18T16:28:05.632015",
+      "parsed_at": "2026-02-19T01:20:06.365917",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -378,21 +378,6 @@
       "start": "2026-02-19T00:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-02-19T12:00:00",
-      "event": "AtCoder Weekday Contest 0009 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0009",
-      "id": 65353265,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-02-19T11:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-02-19T17:01:00",
       "event": "Weekly Contest 218",
@@ -436,21 +421,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-02-20T09:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-02-20T12:00:00",
-      "event": "AtCoder Weekday Contest 0010 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0010",
-      "id": 65355413,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-02-20T11:00:00"
     },
     {
       "duration": 14400,
@@ -1216,6 +1186,36 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-01T04:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-03-01T10:00:00",
+      "event": "【LGR-273-Div.1】洛谷 3 月月赛 I & NtF Round 3 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/309087",
+      "id": 65501615,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-03-01T06:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-03-01T10:00:00",
+      "event": "【LGR-273-Div.2】洛谷 3 月月赛 I & NtF Round 3 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/309086",
+      "id": 65501616,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-03-01T06:00:00"
     },
     {
       "duration": 7200,
