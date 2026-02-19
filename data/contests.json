@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-19T03:20:41Z",
-  "count": 148,
+  "lastUpdated": "2026-02-19T10:06:57Z",
+  "count": 150,
   "contests": [
     {
       "duration": 23612094,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 228,
-      "parsed_at": "2026-02-19T01:20:06.365917",
+      "parsed_at": "2026-02-19T07:59:05.585647",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -903,6 +903,21 @@
       "start": "2026-02-23T14:35:00"
     },
     {
+      "duration": 19800,
+      "end": "2026-02-24T10:30:00",
+      "event": "「DBOI」Round -1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/273961",
+      "id": 65510381,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-24T05:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-02-24T16:35:00",
       "event": "Educational Codeforces Round 187 (Rated for Div. 2)",
@@ -916,6 +931,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-02-24T14:35:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-02-25T10:00:00",
+      "event": "【LGR-269-Div.2】洛谷 2 月月赛 & IXOI Round 1 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/305773",
+      "id": 65507734,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-02-25T06:00:00"
     },
     {
       "duration": 7200,
