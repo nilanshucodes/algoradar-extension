@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-19T19:17:14Z",
-  "count": 151,
+  "lastUpdated": "2026-02-20T06:58:19Z",
+  "count": 153,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 298,
-      "parsed_at": "2026-02-19T15:02:05.482320",
+      "parsed_at": "2026-02-20T03:03:06.088919",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -116,7 +116,7 @@
       "id": 63478382,
       "n_problems": null,
       "n_statistics": 229,
-      "parsed_at": "2026-02-19T19:04:05.719239",
+      "parsed_at": "2026-02-20T06:09:07.028481",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -376,6 +376,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-02-19T00:00:00"
+    },
+    {
+      "duration": 2400891,
+      "end": "2026-03-19T16:00:00",
+      "event": "March Machine Learning Mania 2026 [basketball, sports, mse]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/march-machine-learning-mania-2026",
+      "id": 65522860,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-02-19T21:05:09"
     },
     {
       "duration": 172800,
@@ -1035,6 +1050,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-02-27T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-02-27T13:00:00",
+      "event": "【LGR-275-Div.4】洛谷入门赛 #44 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/311027",
+      "id": 65528927,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-02-27T11:00:00"
     },
     {
