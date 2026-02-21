@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-21T15:16:15Z",
-  "count": 144,
+  "lastUpdated": "2026-02-21T19:33:21Z",
+  "count": 138,
   "contests": [
     {
       "duration": 23612094,
@@ -108,21 +108,6 @@
       "start": "2025-11-20T15:00:23"
     },
     {
-      "duration": 7920000,
-      "end": "2026-02-21T16:00:00",
-      "event": "Powerful Sums",
-      "host": "azspcs.com",
-      "href": "http://azspcs.com/Contest/PowerfulSums",
-      "id": 63478382,
-      "n_problems": null,
-      "n_statistics": 233,
-      "parsed_at": "2026-02-21T13:10:05.960650",
-      "problems": null,
-      "resource": "azspcs.com",
-      "resource_id": 66,
-      "start": "2025-11-22T00:00:00"
-    },
-    {
       "duration": 8395302,
       "end": "2026-03-23T23:59:00",
       "event": "Deep Past Challenge - Translate Akkadian to English [history, text, translation, custom metric]",
@@ -205,8 +190,8 @@
       "href": "https://atcoder.jp/contests/ahc061",
       "id": 64630685,
       "n_problems": 1,
-      "n_statistics": 2608,
-      "parsed_at": "2026-02-21T00:11:06.164544",
+      "n_statistics": 2798,
+      "parsed_at": "2026-02-21T16:12:06.970428",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -393,21 +378,6 @@
       "start": "2026-02-20T05:30:00"
     },
     {
-      "duration": 118740,
-      "end": "2026-02-21T17:59:00",
-      "event": "Contest 1 - C Programming Course - 6th Batch [protected, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/contest16thbatch",
-      "id": 65466345,
-      "n_problems": 6,
-      "n_statistics": 10,
-      "parsed_at": "2026-02-21T15:12:15.679845",
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2026-02-20T09:00:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-02-24T12:00:00",
       "event": "Third Contest",
@@ -445,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND38",
       "id": 65482111,
       "n_problems": 4,
-      "n_statistics": 43,
-      "parsed_at": "2026-02-21T13:45:07.300510",
+      "n_statistics": 59,
+      "parsed_at": "2026-02-21T16:58:05.488110",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -498,36 +468,6 @@
       "start": "2026-02-21T05:00:00"
     },
     {
-      "duration": 28800,
-      "end": "2026-02-21T17:00:00",
-      "event": "EPIHACK CTF: L'arène numérique",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3076/",
-      "id": 64726999,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-02-21T09:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-02-21T17:00:00",
-      "event": "CONTEST #5",
-      "host": "hsin.hr/coci",
-      "href": "https://hsin.hr/coci/",
-      "id": 62431052,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "hsin.hr/coci",
-      "resource_id": 23,
-      "start": "2026-02-21T14:00:00"
-    },
-    {
       "duration": 777600,
       "end": "2026-03-02T14:30:00",
       "event": "Kotlin Heroes: Practice 14",
@@ -541,36 +481,6 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-02-21T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-21T16:35:00",
-      "event": "Codeforces Round 1081 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2192",
-      "id": 65420528,
-      "n_problems": 6,
-      "n_statistics": 11573,
-      "parsed_at": "2026-02-21T15:11:05.197638",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-02-21T14:35:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-02-21T16:30:00",
-      "event": "Тренировки первой подзадачи 2026. День 6",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/90747/standings",
-      "id": 65545249,
-      "n_problems": 12,
-      "n_statistics": 5,
-      "parsed_at": "2026-02-21T15:14:17.224702",
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-21T15:00:00"
     },
     {
       "duration": 0,
