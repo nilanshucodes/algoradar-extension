@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-21T10:09:32Z",
-  "count": 150,
+  "lastUpdated": "2026-02-21T14:37:26Z",
+  "count": 144,
   "contests": [
     {
       "duration": 23612094,
@@ -115,8 +115,8 @@
       "href": "http://azspcs.com/Contest/PowerfulSums",
       "id": 63478382,
       "n_problems": null,
-      "n_statistics": 229,
-      "parsed_at": "2026-02-21T08:44:05.772027",
+      "n_statistics": 233,
+      "parsed_at": "2026-02-21T13:10:05.960650",
       "problems": null,
       "resource": "azspcs.com",
       "resource_id": 66,
@@ -363,21 +363,6 @@
       "start": "2026-02-18T07:00:00"
     },
     {
-      "duration": 216000,
-      "end": "2026-02-21T12:00:00",
-      "event": "FeSo4OI Long Round #1 春节欢乐赛 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/305706",
-      "id": 65113791,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-02-19T00:00:00"
-    },
-    {
       "duration": 2400891,
       "end": "2026-03-19T16:00:00",
       "event": "March Machine Learning Mania 2026 [basketball, sports, mse]",
@@ -415,8 +400,8 @@
       "href": "https://lightoj.com/contest/contest16thbatch",
       "id": 65466345,
       "n_problems": 6,
-      "n_statistics": 7,
-      "parsed_at": "2026-02-21T08:36:06.054960",
+      "n_statistics": 8,
+      "parsed_at": "2026-02-21T13:00:06.494327",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -460,8 +445,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND38",
       "id": 65482111,
       "n_problems": 4,
-      "n_statistics": 20,
-      "parsed_at": "2026-02-21T07:20:06.627015",
+      "n_statistics": 43,
+      "parsed_at": "2026-02-21T13:45:07.300510",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -498,21 +483,6 @@
       "start": "2026-02-21T00:00:01"
     },
     {
-      "duration": 36000,
-      "end": "2026-02-21T14:30:00",
-      "event": "Escathon CTF 2026 Finals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3078/",
-      "id": 64729362,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-02-21T04:30:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-02-21T23:00:00",
       "event": "The 4th Universal Cup. Stage 17: St. Petersburg",
@@ -528,21 +498,6 @@
       "start": "2026-02-21T05:00:00"
     },
     {
-      "duration": 16200,
-      "end": "2026-02-21T10:30:00",
-      "event": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/299754",
-      "id": 65312555,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-02-21T06:00:00"
-    },
-    {
       "duration": 28800,
       "end": "2026-02-21T17:00:00",
       "event": "EPIHACK CTF: L'arène numérique",
@@ -556,21 +511,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-02-21T09:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-02-21T13:40:00",
-      "event": "AtCoder Beginner Contest 446",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc446",
-      "id": 64810205,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-02-21T12:00:00"
     },
     {
       "duration": 10800,
@@ -2221,36 +2161,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-12-27T14:00:00"
-    },
-    {
-      "duration": 86399,
-      "end": "2027-01-01T23:59:59",
-      "event": "Meta Round",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 65555391,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2027-01-01T00:00:00"
-    },
-    {
-      "duration": 86399,
-      "end": "2027-01-01T23:59:59",
-      "event": "Amazon Round",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 65555392,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2027-01-01T00:00:00"
     }
   ]
 }
