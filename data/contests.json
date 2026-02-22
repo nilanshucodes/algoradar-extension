@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-21T22:04:35Z",
-  "count": 137,
+  "lastUpdated": "2026-02-22T03:16:41Z",
+  "count": 136,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 299,
-      "parsed_at": "2026-02-21T15:06:30.714491",
+      "parsed_at": "2026-02-22T03:07:06.267335",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND38",
       "id": 65482111,
       "n_problems": 4,
-      "n_statistics": 64,
-      "parsed_at": "2026-02-21T20:11:05.163231",
+      "n_statistics": 67,
+      "parsed_at": "2026-02-22T02:37:05.459832",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -453,21 +453,6 @@
       "start": "2026-02-21T00:00:01"
     },
     {
-      "duration": 18000,
-      "end": "2026-02-21T23:00:00",
-      "event": "The 4th Universal Cup. Stage 17: St. Petersburg",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 65452013,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-02-21T05:00:00"
-    },
-    {
       "duration": 777600,
       "end": "2026-03-02T14:30:00",
       "event": "Kotlin Heroes: Practice 14",
@@ -489,9 +474,9 @@
       "host": "leetcode.com",
       "href": "https://leetcode.com/contest/weekly-contest-490",
       "id": 65286067,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 2905,
+      "parsed_at": "2026-02-22T03:07:06.257770",
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
@@ -605,7 +590,7 @@
     {
       "duration": 9000,
       "end": "2026-02-23T17:05:00",
-      "event": "Codeforces Round (Div. 1)",
+      "event": "Codeforces Round 1082 (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2201",
       "id": 65239422,
@@ -620,7 +605,7 @@
     {
       "duration": 9000,
       "end": "2026-02-23T17:05:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1082 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2202",
       "id": 65239423,
