@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-22T12:36:30Z",
-  "count": 135,
+  "lastUpdated": "2026-02-22T15:55:30Z",
+  "count": 131,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 299,
-      "parsed_at": "2026-02-22T03:07:06.267335",
+      "parsed_at": "2026-02-22T15:08:11.987737",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -400,8 +400,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND38",
       "id": 65482111,
       "n_problems": 4,
-      "n_statistics": 95,
-      "parsed_at": "2026-02-22T12:16:06.006111",
+      "n_statistics": 110,
+      "parsed_at": "2026-02-22T15:29:06.034113",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -423,21 +423,6 @@
       "start": "2026-02-20T19:00:00"
     },
     {
-      "duration": 133199,
-      "end": "2026-02-22T13:00:00",
-      "event": "THJCC CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3088/",
-      "id": 64727000,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-02-21T00:00:01"
-    },
-    {
       "duration": 777600,
       "end": "2026-03-02T14:30:00",
       "event": "Kotlin Heroes: Practice 14",
@@ -453,21 +438,6 @@
       "start": "2026-02-21T14:30:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-02-22T13:00:00",
-      "event": "牛客周赛 Round 132 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/128672",
-      "id": 65329904,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-02-22T11:00:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-02-22T16:15:00",
       "event": "Командная тренировка 22 февраля 2026 года",
@@ -475,42 +445,12 @@
       "href": "https://official.contest.yandex.ru/CYF/contest/90808/standings",
       "id": 65583681,
       "n_problems": 8,
-      "n_statistics": 1,
-      "parsed_at": "2026-02-22T12:31:20.394064",
+      "n_statistics": 3,
+      "parsed_at": "2026-02-22T15:51:29.443580",
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-02-22T11:15:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-02-22T13:00:00",
-      "event": "Blitz Round #13",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/8s2s6873uh0dhfjutk9piccj5o",
-      "id": 65421698,
-      "n_problems": 5,
-      "n_statistics": 75,
-      "parsed_at": "2026-02-22T12:32:05.913910",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-02-22T11:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-22T14:00:00",
-      "event": "AtCoder Regular Contest 215",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/arc215",
-      "id": 65181951,
-      "n_problems": 6,
-      "n_statistics": 1087,
-      "parsed_at": "2026-02-22T12:35:05.687899",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-02-22T12:00:00"
     },
     {
       "duration": 6044400,
