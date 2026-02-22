@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-22T15:55:30Z",
-  "count": 131,
+  "lastUpdated": "2026-02-22T18:04:49Z",
+  "count": 130,
   "contests": [
     {
       "duration": 23612094,
@@ -436,21 +436,6 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-02-21T14:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-02-22T16:15:00",
-      "event": "Командная тренировка 22 февраля 2026 года",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/90808/standings",
-      "id": 65583681,
-      "n_problems": 8,
-      "n_statistics": 3,
-      "parsed_at": "2026-02-22T15:51:29.443580",
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-22T11:15:00"
     },
     {
       "duration": 6044400,
