@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-25T15:42:47Z",
-  "count": 131,
+  "lastUpdated": "2026-02-25T17:37:25Z",
+  "count": 128,
   "contests": [
     {
       "duration": 23612094,
@@ -265,57 +265,12 @@
       "href": "https://robocontest.uz/olympiads/3628",
       "id": 65649337,
       "n_problems": 2,
-      "n_statistics": 1323,
-      "parsed_at": "2026-02-25T14:54:05.983790",
+      "n_statistics": 1375,
+      "parsed_at": "2026-02-25T16:46:05.922209",
       "problems": null,
       "resource": "robocontest.uz",
       "resource_id": 137,
       "start": "2026-02-25T05:10:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-25T16:30:00",
-      "event": "Starters 227 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START227",
-      "id": 65142349,
-      "n_problems": 8,
-      "n_statistics": 23353,
-      "parsed_at": "2026-02-25T15:09:06.991433",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-02-25T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-02-25T16:35:00",
-      "event": "Educational Codeforces Round 187 (Rated for Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2203",
-      "id": 65486738,
-      "n_problems": 6,
-      "n_statistics": 11098,
-      "parsed_at": "2026-02-25T15:35:06.315789",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-02-25T14:35:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-02-25T16:30:00",
-      "event": "Тренировки первой подзадачи 2026. День 7",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/90966/standings",
-      "id": 65644791,
-      "n_problems": 8,
-      "n_statistics": 4,
-      "parsed_at": "2026-02-25T15:42:19.280874",
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-02-25T15:00:00"
     },
     {
       "duration": 16200,
