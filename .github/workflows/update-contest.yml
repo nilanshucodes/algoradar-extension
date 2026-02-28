@@ -2,7 +2,7 @@ name: Update Contests Data
 
 on:
   schedule:
-    - cron: '*/90 * * * *'
+    - cron: '0 */5 * * *'
   workflow_dispatch:
   push:
     branches: [main]
