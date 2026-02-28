@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: '*/90 * * * *'
   workflow_dispatch:
-
   push:
     branches: [main]
     paths:
