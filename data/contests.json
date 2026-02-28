@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-27T17:24:07Z",
-  "count": 128,
+  "lastUpdated": "2026-02-28T02:41:55Z",
+  "count": 127,
   "contests": [
     {
       "duration": 23612094,
@@ -76,21 +76,6 @@
       "resource": "datsteam.dev",
       "resource_id": 174,
       "start": "2025-11-13T00:00:00"
-    },
-    {
-      "duration": 9180893,
-      "end": "2026-02-27T23:59:00",
-      "event": "Vesuvius Challenge - Surface Detection [history, image segmentation, segmentation, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection",
-      "id": 63253749,
-      "n_problems": null,
-      "n_statistics": 192,
-      "parsed_at": "2025-11-25T23:42:08.084787",
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-11-13T17:44:07"
     },
     {
       "duration": 12646717,
@@ -324,9 +309,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND39",
       "id": 65634296,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 3,
+      "parsed_at": "2026-02-28T00:55:06.132546",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
