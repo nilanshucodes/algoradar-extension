@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-01T12:56:19Z",
-  "count": 117,
+  "lastUpdated": "2026-03-01T15:14:49Z",
+  "count": 115,
   "contests": [
     {
       "duration": 23612094,
@@ -131,7 +131,7 @@
       "id": 65400106,
       "n_problems": 7,
       "n_statistics": 93,
-      "parsed_at": "2026-03-01T12:55:27.053074",
+      "parsed_at": "2026-03-01T15:05:07.452279",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -301,36 +301,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-02-28T23:52:56"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-01T13:00:00",
-      "event": "牛客周赛 Round 133 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/128678",
-      "id": 65330915,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-03-01T11:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-01T14:00:00",
-      "event": "Blitz Round #14",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/37pbmqipe915d0nhjqhvk0ibno",
-      "id": 65641853,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-03-01T13:00:00"
     },
     {
       "duration": 86400,
