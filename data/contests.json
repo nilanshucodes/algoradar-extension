@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-01T01:23:25Z",
-  "count": 126,
+  "lastUpdated": "2026-03-01T05:44:41Z",
+  "count": 125,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 304,
-      "parsed_at": "2026-02-28T15:19:05.963531",
+      "parsed_at": "2026-03-01T03:20:07.324073",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -220,8 +220,8 @@
       "href": "https://codeforces.com/contests/2198",
       "id": 65056546,
       "n_problems": 8,
-      "n_statistics": 1472,
-      "parsed_at": "2026-02-28T14:48:05.688510",
+      "n_statistics": 1557,
+      "parsed_at": "2026-03-01T01:37:06.180703",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -280,8 +280,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND39",
       "id": 65634296,
       "n_problems": 4,
-      "n_statistics": 66,
-      "parsed_at": "2026-02-28T23:26:06.000890",
+      "n_statistics": 67,
+      "parsed_at": "2026-03-01T02:39:05.917250",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -348,30 +348,15 @@
       "start": "2026-02-28T23:52:56"
     },
     {
-      "duration": 5400,
-      "end": "2026-03-01T04:00:00",
-      "event": "Weekly Contest 491",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-491",
-      "id": 65579179,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-03-01T02:30:00"
-    },
-    {
       "duration": 21600,
       "end": "2026-03-01T10:00:00",
       "event": "The 3rd Masters Championship-qual-",
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/masters2026-qual",
       "id": 64513765,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 3,
+      "n_statistics": 101,
+      "parsed_at": "2026-03-01T05:23:19.993821",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -454,7 +439,7 @@
     },
     {
       "duration": 3600,
-      "end": "2026-03-01T12:00:00",
+      "end": "2026-03-01T14:00:00",
       "event": "Blitz Round #14",
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/37pbmqipe915d0nhjqhvk0ibno",
@@ -465,7 +450,7 @@
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
-      "start": "2026-03-01T11:00:00"
+      "start": "2026-03-01T13:00:00"
     },
     {
       "duration": 86400,
