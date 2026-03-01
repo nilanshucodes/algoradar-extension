@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-28T20:16:16Z",
-  "count": 127,
+  "lastUpdated": "2026-03-01T01:23:25Z",
+  "count": 126,
   "contests": [
     {
       "duration": 23612094,
@@ -121,21 +121,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-01-07T18:00:03"
-    },
-    {
-      "duration": 2419140,
-      "end": "2026-02-28T23:59:00",
-      "event": "Predicting Heart Disease [beginner, tabular, roc auc score]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/playground-series-s6e2",
-      "id": 65060352,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-02-01T00:00:00"
     },
     {
       "duration": 1468800,
@@ -295,8 +280,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND39",
       "id": 65634296,
       "n_problems": 4,
-      "n_statistics": 65,
-      "parsed_at": "2026-02-28T20:13:05.780302",
+      "n_statistics": 66,
+      "parsed_at": "2026-02-28T23:26:06.000890",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -333,21 +318,6 @@
       "start": "2026-02-28T01:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-02-28T23:00:00",
-      "event": "The 4th Universal Cup. Stage 18: Hongō",
-      "host": "ucup.ac",
-      "href": "https://ucup.ac/",
-      "id": 65452014,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ucup.ac",
-      "resource_id": 139,
-      "start": "2026-02-28T05:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-03-01T18:00:00",
       "event": "Srdnlen CTF 2026 Quals",
@@ -363,19 +333,19 @@
       "start": "2026-02-28T18:00:00"
     },
     {
-      "duration": 0,
-      "end": "2026-03-01T01:00:00",
-      "event": "Problem 986",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 65103401,
+      "duration": 2678764,
+      "end": "2026-03-31T23:59:00",
+      "event": "Predict Customer Churn [beginner, tabular, roc auc score]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/playground-series-s6e3",
+      "id": 65748724,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-03-01T01:00:00"
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-02-28T23:52:56"
     },
     {
       "duration": 5400,
@@ -1261,6 +1231,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-03-15T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-03-15T14:00:00",
+      "event": "JetBrains Blackbox Cup 2026",
+      "host": "blackboxcup.com",
+      "href": "https://lp.jetbrains.com/academy/blackbox-cup/2026/",
+      "id": 65746933,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "blackboxcup.com",
+      "resource_id": 185,
+      "start": "2026-03-15T09:00:00"
     },
     {
       "duration": 86400,
