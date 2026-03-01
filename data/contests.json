@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-01T15:14:49Z",
-  "count": 115,
+  "lastUpdated": "2026-03-01T19:04:53Z",
+  "count": 114,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 304,
-      "parsed_at": "2026-03-01T03:20:07.324073",
+      "parsed_at": "2026-03-01T15:21:07.646442",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -131,7 +131,7 @@
       "id": 65400106,
       "n_problems": 7,
       "n_statistics": 93,
-      "parsed_at": "2026-03-01T15:05:07.452279",
+      "parsed_at": "2026-03-01T15:47:07.812698",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -258,36 +258,6 @@
       "start": "2026-02-26T01:52:24"
     },
     {
-      "duration": 172800,
-      "end": "2026-03-01T18:30:00",
-      "event": "Weekend Dev Challenge 39: Spring Boot Projects",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND39",
-      "id": 65634296,
-      "n_problems": 4,
-      "n_statistics": 90,
-      "parsed_at": "2026-03-01T12:18:07.765920",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-02-27T18:30:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-03-01T18:00:00",
-      "event": "Srdnlen CTF 2026 Quals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3043/",
-      "id": 64726998,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-02-28T18:00:00"
-    },
-    {
       "duration": 2678764,
       "end": "2026-03-31T23:59:00",
       "event": "Predict Customer Churn [beginner, tabular, roc auc score]",
@@ -301,6 +271,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-02-28T23:52:56"
+    },
+    {
+      "duration": 536400,
+      "end": "2026-03-08T05:00:00",
+      "event": "2026 省选赛前模板赛 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/312809",
+      "id": 65766566,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-03-02T00:00:00"
     },
     {
       "duration": 86400,
