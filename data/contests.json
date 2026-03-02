@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T15:33:39Z",
+  "lastUpdated": "2026-03-02T15:57:33Z",
   "count": 141,
   "contests": [
     {
@@ -295,8 +295,8 @@
       "href": "https://codeforces.com/contests/2199",
       "id": 65056545,
       "n_problems": 9,
-      "n_statistics": 661,
-      "parsed_at": "2026-03-02T15:31:07.766253",
+      "n_statistics": 747,
+      "parsed_at": "2026-03-02T15:55:08.698776",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
