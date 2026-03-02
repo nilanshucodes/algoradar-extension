@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-02T15:57:33Z",
-  "count": 141,
+  "lastUpdated": "2026-03-02T20:26:20Z",
+  "count": 139,
   "contests": [
     {
       "duration": 23612094,
@@ -286,36 +286,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-02T09:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-03-02T17:05:00",
-      "event": "Kotlin Heroes: Episode 14",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2199",
-      "id": 65056545,
-      "n_problems": 9,
-      "n_statistics": 747,
-      "parsed_at": "2026-03-02T15:55:08.698776",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-03-02T14:35:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-02T16:35:00",
-      "event": "Repovive Standard Round 1 (Sponsored by TIG Foundation)",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 65445288,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-03-02T14:35:00"
     },
     {
       "duration": 18000,
