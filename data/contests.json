@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-02T10:36:01Z",
-  "count": 142,
+  "lastUpdated": "2026-03-02T15:33:39Z",
+  "count": 141,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 304,
-      "parsed_at": "2026-03-02T03:22:07.701689",
+      "parsed_at": "2026-03-02T15:23:08.254873",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -198,21 +198,6 @@
       "start": "2026-02-20T19:00:00"
     },
     {
-      "duration": 777600,
-      "end": "2026-03-02T14:30:00",
-      "event": "Kotlin Heroes: Practice 14",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2198",
-      "id": 65056546,
-      "n_problems": 8,
-      "n_statistics": 1933,
-      "parsed_at": "2026-03-02T10:04:07.658611",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-02-21T14:30:00"
-    },
-    {
       "duration": 10800,
       "end": "2026-04-01T03:59:59",
       "event": "2026 Canadian Computing Competition Senior Division Mirror",
@@ -303,45 +288,15 @@
       "start": "2026-03-02T09:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-03-02T12:00:00",
-      "event": "AtCoder Weekday Contest 0016 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0016",
-      "id": 65708840,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-02T11:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-03-02T15:30:00",
-      "event": "Monday Munch - DSA Challenge 27",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY27",
-      "id": 65657620,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-03-02T12:30:00"
-    },
-    {
       "duration": 9000,
       "end": "2026-03-02T17:05:00",
       "event": "Kotlin Heroes: Episode 14",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2199",
       "id": 65056545,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 9,
+      "n_statistics": 661,
+      "parsed_at": "2026-03-02T15:31:07.766253",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -350,7 +305,7 @@
     {
       "duration": 7200,
       "end": "2026-03-02T16:35:00",
-      "event": "Repovive Standard Round 1 (Sponsored by TIG)",
+      "event": "Repovive Standard Round 1 (Sponsored by TIG Foundation)",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
       "id": 65445288,
@@ -436,6 +391,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-03T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-03-03T12:00:00",
+      "event": "AtCoder Weekday Contest 0017 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0017",
+      "id": 65789629,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-03T11:00:00"
     },
     {
       "duration": 5266800,
@@ -634,7 +604,7 @@
     },
     {
       "duration": 14400,
-      "end": "2026-03-07T13:00:00",
+      "end": "2026-03-07T15:30:00",
       "event": "Algorithm Program 2025-2026 Spring - Qualification Round 🍃 (unrated, icpc, individual)",
       "host": "algoleague.com",
       "href": "https://algoleague.com/contest/algorithm-program-2025-2026-spring-qualification-round/",
@@ -645,7 +615,7 @@
       "problems": null,
       "resource": "algoleague.com",
       "resource_id": 170,
-      "start": "2026-03-07T09:00:00"
+      "start": "2026-03-07T11:30:00"
     },
     {
       "duration": 6000,
@@ -946,6 +916,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-03-13T07:00:00"
+    },
+    {
+      "duration": 900,
+      "end": "2026-03-13T08:00:00",
+      "event": "Technocup 2025-2026 [sport_coding]. Пробный тур заключительного этапа",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1725",
+      "id": 65791038,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-03-13T07:45:00"
     },
     {
       "duration": 9000,
