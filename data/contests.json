@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-03T10:30:19Z",
-  "count": 137,
+  "lastUpdated": "2026-03-03T15:39:21Z",
+  "count": 138,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 304,
-      "parsed_at": "2026-03-03T03:24:08.254437",
+      "parsed_at": "2026-03-03T15:25:05.575065",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -190,8 +190,8 @@
       "href": "https://gameaicup.com/sandbox-overview",
       "id": 65277011,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 76,
+      "parsed_at": "2026-03-03T15:36:05.719015",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -258,36 +258,6 @@
       "start": "2026-03-02T00:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-03-03T11:00:00",
-      "event": "KTSC 2026 R1 Unofficial Mirror [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/310905",
-      "id": 65683334,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-03-03T06:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-03T12:00:00",
-      "event": "AtCoder Weekday Contest 0017 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0017",
-      "id": 65789629,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-03T11:00:00"
-    },
-    {
       "duration": 5266800,
       "end": "2026-05-04T04:00:00",
       "event": "ICRA 2026 Sim2Real Soccer Challenge",
@@ -348,6 +318,21 @@
       "start": "2026-03-04T07:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-03-04T09:00:00",
+      "event": "Индивидуальная тренировка 4 марта 2026 года",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/91387/enter/?retPage=",
+      "id": 65822870,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-03-04T07:00:00"
+    },
+    {
       "duration": 3600,
       "end": "2026-03-04T10:00:00",
       "event": "AtCoder Daily Training EASY 2026/03/04 18:00start",
@@ -378,9 +363,24 @@
       "start": "2026-03-04T09:00:00"
     },
     {
+      "duration": 3600,
+      "end": "2026-03-04T12:00:00",
+      "event": "AtCoder Weekday Contest 0018 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0018",
+      "id": 65819243,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-04T11:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-03-04T16:30:00",
-      "event": "Starters 228",
+      "event": "Starters 228 (Rated till 6 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START228",
       "id": 65432988,
@@ -466,6 +466,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-03-06T11:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-03-08T18:30:00",
+      "event": "Weekend Dev Challenge 40: Linux & Shell Scripting Challenges",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DEVWEEKEND40",
+      "id": 65820640,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-03-06T18:30:00"
     },
     {
       "duration": 172800,
