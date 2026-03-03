@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-03T17:08:31Z",
-  "count": 138,
+  "lastUpdated": "2026-03-03T20:23:51Z",
+  "count": 141,
   "contests": [
     {
       "duration": 23612094,
@@ -190,8 +190,8 @@
       "href": "https://gameaicup.com/sandbox-overview",
       "id": 65277011,
       "n_problems": null,
-      "n_statistics": 76,
-      "parsed_at": "2026-03-03T17:06:06.734574",
+      "n_statistics": 77,
+      "parsed_at": "2026-03-03T20:21:06.395815",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -994,6 +994,21 @@
     },
     {
       "duration": 86400,
+      "end": "2026-03-15T06:30:00",
+      "event": "Dark ctf",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3182/",
+      "id": 65826807,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-14T06:30:00"
+    },
+    {
+      "duration": 86400,
       "end": "2026-03-15T09:00:00",
       "event": "MIPT CTF Quals 2026",
       "host": "ctftime.org",
@@ -1344,6 +1359,21 @@
       "host": "ctftime.org",
       "href": "https://ctftime.org/event/3084/",
       "id": 64729357,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-28T09:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-03-29T09:00:00",
+      "event": "KAALCHAKRA CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3183/",
+      "id": 65826806,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -1951,6 +1981,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-08T00:00:00"
+    },
+    {
+      "duration": 259200,
+      "end": "2026-08-17T12:00:00",
+      "event": "gaslightCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3181/",
+      "id": 65826805,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-08-14T12:00:00"
     },
     {
       "duration": 172800,
