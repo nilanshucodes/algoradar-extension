@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-03T20:23:51Z",
-  "count": 141,
+  "lastUpdated": "2026-03-04T01:13:57Z",
+  "count": 140,
   "contests": [
     {
       "duration": 23612094,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 77,
-      "parsed_at": "2026-03-03T20:21:06.395815",
+      "parsed_at": "2026-03-04T01:06:06.489361",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -1659,21 +1659,6 @@
       "host": "ctftime.org",
       "href": "https://ctftime.org/event/3147/",
       "id": 65776201,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-18T10:00:00"
-    },
-    {
-      "duration": 129600,
-      "end": "2026-04-19T22:00:00",
-      "event": "KubSTU CTF",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3177/",
-      "id": 65776202,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
