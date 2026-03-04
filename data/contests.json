@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-04T01:13:57Z",
-  "count": 140,
+  "lastUpdated": "2026-03-04T05:37:20Z",
+  "count": 141,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 304,
-      "parsed_at": "2026-03-03T15:25:05.575065",
+      "parsed_at": "2026-03-04T03:26:05.590388",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 77,
-      "parsed_at": "2026-03-04T01:06:06.489361",
+      "parsed_at": "2026-03-04T05:23:05.728332",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -1441,6 +1441,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-29T12:00:00"
+    },
+    {
+      "duration": 172799,
+      "end": "2026-04-01T23:59:59",
+      "event": "Hack for a Change 2026 March: UN SDG 3",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3184/",
+      "id": 65838129,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-03-31T00:00:00"
     },
     {
       "duration": 86400,
