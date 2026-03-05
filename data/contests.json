@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T20:23:38Z",
+  "lastUpdated": "2026-03-05T01:16:03Z",
   "count": 139,
   "contests": [
     {
@@ -190,8 +190,8 @@
       "href": "https://gameaicup.com/sandbox-overview",
       "id": 65277011,
       "n_problems": null,
-      "n_statistics": 77,
-      "parsed_at": "2026-03-04T20:23:06.420862",
+      "n_statistics": 78,
+      "parsed_at": "2026-03-05T01:08:05.611591",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
