@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-05T15:41:45Z",
-  "count": 143,
+  "lastUpdated": "2026-03-05T20:29:36Z",
+  "count": 144,
   "contests": [
     {
       "duration": 23612094,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 79,
-      "parsed_at": "2026-03-05T15:19:05.626657",
+      "parsed_at": "2026-03-05T20:22:18.331828",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -258,6 +258,21 @@
       "start": "2026-03-02T00:00:00"
     },
     {
+      "duration": 1494000,
+      "end": "2026-03-20T07:00:00",
+      "event": "adsfuhsdlfuh [china , animals, doParallel]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/adsfuhsdlfuh",
+      "id": 65887602,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-03-03T00:00:00"
+    },
+    {
       "duration": 5266800,
       "end": "2026-05-04T04:00:00",
       "event": "ICRA 2026 Sim2Real Soccer Challenge",
@@ -286,21 +301,6 @@
       "resource": "inf-open.ru",
       "resource_id": 85,
       "start": "2026-03-04T21:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-05T17:01:00",
-      "event": "Weekly Contest 220",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-220",
-      "id": 65688509,
-      "n_problems": null,
-      "n_statistics": 90,
-      "parsed_at": "2026-03-05T15:35:12.610971",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-03-05T15:01:00"
     },
     {
       "duration": 3600,
@@ -781,6 +781,21 @@
       "resource": "challenges.reply.com",
       "resource_id": 121,
       "start": "2026-03-12T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-12T17:01:00",
+      "event": "Weekly Contest 221",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-221",
+      "id": 65883609,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-03-12T15:01:00"
     },
     {
       "duration": 172800,
