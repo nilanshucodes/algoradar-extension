@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-05T01:16:03Z",
-  "count": 139,
+  "lastUpdated": "2026-03-05T05:41:03Z",
+  "count": 140,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 305,
-      "parsed_at": "2026-03-04T15:27:06.425547",
+      "parsed_at": "2026-03-05T03:27:08.422611",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 78,
-      "parsed_at": "2026-03-05T01:08:05.611591",
+      "parsed_at": "2026-03-05T05:36:05.881261",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -1500,6 +1500,21 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
+      "start": "2026-04-04T12:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-04-04T13:40:00",
+      "event": "AtCoder Beginner Contest 452",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc452",
+      "id": 65868004,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
       "start": "2026-04-04T12:00:00"
     },
     {
