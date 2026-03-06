@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-06T01:19:36Z",
-  "count": 144,
+  "lastUpdated": "2026-03-06T05:38:54Z",
+  "count": 146,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 305,
-      "parsed_at": "2026-03-05T15:28:05.597754",
+      "parsed_at": "2026-03-06T03:29:05.581274",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 79,
-      "parsed_at": "2026-03-06T01:14:06.690780",
+      "parsed_at": "2026-03-06T05:29:06.561749",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -1128,6 +1128,21 @@
       "start": "2026-03-15T09:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-03-15T13:00:00",
+      "event": "牛客周赛 Round 135 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/129582",
+      "id": 65895730,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-03-15T11:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-03-17T01:00:00",
       "event": "Final Round",
@@ -1186,6 +1201,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-03-18T15:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-20T13:00:00",
+      "event": "牛客小白月赛130 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/129583",
+      "id": 65895731,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-03-20T11:00:00"
     },
     {
       "duration": 172800,
