@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-06T15:28:26Z",
-  "count": 145,
+  "lastUpdated": "2026-03-06T20:22:11Z",
+  "count": 143,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 305,
-      "parsed_at": "2026-03-06T03:29:05.581274",
+      "n_statistics": 308,
+      "parsed_at": "2026-03-06T15:30:07.219176",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 79,
-      "parsed_at": "2026-03-06T15:14:05.571314",
+      "parsed_at": "2026-03-06T20:14:05.991351",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -365,10 +365,10 @@
     {
       "duration": 14400,
       "end": "2026-03-07T10:00:00",
-      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Финал, первый тур",
+      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Первый тур Заключительного этапа",
       "host": "cups.online",
-      "href": "https://cups.online/rounds/1726",
-      "id": 65875389,
+      "href": "https://cups.online/rounds/1723",
+      "id": 65786506,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -390,21 +390,6 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
-      "start": "2026-03-07T07:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-03-07T11:00:00",
-      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Первый тур Заключительного этапа",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1723",
-      "id": 65786506,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
       "start": "2026-03-07T07:00:00"
     },
     {
@@ -545,21 +530,6 @@
     {
       "duration": 14400,
       "end": "2026-03-08T10:00:00",
-      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Финал, второй тур",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1727",
-      "id": 65875391,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-03-08T06:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-03-08T11:00:00",
       "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Второй тур Заключительного этапа",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1724",
@@ -570,7 +540,7 @@
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
-      "start": "2026-03-08T07:00:00"
+      "start": "2026-03-08T06:00:00"
     },
     {
       "duration": 7200,
