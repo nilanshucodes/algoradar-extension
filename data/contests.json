@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T05:33:07Z",
+  "lastUpdated": "2026-03-07T10:14:58Z",
   "count": 146,
   "contests": [
     {
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 79,
-      "parsed_at": "2026-03-07T05:29:06.086739",
+      "parsed_at": "2026-03-07T10:14:06.036821",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND40",
       "id": 65820640,
       "n_problems": 5,
-      "n_statistics": 24,
-      "parsed_at": "2026-03-07T04:08:06.364986",
+      "n_statistics": 43,
+      "parsed_at": "2026-03-07T07:21:06.760507",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -348,8 +348,8 @@
       "start": "2026-03-07T05:00:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-03-07T10:00:00",
+      "duration": 16200,
+      "end": "2026-03-07T10:30:00",
       "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Первый тур Заключительного этапа",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1723",
