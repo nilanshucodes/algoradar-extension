@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-07T10:14:58Z",
-  "count": 146,
+  "lastUpdated": "2026-03-07T15:14:49Z",
+  "count": 144,
   "contests": [
     {
       "duration": 23612094,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 79,
-      "parsed_at": "2026-03-07T10:14:06.036821",
+      "parsed_at": "2026-03-07T15:14:06.401993",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND40",
       "id": 65820640,
       "n_problems": 5,
-      "n_statistics": 43,
-      "parsed_at": "2026-03-07T07:21:06.760507",
+      "n_statistics": 54,
+      "parsed_at": "2026-03-07T13:47:06.346708",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -346,21 +346,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-03-07T05:00:00"
-    },
-    {
-      "duration": 16200,
-      "end": "2026-03-07T10:30:00",
-      "event": "International Olympiad Innopolis Open 2025 – Artificial Intelligence Profile. Первый тур Заключительного этапа",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1723",
-      "id": 65786506,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-03-07T06:00:00"
     },
     {
       "duration": 129600,
@@ -406,21 +391,6 @@
       "resource": "algoleague.com",
       "resource_id": 170,
       "start": "2026-03-07T11:30:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-03-07T13:40:00",
-      "event": "AtCoder Beginner Contest 448",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc448",
-      "id": 65256276,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-07T12:00:00"
     },
     {
       "duration": 104400,
