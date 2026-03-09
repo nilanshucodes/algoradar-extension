@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-09T10:36:31Z",
-  "count": 130,
+  "lastUpdated": "2026-03-09T15:50:18Z",
+  "count": 129,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 310,
-      "parsed_at": "2026-03-09T03:35:07.294526",
+      "parsed_at": "2026-03-09T15:36:06.156201",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-09T10:29:05.943782",
+      "parsed_at": "2026-03-09T15:44:05.719375",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -281,7 +281,7 @@
       "id": 65277013,
       "n_problems": null,
       "n_statistics": 59,
-      "parsed_at": "2026-03-09T10:36:19.764509",
+      "parsed_at": "2026-03-09T15:50:05.778390",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -296,41 +296,11 @@
       "id": 65942175,
       "n_problems": 9,
       "n_statistics": 6,
-      "parsed_at": "2026-03-09T10:00:06.672632",
+      "parsed_at": "2026-03-09T15:04:06.223512",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-03-09T04:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-09T12:00:00",
-      "event": "AtCoder Weekday Contest 0021 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0021",
-      "id": 65905915,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-09T11:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-03-09T15:30:00",
-      "event": "Monday Munch - DSA Challenge 28",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY28",
-      "id": 65688531,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-03-09T12:30:00"
     },
     {
       "duration": 3600,
@@ -408,6 +378,21 @@
       "start": "2026-03-10T09:00:00"
     },
     {
+      "duration": 3600,
+      "end": "2026-03-10T12:00:00",
+      "event": "AtCoder Weekday Contest 0022 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0022",
+      "id": 65991752,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-10T11:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-03-11T16:30:00",
       "event": "Starters 229",
@@ -439,7 +424,7 @@
     },
     {
       "duration": 7200,
-      "end": "2026-03-12T17:01:00",
+      "end": "2026-03-12T16:30:00",
       "event": "Weekly Contest 221",
       "host": "naukri.com/code360",
       "href": "https://www.naukri.com/code360/contests/weekly-contest-221",
@@ -450,7 +435,7 @@
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
-      "start": "2026-03-12T15:01:00"
+      "start": "2026-03-12T14:30:00"
     },
     {
       "duration": 172800,
