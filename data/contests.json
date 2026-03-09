@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-09T01:16:37Z",
-  "count": 128,
+  "lastUpdated": "2026-03-09T05:51:44Z",
+  "count": 129,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 310,
-      "parsed_at": "2026-03-08T15:34:05.572725",
+      "parsed_at": "2026-03-09T03:35:07.294526",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-09T01:14:34.726396",
+      "parsed_at": "2026-03-09T05:44:06.399561",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -295,8 +295,8 @@
       "href": "https://gameaicup.com/round2-overview",
       "id": 65277013,
       "n_problems": null,
-      "n_statistics": 57,
-      "parsed_at": "2026-03-09T01:16:06.579950",
+      "n_statistics": 59,
+      "parsed_at": "2026-03-09T05:51:06.796835",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -630,6 +630,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-03-14T06:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-03-14T10:00:00",
+      "event": "『1&0』OI Round 1 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/300998",
+      "id": 65981017,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
       "start": "2026-03-14T06:00:00"
     },
     {
