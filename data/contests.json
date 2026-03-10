@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-10T10:30:27Z",
-  "count": 130,
+  "lastUpdated": "2026-03-10T15:52:32Z",
+  "count": 131,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 310,
-      "parsed_at": "2026-03-10T03:38:13.362673",
+      "n_statistics": 326,
+      "parsed_at": "2026-03-10T15:39:07.334370",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-10T10:18:05.838950",
+      "parsed_at": "2026-03-10T15:47:24.390554",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -281,7 +281,7 @@
       "id": 65942175,
       "n_problems": 9,
       "n_statistics": 9,
-      "parsed_at": "2026-03-10T08:49:05.548262",
+      "parsed_at": "2026-03-10T13:53:07.203304",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -301,21 +301,6 @@
       "resource": "codingame.com",
       "resource_id": 81,
       "start": "2026-03-10T09:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-10T12:00:00",
-      "event": "AtCoder Weekday Contest 0022 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0022",
-      "id": 65991752,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-10T11:00:00"
     },
     {
       "duration": 3600,
@@ -376,6 +361,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-11T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-03-11T12:00:00",
+      "event": "AtCoder Weekday Contest 0023 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0023",
+      "id": 66020246,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-11T11:00:00"
     },
     {
       "duration": 7200,
@@ -496,6 +496,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-03-13T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-13T17:00:00",
+      "event": "RoboContest Round #110",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3586",
+      "id": 66021825,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-03-13T15:00:00"
     },
     {
       "duration": 172800,
@@ -695,7 +710,7 @@
     {
       "duration": 7200,
       "end": "2026-03-14T16:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1086 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2208",
       "id": 65786222,
