@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-10T15:52:32Z",
-  "count": 131,
+  "lastUpdated": "2026-03-10T20:23:47Z",
+  "count": 134,
   "contests": [
     {
       "duration": 23612094,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-10T15:47:24.390554",
+      "parsed_at": "2026-03-10T20:21:06.434945",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -273,15 +273,15 @@
       "start": "2026-03-04T05:00:00"
     },
     {
-      "duration": 136740,
-      "end": "2026-03-10T17:59:00",
+      "duration": 223140,
+      "end": "2026-03-11T17:59:00",
       "event": "Contest 2 - C Programming Course - 6th Batch [protected, icpc, individual]",
       "host": "lightoj.com",
       "href": "https://lightoj.com/contest/contest2c6thbatch",
       "id": 65942175,
       "n_problems": 9,
-      "n_statistics": 9,
-      "parsed_at": "2026-03-10T13:53:07.203304",
+      "n_statistics": 16,
+      "parsed_at": "2026-03-10T18:09:07.596698",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -301,6 +301,36 @@
       "resource": "codingame.com",
       "resource_id": 81,
       "start": "2026-03-10T09:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-01T03:59:59",
+      "event": "2026 Canadian Informatics Workshop - Day 1 Mirror",
+      "host": "dmoj.ca",
+      "href": "https://dmoj.ca/contest/ciw26d1",
+      "id": 66029725,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dmoj.ca",
+      "resource_id": 77,
+      "start": "2026-03-10T20:07:57"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-01T03:59:59",
+      "event": "2026 Canadian Informatics Workshop - Day 2 Mirror",
+      "host": "dmoj.ca",
+      "href": "https://dmoj.ca/contest/ciw26d2",
+      "id": 66029726,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dmoj.ca",
+      "resource_id": 77,
+      "start": "2026-03-10T20:07:57"
     },
     {
       "duration": 3600,
@@ -796,6 +826,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-03-15T11:00:00"
+    },
+    {
+      "duration": 604740,
+      "end": "2026-03-22T19:59:00",
+      "event": "Educational Round #9",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/1fck3aasuh3ev201dcp2lm8868",
+      "id": 66027447,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-03-15T20:00:00"
     },
     {
       "duration": 86400,
