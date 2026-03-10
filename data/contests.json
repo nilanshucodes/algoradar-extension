@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-10T01:10:44Z",
-  "count": 129,
+  "lastUpdated": "2026-03-10T05:39:23Z",
+  "count": 130,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 310,
-      "parsed_at": "2026-03-09T15:36:06.156201",
+      "parsed_at": "2026-03-10T03:38:13.362673",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-10T01:03:34.966778",
+      "parsed_at": "2026-03-10T05:33:06.585631",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -280,8 +280,8 @@
       "href": "https://lightoj.com/contest/contest2c6thbatch",
       "id": 65942175,
       "n_problems": 9,
-      "n_statistics": 7,
-      "parsed_at": "2026-03-09T22:41:05.539749",
+      "n_statistics": 8,
+      "parsed_at": "2026-03-10T03:45:06.793400",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -796,6 +796,21 @@
       "resource": "gameaicup.com",
       "resource_id": 184,
       "start": "2026-03-16T01:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-03-16T15:30:00",
+      "event": "Monday Munch - DSA Challenge 29",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY29",
+      "id": 66011336,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-03-16T12:30:00"
     },
     {
       "duration": 7200,
