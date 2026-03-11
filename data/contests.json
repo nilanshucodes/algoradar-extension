@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-11T15:39:09Z",
-  "count": 168,
+  "lastUpdated": "2026-03-11T20:25:39Z",
+  "count": 165,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 326,
-      "parsed_at": "2026-03-11T03:40:06.993176",
+      "parsed_at": "2026-03-11T15:41:06.977562",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-11T15:36:06.630094",
+      "parsed_at": "2026-03-11T20:21:07.560617",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -273,21 +273,6 @@
       "start": "2026-03-04T05:00:00"
     },
     {
-      "duration": 223140,
-      "end": "2026-03-11T17:59:00",
-      "event": "Contest 2 - C Programming Course - 6th Batch [protected, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/contest2c6thbatch",
-      "id": 65942175,
-      "n_problems": 9,
-      "n_statistics": 17,
-      "parsed_at": "2026-03-11T14:49:05.599885",
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2026-03-09T04:00:00"
-    },
-    {
       "duration": 1209600,
       "end": "2026-03-24T09:00:00",
       "event": "Winter Challenge 2026",
@@ -333,49 +318,19 @@
       "start": "2026-03-10T20:07:57"
     },
     {
-      "duration": 18000,
-      "end": "2026-03-11T17:00:00",
-      "event": "Winter Cup 8.0 Online Mirror Contest. Iceberg",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106415",
-      "id": 66030621,
+      "duration": 7282422,
+      "end": "2026-06-03T23:59:00",
+      "event": "BirdCLEF+ 2026 [earth and nature, animals, multilabel classification, audio event classification, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/birdclef-2026",
+      "id": 66054023,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-03-11T12:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-11T16:30:00",
-      "event": "Starters 229 (Rated till 6 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START229",
-      "id": 65433317,
-      "n_problems": 9,
-      "n_statistics": 23302,
-      "parsed_at": "2026-03-11T15:09:06.128937",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-03-11T14:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-03-11T16:30:00",
-      "event": "Тренировки первой подзадачи 2026. День 8",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/91729/standings",
-      "id": 66032033,
-      "n_problems": 15,
-      "n_statistics": 5,
-      "parsed_at": "2026-03-11T15:37:05.901603",
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-03-11T15:00:00"
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-03-11T17:05:18"
     },
     {
       "duration": 3600,
