@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-10T20:23:47Z",
-  "count": 134,
+  "lastUpdated": "2026-03-11T01:11:25Z",
+  "count": 135,
   "contests": [
     {
       "duration": 23612094,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-10T20:21:06.434945",
+      "parsed_at": "2026-03-11T01:06:06.378834",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -281,7 +281,7 @@
       "id": 65942175,
       "n_problems": 9,
       "n_statistics": 16,
-      "parsed_at": "2026-03-10T18:09:07.596698",
+      "parsed_at": "2026-03-10T22:17:05.314506",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -408,6 +408,21 @@
       "start": "2026-03-11T11:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-03-11T17:00:00",
+      "event": "Winter Cup 8.0 Online Mirror Contest. Iceberg",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106415",
+      "id": 66030621,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-03-11T12:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-03-11T16:30:00",
       "event": "Starters 229",
@@ -421,6 +436,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-03-11T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-03-11T16:30:00",
+      "event": "Тренировки первой подзадачи 2026. День 8",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/91729/enter/?retPage=standings",
+      "id": 66032033,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-03-11T15:00:00"
     },
     {
       "duration": 21600,
@@ -526,21 +556,6 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-03-13T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-13T17:00:00",
-      "event": "RoboContest Round #110",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3586",
-      "id": 66021825,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-03-13T15:00:00"
     },
     {
       "duration": 172800,
