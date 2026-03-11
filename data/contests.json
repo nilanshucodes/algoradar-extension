@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T01:11:25Z",
+  "lastUpdated": "2026-03-11T05:41:47Z",
   "count": 135,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 326,
-      "parsed_at": "2026-03-10T15:39:07.334370",
+      "parsed_at": "2026-03-11T03:40:06.993176",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-11T01:06:06.378834",
+      "parsed_at": "2026-03-11T05:36:05.519640",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -281,7 +281,7 @@
       "id": 65942175,
       "n_problems": 9,
       "n_statistics": 16,
-      "parsed_at": "2026-03-10T22:17:05.314506",
+      "parsed_at": "2026-03-11T02:25:06.354731",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
