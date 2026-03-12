@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-12T01:13:29Z",
-  "count": 168,
+  "lastUpdated": "2026-03-12T05:43:34Z",
+  "count": 166,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 326,
-      "parsed_at": "2026-03-11T15:41:06.977562",
+      "parsed_at": "2026-03-12T03:42:06.826253",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 81,
-      "parsed_at": "2026-03-12T01:06:05.594113",
+      "parsed_at": "2026-03-12T05:36:06.241909",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -331,36 +331,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-03-11T17:05:18"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-12T01:30:00",
-      "event": "UTPC Contest 3-11-2026 Div. 2 (Advanced). UTPC_Admin",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106421",
-      "id": 66061264,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-03-11T23:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-12T01:30:00",
-      "event": "UTPC Contest 3-11-26 (Beginner). UTPC_Admin",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106420",
-      "id": 66061265,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-03-11T23:30:00"
     },
     {
       "duration": 3600,
