@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T01:14:49Z",
+  "lastUpdated": "2026-03-13T05:41:37Z",
   "count": 170,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 329,
-      "parsed_at": "2026-03-12T15:43:06.161176",
+      "parsed_at": "2026-03-13T03:44:05.703344",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 82,
-      "parsed_at": "2026-03-13T01:08:05.390102",
+      "parsed_at": "2026-03-13T05:38:05.679651",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 1456,
-      "parsed_at": "2026-03-13T01:02:06.326635",
+      "n_statistics": 1471,
+      "parsed_at": "2026-03-13T05:22:05.699376",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -526,21 +526,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-03-13T18:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-03-13T21:30:00",
-      "event": "HTI ICPC Level 1 Qualifications. HACKAR",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106423",
-      "id": 66091050,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-03-13T19:30:00"
     },
     {
       "duration": 172800,
@@ -1216,6 +1201,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-03-22T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-03-22T13:00:00",
+      "event": "牛客周赛 Round 136",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/130107",
+      "id": 66095997,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-03-22T11:00:00"
     },
     {
       "duration": 9000,
