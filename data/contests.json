@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-16T15:56:56Z",
-  "count": 150,
+  "lastUpdated": "2026-03-16T20:29:01Z",
+  "count": 152,
   "contests": [
     {
       "duration": 23612094,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 82,
-      "parsed_at": "2026-03-16T15:51:15.100444",
+      "parsed_at": "2026-03-16T20:23:05.326391",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 1893,
-      "parsed_at": "2026-03-16T15:46:06.359018",
+      "n_statistics": 1922,
+      "parsed_at": "2026-03-16T20:06:06.356864",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -333,6 +333,21 @@
       "start": "2026-03-11T17:05:18"
     },
     {
+      "duration": 1209600,
+      "end": "2026-03-27T17:00:00",
+      "event": "Entrenamiento OIE Nivel Experto - Semana 12. FelixMP",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106431",
+      "id": 66194896,
+      "n_problems": 5,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-03-13T17:00:00"
+    },
+    {
       "duration": 604740,
       "end": "2026-03-22T19:59:00",
       "event": "Educational Round #9",
@@ -378,21 +393,6 @@
       "start": "2026-03-16T04:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-03-16T16:35:00",
-      "event": "Educational Codeforces Round 188 (Rated for Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2204",
-      "id": 65486735,
-      "n_problems": 7,
-      "n_statistics": 14714,
-      "parsed_at": "2026-03-16T15:53:06.365905",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-03-16T14:35:00"
-    },
-    {
       "duration": 3600,
       "end": "2026-03-17T08:00:00",
       "event": "AtCoder Daily Training EASY 2026/03/17 16:00start",
@@ -420,6 +420,36 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-03-17T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-03-17T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 10 | B",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/92111/enter/?retPage=",
+      "id": 66191861,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-03-17T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-03-17T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 10 | A",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/92124/enter/?retPage=",
+      "id": 66193645,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-03-17T07:00:00"
     },
     {
