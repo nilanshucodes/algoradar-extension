@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-17T15:55:57Z",
-  "count": 153,
+  "lastUpdated": "2026-03-17T20:29:55Z",
+  "count": 154,
   "contests": [
     {
       "duration": 23612094,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 82,
-      "parsed_at": "2026-03-17T15:53:06.284137",
+      "parsed_at": "2026-03-17T20:23:06.266686",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 1987,
-      "parsed_at": "2026-03-17T15:36:06.642073",
+      "n_statistics": 2010,
+      "parsed_at": "2026-03-17T20:22:06.586493",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -340,8 +340,8 @@
       "href": "https://codeforces.com/gym/106431",
       "id": 66194896,
       "n_problems": 5,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 10,
+      "parsed_at": "2026-03-17T17:37:06.447810",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -376,6 +376,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-03-16T22:51:41"
+    },
+    {
+      "duration": 2621041,
+      "end": "2026-04-16T23:59:00",
+      "event": "Measuring Progress Toward AGI - Cognitive Abilities [research, benchmark, personal benchmark]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/kaggle-measuring-agi",
+      "id": 66220129,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-03-17T15:54:59"
     },
     {
       "duration": 32400,
