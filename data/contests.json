@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T05:53:27Z",
+  "lastUpdated": "2026-03-17T10:41:06Z",
   "count": 152,
   "contests": [
     {
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 82,
-      "parsed_at": "2026-03-17T05:53:06.022676",
+      "parsed_at": "2026-03-17T10:38:06.530694",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 1946,
-      "parsed_at": "2026-03-17T05:38:06.182456",
+      "n_statistics": 1957,
+      "parsed_at": "2026-03-17T10:24:06.010495",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -363,21 +363,6 @@
       "start": "2026-03-15T20:00:00"
     },
     {
-      "duration": 108000,
-      "end": "2026-03-17T10:00:00",
-      "event": "Lag N Crash 6.0",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3165/",
-      "id": 66052409,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-03-16T04:00:00"
-    },
-    {
       "duration": 7866439,
       "end": "2026-06-15T23:59:00",
       "event": "NVIDIA Nemotron Model Reasoning Challenge [deep learning, pre-trained model, general knowledge and reasoning, custom metric]",
@@ -391,36 +376,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-03-16T22:51:41"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-17T08:00:00",
-      "event": "AtCoder Daily Training EASY 2026/03/17 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260317_1",
-      "id": 66183126,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-17T07:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-17T08:00:00",
-      "event": "AtCoder Daily Training ALL 2026/03/17 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260317_1",
-      "id": 66183127,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-17T07:00:00"
     },
     {
       "duration": 18000,
@@ -454,36 +409,6 @@
     },
     {
       "duration": 3600,
-      "end": "2026-03-17T10:00:00",
-      "event": "AtCoder Daily Training EASY 2026/03/17 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260317_2",
-      "id": 66185318,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-17T09:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-17T10:00:00",
-      "event": "AtCoder Daily Training ALL 2026/03/17 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260317_2",
-      "id": 66185319,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-17T09:00:00"
-    },
-    {
-      "duration": 3600,
       "end": "2026-03-17T12:00:00",
       "event": "AtCoder Weekday Contest 0027 Beta",
       "host": "atcoder.jp",
@@ -511,6 +436,66 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-18T05:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-03-18T08:00:00",
+      "event": "AtCoder Daily Training EASY 2026/03/18 16:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_easy_20260318_1",
+      "id": 66210371,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-18T07:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-03-18T08:00:00",
+      "event": "AtCoder Daily Training ALL 2026/03/18 16:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_all_20260318_1",
+      "id": 66210372,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-18T07:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-03-18T10:00:00",
+      "event": "AtCoder Daily Training EASY 2026/03/18 18:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_easy_20260318_2",
+      "id": 66212926,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-18T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-03-18T10:00:00",
+      "event": "AtCoder Daily Training ALL 2026/03/18 18:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_all_20260318_2",
+      "id": 66212927,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-18T09:00:00"
     },
     {
       "duration": 7200,
@@ -559,7 +544,7 @@
     },
     {
       "duration": 7200,
-      "end": "2026-03-19T16:30:00",
+      "end": "2026-03-19T17:01:00",
       "event": "Weekly Contest 222",
       "host": "naukri.com/code360",
       "href": "https://www.naukri.com/code360/contests/weekly-contest-222",
@@ -570,7 +555,7 @@
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
-      "start": "2026-03-19T14:30:00"
+      "start": "2026-03-19T15:01:00"
     },
     {
       "duration": 86400,
@@ -841,6 +826,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-22T12:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-03-24T15:30:00",
+      "event": "Monday Munch - DSA Challenge 30",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY30",
+      "id": 66209903,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-03-24T12:30:00"
     },
     {
       "duration": 7200,
