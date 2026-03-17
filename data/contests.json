@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T01:16:44Z",
+  "lastUpdated": "2026-03-17T05:53:27Z",
   "count": 152,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 368,
-      "parsed_at": "2026-03-16T15:51:06.601320",
+      "n_statistics": 369,
+      "parsed_at": "2026-03-17T03:52:05.999605",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -191,7 +191,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 82,
-      "parsed_at": "2026-03-17T01:08:05.964784",
+      "parsed_at": "2026-03-17T05:53:06.022676",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 1935,
-      "parsed_at": "2026-03-17T00:52:06.476088",
+      "n_statistics": 1946,
+      "parsed_at": "2026-03-17T05:38:06.182456",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
