@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-18T20:27:15Z",
-  "count": 167,
+  "lastUpdated": "2026-03-19T01:20:31Z",
+  "count": 168,
   "contests": [
     {
       "duration": 23612094,
@@ -123,21 +123,6 @@
       "start": "2026-01-07T18:00:03"
     },
     {
-      "duration": 2469540,
-      "end": "2026-03-18T20:59:00",
-      "event": "Обработка больших данных. Разработка контейнера для работы с Hadoop",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1692",
-      "id": 65488514,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-02-18T07:00:00"
-    },
-    {
       "duration": 3506340,
       "end": "2026-03-30T20:59:00",
       "event": "Обработка больших данных. Работа со Spark",
@@ -191,7 +176,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 82,
-      "parsed_at": "2026-03-18T20:24:06.036866",
+      "parsed_at": "2026-03-19T01:09:05.840118",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -280,8 +265,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 2075,
-      "parsed_at": "2026-03-18T20:13:06.091107",
+      "n_statistics": 2102,
+      "parsed_at": "2026-03-19T00:59:06.352430",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -355,8 +340,8 @@
       "href": "https://basecamp.eolymp.com/contests/1fck3aasuh3ev201dcp2lm8868",
       "id": 66027447,
       "n_problems": 10,
-      "n_statistics": 57,
-      "parsed_at": "2026-03-18T10:00:06.504911",
+      "n_statistics": 64,
+      "parsed_at": "2026-03-18T21:12:05.954363",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -420,6 +405,36 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-03-19T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-03-19T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 11 | B",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/92266/enter/?retPage=",
+      "id": 66255534,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-03-19T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-03-19T12:00:00",
+      "event": "Сборы перед BelOI 2026, февраль - март 2026. День 11 | A",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/92277/enter/?retPage=",
+      "id": 66255535,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
       "start": "2026-03-19T07:00:00"
     },
     {
