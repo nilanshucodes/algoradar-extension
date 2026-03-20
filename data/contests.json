@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-20T05:44:24Z",
-  "count": 184,
+  "lastUpdated": "2026-03-20T10:29:22Z",
+  "count": 183,
   "contests": [
     {
       "duration": 23612094,
@@ -176,7 +176,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 82,
-      "parsed_at": "2026-03-20T05:30:06.678819",
+      "parsed_at": "2026-03-20T10:15:06.620545",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -228,21 +228,6 @@
       "start": "2026-02-28T23:52:56"
     },
     {
-      "duration": 1494000,
-      "end": "2026-03-20T07:00:00",
-      "event": "adsfuhsdlfuh [china , animals, doParallel]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/adsfuhsdlfuh",
-      "id": 65887602,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-03-03T00:00:00"
-    },
-    {
       "duration": 5266800,
       "end": "2026-05-04T04:00:00",
       "event": "ICRA 2026 Sim2Real Soccer Challenge",
@@ -265,8 +250,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 2161,
-      "parsed_at": "2026-03-20T05:37:06.646480",
+      "n_statistics": 2167,
+      "parsed_at": "2026-03-20T10:23:05.944528",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -341,7 +326,7 @@
       "id": 66027447,
       "n_problems": 10,
       "n_statistics": 71,
-      "parsed_at": "2026-03-19T19:36:06.052499",
+      "parsed_at": "2026-03-20T06:48:06.496717",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -408,36 +393,6 @@
       "start": "2026-03-19T16:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-03-20T08:00:00",
-      "event": "AtCoder Daily Training EASY 2026/03/20 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260320_1",
-      "id": 66267263,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-20T07:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-20T08:00:00",
-      "event": "AtCoder Daily Training ALL 2026/03/20 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260320_1",
-      "id": 66267264,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-20T07:00:00"
-    },
-    {
       "duration": 432000,
       "end": "2026-03-25T07:00:00",
       "event": "Кенгуру. Пробный",
@@ -469,7 +424,7 @@
     },
     {
       "duration": 18000,
-      "end": "2026-03-20T12:00:00",
+      "end": "2026-03-20T12:15:00",
       "event": "Сборы перед BelOI 2026, февраль - март 2026. День 12 | B",
       "host": "contest.yandex.ru/CYF",
       "href": "https://official.contest.yandex.ru/CYF/contest/92323/enter/?retPage=",
@@ -480,11 +435,11 @@
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
-      "start": "2026-03-20T07:00:00"
+      "start": "2026-03-20T07:15:00"
     },
     {
       "duration": 18000,
-      "end": "2026-03-20T12:00:00",
+      "end": "2026-03-20T12:15:00",
       "event": "Сборы перед BelOI 2026, февраль - март 2026. День 12 | A",
       "host": "contest.yandex.ru/CYF",
       "href": "https://official.contest.yandex.ru/CYF/contest/92340/enter/?retPage=",
@@ -495,37 +450,37 @@
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
-      "start": "2026-03-20T07:00:00"
+      "start": "2026-03-20T07:15:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-03-20T10:00:00",
-      "event": "AtCoder Daily Training EASY 2026/03/20 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260320_2",
-      "id": 66269652,
+      "duration": 432000,
+      "end": "2026-03-25T07:54:00",
+      "event": "Кенгуру. Пробный",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1746",
+      "id": 66295570,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-20T09:00:00"
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-03-20T07:54:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-03-20T10:00:00",
-      "event": "AtCoder Daily Training ALL 2026/03/20 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260320_2",
-      "id": 66269653,
+      "duration": 432000,
+      "end": "2026-03-25T07:55:00",
+      "event": "Кенгуру. Основной",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1747",
+      "id": 66295571,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-20T09:00:00"
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-03-20T07:55:00"
     },
     {
       "duration": 7200,
@@ -1248,6 +1203,21 @@
       "start": "2026-03-28T14:35:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-03-29T04:00:00",
+      "event": "Weekly Contest 495",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-495",
+      "id": 66296964,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-03-29T02:30:00"
+    },
+    {
       "duration": 28800,
       "end": "2026-03-29T15:00:00",
       "event": "CU school CTF 2026",
@@ -1696,6 +1666,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-11T12:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-04-11T16:00:00",
+      "event": "Biweekly Contest 180",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/biweekly-contest-180",
+      "id": 66296963,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-04-11T14:30:00"
     },
     {
       "duration": 18000,
