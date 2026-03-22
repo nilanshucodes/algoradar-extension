@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T05:46:18Z",
+  "lastUpdated": "2026-03-22T10:18:32Z",
   "count": 181,
   "contests": [
     {
@@ -176,7 +176,7 @@
       "id": 65277011,
       "n_problems": null,
       "n_statistics": 83,
-      "parsed_at": "2026-03-22T05:35:05.966240",
+      "parsed_at": "2026-03-22T10:05:07.224757",
       "problems": null,
       "resource": "gameaicup.com",
       "resource_id": 184,
@@ -250,8 +250,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 2259,
-      "parsed_at": "2026-03-22T05:44:06.607445",
+      "n_statistics": 2267,
+      "parsed_at": "2026-03-22T10:04:06.218731",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -310,8 +310,8 @@
       "href": "https://codeforces.com/gym/106431",
       "id": 66194896,
       "n_problems": 5,
-      "n_statistics": 42,
-      "parsed_at": "2026-03-21T11:17:06.966281",
+      "n_statistics": 49,
+      "parsed_at": "2026-03-22T09:42:05.939212",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -460,8 +460,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND42",
       "id": 66243378,
       "n_problems": 5,
-      "n_statistics": 116,
-      "parsed_at": "2026-03-22T02:39:06.664033",
+      "n_statistics": 162,
+      "parsed_at": "2026-03-22T09:05:06.651713",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -571,21 +571,6 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-03-22T06:00:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-03-22T10:00:00",
-      "event": "Problem 989",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 65103404,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-03-22T10:00:00"
     },
     {
       "duration": 7200,
@@ -1141,6 +1126,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-03-29T02:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-03-29T09:00:00",
+      "event": "RedStone OI Round 10 [ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/307651",
+      "id": 66356798,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-03-29T06:00:00"
     },
     {
       "duration": 28800,
