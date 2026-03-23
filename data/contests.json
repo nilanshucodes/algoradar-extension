@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-23T01:20:54Z",
-  "count": 174,
+  "lastUpdated": "2026-03-23T06:04:57Z",
+  "count": 175,
   "contests": [
     {
       "duration": 23612094,
@@ -235,8 +235,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 2301,
-      "parsed_at": "2026-03-23T01:14:06.497334",
+      "n_statistics": 2304,
+      "parsed_at": "2026-03-23T06:00:07.647973",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -544,7 +544,7 @@
     },
     {
       "duration": 10800,
-      "end": "2026-03-24T15:30:00",
+      "end": "2026-03-23T15:30:00",
       "event": "Monday Munch - DSA Challenge 30",
       "host": "codechef.com",
       "href": "https://www.codechef.com/DSAMONDAY30",
@@ -555,7 +555,7 @@
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
-      "start": "2026-03-24T12:30:00"
+      "start": "2026-03-23T12:30:00"
     },
     {
       "duration": 7200,
@@ -1351,6 +1351,21 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-04-05T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-05T13:00:00",
+      "event": "牛客周赛 Round 138",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/131111",
+      "id": 66381417,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-04-05T11:00:00"
     },
     {
       "duration": 9000,
