@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-24T15:57:30Z",
-  "count": 182,
+  "lastUpdated": "2026-03-24T20:32:31Z",
+  "count": 181,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 402,
-      "parsed_at": "2026-03-24T04:05:05.879328",
+      "n_statistics": 403,
+      "parsed_at": "2026-03-24T16:06:06.286478",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -444,28 +444,13 @@
       "host": "potyczki.mimuw.edu.pl",
       "href": "https://sio2.mimuw.edu.pl/c/pa-2026-1/p/",
       "id": 66417189,
-      "n_problems": null,
+      "n_problems": 3,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
       "resource": "potyczki.mimuw.edu.pl",
       "resource_id": 131,
       "start": "2026-03-24T11:00:00"
-    },
-    {
-      "duration": 12600,
-      "end": "2026-03-24T17:30:00",
-      "event": "IUT Eid Salami Programming Contest 2026 - Powered by Okkhor Technology (Online Mirror). flying_saucer",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106438",
-      "id": 66391918,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-03-24T14:00:00"
     },
     {
       "duration": 3600,
