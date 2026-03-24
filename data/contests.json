@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T20:29:40Z",
+  "lastUpdated": "2026-03-24T01:14:08Z",
   "count": 179,
   "contests": [
     {
@@ -91,21 +91,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-11-20T15:00:23"
-    },
-    {
-      "duration": 8395302,
-      "end": "2026-03-23T23:59:00",
-      "event": "Deep Past Challenge - Translate Akkadian to English [history, text, translation, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/deep-past-initiative-machine-translation",
-      "id": 64063776,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-12-16T19:57:18"
     },
     {
       "duration": 6674337,
@@ -235,8 +220,8 @@
       "href": "https://www.codingame.com/contests/winter-challenge-2026-exotec",
       "id": 65637372,
       "n_problems": null,
-      "n_statistics": 2343,
-      "parsed_at": "2026-03-23T20:18:05.626725",
+      "n_statistics": 2359,
+      "parsed_at": "2026-03-24T01:04:06.322536",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -430,8 +415,8 @@
       "href": "https://noi26.kattis.com/contests/p2i4mo",
       "id": 66315430,
       "n_problems": 4,
-      "n_statistics": 13,
-      "parsed_at": "2026-03-23T12:25:05.382401",
+      "n_statistics": 15,
+      "parsed_at": "2026-03-23T23:30:05.962536",
       "problems": null,
       "resource": "kattis.com",
       "resource_id": 168,
@@ -1951,6 +1936,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-04-26T00:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-29T16:30:00",
+      "event": "Starters 236",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START236",
+      "id": 66401823,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-04-29T14:30:00"
     },
     {
       "duration": 0,
