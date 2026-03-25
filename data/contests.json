@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-25T01:19:26Z",
-  "count": 179,
+  "lastUpdated": "2026-03-25T05:55:13Z",
+  "count": 180,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 403,
-      "parsed_at": "2026-03-24T16:06:06.286478",
+      "parsed_at": "2026-03-25T04:07:06.449998",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -265,8 +265,8 @@
       "href": "https://codeforces.com/gym/106431",
       "id": 66194896,
       "n_problems": 5,
-      "n_statistics": 13,
-      "parsed_at": "2026-03-24T06:32:05.678628",
+      "n_statistics": 77,
+      "parsed_at": "2026-03-25T04:57:06.278162",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -1936,6 +1936,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-04-26T00:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-04-26T10:00:00",
+      "event": "JR WEST and ALGO ARTIS Programming Contest (AtCoder Heuristic Contest 064)",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/ahc064",
+      "id": 66437090,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-26T06:00:00"
     },
     {
       "duration": 7200,
