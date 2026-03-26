@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-26T01:24:40Z",
-  "count": 209,
+  "lastUpdated": "2026-03-26T06:06:49Z",
+  "count": 211,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 404,
-      "parsed_at": "2026-03-25T16:08:07.062873",
+      "parsed_at": "2026-03-26T04:09:08.272193",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -235,8 +235,8 @@
       "href": "https://codeforces.com/gym/106431",
       "id": 66194896,
       "n_problems": 5,
-      "n_statistics": 77,
-      "parsed_at": "2026-03-25T04:57:06.278162",
+      "n_statistics": 83,
+      "parsed_at": "2026-03-26T03:21:08.619420",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -1068,6 +1068,21 @@
       "start": "2026-04-01T04:00:00"
     },
     {
+      "duration": 604800,
+      "end": "2026-04-08T04:00:00",
+      "event": "April Fools' Day Contest 3",
+      "host": "dmoj.ca",
+      "href": "https://dmoj.ca/contest/afd3",
+      "id": 66463407,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dmoj.ca",
+      "resource_id": 77,
+      "start": "2026-04-01T04:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-04-01T13:00:00",
       "event": "牛客2026年愚人节比赛 [ACM]",
@@ -1531,6 +1546,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-10T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-10T13:00:00",
+      "event": "牛客小白月赛131 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/131416",
+      "id": 66465099,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-04-10T11:00:00"
     },
     {
       "duration": 172800,
