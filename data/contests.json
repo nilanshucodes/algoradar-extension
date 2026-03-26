@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-25T20:30:13Z",
-  "count": 211,
+  "lastUpdated": "2026-03-26T01:24:40Z",
+  "count": 209,
   "contests": [
     {
       "duration": 23612094,
@@ -93,42 +93,12 @@
       "start": "2025-11-20T15:00:23"
     },
     {
-      "duration": 6674337,
-      "end": "2026-03-25T23:59:00",
-      "event": "Stanford RNA 3D Folding Part 2 [video games, biology, chemistry, biotechnology, regression, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/stanford-rna-3d-folding-2",
-      "id": 64522578,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-01-07T18:00:03"
-    },
-    {
       "duration": 3506340,
       "end": "2026-03-30T20:59:00",
       "event": "Обработка больших данных. Работа со Spark",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1694",
       "id": 65489205,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-02-18T07:00:00"
-    },
-    {
-      "duration": 3074340,
-      "end": "2026-03-25T20:59:00",
-      "event": "Обработка больших данных. Разработка контейнера со Spark-приложением",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1693",
-      "id": 65489206,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -361,21 +331,6 @@
       "resource": "luogu.com.cn",
       "resource_id": 162,
       "start": "2026-03-22T01:00:00"
-    },
-    {
-      "duration": 129540,
-      "end": "2026-03-25T22:59:00",
-      "event": "Potyczki Algorytmiczne 2026. Runda 2",
-      "host": "potyczki.mimuw.edu.pl",
-      "href": "https://sio2.mimuw.edu.pl/c/pa-2026-1/p/",
-      "id": 66417189,
-      "n_problems": 3,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "potyczki.mimuw.edu.pl",
-      "resource_id": 131,
-      "start": "2026-03-24T11:00:00"
     },
     {
       "duration": 129540,
@@ -1156,6 +1111,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-04-01T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-01T16:35:00",
+      "event": "April Fools Day Contest 2026",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2214",
+      "id": 66457550,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-04-01T14:35:00"
     },
     {
       "duration": 5400,
