@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-26T20:28:04Z",
-  "count": 211,
+  "lastUpdated": "2026-03-27T01:24:20Z",
+  "count": 210,
   "contests": [
     {
       "duration": 23612094,
@@ -333,21 +333,6 @@
       "start": "2026-03-22T01:00:00"
     },
     {
-      "duration": 129540,
-      "end": "2026-03-26T22:59:00",
-      "event": "Potyczki Algorytmiczne 2026. Runda 3",
-      "host": "potyczki.mimuw.edu.pl",
-      "href": "https://sio2.mimuw.edu.pl/c/pa-2026-1/p/",
-      "id": 66446159,
-      "n_problems": 3,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "potyczki.mimuw.edu.pl",
-      "resource_id": 131,
-      "start": "2026-03-25T11:00:00"
-    },
-    {
       "duration": 19808447,
       "end": "2026-11-09T23:59:00",
       "event": "ARC Prize 2026 - Paper Track [artificial intelligence, general knowledge and reasoning]",
@@ -401,7 +386,7 @@
       "id": 66443163,
       "n_problems": 15,
       "n_statistics": 11,
-      "parsed_at": "2026-03-26T20:08:06.065819",
+      "parsed_at": "2026-03-27T01:12:06.591830",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -416,7 +401,7 @@
       "id": 66052403,
       "n_problems": null,
       "n_statistics": 201,
-      "parsed_at": "2026-03-26T19:58:06.093289",
+      "parsed_at": "2026-03-27T00:48:06.392440",
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
@@ -995,7 +980,7 @@
     {
       "duration": 8100,
       "end": "2026-03-29T16:50:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1088 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2210",
       "id": 66163384,
