@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T20:28:33Z",
+  "lastUpdated": "2026-03-28T01:18:09Z",
   "count": 208,
   "contests": [
     {
@@ -288,21 +288,6 @@
       "start": "2026-03-20T16:00:00"
     },
     {
-      "duration": 597600,
-      "end": "2026-03-27T21:00:00",
-      "event": "Nordic Olympiad in Informatics 2026 upsolving",
-      "host": "noi26.kattis.com",
-      "href": "https://noi26.kattis.com/contests/p2i4mo",
-      "id": 66315430,
-      "n_problems": 4,
-      "n_statistics": 22,
-      "parsed_at": "2026-03-27T16:10:06.468690",
-      "problems": null,
-      "resource": "kattis.com",
-      "resource_id": 168,
-      "start": "2026-03-20T23:00:00"
-    },
-    {
       "duration": 2700000,
       "end": "2026-04-22T07:00:00",
       "event": "不是 Ahaer 出题组的 2026 愚人节比赛 [ioi]",
@@ -370,27 +355,12 @@
       "href": "https://lightoj.com/contest/repeatcontest1and2",
       "id": 66443163,
       "n_problems": 15,
-      "n_statistics": 15,
-      "parsed_at": "2026-03-27T17:29:06.095211",
+      "n_statistics": 17,
+      "parsed_at": "2026-03-27T23:06:06.282544",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-03-26T04:00:00"
-    },
-    {
-      "duration": 129540,
-      "end": "2026-03-27T22:59:00",
-      "event": "Potyczki Algorytmiczne 2026. Runda 4",
-      "host": "potyczki.mimuw.edu.pl",
-      "href": "https://sio2.mimuw.edu.pl/c/pa-2026-1/p/",
-      "id": 66474364,
-      "n_problems": 3,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "potyczki.mimuw.edu.pl",
-      "resource_id": 131,
-      "start": "2026-03-26T11:00:00"
     },
     {
       "duration": 212340,
@@ -459,9 +429,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND43",
       "id": 66448665,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 10,
+      "parsed_at": "2026-03-28T00:55:05.939162",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -586,6 +556,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-28T09:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-03-28T16:00:00",
+      "event": "UFPE Starters Final Try-Outs 2026. tfg",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106443",
+      "id": 66517627,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-03-28T11:00:00"
     },
     {
       "duration": 6000,
@@ -2371,6 +2356,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-29T17:00:00"
+    },
+    {
+      "duration": 32400,
+      "end": "2026-05-30T18:00:00",
+      "event": "Pwn2Play Open CTF",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3220/",
+      "id": 66517896,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-05-30T09:00:00"
     },
     {
       "duration": 25200,
