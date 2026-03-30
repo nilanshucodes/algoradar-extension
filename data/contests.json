@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T10:55:15Z",
+  "lastUpdated": "2026-03-30T16:01:04Z",
   "count": 181,
   "contests": [
     {
@@ -385,8 +385,8 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46346",
       "id": 66214755,
       "n_problems": 26,
-      "n_statistics": 3,
-      "parsed_at": "2026-03-29T12:01:05.500212",
+      "n_statistics": 5,
+      "parsed_at": "2026-03-30T12:02:05.631548",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -401,41 +401,11 @@
       "id": 66563583,
       "n_problems": 5,
       "n_statistics": 4,
-      "parsed_at": "2026-03-30T10:00:09.145016",
+      "parsed_at": "2026-03-30T15:05:05.727999",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-03-30T04:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-30T12:00:00",
-      "event": "AtCoder Weekday Contest 0036 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0036",
-      "id": 66504112,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-30T11:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-03-30T15:30:00",
-      "event": "Monday Munch - DSA Challenge 31",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY31",
-      "id": 66411422,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-03-30T12:30:00"
     },
     {
       "duration": 172799,
@@ -511,6 +481,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-03-31T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-03-31T12:00:00",
+      "event": "AtCoder Weekday Contest 0037 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0037",
+      "id": 66586115,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-03-31T11:00:00"
     },
     {
       "duration": 14400,
@@ -766,6 +751,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-04T04:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-04-04T23:00:00",
+      "event": "The 4th Universal Cup. Stage 22: Kyoto",
+      "host": "ucup.ac",
+      "href": "https://ucup.ac/",
+      "id": 66589182,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ucup.ac",
+      "resource_id": 139,
+      "start": "2026-04-04T05:00:00"
     },
     {
       "duration": 5400,
@@ -1593,21 +1593,6 @@
       "start": "2026-04-25T12:00:00"
     },
     {
-      "duration": 21600,
-      "end": "2026-04-26T00:30:00",
-      "event": "Spring 2026 Virtual Programming Contest",
-      "host": "teamscode.org",
-      "href": "https://www.teamscode.org/contests/spring-2026/",
-      "id": 65969081,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "teamscode.org",
-      "resource_id": 142,
-      "start": "2026-04-25T18:30:00"
-    },
-    {
       "duration": 0,
       "end": "2026-04-26T00:00:00",
       "event": "Problem 994",
@@ -1651,6 +1636,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-26T06:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2026-04-27T00:30:00",
+      "event": "Spring 2026 Virtual Programming Contest",
+      "host": "teamscode.org",
+      "href": "https://www.teamscode.org/contests/spring-2026/",
+      "id": 65969081,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "teamscode.org",
+      "resource_id": 142,
+      "start": "2026-04-26T18:30:00"
     },
     {
       "duration": 7200,
