@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-29T20:21:30Z",
-  "count": 183,
+  "lastUpdated": "2026-03-30T01:28:27Z",
+  "count": 181,
   "contests": [
     {
       "duration": 23612094,
@@ -348,21 +348,6 @@
       "start": "2026-03-25T17:38:23"
     },
     {
-      "duration": 212340,
-      "end": "2026-03-29T21:59:00",
-      "event": "Potyczki Algorytmiczne 2026. Runda 5",
-      "host": "potyczki.mimuw.edu.pl",
-      "href": "https://sio2.mimuw.edu.pl/c/pa-2026-1/p/",
-      "id": 66503081,
-      "n_problems": 6,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "potyczki.mimuw.edu.pl",
-      "resource_id": 131,
-      "start": "2026-03-27T11:00:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-04-05T23:00:00",
       "event": "Bruce's CCO Training Contest 1",
@@ -406,21 +391,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-03-28T06:00:00"
-    },
-    {
-      "duration": 32400,
-      "end": "2026-03-29T21:00:00",
-      "event": "GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3057/",
-      "id": 64729355,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-03-29T12:00:00"
     },
     {
       "duration": 136740,
