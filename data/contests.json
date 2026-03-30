@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-30T16:01:04Z",
-  "count": 181,
+  "lastUpdated": "2026-03-30T20:35:47Z",
+  "count": 183,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 407,
-      "parsed_at": "2026-03-30T04:17:06.100776",
+      "parsed_at": "2026-03-30T16:18:06.126884",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -400,12 +400,27 @@
       "href": "https://lightoj.com/contest/contest3array6th",
       "id": 66563583,
       "n_problems": 5,
-      "n_statistics": 4,
-      "parsed_at": "2026-03-30T15:05:05.727999",
+      "n_statistics": 5,
+      "parsed_at": "2026-03-30T20:09:06.087083",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-03-30T04:00:00"
+    },
+    {
+      "duration": 3000,
+      "end": "2026-03-30T21:50:00",
+      "event": "2026 Spring UT CS104c Midterm #2. m7a1g5i8k8a1r4p0",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106449",
+      "id": 66594303,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-03-30T21:00:00"
     },
     {
       "duration": 172799,
@@ -976,6 +991,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-06T04:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-06T15:30:00",
+      "event": "Monday Munch - DSA Challenge 32",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY32",
+      "id": 66593429,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-04-06T12:30:00"
     },
     {
       "duration": 54000,
