@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-31T15:59:36Z",
-  "count": 182,
+  "lastUpdated": "2026-03-31T20:34:33Z",
+  "count": 183,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 407,
-      "parsed_at": "2026-03-31T04:19:05.609013",
+      "parsed_at": "2026-03-31T16:20:07.414413",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -386,7 +386,7 @@
       "id": 66563583,
       "n_problems": 5,
       "n_statistics": 6,
-      "parsed_at": "2026-03-31T13:53:07.294284",
+      "parsed_at": "2026-03-31T16:25:07.184137",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -541,6 +541,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-01T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-01T16:00:00",
+      "event": "April Fools Day Contest 2026",
+      "host": "kep.uz",
+      "href": "https://kep.uz/competitions/contests/contest/493",
+      "id": 66618320,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kep.uz",
+      "resource_id": 146,
+      "start": "2026-04-01T14:00:00"
     },
     {
       "duration": 7200,
