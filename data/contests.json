@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T10:45:06Z",
+  "lastUpdated": "2026-03-31T15:59:36Z",
   "count": 182,
   "contests": [
     {
@@ -370,23 +370,23 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46346",
       "id": 66214755,
       "n_problems": 26,
-      "n_statistics": 5,
-      "parsed_at": "2026-03-30T12:02:05.631548",
+      "n_statistics": 8,
+      "parsed_at": "2026-03-31T12:03:07.583447",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-03-28T06:00:00"
     },
     {
-      "duration": 136740,
-      "end": "2026-03-31T17:59:00",
+      "duration": 568740,
+      "end": "2026-04-05T17:59:00",
       "event": "Contest 3 - C Programming Course - 6th Batch [protected, icpc, individual]",
       "host": "lightoj.com",
       "href": "https://lightoj.com/contest/contest3array6th",
       "id": 66563583,
       "n_problems": 5,
-      "n_statistics": 5,
-      "parsed_at": "2026-03-31T08:49:06.980419",
+      "n_statistics": 6,
+      "parsed_at": "2026-03-31T13:53:07.294284",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -406,21 +406,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-31T00:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-03-31T12:00:00",
-      "event": "AtCoder Weekday Contest 0037 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0037",
-      "id": 66586115,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-03-31T11:00:00"
     },
     {
       "duration": 14400,
@@ -540,6 +525,21 @@
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
+      "start": "2026-04-01T11:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-01T12:00:00",
+      "event": "AtCoder Weekday Contest 0038 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0038",
+      "id": 66613247,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
       "start": "2026-04-01T11:00:00"
     },
     {
