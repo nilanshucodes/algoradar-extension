@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-30T20:35:47Z",
-  "count": 183,
+  "lastUpdated": "2026-03-31T01:25:51Z",
+  "count": 182,
   "contests": [
     {
       "duration": 23612094,
@@ -91,21 +91,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-11-20T15:00:23"
-    },
-    {
-      "duration": 3506340,
-      "end": "2026-03-30T20:59:00",
-      "event": "Обработка больших данных. Работа со Spark",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1694",
-      "id": 65489205,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-02-18T07:00:00"
     },
     {
       "duration": 4042491,
@@ -401,26 +386,11 @@
       "id": 66563583,
       "n_problems": 5,
       "n_statistics": 5,
-      "parsed_at": "2026-03-30T20:09:06.087083",
+      "parsed_at": "2026-03-31T01:13:06.225705",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-03-30T04:00:00"
-    },
-    {
-      "duration": 3000,
-      "end": "2026-03-30T21:50:00",
-      "event": "2026 Spring UT CS104c Midterm #2. m7a1g5i8k8a1r4p0",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106449",
-      "id": 66594303,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-03-30T21:00:00"
     },
     {
       "duration": 172799,
@@ -1021,6 +991,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-07T00:00:00"
+    },
+    {
+      "duration": 8100,
+      "end": "2026-04-07T16:50:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2217",
+      "id": 66597018,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-04-07T14:35:00"
     },
     {
       "duration": 7200,
