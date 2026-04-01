@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-31T20:34:33Z",
-  "count": 183,
+  "lastUpdated": "2026-04-01T01:46:05Z",
+  "count": 182,
   "contests": [
     {
       "duration": 23612094,
@@ -136,21 +136,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-02-26T01:52:24"
-    },
-    {
-      "duration": 2678764,
-      "end": "2026-03-31T23:59:00",
-      "event": "Predict Customer Churn [beginner, tabular, roc auc score]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/playground-series-s6e3",
-      "id": 65748724,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-02-28T23:52:56"
     },
     {
       "duration": 5266800,
@@ -406,6 +391,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-03-31T00:00:00"
+    },
+    {
+      "duration": 2591948,
+      "end": "2026-04-30T23:59:00",
+      "event": "Predicting Irrigation Need [beginner, tabular, balanced accuracy score]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/playground-series-s6e4",
+      "id": 66626231,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-03-31T23:59:52"
     },
     {
       "duration": 14400,
@@ -721,21 +721,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-04T01:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-04-05T02:30:00",
-      "event": "Breach CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3119/",
-      "id": 65776207,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-04T02:30:00"
     },
     {
       "duration": 21600,
