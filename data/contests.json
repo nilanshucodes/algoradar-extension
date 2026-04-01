@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-01T16:01:57Z",
-  "count": 177,
+  "lastUpdated": "2026-04-01T20:35:43Z",
+  "count": 176,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 408,
-      "parsed_at": "2026-04-01T04:21:07.630725",
+      "parsed_at": "2026-04-01T16:22:06.392830",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -376,51 +376,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-04-01T04:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-01T16:30:00",
-      "event": "Starters 232 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START232",
-      "id": 66042873,
-      "n_problems": 8,
-      "n_statistics": 29672,
-      "parsed_at": "2026-04-01T15:41:06.567082",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-01T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-01T16:35:00",
-      "event": "April Fools Day Contest 2026",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2214",
-      "id": 66457550,
-      "n_problems": 10,
-      "n_statistics": 9236,
-      "parsed_at": "2026-04-01T15:59:06.997825",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-01T14:35:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-04-01T17:00:00",
-      "event": "Beginner Contest 109",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-109",
-      "id": 66249457,
-      "n_problems": null,
-      "n_statistics": 7,
-      "parsed_at": "2026-04-01T15:57:06.586757",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-04-01T15:30:00"
     },
     {
       "duration": 3600,
@@ -888,6 +843,21 @@
       "start": "2026-04-06T04:30:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-04-06T17:00:00",
+      "event": "Зеркало: Второй этап олимпиады IV-IX. Группа VIII-IX. Гомельская область, 4 апреля 2026 года",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/92834/enter/?retPage=",
+      "id": 66643832,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-04-06T12:00:00"
+    },
+    {
       "duration": 10800,
       "end": "2026-04-06T15:30:00",
       "event": "Monday Munch - DSA Challenge 32",
@@ -1156,6 +1126,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-04-15T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-04-15T17:00:00",
+      "event": "Beginner Contest 110",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-110",
+      "id": 66643855,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-04-15T15:30:00"
     },
     {
       "duration": 21600,
