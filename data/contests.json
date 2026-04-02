@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-02T15:52:01Z",
-  "count": 176,
+  "lastUpdated": "2026-04-02T20:26:23Z",
+  "count": 177,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 408,
-      "parsed_at": "2026-04-02T04:23:05.737948",
+      "n_statistics": 409,
+      "parsed_at": "2026-04-02T16:24:06.884669",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -363,19 +363,19 @@
       "start": "2026-04-01T04:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-04-02T17:01:00",
-      "event": "Weekly Contest 224",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-224",
-      "id": 66481675,
+      "duration": 4003442,
+      "end": "2026-05-18T23:59:00",
+      "event": "The Gemma 4 Good Hackathon [artificial intelligence, tabular, text]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/gemma-4-good-hackathon",
+      "id": 66669167,
       "n_problems": null,
-      "n_statistics": 114,
-      "parsed_at": "2026-04-02T15:45:05.894244",
+      "n_statistics": null,
+      "parsed_at": null,
       "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-04-02T15:01:00"
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-04-02T15:54:58"
     },
     {
       "duration": 3600,
@@ -916,6 +916,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-04-08T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-09T17:01:00",
+      "event": "Weekly Contest 225",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-225",
+      "id": 66670219,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-04-09T15:01:00"
     },
     {
       "duration": 133200,
