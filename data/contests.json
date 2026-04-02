@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-02T10:43:00Z",
-  "count": 175,
+  "lastUpdated": "2026-04-02T15:52:01Z",
+  "count": 176,
   "contests": [
     {
       "duration": 23612094,
@@ -296,7 +296,7 @@
       "id": 66214755,
       "n_problems": 26,
       "n_statistics": 8,
-      "parsed_at": "2026-04-01T12:04:06.255571",
+      "parsed_at": "2026-04-02T12:05:06.576994",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -363,21 +363,6 @@
       "start": "2026-04-01T04:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-02T12:00:00",
-      "event": "AtCoder Weekday Contest 0039 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0039",
-      "id": 66639198,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-02T11:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-04-02T17:01:00",
       "event": "Weekly Contest 224",
@@ -385,8 +370,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-224",
       "id": 66481675,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 114,
+      "parsed_at": "2026-04-02T15:45:05.894244",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -495,6 +480,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-04-03T11:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-03T12:00:00",
+      "event": "AtCoder Weekday Contest 0040 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0040",
+      "id": 66664759,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
       "start": "2026-04-03T11:00:00"
     },
     {
@@ -691,6 +691,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-04T12:00:00"
+    },
+    {
+      "duration": 8100,
+      "end": "2026-04-04T16:50:00",
+      "event": "Codeforces Round 1090 (Div. 4)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2218",
+      "id": 66663866,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-04-04T14:35:00"
     },
     {
       "duration": 0,
