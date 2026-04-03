@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-02T20:26:23Z",
-  "count": 177,
+  "lastUpdated": "2026-04-03T01:24:31Z",
+  "count": 176,
   "contests": [
     {
       "duration": 23612094,
@@ -311,7 +311,7 @@
       "id": 66563583,
       "n_problems": 5,
       "n_statistics": 6,
-      "parsed_at": "2026-04-02T10:33:05.954253",
+      "parsed_at": "2026-04-02T21:05:06.011796",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -1216,21 +1216,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-17T16:00:00"
-    },
-    {
-      "duration": 129600,
-      "end": "2026-04-19T05:00:00",
-      "event": "BlueHens CTF 2025",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/2943/",
-      "id": 63222023,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-17T17:00:00"
     },
     {
       "duration": 172800,
