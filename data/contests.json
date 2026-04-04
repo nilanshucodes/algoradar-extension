@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T05:51:17Z",
+  "lastUpdated": "2026-04-04T10:24:06Z",
   "count": 174,
   "contests": [
     {
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND44",
       "id": 66638714,
       "n_problems": 5,
-      "n_statistics": 18,
-      "parsed_at": "2026-04-04T04:08:05.536751",
+      "n_statistics": 45,
+      "parsed_at": "2026-04-04T07:21:06.132036",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -496,21 +496,6 @@
       "resource": "ucup.ac",
       "resource_id": 139,
       "start": "2026-04-04T05:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-04-04T07:30:00",
-      "event": "o.OI Round -1 [rated, ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/296386",
-      "id": 66135943,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-04-04T06:00:00"
     },
     {
       "duration": 18000,
@@ -1096,6 +1081,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-04-12T11:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-14T21:00:00",
+      "event": "Code Catalyst",
+      "host": "geeksforgeeks.org",
+      "href": "https://practice.geeksforgeeks.org/contest/code-catalyst/",
+      "id": 66709574,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "geeksforgeeks.org",
+      "resource_id": 126,
+      "start": "2026-04-14T20:00:00"
     },
     {
       "duration": 7200,
