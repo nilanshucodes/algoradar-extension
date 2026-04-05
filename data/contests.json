@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-05T01:29:12Z",
-  "count": 171,
+  "lastUpdated": "2026-04-05T06:09:21Z",
+  "count": 170,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 410,
-      "parsed_at": "2026-04-04T16:28:05.754324",
+      "parsed_at": "2026-04-05T04:29:05.632311",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -296,7 +296,7 @@
       "id": 66563583,
       "n_problems": 5,
       "n_statistics": 6,
-      "parsed_at": "2026-04-04T15:13:07.626823",
+      "parsed_at": "2026-04-05T01:45:06.555736",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -400,8 +400,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND44",
       "id": 66638714,
       "n_problems": 5,
-      "n_statistics": 128,
-      "parsed_at": "2026-04-04T23:26:06.189455",
+      "n_statistics": 146,
+      "parsed_at": "2026-04-05T05:52:06.062401",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -438,21 +438,6 @@
       "start": "2026-04-04T01:00:00"
     },
     {
-      "duration": 57600,
-      "end": "2026-04-05T04:00:00",
-      "event": "SillyCTF 2",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3042/",
-      "id": 64729354,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-04T12:00:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-04-12T23:00:00",
       "event": "Bruce's CCO Training Contest 2",
@@ -481,21 +466,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-04-04T17:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-04-05T04:00:00",
-      "event": "Weekly Contest 496",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-496",
-      "id": 66386627,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-04-05T02:30:00"
     },
     {
       "duration": 25200,
@@ -976,6 +946,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-04-11T18:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-04-12T04:00:00",
+      "event": "Weekly Contest 497",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-497",
+      "id": 66732315,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-04-12T02:30:00"
     },
     {
       "duration": 25200,
