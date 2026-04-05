@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-05T15:23:44Z",
-  "count": 163,
+  "lastUpdated": "2026-04-05T20:22:31Z",
+  "count": 160,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 410,
-      "parsed_at": "2026-04-05T04:29:05.632311",
+      "parsed_at": "2026-04-05T16:30:07.120311",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -288,21 +288,6 @@
       "start": "2026-03-28T06:00:00"
     },
     {
-      "duration": 568740,
-      "end": "2026-04-05T17:59:00",
-      "event": "Contest 3 - C Programming Course - 6th Batch [protected, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/contest3array6th",
-      "id": 66563583,
-      "n_problems": 5,
-      "n_statistics": 6,
-      "parsed_at": "2026-04-05T12:17:05.661042",
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2026-03-30T04:00:00"
-    },
-    {
       "duration": 2591948,
       "end": "2026-04-30T23:59:00",
       "event": "Predicting Irrigation Need [beginner, tabular, balanced accuracy score]",
@@ -369,28 +354,13 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/ahc063",
       "id": 65872481,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 1,
+      "n_statistics": 2546,
+      "parsed_at": "2026-04-05T16:29:06.389435",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-03T10:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-04-05T18:30:00",
-      "event": "Weekend Dev Challenge 44: Cybersecurity",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND44",
-      "id": 66638714,
-      "n_problems": 5,
-      "n_statistics": 171,
-      "parsed_at": "2026-04-05T12:18:05.659762",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-03T18:30:00"
     },
     {
       "duration": 172800,
@@ -436,21 +406,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-04-04T17:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-04-05T17:00:00",
-      "event": "M(IT)^2 2026 Spring Invitational Qualification Round 2",
-      "host": "mitit.org",
-      "href": "https://mitit.org/Logistics",
-      "id": 66043493,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "mitit.org",
-      "resource_id": 155,
-      "start": "2026-04-05T14:30:00"
     },
     {
       "duration": 604740,
@@ -605,7 +560,7 @@
     {
       "duration": 8100,
       "end": "2026-04-07T16:50:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2217",
       "id": 66597018,
