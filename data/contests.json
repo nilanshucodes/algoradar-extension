@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-06T10:48:00Z",
-  "count": 161,
+  "lastUpdated": "2026-04-06T15:38:16Z",
+  "count": 160,
   "contests": [
     {
       "duration": 23612094,
@@ -266,7 +266,7 @@
       "id": 66214755,
       "n_problems": 26,
       "n_statistics": 11,
-      "parsed_at": "2026-04-05T12:08:05.471208",
+      "parsed_at": "2026-04-06T12:09:06.523502",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -370,8 +370,8 @@
       "href": "https://basecamp.eolymp.com/contests/lce8ibks056gvennio8eubldr0",
       "id": 66738880,
       "n_problems": 10,
-      "n_statistics": 6,
-      "parsed_at": "2026-04-06T02:00:08.724146",
+      "n_statistics": 18,
+      "parsed_at": "2026-04-06T13:13:05.754847",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -393,21 +393,6 @@
       "start": "2026-04-06T04:30:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-06T12:00:00",
-      "event": "AtCoder Weekday Contest 0041 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0041",
-      "id": 66690698,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-06T11:00:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-04-06T17:00:00",
       "event": "Зеркало: Второй этап олимпиады IV-IX. Группа VIII-IX. Гомельская область, 4 апреля 2026 года",
@@ -421,21 +406,6 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-04-06T12:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-06T15:30:00",
-      "event": "Monday Munch - DSA Challenge 32",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY32",
-      "id": 66593429,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-06T12:30:00"
     },
     {
       "duration": 54000,
@@ -511,6 +481,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-07T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-07T12:00:00",
+      "event": "AtCoder Weekday Contest 0042 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0042",
+      "id": 66766535,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-07T11:00:00"
     },
     {
       "duration": 8100,
