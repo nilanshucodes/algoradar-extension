@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-06T15:38:16Z",
-  "count": 160,
+  "lastUpdated": "2026-04-06T20:29:19Z",
+  "count": 158,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 411,
-      "parsed_at": "2026-04-06T04:31:05.364519",
+      "parsed_at": "2026-04-06T16:32:06.061751",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -181,21 +181,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-03-19T16:00:00"
-    },
-    {
-      "duration": 1468740,
-      "end": "2026-04-06T15:59:00",
-      "event": "AOIのApril Fools Contest 2026 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/315100",
-      "id": 66302071,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-03-20T16:00:00"
     },
     {
       "duration": 2700000,
@@ -391,21 +376,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-06T04:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-04-06T17:00:00",
-      "event": "Зеркало: Второй этап олимпиады IV-IX. Группа VIII-IX. Гомельская область, 4 апреля 2026 года",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/92834/enter/?retPage=",
-      "id": 66643832,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-04-06T12:00:00"
     },
     {
       "duration": 54000,
