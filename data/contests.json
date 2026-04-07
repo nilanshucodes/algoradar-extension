@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T10:48:01Z",
-  "count": 165,
+  "lastUpdated": "2026-04-07T16:05:49Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -91,21 +91,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2025-11-20T15:00:23"
-    },
-    {
-      "duration": 4042491,
-      "end": "2026-04-07T16:00:00",
-      "event": "March Machine Learning Mania 2026 [basketball, sports, mse]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/march-machine-learning-mania-2026",
-      "id": 65522860,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-02-19T21:05:09"
     },
     {
       "duration": 5266800,
@@ -250,8 +235,8 @@
       "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46346",
       "id": 66214755,
       "n_problems": 26,
-      "n_statistics": 11,
-      "parsed_at": "2026-04-06T12:09:06.523502",
+      "n_statistics": 13,
+      "parsed_at": "2026-04-07T12:10:06.036059",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -355,27 +340,12 @@
       "href": "https://basecamp.eolymp.com/contests/lce8ibks056gvennio8eubldr0",
       "id": 66738880,
       "n_problems": 10,
-      "n_statistics": 28,
-      "parsed_at": "2026-04-07T00:25:06.733745",
+      "n_statistics": 74,
+      "parsed_at": "2026-04-07T11:37:06.058859",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-04-05T20:00:00"
-    },
-    {
-      "duration": 54000,
-      "end": "2026-04-07T15:00:00",
-      "event": "Dreamhack Invitational 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3026/",
-      "id": 64726995,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-07T00:00:00"
     },
     {
       "duration": 97200,
@@ -393,30 +363,15 @@
       "start": "2026-04-07T07:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-07T12:00:00",
-      "event": "AtCoder Weekday Contest 0042 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0042",
-      "id": 66766535,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-07T11:00:00"
-    },
-    {
       "duration": 8100,
       "end": "2026-04-07T16:50:00",
       "event": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2217",
       "id": 66597018,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 8,
+      "n_statistics": 15573,
+      "parsed_at": "2026-04-07T16:00:06.955230",
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
@@ -483,6 +438,21 @@
       "start": "2026-04-08T09:00:00"
     },
     {
+      "duration": 3600,
+      "end": "2026-04-08T12:00:00",
+      "event": "AtCoder Weekday Contest 0043 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0043",
+      "id": 66791520,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-08T11:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-04-08T16:30:00",
       "event": "Starters 233",
@@ -498,8 +468,8 @@
       "start": "2026-04-08T14:30:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-04-09T12:00:00",
+      "duration": 14400,
+      "end": "2026-04-09T14:00:00",
       "event": "SmartClub Mihai Eminescu 2026",
       "host": "kilonova.ro",
       "href": "https://kilonova.ro/contests/3070",
@@ -660,6 +630,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-04-11T12:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-11T15:00:00",
+      "event": "Midnight Code Cup 2026 Qualification Round",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2186",
+      "id": 66791245,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
       "start": "2026-04-11T12:00:00"
     },
     {
