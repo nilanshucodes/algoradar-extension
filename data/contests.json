@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T01:26:28Z",
-  "count": 162,
+  "lastUpdated": "2026-04-07T06:13:59Z",
+  "count": 161,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 411,
-      "parsed_at": "2026-04-06T16:32:06.061751",
+      "parsed_at": "2026-04-07T04:33:05.716442",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -361,21 +361,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-04-05T20:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-04-07T04:30:00",
-      "event": "Triada CTF '26",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3187/",
-      "id": 66052400,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-06T04:30:00"
     },
     {
       "duration": 54000,
