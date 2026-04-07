@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T16:05:49Z",
-  "count": 164,
+  "lastUpdated": "2026-04-07T20:37:05Z",
+  "count": 162,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 411,
-      "parsed_at": "2026-04-07T04:33:05.716442",
+      "parsed_at": "2026-04-07T16:34:06.170258",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://atcoder.jp/contests/ahc063",
       "id": 65872481,
       "n_problems": 1,
-      "n_statistics": 2735,
-      "parsed_at": "2026-04-07T00:39:06.121674",
+      "n_statistics": 2845,
+      "parsed_at": "2026-04-07T16:40:05.996810",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -361,21 +361,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-07T07:00:00"
-    },
-    {
-      "duration": 8100,
-      "end": "2026-04-07T16:50:00",
-      "event": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2217",
-      "id": 66597018,
-      "n_problems": 8,
-      "n_statistics": 15573,
-      "parsed_at": "2026-04-07T16:00:06.955230",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-07T14:35:00"
     },
     {
       "duration": 3600,
@@ -630,21 +615,6 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
-      "start": "2026-04-11T12:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-11T15:00:00",
-      "event": "Midnight Code Cup 2026 Qualification Round",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2186",
-      "id": 66791245,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
       "start": "2026-04-11T12:00:00"
     },
     {
