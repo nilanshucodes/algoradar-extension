@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T01:27:02Z",
+  "lastUpdated": "2026-04-08T06:16:12Z",
   "count": 163,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 411,
-      "parsed_at": "2026-04-07T16:34:06.170258",
+      "n_statistics": 412,
+      "parsed_at": "2026-04-08T04:35:05.880982",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -258,21 +258,6 @@
       "start": "2026-03-31T23:59:52"
     },
     {
-      "duration": 604800,
-      "end": "2026-04-08T04:00:00",
-      "event": "April Fools' Day Contest 3",
-      "host": "dmoj.ca",
-      "href": "https://dmoj.ca/contest/afd3",
-      "id": 66463407,
-      "n_problems": 14,
-      "n_statistics": 126,
-      "parsed_at": "2026-04-04T16:30:08.254889",
-      "problems": null,
-      "resource": "dmoj.ca",
-      "resource_id": 77,
-      "start": "2026-04-01T04:00:00"
-    },
-    {
       "duration": 4003442,
       "end": "2026-05-18T23:59:00",
       "event": "The Gemma 4 Good Hackathon [artificial intelligence, tabular, text]",
@@ -369,9 +354,9 @@
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 1,
+      "n_statistics": 5,
+      "parsed_at": "2026-04-08T04:32:05.710662",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -451,6 +436,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-08T11:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-08T17:00:00",
+      "event": "DIU Unlock the Algorithm Programming Contest Spring-26 [Preliminary - Mock]",
+      "host": "toph.co",
+      "href": "https://toph.co/c/diu-unlock-the-algorithm-spring-26-preliminary-m",
+      "id": 66808780,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2026-04-08T14:00:00"
     },
     {
       "duration": 7200,
