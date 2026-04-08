@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T20:37:05Z",
-  "count": 162,
+  "lastUpdated": "2026-04-08T01:27:02Z",
+  "count": 163,
   "contests": [
     {
       "duration": 23612094,
@@ -340,8 +340,8 @@
       "href": "https://basecamp.eolymp.com/contests/lce8ibks056gvennio8eubldr0",
       "id": 66738880,
       "n_problems": 10,
-      "n_statistics": 74,
-      "parsed_at": "2026-04-07T11:37:06.058859",
+      "n_statistics": 80,
+      "parsed_at": "2026-04-07T22:49:05.910381",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -361,6 +361,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-07T07:00:00"
+    },
+    {
+      "duration": 31536000,
+      "end": "2027-04-07T22:32:00",
+      "event": "Lincatoria Problems. Jajceslav",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106465",
+      "id": 66803787,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-04-07T22:32:00"
     },
     {
       "duration": 3600,
