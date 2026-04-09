@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T10:52:42Z",
+  "lastUpdated": "2026-04-09T16:13:17Z",
   "count": 162,
   "contests": [
     {
@@ -236,7 +236,7 @@
       "id": 66214755,
       "n_problems": 26,
       "n_statistics": 14,
-      "parsed_at": "2026-04-08T12:11:07.294050",
+      "parsed_at": "2026-04-09T12:12:06.098582",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -348,51 +348,6 @@
       "start": "2026-04-07T22:32:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-04-09T11:10:00",
-      "event": "DIU Unlock the Algorithm Programming Contest Spring-26 [Preliminary - B Slot] [private]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/diu-unlock-the-algorithm-spring-26-preliminary-b",
-      "id": 66834430,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2026-04-09T08:10:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-04-09T14:00:00",
-      "event": "SmartClub Mihai Eminescu 2026",
-      "host": "kilonova.ro",
-      "href": "https://kilonova.ro/contests/3070",
-      "id": 66789477,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kilonova.ro",
-      "resource_id": 175,
-      "start": "2026-04-09T10:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-09T12:00:00",
-      "event": "AtCoder Weekday Contest 0044 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0044",
-      "id": 66815795,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-09T11:00:00"
-    },
-    {
       "duration": 194340,
       "end": "2026-04-11T17:59:00",
       "event": "Contest-4 (C Programming Course 6th Batch) [protected, icpc, individual]",
@@ -415,8 +370,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-225",
       "id": 66670219,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 120,
+      "parsed_at": "2026-04-09T16:12:06.075858",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -510,6 +465,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-04-10T11:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-10T12:00:00",
+      "event": "AtCoder Weekday Contest 0045 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0045",
+      "id": 66839142,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
       "start": "2026-04-10T11:00:00"
     },
     {
@@ -725,7 +695,7 @@
     {
       "duration": 10800,
       "end": "2026-04-12T08:35:00",
-      "event": "Codeforces Round 1092 (Div. 1)",
+      "event": "Codeforces Round 1092 (Div. 1, Based on THUPC 2026 — Finals)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2215",
       "id": 66765007,
@@ -740,7 +710,7 @@
     {
       "duration": 10800,
       "end": "2026-04-12T08:35:00",
-      "event": "Codeforces Round 1092 (Div. 2)",
+      "event": "Codeforces Round 1092 (Div. 2, Based on THUPC 2026 — Finals)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2216",
       "id": 66765008,
@@ -751,6 +721,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-04-12T05:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-12T12:00:00",
+      "event": "Weekend Practice #22",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/rast2dle4l13n0vnc70f076fao",
+      "id": 66839949,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-04-12T10:00:00"
     },
     {
       "duration": 7200,
@@ -1171,6 +1156,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-04-23T08:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-23T16:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2213",
+      "id": 66839369,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-04-23T14:35:00"
     },
     {
       "duration": 172800,
