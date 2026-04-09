@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-09T01:18:45Z",
-  "count": 160,
+  "lastUpdated": "2026-04-09T06:14:53Z",
+  "count": 161,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 413,
-      "parsed_at": "2026-04-08T16:41:16.732677",
+      "n_statistics": 414,
+      "parsed_at": "2026-04-09T04:42:06.912998",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -346,6 +346,21 @@
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
       "start": "2026-04-07T22:32:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-09T06:20:00",
+      "event": "DIU Unlock the Algorithm Programming Contest Spring-26 [Preliminary - A Slot] [private]",
+      "host": "toph.co",
+      "href": "https://toph.co/c/diu-unlock-the-algorithm-spring-26-preliminary-a",
+      "id": 66829380,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "toph.co",
+      "resource_id": 110,
+      "start": "2026-04-09T03:20:00"
     },
     {
       "duration": 3600,
