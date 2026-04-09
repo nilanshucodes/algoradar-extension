@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T20:34:15Z",
+  "lastUpdated": "2026-04-09T01:18:45Z",
   "count": 160,
   "contests": [
     {
@@ -280,8 +280,8 @@
       "href": "https://atcoder.jp/contests/ahc063",
       "id": 65872481,
       "n_problems": 1,
-      "n_statistics": 2896,
-      "parsed_at": "2026-04-08T08:41:07.317196",
+      "n_statistics": 2960,
+      "parsed_at": "2026-04-09T00:43:07.173890",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/lce8ibks056gvennio8eubldr0",
       "id": 66738880,
       "n_problems": 10,
-      "n_statistics": 90,
-      "parsed_at": "2026-04-08T10:01:07.256016",
+      "n_statistics": 102,
+      "parsed_at": "2026-04-08T21:13:06.773829",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
