@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-10T01:28:18Z",
-  "count": 164,
+  "lastUpdated": "2026-04-10T06:27:02Z",
+  "count": 165,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 414,
-      "parsed_at": "2026-04-09T16:43:05.865402",
+      "n_statistics": 415,
+      "parsed_at": "2026-04-10T04:44:06.421429",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -356,7 +356,7 @@
       "id": 66834269,
       "n_problems": 5,
       "n_statistics": 2,
-      "parsed_at": "2026-04-10T01:12:05.912432",
+      "parsed_at": "2026-04-10T04:48:05.458704",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -1126,6 +1126,21 @@
       "resource": "algoleague.com",
       "resource_id": 170,
       "start": "2026-04-19T09:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-19T13:00:00",
+      "event": "牛客周赛 Round 140",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/132940",
+      "id": 66856915,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-04-19T11:00:00"
     },
     {
       "duration": 7200,
