@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T15:41:44Z",
+  "lastUpdated": "2026-04-10T20:25:42Z",
   "count": 167,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 415,
-      "parsed_at": "2026-04-10T04:44:06.421429",
+      "parsed_at": "2026-04-10T16:45:06.747175",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/lce8ibks056gvennio8eubldr0",
       "id": 66738880,
       "n_problems": 10,
-      "n_statistics": 111,
-      "parsed_at": "2026-04-10T06:49:06.390042",
+      "n_statistics": 119,
+      "parsed_at": "2026-04-10T18:01:06.330816",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -356,7 +356,7 @@
       "id": 66834269,
       "n_problems": 5,
       "n_statistics": 2,
-      "parsed_at": "2026-04-10T15:36:06.579576",
+      "parsed_at": "2026-04-10T19:12:05.800333",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -635,7 +635,7 @@
     {
       "duration": 7200,
       "end": "2026-04-12T16:00:00",
-      "event": "LU IEEE Mock Contest",
+      "event": "CODECOMBAT Mock Contest 2026",
       "host": "judge.eluminatis-of-lu.com",
       "href": "https://serious-oj.com/contest/69d7591c48074c00078872bb",
       "id": 66846359,
