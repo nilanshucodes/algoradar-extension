@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:40:02Z",
+  "lastUpdated": "2026-04-10T01:28:18Z",
   "count": 164,
   "contests": [
     {
@@ -356,7 +356,7 @@
       "id": 66834269,
       "n_problems": 5,
       "n_statistics": 2,
-      "parsed_at": "2026-04-09T18:00:07.169105",
+      "parsed_at": "2026-04-10T01:12:05.912432",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
