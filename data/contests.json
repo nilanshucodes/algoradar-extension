@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T10:24:59Z",
+  "lastUpdated": "2026-04-11T15:24:52Z",
   "count": 168,
   "contests": [
     {
@@ -236,7 +236,7 @@
       "id": 66214755,
       "n_problems": 26,
       "n_statistics": 15,
-      "parsed_at": "2026-04-10T12:13:06.115327",
+      "parsed_at": "2026-04-11T12:14:05.848667",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -341,7 +341,7 @@
       "id": 66834269,
       "n_problems": 5,
       "n_statistics": 3,
-      "parsed_at": "2026-04-11T09:36:06.408290",
+      "parsed_at": "2026-04-11T13:12:06.494026",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -385,8 +385,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND45",
       "id": 66814782,
       "n_problems": 5,
-      "n_statistics": 15,
-      "parsed_at": "2026-04-11T07:20:06.798737",
+      "n_statistics": 25,
+      "parsed_at": "2026-04-11T13:46:05.690037",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -423,19 +423,19 @@
       "start": "2026-04-11T02:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-04-11T11:30:00",
-      "event": "KAALCHAKRA CTF Finals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3230/",
-      "id": 66757310,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "duration": 720000,
+      "end": "2026-04-19T16:00:00",
+      "event": "Олимпиада",
+      "host": "acmp.ru",
+      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46470",
+      "id": 66887086,
+      "n_problems": 1,
+      "n_statistics": 1,
+      "parsed_at": "2026-04-11T14:00:07.827701",
       "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-11T04:30:00"
+      "resource": "acmp.ru",
+      "resource_id": 5,
+      "start": "2026-04-11T08:00:00"
     },
     {
       "duration": 86400,
@@ -451,21 +451,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-11T10:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-04-11T13:40:00",
-      "event": "AtCoder Beginner Contest 453",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc453",
-      "id": 66098291,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-11T12:00:00"
     },
     {
       "duration": 14400,
@@ -485,7 +470,7 @@
     {
       "duration": 10800,
       "end": "2026-04-11T17:00:00",
-      "event": "DIU Take-OFF Programming Contest Spring-26 [Preliminary - Mock] [private]",
+      "event": "DIU Take-OFF Programming Contest Spring-26 [Preliminary - Mock]",
       "host": "toph.co",
       "href": "https://toph.co/c/diu-take-off-spring-26-preliminary-mock",
       "id": 66880913,
@@ -504,9 +489,9 @@
       "host": "leetcode.com",
       "href": "https://leetcode.com/contest/biweekly-contest-180",
       "id": 66296963,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 9290,
+      "parsed_at": "2026-04-11T15:07:05.615170",
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
@@ -1426,6 +1411,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-05-03T04:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-03T14:00:00",
+      "event": "AtCoder Regular Contest 218",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc218",
+      "id": 66890336,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-05-03T12:00:00"
     },
     {
       "duration": 86400,
