@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-12T01:46:08Z",
-  "count": 164,
+  "lastUpdated": "2026-04-12T06:19:07Z",
+  "count": 160,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 416,
-      "parsed_at": "2026-04-11T16:47:12.207664",
+      "parsed_at": "2026-04-12T04:48:06.493725",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -228,21 +228,6 @@
       "start": "2026-03-25T17:38:23"
     },
     {
-      "duration": 1296000,
-      "end": "2026-04-12T06:00:00",
-      "event": "Марафон №4 по задачам В.И. Лукьянчикова",
-      "host": "acmp.ru",
-      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46346",
-      "id": 66214755,
-      "n_problems": 26,
-      "n_statistics": 15,
-      "parsed_at": "2026-04-11T12:14:05.848667",
-      "problems": null,
-      "resource": "acmp.ru",
-      "resource_id": 5,
-      "start": "2026-03-28T06:00:00"
-    },
-    {
       "duration": 2591948,
       "end": "2026-04-30T23:59:00",
       "event": "Predicting Irrigation Need [beginner, tabular, balanced accuracy score]",
@@ -310,8 +295,8 @@
       "href": "https://basecamp.eolymp.com/contests/lce8ibks056gvennio8eubldr0",
       "id": 66738880,
       "n_problems": 10,
-      "n_statistics": 130,
-      "parsed_at": "2026-04-11T16:25:06.144465",
+      "n_statistics": 135,
+      "parsed_at": "2026-04-12T03:37:05.551417",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -355,8 +340,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND45",
       "id": 66814782,
       "n_problems": 5,
-      "n_statistics": 41,
-      "parsed_at": "2026-04-11T23:25:05.473629",
+      "n_statistics": 48,
+      "parsed_at": "2026-04-12T05:51:05.523930",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -378,21 +363,6 @@
       "start": "2026-04-10T22:00:00"
     },
     {
-      "duration": 86400,
-      "end": "2026-04-12T02:00:00",
-      "event": "Cybersplash 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3190/",
-      "id": 66052399,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-11T02:00:00"
-    },
-    {
       "duration": 720000,
       "end": "2026-04-19T16:00:00",
       "event": "Олимпиада",
@@ -401,7 +371,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-11T14:00:07.827701",
+      "parsed_at": "2026-04-12T03:21:07.411986",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -453,21 +423,6 @@
       "start": "2026-04-11T16:00:00"
     },
     {
-      "duration": 5400,
-      "end": "2026-04-12T04:00:00",
-      "event": "Weekly Contest 497",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-497",
-      "id": 66732315,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-04-12T02:30:00"
-    },
-    {
       "duration": 25200,
       "end": "2026-04-12T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -485,7 +440,7 @@
     {
       "duration": 10800,
       "end": "2026-04-12T08:35:00",
-      "event": "Codeforces Round 1092 (Div. 1, Based on THUPC 2026 — Finals)",
+      "event": "Codeforces Round 1092 (Unrated, Div. 1, Based on THUPC 2026 — Finals)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2215",
       "id": 66765007,
@@ -500,7 +455,7 @@
     {
       "duration": 10800,
       "end": "2026-04-12T08:35:00",
-      "event": "Codeforces Round 1092 (Div. 2, Based on THUPC 2026 — Finals)",
+      "event": "Codeforces Round 1092 (Unrated, Div. 2, Based on THUPC 2026 — Finals)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2216",
       "id": 66765008,
@@ -1546,21 +1501,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-17T05:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-05-24T16:00:00",
-      "event": "TJCTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3195/",
-      "id": 66048859,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-05-22T16:00:00"
     },
     {
       "duration": 172800,
