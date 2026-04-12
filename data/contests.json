@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-12T10:30:16Z",
-  "count": 158,
+  "lastUpdated": "2026-04-12T15:28:33Z",
+  "count": 155,
   "contests": [
     {
       "duration": 23612094,
@@ -295,8 +295,8 @@
       "href": "https://basecamp.eolymp.com/contests/lce8ibks056gvennio8eubldr0",
       "id": 66738880,
       "n_problems": 10,
-      "n_statistics": 135,
-      "parsed_at": "2026-04-12T03:37:05.551417",
+      "n_statistics": 139,
+      "parsed_at": "2026-04-12T14:49:06.430904",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -340,8 +340,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND45",
       "id": 66814782,
       "n_problems": 5,
-      "n_statistics": 59,
-      "parsed_at": "2026-04-12T09:04:06.341512",
+      "n_statistics": 69,
+      "parsed_at": "2026-04-12T12:17:06.451325",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -408,68 +408,8 @@
       "start": "2026-04-11T16:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-04-12T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 66439632,
-      "n_problems": 3,
-      "n_statistics": 6,
-      "parsed_at": "2026-04-12T10:29:05.539595",
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-04-12T04:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-12T12:05:00",
-      "event": "DIU Take-OFF Programming Contest Spring-26 [Preliminary - B Slot] [private]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/diu-take-off-spring-26-preliminary-b-slot",
-      "id": 66908987,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
-      "start": "2026-04-12T09:05:00"
-    },
-    {
       "duration": 7200,
-      "end": "2026-04-12T12:00:00",
-      "event": "Weekend Practice #22",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/rast2dle4l13n0vnc70f076fao",
-      "id": 66839949,
-      "n_problems": 5,
-      "n_statistics": 52,
-      "parsed_at": "2026-04-12T10:26:05.811471",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-04-12T10:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-12T13:00:00",
-      "event": "牛客周赛 Round 139",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/131539",
-      "id": 66501262,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-04-12T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-12T16:00:00",
+      "end": "2026-04-12T16:30:00",
       "event": "CODECOMBAT Mock Contest 2026",
       "host": "judge.eluminatis-of-lu.com",
       "href": "https://serious-oj.com/contest/69d7591c48074c00078872bb",
@@ -480,7 +420,7 @@
       "problems": null,
       "resource": "judge.eluminatis-of-lu.com",
       "resource_id": 177,
-      "start": "2026-04-12T14:00:00"
+      "start": "2026-04-12T14:30:00"
     },
     {
       "duration": 3600,
@@ -2296,6 +2236,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-10-11T04:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-10-18T11:00:00",
+      "event": "Программирование - профессионалы (ком. 2026)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 66913052,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-10-18T04:00:00"
     },
     {
       "duration": 172800,
