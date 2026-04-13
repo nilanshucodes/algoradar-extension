@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-13T16:06:47Z",
-  "count": 161,
+  "lastUpdated": "2026-04-13T20:43:17Z",
+  "count": 159,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 416,
-      "parsed_at": "2026-04-13T04:50:06.196153",
+      "parsed_at": "2026-04-13T16:51:06.642248",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -281,7 +281,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-13T06:03:06.130643",
+      "parsed_at": "2026-04-13T19:24:06.517325",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -346,36 +346,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-13T07:38:14"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-13T16:35:00",
-      "event": "Codeforces Round 1093 (Div. 1)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2219",
-      "id": 66776554,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-13T14:35:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-13T16:35:00",
-      "event": "Codeforces Round 1093 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2220",
-      "id": 66776555,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-13T14:35:00"
     },
     {
       "duration": 3600,
