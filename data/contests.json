@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-13T01:50:54Z",
-  "count": 151,
+  "lastUpdated": "2026-04-13T07:09:30Z",
+  "count": 161,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 416,
-      "parsed_at": "2026-04-12T16:49:05.550480",
+      "parsed_at": "2026-04-13T04:50:06.196153",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -296,7 +296,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-12T16:42:06.001960",
+      "parsed_at": "2026-04-13T06:03:06.130643",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -346,6 +346,21 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-04-12T18:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-13T08:00:00",
+      "event": "CODECOMBAT Programming Contest 2026",
+      "host": "judge.eluminatis-of-lu.com",
+      "href": "https://serious-oj.com/contest/69d75a0f48074c00078872bc",
+      "id": 66931346,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "judge.eluminatis-of-lu.com",
+      "resource_id": 177,
+      "start": "2026-04-13T05:00:00"
     },
     {
       "duration": 3600,
@@ -556,6 +571,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-04-16T15:01:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-04-18T05:30:00",
+      "event": "ZeroSecure CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3252/",
+      "id": 66930398,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-04-17T05:30:00"
     },
     {
       "duration": 172800,
@@ -993,6 +1023,21 @@
       "start": "2026-04-25T01:00:00"
     },
     {
+      "duration": 43200,
+      "end": "2026-04-25T18:00:00",
+      "event": "Alfa CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3250/",
+      "id": 66930397,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-04-25T06:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-04-26T07:00:00",
       "event": "CTF@AC26 - Quals",
@@ -1171,6 +1216,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-03T12:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-05-06T06:30:00",
+      "event": "RAZER CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3241/",
+      "id": 66930396,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-05-05T06:30:00"
     },
     {
       "duration": 86400,
@@ -1428,6 +1488,36 @@
       "start": "2026-05-30T09:00:00"
     },
     {
+      "duration": 36000,
+      "end": "2026-05-30T19:00:00",
+      "event": "WhiteHats TrojanCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3243/",
+      "id": 66930395,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-05-30T09:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-05-31T12:00:00",
+      "event": "BYUCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3247/",
+      "id": 66930394,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-05-30T12:00:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-05-31T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -1503,6 +1593,21 @@
       "start": "2026-06-07T10:00:00"
     },
     {
+      "duration": 6000,
+      "end": "2026-06-13T13:40:00",
+      "event": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc462",
+      "id": 66929285,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-06-13T12:00:00"
+    },
+    {
       "duration": 122400,
       "end": "2026-06-14T23:00:00",
       "event": "CyberSci Nationals 2025-2026",
@@ -1548,6 +1653,21 @@
       "start": "2026-06-14T04:00:00"
     },
     {
+      "duration": 259200,
+      "end": "2026-06-22T10:00:00",
+      "event": "BCACTF 7.0",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3246/",
+      "id": 66930393,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-06-19T10:00:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-06-21T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -1561,6 +1681,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-06-21T04:00:00"
+    },
+    {
+      "duration": 129600,
+      "end": "2026-06-28T14:00:00",
+      "event": "V1T CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3249/",
+      "id": 66930392,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-06-27T02:00:00"
     },
     {
       "duration": 86400,
@@ -2206,6 +2341,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-23T18:00:00"
+    },
+    {
+      "duration": 15300,
+      "end": "2026-11-06T22:30:00",
+      "event": "BlackAlps CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3242/",
+      "id": 66930391,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-11-06T18:15:00"
     },
     {
       "duration": 129600,
