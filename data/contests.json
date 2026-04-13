@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T11:09:35Z",
+  "lastUpdated": "2026-04-13T16:06:47Z",
   "count": 161,
   "contests": [
     {
@@ -326,7 +326,7 @@
       "id": 66919017,
       "n_problems": 22,
       "n_statistics": 2,
-      "parsed_at": "2026-04-13T00:00:09.518614",
+      "parsed_at": "2026-04-13T11:13:06.672206",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -346,36 +346,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-13T07:38:14"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-13T12:00:00",
-      "event": "AtCoder Weekday Contest 0046 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0046",
-      "id": 66862763,
-      "n_problems": 5,
-      "n_statistics": 109,
-      "parsed_at": "2026-04-13T11:09:06.403030",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-13T11:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-13T15:30:00",
-      "event": "Monday Munch - DSA Challenge 33",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY33",
-      "id": 66786989,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-13T12:30:00"
     },
     {
       "duration": 7200,
@@ -466,6 +436,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-14T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-14T12:00:00",
+      "event": "AtCoder Weekday Contest 0047 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0047",
+      "id": 66940185,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-14T11:00:00"
     },
     {
       "duration": 3600,
@@ -855,6 +840,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-04-19T11:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-04-19T12:30:00",
+      "event": "Blitz Round #18",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/r3hr8hsui169n3libfqfgmb0no",
+      "id": 66939242,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
       "start": "2026-04-19T11:00:00"
     },
     {
