@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-13T20:43:17Z",
-  "count": 159,
+  "lastUpdated": "2026-04-14T01:46:19Z",
+  "count": 158,
   "contests": [
     {
       "duration": 23612094,
@@ -326,7 +326,7 @@
       "id": 66919017,
       "n_problems": 22,
       "n_statistics": 2,
-      "parsed_at": "2026-04-13T11:13:06.672206",
+      "parsed_at": "2026-04-13T22:25:06.388260",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -1231,21 +1231,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-08T10:00:00"
-    },
-    {
-      "duration": 158400,
-      "end": "2026-05-10T12:00:00",
-      "event": "Break The Syntax CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3137/",
-      "id": 66052393,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-05-08T16:00:00"
     },
     {
       "duration": 172800,
