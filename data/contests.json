@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T10:52:41Z",
+  "lastUpdated": "2026-04-15T15:59:58Z",
   "count": 164,
   "contests": [
     {
@@ -281,7 +281,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-14T22:06:06.126856",
+      "parsed_at": "2026-04-15T11:27:05.647279",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -348,30 +348,15 @@
       "start": "2026-04-13T07:38:14"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-15T12:00:00",
-      "event": "AtCoder Weekday Contest 0048 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0048",
-      "id": 66966586,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-15T11:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-04-15T16:30:00",
       "event": "Starters 234 (Rated for all)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START234",
       "id": 66043194,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 10,
+      "n_statistics": 21276,
+      "parsed_at": "2026-04-15T15:40:06.517908",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -385,8 +370,8 @@
       "href": "https://www.naukri.com/code360/contests/beginner-contest-110",
       "id": 66643855,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 8,
+      "parsed_at": "2026-04-15T15:57:05.614632",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -451,6 +436,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-16T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-16T12:00:00",
+      "event": "AtCoder Weekday Contest 0049 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0049",
+      "id": 66994189,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-16T11:00:00"
     },
     {
       "duration": 637200,
