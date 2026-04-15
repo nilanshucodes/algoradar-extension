@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-15T15:59:58Z",
-  "count": 164,
+  "lastUpdated": "2026-04-15T20:39:05Z",
+  "count": 167,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 417,
-      "parsed_at": "2026-04-15T04:54:07.362663",
+      "parsed_at": "2026-04-15T16:55:05.647976",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -326,7 +326,7 @@
       "id": 66919017,
       "n_problems": 22,
       "n_statistics": 3,
-      "parsed_at": "2026-04-15T08:01:06.141888",
+      "parsed_at": "2026-04-15T19:13:06.656596",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -348,34 +348,19 @@
       "start": "2026-04-13T07:38:14"
     },
     {
-      "duration": 7200,
-      "end": "2026-04-15T16:30:00",
-      "event": "Starters 234 (Rated for all)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START234",
-      "id": 66043194,
-      "n_problems": 10,
-      "n_statistics": 21276,
-      "parsed_at": "2026-04-15T15:40:06.517908",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-15T14:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-04-15T17:00:00",
-      "event": "Beginner Contest 110",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-110",
-      "id": 66643855,
+      "duration": 7881466,
+      "end": "2026-07-15T23:59:00",
+      "event": "The 2026 NeuroGolf Championship [golf, artificial intelligence, neural networks, optimization, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/neurogolf-2026",
+      "id": 67001395,
       "n_problems": null,
-      "n_statistics": 8,
-      "parsed_at": "2026-04-15T15:57:05.614632",
+      "n_statistics": null,
+      "parsed_at": null,
       "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-04-15T15:30:00"
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-04-15T18:41:14"
     },
     {
       "duration": 3600,
@@ -859,6 +844,21 @@
     },
     {
       "duration": 7200,
+      "end": "2026-04-21T16:35:00",
+      "event": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2225",
+      "id": 67001732,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-04-21T14:35:00"
+    },
+    {
+      "duration": 7200,
       "end": "2026-04-22T00:30:00",
       "event": "Code-A-Thon 2026",
       "host": "geeksforgeeks.org",
@@ -1158,6 +1158,21 @@
       "start": "2026-04-29T14:30:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-04-29T17:00:00",
+      "event": "Beginner Contest 111",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-111",
+      "id": 66999369,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-04-29T15:30:00"
+    },
+    {
       "duration": 10800,
       "end": "2026-04-30T03:30:00",
       "event": "CodeGem 4.0 || Gauhati University X GFG",
@@ -1291,6 +1306,36 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-05T06:30:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-05-06T08:35:00",
+      "event": "Codeforces Round (Div. 1)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2223",
+      "id": 66998296,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-05-06T06:05:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-05-06T08:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2224",
+      "id": 66998297,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-05-06T06:05:00"
     },
     {
       "duration": 86400,
