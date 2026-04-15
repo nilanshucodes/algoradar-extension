@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T01:27:27Z",
+  "lastUpdated": "2026-04-15T06:27:50Z",
   "count": 162,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 417,
-      "parsed_at": "2026-04-14T16:53:05.906130",
+      "parsed_at": "2026-04-15T04:54:07.362663",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -346,21 +346,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-13T07:38:14"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-15T05:10:00",
-      "event": "Code Catalyst",
-      "host": "geeksforgeeks.org",
-      "href": "https://practice.geeksforgeeks.org/contest/code-catalyst/",
-      "id": 66709574,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "geeksforgeeks.org",
-      "resource_id": 126,
-      "start": "2026-04-15T04:10:00"
     },
     {
       "duration": 3600,
@@ -1171,6 +1156,21 @@
       "resource": "geeksforgeeks.org",
       "resource_id": 126,
       "start": "2026-04-30T00:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-05-01T09:00:00",
+      "event": "2026牛客五一集训派对day1 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133439",
+      "id": 66984151,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-05-01T04:00:00"
     },
     {
       "duration": 6000,
