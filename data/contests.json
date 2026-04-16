@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-15T20:39:05Z",
-  "count": 167,
+  "lastUpdated": "2026-04-16T01:50:01Z",
+  "count": 166,
   "contests": [
     {
       "duration": 23612094,
@@ -76,21 +76,6 @@
       "resource": "datsteam.dev",
       "resource_id": 174,
       "start": "2025-11-13T00:00:00"
-    },
-    {
-      "duration": 12646717,
-      "end": "2026-04-15T23:59:00",
-      "event": "AI Mathematical Olympiad - Progress Prize 3 [nlp, mathematics, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3",
-      "id": 63426557,
-      "n_problems": null,
-      "n_statistics": 77,
-      "parsed_at": "2025-11-22T08:09:08.545858",
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-11-20T15:00:23"
     },
     {
       "duration": 5266800,
@@ -281,7 +266,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-15T11:27:05.647279",
+      "parsed_at": "2026-04-16T00:48:05.943830",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
