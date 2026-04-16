@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-16T10:55:09Z",
-  "count": 170,
+  "lastUpdated": "2026-04-16T16:16:05Z",
+  "count": 172,
   "contests": [
     {
       "duration": 23612094,
@@ -266,7 +266,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-16T00:48:05.943830",
+      "parsed_at": "2026-04-16T14:09:06.580196",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -348,21 +348,6 @@
       "start": "2026-04-15T18:41:14"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-16T12:00:00",
-      "event": "AtCoder Weekday Contest 0049 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0049",
-      "id": 66994189,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-16T11:00:00"
-    },
-    {
       "duration": 637200,
       "end": "2026-04-23T22:00:00",
       "event": "VALE - EVENTO PARA PRÁTICA (1093786)",
@@ -400,8 +385,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-226",
       "id": 66843998,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 117,
+      "parsed_at": "2026-04-16T16:12:06.375688",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -511,6 +496,36 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-04-17T11:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-17T12:00:00",
+      "event": "AtCoder Weekday Contest 0050 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0050",
+      "id": 67020634,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-17T11:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-04-17T17:00:00",
+      "event": "CodeCombat Replay Round 2026",
+      "host": "judge.eluminatis-of-lu.com",
+      "href": "https://serious-oj.com/contest/69e0cabcef00e42be3bb3b80",
+      "id": 67020137,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "judge.eluminatis-of-lu.com",
+      "resource_id": 177,
+      "start": "2026-04-17T14:30:00"
     },
     {
       "duration": 93600,
@@ -1096,6 +1111,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-04-25T14:30:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-04-25T17:05:00",
+      "event": "Codeforces Round (Div. 1 + Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2222",
+      "id": 67022697,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-04-25T14:35:00"
     },
     {
       "duration": 0,
