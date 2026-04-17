@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-17T15:51:33Z",
-  "count": 177,
+  "lastUpdated": "2026-04-17T20:35:59Z",
+  "count": 176,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 422,
-      "parsed_at": "2026-04-17T04:58:05.702835",
+      "n_statistics": 423,
+      "parsed_at": "2026-04-17T16:59:06.311973",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -266,7 +266,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-17T03:30:06.408012",
+      "parsed_at": "2026-04-17T16:51:06.737801",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -310,8 +310,8 @@
       "href": "https://lightoj.com/contest/repeatcontest1234",
       "id": 66919017,
       "n_problems": 22,
-      "n_statistics": 4,
-      "parsed_at": "2026-04-17T04:49:22.303846",
+      "n_statistics": 7,
+      "parsed_at": "2026-04-17T16:02:06.526451",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -355,8 +355,8 @@
       "href": "https://judge.beecrowd.com/en/contests/view/969",
       "id": 66484089,
       "n_problems": 14,
-      "n_statistics": 16,
-      "parsed_at": "2026-04-17T06:49:05.548973",
+      "n_statistics": 26,
+      "parsed_at": "2026-04-17T18:38:05.948699",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -421,21 +421,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-17T11:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-04-17T17:00:00",
-      "event": "CodeCombat Replay Round 2026",
-      "host": "judge.eluminatis-of-lu.com",
-      "href": "https://serious-oj.com/contest/69e0cabcef00e42be3bb3b80",
-      "id": 67020137,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "judge.eluminatis-of-lu.com",
-      "resource_id": 177,
-      "start": "2026-04-17T14:30:00"
     },
     {
       "duration": 93600,
@@ -724,7 +709,7 @@
     },
     {
       "duration": 7200,
-      "end": "2026-04-19T16:35:00",
+      "end": "2026-04-19T15:35:00",
       "event": "Repovive Standard Round 2",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
@@ -735,7 +720,7 @@
       "problems": null,
       "resource": "repovive.com",
       "resource_id": 180,
-      "start": "2026-04-19T14:35:00"
+      "start": "2026-04-19T13:35:00"
     },
     {
       "duration": 3600,
