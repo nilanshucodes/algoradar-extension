@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-16T20:39:08Z",
-  "count": 175,
+  "lastUpdated": "2026-04-17T01:45:46Z",
+  "count": 174,
   "contests": [
     {
       "duration": 23612094,
@@ -121,21 +121,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-03-16T22:51:41"
-    },
-    {
-      "duration": 2621041,
-      "end": "2026-04-16T23:59:00",
-      "event": "Measuring Progress Toward AGI - Cognitive Abilities [research, benchmark, personal benchmark]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/kaggle-measuring-agi",
-      "id": 66220129,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-03-17T15:54:59"
     },
     {
       "duration": 8323140,
