@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-17T06:29:51Z",
-  "count": 175,
+  "lastUpdated": "2026-04-17T10:46:56Z",
+  "count": 173,
   "contests": [
     {
       "duration": 23612094,
@@ -340,8 +340,8 @@
       "href": "https://judge.beecrowd.com/en/contests/view/969",
       "id": 66484089,
       "n_problems": 14,
-      "n_statistics": 6,
-      "parsed_at": "2026-04-16T19:00:06.834812",
+      "n_statistics": 16,
+      "parsed_at": "2026-04-17T06:49:05.548973",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -378,36 +378,6 @@
       "start": "2026-04-17T05:30:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-17T08:00:00",
-      "event": "AtCoder Daily Training EASY 2026/04/17 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260417_1",
-      "id": 67016362,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-17T07:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-17T08:00:00",
-      "event": "AtCoder Daily Training ALL 2026/04/17 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260417_1",
-      "id": 67016363,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-17T07:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-04-18T08:00:00",
       "event": "47CON CTF 2026",
@@ -421,36 +391,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-17T08:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-17T10:00:00",
-      "event": "AtCoder Daily Training EASY 2026/04/17 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260417_2",
-      "id": 67018574,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-17T09:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-17T10:00:00",
-      "event": "AtCoder Daily Training ALL 2026/04/17 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260417_2",
-      "id": 67018575,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-17T09:00:00"
     },
     {
       "duration": 172800,
@@ -1863,6 +1803,21 @@
       "start": "2026-06-14T04:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-06-14T14:00:00",
+      "event": "AtCoder Regular Contest 222",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc222",
+      "id": 67041900,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-06-14T12:00:00"
+    },
+    {
       "duration": 259200,
       "end": "2026-06-22T10:00:00",
       "event": "BCACTF 7.0",
@@ -1906,6 +1861,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-27T02:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-06-27T13:40:00",
+      "event": "第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc464",
+      "id": 67041901,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-06-27T12:00:00"
     },
     {
       "duration": 86400,
