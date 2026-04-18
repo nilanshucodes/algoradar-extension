@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-17T20:35:59Z",
-  "count": 176,
+  "lastUpdated": "2026-04-18T01:25:09Z",
+  "count": 175,
   "contests": [
     {
       "duration": 23612094,
@@ -236,7 +236,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-17T11:48:05.802009",
+      "parsed_at": "2026-04-17T23:49:05.889341",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -271,21 +271,6 @@
       "resource": "acmp.ru",
       "resource_id": 5,
       "start": "2026-04-11T08:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-04-17T22:30:00",
-      "event": "Bruce's CIW Training Contest 3",
-      "host": "dmoj.ca",
-      "href": "https://dmoj.ca/contest/bruce26ciw3",
-      "id": 66891401,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dmoj.ca",
-      "resource_id": 77,
-      "start": "2026-04-11T16:00:00"
     },
     {
       "duration": 14400,
@@ -474,9 +459,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND46",
       "id": 66992930,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 11,
+      "parsed_at": "2026-04-18T00:54:07.945335",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
