@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-18T15:30:01Z",
-  "count": 170,
+  "lastUpdated": "2026-04-18T20:26:46Z",
+  "count": 168,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 426,
-      "parsed_at": "2026-04-18T05:00:09.174090",
+      "parsed_at": "2026-04-18T17:01:05.778591",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -266,7 +266,7 @@
       "id": 66887086,
       "n_problems": 1,
       "n_statistics": 1,
-      "parsed_at": "2026-04-18T06:12:08.766393",
+      "parsed_at": "2026-04-18T19:33:06.036996",
       "problems": null,
       "resource": "acmp.ru",
       "resource_id": 5,
@@ -341,7 +341,7 @@
       "id": 66484089,
       "n_problems": 14,
       "n_statistics": 31,
-      "parsed_at": "2026-04-18T06:27:07.689106",
+      "parsed_at": "2026-04-18T18:16:05.616410",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -376,21 +376,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-17T11:00:00"
-    },
-    {
-      "duration": 93600,
-      "end": "2026-04-18T17:00:00",
-      "event": "DatsSol",
-      "host": "datsteam.dev",
-      "href": "https://gamethon.datsteam.dev/datssol",
-      "id": 66787384,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "datsteam.dev",
-      "resource_id": 174,
-      "start": "2026-04-17T15:00:00"
     },
     {
       "duration": 183600,
@@ -430,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND46",
       "id": 66992930,
       "n_problems": 5,
-      "n_statistics": 44,
-      "parsed_at": "2026-04-18T13:46:05.990901",
+      "n_statistics": 73,
+      "parsed_at": "2026-04-18T20:12:06.153506",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -481,21 +466,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-04-18T10:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-18T17:00:00",
-      "event": "Kelajak muhandislari doirasida \"Robo Coders 2026\" Sport dasturlash musobaqasi saralash bosqichi",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3789",
-      "id": 66892169,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-04-18T15:00:00"
     },
     {
       "duration": 86400,
