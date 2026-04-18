@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-18T10:32:29Z",
-  "count": 171,
+  "lastUpdated": "2026-04-18T15:30:01Z",
+  "count": 170,
   "contests": [
     {
       "duration": 23612094,
@@ -236,7 +236,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-17T23:49:05.889341",
+      "parsed_at": "2026-04-18T11:50:05.877920",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://lightoj.com/contest/repeatcontest1234",
       "id": 66919017,
       "n_problems": 22,
-      "n_statistics": 8,
-      "parsed_at": "2026-04-18T03:14:06.519546",
+      "n_statistics": 9,
+      "parsed_at": "2026-04-18T14:26:06.556489",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -430,8 +430,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND46",
       "id": 66992930,
       "n_problems": 5,
-      "n_statistics": 25,
-      "parsed_at": "2026-04-18T07:20:08.798278",
+      "n_statistics": 44,
+      "parsed_at": "2026-04-18T13:46:05.990901",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -483,23 +483,8 @@
       "start": "2026-04-18T10:00:00"
     },
     {
-      "duration": 6000,
-      "end": "2026-04-18T13:40:00",
-      "event": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc454",
-      "id": 66409907,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-18T12:00:00"
-    },
-    {
       "duration": 7200,
-      "end": "2026-04-18T16:00:00",
+      "end": "2026-04-18T17:00:00",
       "event": "Kelajak muhandislari doirasida \"Robo Coders 2026\" Sport dasturlash musobaqasi saralash bosqichi",
       "host": "robocontest.uz",
       "href": "https://robocontest.uz/olympiads/3789",
@@ -510,7 +495,7 @@
       "problems": null,
       "resource": "robocontest.uz",
       "resource_id": 137,
-      "start": "2026-04-18T14:00:00"
+      "start": "2026-04-18T15:00:00"
     },
     {
       "duration": 86400,
