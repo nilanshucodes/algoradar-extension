@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-19T15:30:03Z",
-  "count": 174,
+  "lastUpdated": "2026-04-19T20:27:26Z",
+  "count": 167,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 427,
-      "parsed_at": "2026-04-19T05:02:05.744814",
+      "n_statistics": 431,
+      "parsed_at": "2026-04-19T17:03:07.975897",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -258,21 +258,6 @@
       "start": "2026-04-07T22:32:00"
     },
     {
-      "duration": 720000,
-      "end": "2026-04-19T16:00:00",
-      "event": "Олимпиада",
-      "host": "acmp.ru",
-      "href": "https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=46470",
-      "id": 66887086,
-      "n_problems": 1,
-      "n_statistics": 1,
-      "parsed_at": "2026-04-19T08:54:06.458765",
-      "problems": null,
-      "resource": "acmp.ru",
-      "resource_id": 5,
-      "start": "2026-04-11T08:00:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-04-19T23:00:00",
       "event": "Bruce's CCO Training Contest 3",
@@ -286,21 +271,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-04-11T16:00:00"
-    },
-    {
-      "duration": 604740,
-      "end": "2026-04-19T17:59:00",
-      "event": "Repeat Contest (Contest-1, Contest-2, Contest-3, Contest-4) [protected, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/repeatcontest1234",
-      "id": 66919017,
-      "n_problems": 22,
-      "n_statistics": 12,
-      "parsed_at": "2026-04-19T12:50:05.808630",
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2026-04-12T18:00:00"
     },
     {
       "duration": 31536004,
@@ -341,7 +311,7 @@
       "id": 66484089,
       "n_problems": 14,
       "n_statistics": 32,
-      "parsed_at": "2026-04-19T06:05:05.992305",
+      "parsed_at": "2026-04-19T17:54:06.272427",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -361,36 +331,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-04-16T19:01:30"
-    },
-    {
-      "duration": 183600,
-      "end": "2026-04-19T19:00:00",
-      "event": "CTF@CIT 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3156/",
-      "id": 65776205,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-17T16:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-04-19T18:30:00",
-      "event": "Weekend Dev Challenge 46: Cybersecurity",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DEVWEEKEND46",
-      "id": 66992930,
-      "n_problems": 5,
-      "n_statistics": 104,
-      "parsed_at": "2026-04-19T12:17:06.617566",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-17T18:30:00"
     },
     {
       "duration": 172800,
@@ -438,21 +378,6 @@
       "start": "2026-04-18T16:00:00"
     },
     {
-      "duration": 86400,
-      "end": "2026-04-19T19:00:00",
-      "event": "JerseyCTF VI",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3117/",
-      "id": 66052396,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-18T19:00:00"
-    },
-    {
       "duration": 43200,
       "end": "2026-04-19T21:00:00",
       "event": "ALPOC'26 - Qualification Round (unrated, icpc, team)",
@@ -466,21 +391,6 @@
       "resource": "algoleague.com",
       "resource_id": 170,
       "start": "2026-04-19T09:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-19T15:35:00",
-      "event": "Repovive Standard Round 2",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 66750695,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-04-19T13:35:00"
     },
     {
       "duration": 3600,
@@ -1201,21 +1111,6 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-03T12:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-05-05T09:00:00",
-      "event": "Next DP Contest",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/ndpc2026",
-      "id": 66955695,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-05-05T04:00:00"
     },
     {
       "duration": 18000,
