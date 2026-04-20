@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-19T20:27:26Z",
-  "count": 167,
+  "lastUpdated": "2026-04-20T01:51:33Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -236,7 +236,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-19T11:52:05.495476",
+      "parsed_at": "2026-04-19T23:53:05.906775",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -256,21 +256,6 @@
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
       "start": "2026-04-07T22:32:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-04-19T23:00:00",
-      "event": "Bruce's CCO Training Contest 3",
-      "host": "dmoj.ca",
-      "href": "https://dmoj.ca/contest/bruce26cco3",
-      "id": 66891402,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dmoj.ca",
-      "resource_id": 77,
-      "start": "2026-04-11T16:00:00"
     },
     {
       "duration": 31536004,
@@ -333,21 +318,6 @@
       "start": "2026-04-16T19:01:30"
     },
     {
-      "duration": 172800,
-      "end": "2026-04-20T00:00:00",
-      "event": "b01lers CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3153/",
-      "id": 65776203,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-18T00:00:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-04-26T23:00:00",
       "event": "Bruce's CCO Training Contest 4",
@@ -376,21 +346,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-04-18T16:00:00"
-    },
-    {
-      "duration": 43200,
-      "end": "2026-04-19T21:00:00",
-      "event": "ALPOC'26 - Qualification Round (unrated, icpc, team)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/alpoc26-qualification-round/",
-      "id": 66445052,
-      "n_problems": 4,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
-      "start": "2026-04-19T09:00:00"
     },
     {
       "duration": 3600,
