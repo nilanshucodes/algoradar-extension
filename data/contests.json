@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-20T11:12:34Z",
-  "count": 168,
+  "lastUpdated": "2026-04-20T16:01:52Z",
+  "count": 175,
   "contests": [
     {
       "duration": 23612094,
@@ -236,7 +236,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-19T23:53:05.906775",
+      "parsed_at": "2026-04-20T11:54:06.107814",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -348,34 +348,19 @@
       "start": "2026-04-18T16:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-20T12:00:00",
-      "event": "AtCoder Weekday Contest 0051 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0051",
-      "id": 67045436,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-20T11:00:00"
-    },
-    {
       "duration": 10800,
-      "end": "2026-04-20T15:30:00",
-      "event": "Monday Munch - DSA Challenge 34",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY34",
-      "id": 66959603,
+      "end": "2026-04-20T17:00:00",
+      "event": "Prezident, ijod va ixtisoslashtirilgan maktablari o'quvchilari o'rtasida informatika fani bo'yicha olimpiadaning agentlik (respublika) bosqichi. 5-8-sinf. [MIRROR]",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3826",
+      "id": 67117210,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-20T12:30:00"
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-04-20T14:00:00"
     },
     {
       "duration": 3600,
@@ -451,6 +436,36 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-21T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-21T12:00:00",
+      "event": "AtCoder Weekday Contest 0052 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0052",
+      "id": 67117164,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-21T11:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-21T17:00:00",
+      "event": "Prezident, ijod va ixtisoslashtirilgan maktablari o'quvchilari o'rtasida informatika fani bo'yicha olimpiadaning agentlik (respublika) bosqichi. 9-11-sinf. [MIRROR]",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3827",
+      "id": 67117211,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-04-21T14:00:00"
     },
     {
       "duration": 7200,
@@ -559,21 +574,6 @@
     },
     {
       "duration": 7200,
-      "end": "2026-04-23T16:35:00",
-      "event": "Codeforces Round (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2213",
-      "id": 66839369,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-23T14:35:00"
-    },
-    {
-      "duration": 7200,
       "end": "2026-04-23T17:01:00",
       "event": "Weekly Contest 227",
       "host": "naukri.com/code360",
@@ -601,6 +601,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-04-24T11:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-04-24T17:00:00",
+      "event": "Зеркало: Третий этап олимпиады IV-IX. Группа VIII-IX. Гомельская область, 23 апреля 2026 года",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/93551/enter/?retPage=",
+      "id": 67120775,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-04-24T12:00:00"
     },
     {
       "duration": 205200,
@@ -903,6 +918,21 @@
       "start": "2026-04-28T14:35:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-04-29T11:00:00",
+      "event": "Подготовка к отбору на IOI 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67119242,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-04-29T04:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-04-29T16:30:00",
       "event": "Starters 236",
@@ -1173,6 +1203,21 @@
       "start": "2026-05-05T06:30:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-05-06T11:00:00",
+      "event": "Подготовка к отбору на IOI 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67119244,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-05-06T04:00:00"
+    },
+    {
       "duration": 9000,
       "end": "2026-05-06T08:35:00",
       "event": "Codeforces Round (Div. 1)",
@@ -1353,6 +1398,21 @@
       "start": "2026-05-12T12:00:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-05-13T11:00:00",
+      "event": "Подготовка к отбору на IOI 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67119246,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-05-13T04:00:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-05-17T16:00:00",
       "event": "TJCTF 2026",
@@ -1413,6 +1473,21 @@
       "start": "2026-05-17T05:00:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-05-20T11:00:00",
+      "event": "Подготовка к отбору на IOI 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67119248,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-05-20T04:00:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-05-24T21:00:00",
       "event": "DEF CON CTF Qualifier 2026",
@@ -1456,6 +1531,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-05-24T04:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-05-27T11:00:00",
+      "event": "Подготовка к отбору на IOI 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67119250,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-05-27T04:00:00"
     },
     {
       "duration": 100200,
@@ -1546,6 +1636,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-31T12:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-06-03T11:00:00",
+      "event": "Подготовка к отбору на IOI 2026",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67119252,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-06-03T04:00:00"
     },
     {
       "duration": 129600,
