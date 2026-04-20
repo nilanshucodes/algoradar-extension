@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-20T01:51:33Z",
-  "count": 164,
+  "lastUpdated": "2026-04-20T07:11:30Z",
+  "count": 168,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 431,
-      "parsed_at": "2026-04-19T17:03:07.975897",
+      "n_statistics": 432,
+      "parsed_at": "2026-04-20T05:04:05.446506",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -250,8 +250,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 1,
-      "n_statistics": 135,
-      "parsed_at": "2026-04-17T04:35:05.742383",
+      "n_statistics": 168,
+      "parsed_at": "2026-04-20T04:36:05.923579",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -296,7 +296,7 @@
       "id": 66484089,
       "n_problems": 14,
       "n_statistics": 32,
-      "parsed_at": "2026-04-19T17:54:06.272427",
+      "parsed_at": "2026-04-20T05:43:05.950451",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -439,7 +439,7 @@
     },
     {
       "duration": 3600,
-      "end": "2026-04-20T21:30:00",
+      "end": "2026-04-21T09:30:00",
       "event": "Entrevista 4.0",
       "host": "geeksforgeeks.org",
       "href": "https://practice.geeksforgeeks.org/contest/entrevista-40/",
@@ -450,7 +450,7 @@
       "problems": null,
       "resource": "geeksforgeeks.org",
       "resource_id": 126,
-      "start": "2026-04-20T20:30:00"
+      "start": "2026-04-21T08:30:00"
     },
     {
       "duration": 7200,
@@ -843,6 +843,21 @@
       "start": "2026-04-26T11:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-04-26T16:00:00",
+      "event": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining Toshkent shahrida joylashgan umumta’lim maktablari bitiruvchi 11-sinf o‘quvchilari o‘rtasida “Informatika va axborot texnologiyalari” fani bo‘yicha ko‘p bosqichli olimpiada saralash bosqichi",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3825",
+      "id": 67110798,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-04-26T14:00:00"
+    },
+    {
       "duration": 21600,
       "end": "2026-04-27T00:30:00",
       "event": "Spring 2026 Virtual Programming Contest",
@@ -978,6 +993,21 @@
       "start": "2026-05-01T18:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-05-02T09:00:00",
+      "event": "2026牛客五一集训派对day2 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133506",
+      "id": 67108027,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-05-02T04:00:00"
+    },
+    {
       "duration": 111600,
       "end": "2026-05-03T15:00:00",
       "event": "UniVsThreats 26 Finals CTF",
@@ -1038,6 +1068,21 @@
       "start": "2026-05-03T04:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-05-03T09:00:00",
+      "event": "2026牛客五一集训派对day3 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133507",
+      "id": 67108028,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-05-03T04:00:00"
+    },
+    {
       "duration": 14400,
       "end": "2026-05-03T12:00:00",
       "event": "Командная олимпиада ФПМИ БГУ по программированию 2026",
@@ -1051,6 +1096,21 @@
       "resource": "acm.bsu.by",
       "resource_id": 97,
       "start": "2026-05-03T08:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-03T13:00:00",
+      "event": "牛客周赛 Round 142",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133790",
+      "id": 67110771,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-05-03T11:00:00"
     },
     {
       "duration": 7200,
