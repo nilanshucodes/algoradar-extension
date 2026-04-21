@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T10:59:05Z",
+  "lastUpdated": "2026-04-21T16:05:04Z",
   "count": 169,
   "contests": [
     {
@@ -236,7 +236,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-20T23:55:05.734093",
+      "parsed_at": "2026-04-21T11:56:06.708767",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -348,21 +348,6 @@
       "start": "2026-04-18T16:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-21T12:00:00",
-      "event": "AtCoder Weekday Contest 0052 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0052",
-      "id": 67117164,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-21T11:00:00"
-    },
-    {
       "duration": 10800,
       "end": "2026-04-21T17:00:00",
       "event": "Prezident, ijod va ixtisoslashtirilgan maktablari o'quvchilari o'rtasida informatika fani bo'yicha olimpiadaning agentlik (respublika) bosqichi. 9-11-sinf. [MIRROR]",
@@ -391,21 +376,6 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-04-21T14:35:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-22T00:30:00",
-      "event": "Code-A-Thon 2026",
-      "host": "geeksforgeeks.org",
-      "href": "https://practice.geeksforgeeks.org/contest/code-a-thon-2026/",
-      "id": 66880299,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "geeksforgeeks.org",
-      "resource_id": 126,
-      "start": "2026-04-21T22:30:00"
     },
     {
       "duration": 25200,
@@ -481,6 +451,36 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-22T09:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-22T12:30:00",
+      "event": "Code-A-Thon 2026",
+      "host": "geeksforgeeks.org",
+      "href": "https://practice.geeksforgeeks.org/contest/code-a-thon-2026/",
+      "id": 66880299,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "geeksforgeeks.org",
+      "resource_id": 126,
+      "start": "2026-04-22T10:30:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-22T12:00:00",
+      "event": "AtCoder Weekday Contest 0053 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0053",
+      "id": 67142579,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-22T11:00:00"
     },
     {
       "duration": 10800,
