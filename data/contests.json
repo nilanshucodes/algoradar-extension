@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-21T16:05:04Z",
-  "count": 169,
+  "lastUpdated": "2026-04-21T20:40:19Z",
+  "count": 168,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 435,
-      "parsed_at": "2026-04-21T05:06:05.942078",
+      "n_statistics": 437,
+      "parsed_at": "2026-04-21T17:07:05.199990",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://judge.beecrowd.com/en/contests/view/969",
       "id": 66484089,
       "n_problems": 14,
-      "n_statistics": 36,
-      "parsed_at": "2026-04-21T05:20:06.445783",
+      "n_statistics": 39,
+      "parsed_at": "2026-04-21T17:09:05.745818",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -346,36 +346,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-04-18T16:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-21T17:00:00",
-      "event": "Prezident, ijod va ixtisoslashtirilgan maktablari o'quvchilari o'rtasida informatika fani bo'yicha olimpiadaning agentlik (respublika) bosqichi. 9-11-sinf. [MIRROR]",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3827",
-      "id": 67117211,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-04-21T14:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-21T16:35:00",
-      "event": "Educational Codeforces Round 189 (Rated for Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2225",
-      "id": 67001732,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-21T14:35:00"
     },
     {
       "duration": 25200,
@@ -826,6 +796,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-26T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-26T11:00:00",
+      "event": "Weekend Practice #23",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/ge8iibieop4sjashagi3iv5ta0",
+      "id": 67148714,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-04-26T09:00:00"
     },
     {
       "duration": 7200,
