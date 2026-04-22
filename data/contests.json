@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-22T01:45:34Z",
-  "count": 168,
+  "lastUpdated": "2026-04-22T06:52:28Z",
+  "count": 171,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 437,
-      "parsed_at": "2026-04-21T17:07:05.199990",
+      "parsed_at": "2026-04-22T05:08:05.571556",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -295,8 +295,8 @@
       "href": "https://judge.beecrowd.com/en/contests/view/969",
       "id": 66484089,
       "n_problems": 14,
-      "n_statistics": 39,
-      "parsed_at": "2026-04-21T17:09:05.745818",
+      "n_statistics": 42,
+      "parsed_at": "2026-04-22T04:58:05.991074",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -1159,6 +1159,21 @@
     },
     {
       "duration": 18000,
+      "end": "2026-05-04T09:00:00",
+      "event": "2026牛客五一集训派对day4 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133508",
+      "id": 67159645,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-05-04T04:00:00"
+    },
+    {
+      "duration": 18000,
       "end": "2026-05-05T09:00:00",
       "event": "Next DP Contest",
       "host": "atcoder.jp",
@@ -1170,6 +1185,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-05-05T04:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-05-05T09:00:00",
+      "event": "2026牛客五一集训派对day5 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133509",
+      "id": 67159646,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
       "start": "2026-05-05T04:00:00"
     },
     {
@@ -1411,6 +1441,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-15T16:00:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-05-16T10:00:00",
+      "event": "AtCoder Heuristic Contest 065",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/ahc065",
+      "id": 67158894,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-05-16T06:00:00"
     },
     {
       "duration": 32400,
