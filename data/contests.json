@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-22T06:52:28Z",
-  "count": 171,
+  "lastUpdated": "2026-04-22T10:57:23Z",
+  "count": 172,
   "contests": [
     {
       "duration": 23612094,
@@ -136,21 +136,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-03-19T16:00:00"
-    },
-    {
-      "duration": 2700000,
-      "end": "2026-04-22T07:00:00",
-      "event": "不是 Ahaer 出题组的 2026 愚人节比赛 [ioi]",
-      "host": "luogu.com.cn",
-      "href": "https://www.luogu.com.cn/contest/314899",
-      "id": 66329995,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "luogu.com.cn",
-      "resource_id": 162,
-      "start": "2026-03-22T01:00:00"
     },
     {
       "duration": 19808447,
@@ -363,66 +348,6 @@
       "start": "2026-04-22T04:00:00"
     },
     {
-      "duration": 3600,
-      "end": "2026-04-22T08:00:00",
-      "event": "AtCoder Daily Training EASY 2026/04/22 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260422_1",
-      "id": 67138706,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-22T07:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-22T08:00:00",
-      "event": "AtCoder Daily Training ALL 2026/04/22 16:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260422_1",
-      "id": 67138707,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-22T07:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-22T10:00:00",
-      "event": "AtCoder Daily Training EASY 2026/04/22 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_easy_20260422_2",
-      "id": 67140848,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-22T09:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-22T10:00:00",
-      "event": "AtCoder Daily Training ALL 2026/04/22 18:00start",
-      "host": "atcoder.jp?lang=ja",
-      "href": "https://atcoder.jp/contests/adt_all_20260422_2",
-      "id": 67140849,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-22T09:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-04-22T12:30:00",
       "event": "Code-A-Thon 2026",
@@ -470,7 +395,7 @@
     {
       "duration": 7200,
       "end": "2026-04-22T16:30:00",
-      "event": "Starters 235",
+      "event": "Starters 235 (Rated till 6 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START235",
       "id": 66044995,
@@ -481,6 +406,36 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-04-22T14:30:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-23T08:00:00",
+      "event": "AtCoder Daily Training EASY 2026/04/23 16:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_easy_20260423_1",
+      "id": 67163174,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-23T07:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-23T08:00:00",
+      "event": "AtCoder Daily Training ALL 2026/04/23 16:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_all_20260423_1",
+      "id": 67163175,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-23T07:00:00"
     },
     {
       "duration": 18000,
@@ -511,6 +466,36 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-04-23T08:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-23T10:00:00",
+      "event": "AtCoder Daily Training EASY 2026/04/23 18:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_easy_20260423_2",
+      "id": 67165112,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-23T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-23T10:00:00",
+      "event": "AtCoder Daily Training ALL 2026/04/23 18:00start",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/adt_all_20260423_2",
+      "id": 67165113,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-23T09:00:00"
     },
     {
       "duration": 7200,
@@ -1068,6 +1053,21 @@
       "start": "2026-05-02T12:00:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-05-03T04:00:00",
+      "event": "Weekly Contest 500",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-500",
+      "id": 67164668,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-05-03T02:30:00"
+    },
+    {
       "duration": 0,
       "end": "2026-05-03T03:00:00",
       "event": "Problem 995",
@@ -1235,7 +1235,7 @@
     {
       "duration": 9000,
       "end": "2026-05-06T08:35:00",
-      "event": "Codeforces Round (Div. 1)",
+      "event": "Codeforces Round (Div. 1, Based on Zhili Cup 2026)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2223",
       "id": 66998296,
@@ -1250,7 +1250,7 @@
     {
       "duration": 9000,
       "end": "2026-05-06T08:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round (Div. 2, Based on Zhili Cup 2026)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2224",
       "id": 66998297,
@@ -1351,6 +1351,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-09T12:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-05-09T16:00:00",
+      "event": "Biweekly Contest 182",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/biweekly-contest-182",
+      "id": 67164667,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-05-09T14:30:00"
     },
     {
       "duration": 25200,
