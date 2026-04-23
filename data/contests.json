@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-23T01:49:40Z",
-  "count": 173,
+  "lastUpdated": "2026-04-23T06:56:15Z",
+  "count": 175,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 438,
-      "parsed_at": "2026-04-22T17:09:06.492581",
+      "n_statistics": 441,
+      "parsed_at": "2026-04-23T05:10:06.231335",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -220,8 +220,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 1,
-      "n_statistics": 168,
-      "parsed_at": "2026-04-20T04:36:05.923579",
+      "n_statistics": 201,
+      "parsed_at": "2026-04-23T04:37:06.467744",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -265,8 +265,8 @@
       "href": "https://judge.beecrowd.com/en/contests/view/969",
       "id": 66484089,
       "n_problems": 14,
-      "n_statistics": 46,
-      "parsed_at": "2026-04-22T16:47:28.773426",
+      "n_statistics": 49,
+      "parsed_at": "2026-04-23T04:36:05.858217",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -496,6 +496,21 @@
       "resource": "toph.co",
       "resource_id": 110,
       "start": "2026-04-24T13:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-04-26T18:30:00",
+      "event": "Weekend Dev Challenge 47: Cybersecurity",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DEVWEEKEND47",
+      "id": 67184302,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-04-24T18:30:00"
     },
     {
       "duration": 172800,
@@ -2311,6 +2326,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-09-20T04:00:00"
+    },
+    {
+      "duration": 129600,
+      "end": "2026-09-27T15:30:00",
+      "event": "H7CTF 2026 Quals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3093/",
+      "id": 67181393,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-09-26T03:30:00"
     },
     {
       "duration": 658740,
