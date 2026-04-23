@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T11:01:05Z",
+  "lastUpdated": "2026-04-23T20:43:17Z",
   "count": 175,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 441,
-      "parsed_at": "2026-04-23T05:10:06.231335",
+      "parsed_at": "2026-04-23T17:11:06.361621",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -206,7 +206,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-22T23:59:05.933156",
+      "parsed_at": "2026-04-23T12:00:08.017084",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -265,8 +265,8 @@
       "href": "https://judge.beecrowd.com/en/contests/view/969",
       "id": 66484089,
       "n_problems": 14,
-      "n_statistics": 49,
-      "parsed_at": "2026-04-23T04:36:05.858217",
+      "n_statistics": 51,
+      "parsed_at": "2026-04-23T16:25:05.838408",
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
@@ -316,66 +316,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-04-18T16:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-04-23T13:00:00",
-      "event": "Гомельская областная олимпиада 5-7 кл - 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 66439634,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-04-23T08:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-04-23T13:00:00",
-      "event": "Гомельская областная олимпиада 1-4 кл - 2026",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 66439635,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-04-23T08:00:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-23T12:00:00",
-      "event": "AtCoder Weekday Contest 0054 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0054",
-      "id": 67166960,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-23T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-23T17:01:00",
-      "event": "Weekly Contest 227",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-227",
-      "id": 67025777,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-04-23T15:01:00"
     },
     {
       "duration": 3600,
@@ -450,6 +390,21 @@
       "problems": null,
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
+      "start": "2026-04-24T11:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-24T12:00:00",
+      "event": "AtCoder Weekday Contest 0055 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0055",
+      "id": 67189789,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
       "start": "2026-04-24T11:00:00"
     },
     {
@@ -901,6 +856,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-04-30T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-04-30T17:01:00",
+      "event": "Weekly Contest 228",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-228",
+      "id": 67194310,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-04-30T15:01:00"
     },
     {
       "duration": 18000,
@@ -2343,6 +2313,21 @@
       "start": "2026-09-26T03:30:00"
     },
     {
+      "duration": 25200,
+      "end": "2026-09-27T11:00:00",
+      "event": "Программирование - профессионалы (ком. 2026)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67190631,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-09-27T04:00:00"
+    },
+    {
       "duration": 658740,
       "end": "2026-10-05T20:59:00",
       "event": "Выходи решать!. Математика (5-7 класс)",
@@ -2476,6 +2461,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-09-28T06:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-10-04T11:00:00",
+      "event": "Программирование - профессионалы (ком. 2026)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67190632,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-10-04T04:00:00"
     },
     {
       "duration": 7200,
