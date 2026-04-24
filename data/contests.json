@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-24T15:58:52Z",
-  "count": 174,
+  "lastUpdated": "2026-04-24T20:36:59Z",
+  "count": 173,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 444,
-      "parsed_at": "2026-04-24T05:12:06.186231",
+      "n_statistics": 446,
+      "parsed_at": "2026-04-24T17:13:05.475399",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -303,21 +303,6 @@
       "start": "2026-04-18T16:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-04-24T17:00:00",
-      "event": "Зеркало: Третий этап олимпиады IV-IX. Группа VIII-IX. Гомельская область, 23 апреля 2026 года",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/93551/enter/?retPage=",
-      "id": 67120775,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-04-24T12:00:00"
-    },
-    {
       "duration": 205200,
       "end": "2026-04-26T22:00:00",
       "event": "VALE - ANL TECNOL INFORMACAO 2 SENIOR (1093786)",
@@ -330,21 +315,6 @@
       "problems": null,
       "resource": "judge.beecrowd.com",
       "resource_id": 135,
-      "start": "2026-04-24T13:00:00"
-    },
-    {
-      "duration": 14400,
-      "end": "2026-04-24T17:00:00",
-      "event": "Father Timm Memorial Programming Contest 6.0 - Preliminary Round [private]",
-      "host": "toph.co",
-      "href": "https://toph.co/c/father-timm-memorial-6-0-preliminary",
-      "id": 66962469,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "toph.co",
-      "resource_id": 110,
       "start": "2026-04-24T13:00:00"
     },
     {
@@ -1306,6 +1276,21 @@
       "resource": "hsin.hr/coci",
       "resource_id": 23,
       "start": "2026-05-10T14:00:00"
+    },
+    {
+      "duration": 1123200,
+      "end": "2026-05-25T08:00:00",
+      "event": "Spring Challenge 2026",
+      "host": "codingame.com",
+      "href": "https://www.codingame.com/contests/spring-challenge-2026-troller-farm",
+      "id": 67218610,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codingame.com",
+      "resource_id": 81,
+      "start": "2026-05-12T08:00:00"
     },
     {
       "duration": 14400,
