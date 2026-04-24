@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-23T20:43:17Z",
-  "count": 175,
+  "lastUpdated": "2026-04-24T01:49:23Z",
+  "count": 174,
   "contests": [
     {
       "duration": 23612094,
@@ -206,7 +206,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-23T12:00:08.017084",
+      "parsed_at": "2026-04-24T00:01:06.338200",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -256,21 +256,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-04-15T18:41:14"
-    },
-    {
-      "duration": 637200,
-      "end": "2026-04-23T22:00:00",
-      "event": "VALE - EVENTO PARA PRÁTICA (1093786)",
-      "host": "judge.beecrowd.com",
-      "href": "https://judge.beecrowd.com/en/contests/view/969",
-      "id": 66484089,
-      "n_problems": 14,
-      "n_statistics": 51,
-      "parsed_at": "2026-04-23T16:25:05.838408",
-      "problems": null,
-      "resource": "judge.beecrowd.com",
-      "resource_id": 135,
-      "start": "2026-04-16T13:00:00"
     },
     {
       "duration": 5893050,
