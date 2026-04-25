@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-24T20:36:59Z",
-  "count": 173,
+  "lastUpdated": "2026-04-25T01:28:04Z",
+  "count": 174,
   "contests": [
     {
       "duration": 23612094,
@@ -206,7 +206,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-24T12:02:05.455029",
+      "parsed_at": "2026-04-25T00:03:06.634056",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -288,21 +288,6 @@
       "start": "2026-04-18T16:00:00"
     },
     {
-      "duration": 14400,
-      "end": "2026-04-24T22:30:00",
-      "event": "Bruce's CIW Training Contest 4",
-      "host": "dmoj.ca",
-      "href": "https://dmoj.ca/contest/bruce26ciw4",
-      "id": 67082803,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dmoj.ca",
-      "resource_id": 77,
-      "start": "2026-04-18T16:00:00"
-    },
-    {
       "duration": 205200,
       "end": "2026-04-26T22:00:00",
       "event": "VALE - ANL TECNOL INFORMACAO 2 SENIOR (1093786)",
@@ -324,9 +309,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND47",
       "id": 67184302,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 5,
+      "parsed_at": "2026-04-25T00:55:06.260265",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -420,6 +405,36 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
+      "start": "2026-04-25T07:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-25T10:00:00",
+      "event": "Algorithm Program 2025 - 2026 Spring - Mid Contest - Intermediate (unrated, icpc, individual)",
+      "host": "algoleague.com",
+      "href": "https://algoleague.com/contest/algorithm-program-2025-2026-spring-mid-contest-intermediate/",
+      "id": 67221993,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "algoleague.com",
+      "resource_id": 170,
+      "start": "2026-04-25T07:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-04-25T10:00:00",
+      "event": "Algorithm Program 2025 - 2026 Spring - Mid Contest - Foundation (unrated, icpc, individual)",
+      "host": "algoleague.com",
+      "href": "https://algoleague.com/contest/algorithm-program-2025-2026-spring-mid-contest-foundation/",
+      "id": 67221994,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "algoleague.com",
+      "resource_id": 170,
       "start": "2026-04-25T07:00:00"
     },
     {
