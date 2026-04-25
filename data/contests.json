@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-25T06:15:44Z",
-  "count": 174,
+  "lastUpdated": "2026-04-25T10:35:58Z",
+  "count": 170,
   "contests": [
     {
       "duration": 23612094,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND47",
       "id": 67184302,
       "n_problems": 5,
-      "n_statistics": 6,
-      "parsed_at": "2026-04-25T04:08:05.540641",
+      "n_statistics": 14,
+      "parsed_at": "2026-04-25T10:34:05.910459",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -348,36 +348,6 @@
       "start": "2026-04-24T22:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-04-25T08:00:00",
-      "event": "HACKTHEON SEJONG 2026 Qualifier",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3199/",
-      "id": 66282842,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-04-25T01:00:00"
-    },
-    {
-      "duration": 18900,
-      "end": "2026-04-25T09:15:00",
-      "event": "2026年ICPC新疆维吾尔自治区大学生程序设计竞赛 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133536",
-      "id": 67017883,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-04-25T04:00:00"
-    },
-    {
       "duration": 43200,
       "end": "2026-04-25T18:00:00",
       "event": "Alfa CTF 2026",
@@ -405,36 +375,6 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
-      "start": "2026-04-25T07:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-25T10:00:00",
-      "event": "Algorithm Program 2025 - 2026 Spring - Mid Contest - Intermediate (unrated, icpc, individual)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/algorithm-program-2025-2026-spring-mid-contest-intermediate/",
-      "id": 67221993,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
-      "start": "2026-04-25T07:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-25T10:00:00",
-      "event": "Algorithm Program 2025 - 2026 Spring - Mid Contest - Foundation (unrated, icpc, individual)",
-      "host": "algoleague.com",
-      "href": "https://algoleague.com/contest/algorithm-program-2025-2026-spring-mid-contest-foundation/",
-      "id": 67221994,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "algoleague.com",
-      "resource_id": 170,
       "start": "2026-04-25T07:00:00"
     },
     {
