@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-25T10:35:58Z",
-  "count": 170,
+  "lastUpdated": "2026-04-25T15:33:03Z",
+  "count": 169,
   "contests": [
     {
       "duration": 23612094,
@@ -206,7 +206,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-25T00:03:06.634056",
+      "parsed_at": "2026-04-25T12:04:05.336989",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND47",
       "id": 67184302,
       "n_problems": 5,
-      "n_statistics": 14,
-      "parsed_at": "2026-04-25T10:34:05.910459",
+      "n_statistics": 19,
+      "parsed_at": "2026-04-25T13:47:06.296751",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -378,21 +378,6 @@
       "start": "2026-04-25T07:00:00"
     },
     {
-      "duration": 6000,
-      "end": "2026-04-25T13:40:00",
-      "event": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc455",
-      "id": 66043833,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-25T12:00:00"
-    },
-    {
       "duration": 259200,
       "end": "2026-04-28T12:30:00",
       "event": "Weekly Hiring Contest | Top Tier MNC | April 2026",
@@ -414,9 +399,9 @@
       "host": "leetcode.com",
       "href": "https://leetcode.com/contest/biweekly-contest-181",
       "id": 66860147,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 10408,
+      "parsed_at": "2026-04-25T15:26:07.345822",
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
