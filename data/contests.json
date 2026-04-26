@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-26T10:37:22Z",
-  "count": 165,
+  "lastUpdated": "2026-04-26T15:34:41Z",
+  "count": 166,
   "contests": [
     {
       "duration": 23612094,
@@ -206,7 +206,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-26T00:05:06.631905",
+      "parsed_at": "2026-04-26T12:06:06.671578",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND47",
       "id": 67184302,
       "n_problems": 5,
-      "n_statistics": 48,
-      "parsed_at": "2026-04-26T09:05:06.010479",
+      "n_statistics": 65,
+      "parsed_at": "2026-04-26T15:31:05.816637",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -356,26 +356,11 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-26T07:44:06.667223",
+      "parsed_at": "2026-04-26T12:33:05.895397",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-04-25T12:30:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-04-26T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 66439636,
-      "n_problems": 12,
-      "n_statistics": 9,
-      "parsed_at": "2026-04-26T10:29:08.442296",
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-04-26T04:00:00"
     },
     {
       "duration": 604800,
@@ -391,36 +376,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-26T08:04:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-26T11:00:00",
-      "event": "Weekend Practice #23",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/ge8iibieop4sjashagi3iv5ta0",
-      "id": 67148714,
-      "n_problems": 5,
-      "n_statistics": 68,
-      "parsed_at": "2026-04-26T10:29:05.562289",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-04-26T09:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-26T13:00:00",
-      "event": "牛客周赛 Round 141",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133523",
-      "id": 67014757,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-04-26T11:00:00"
     },
     {
       "duration": 7200,
@@ -560,7 +515,7 @@
     {
       "duration": 8100,
       "end": "2026-04-28T16:50:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1095 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2226",
       "id": 67027689,
@@ -781,6 +736,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-02T12:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-05-02T17:05:00",
+      "event": "KEP Contest #19. Rated",
+      "host": "kep.uz",
+      "href": "https://kep.uz/competitions/contests/contest/496",
+      "id": 67258732,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kep.uz",
+      "resource_id": 146,
+      "start": "2026-05-02T14:35:00"
     },
     {
       "duration": 5400,
@@ -1128,6 +1098,21 @@
       "start": "2026-05-10T04:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-05-10T14:00:00",
+      "event": "AtCoder Regular Contest-- 219",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc219",
+      "id": 67259962,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-05-10T12:00:00"
+    },
+    {
       "duration": 10800,
       "end": "2026-05-10T17:00:00",
       "event": "CROATIAN OLYMPIAD IN INFORMATICS",
@@ -1291,6 +1276,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-17T05:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-17T14:00:00",
+      "event": "AtCoder Regular Contest++ 220",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc220",
+      "id": 67259964,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-05-17T12:00:00"
     },
     {
       "duration": 25200,
@@ -2326,6 +2326,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-10-04T04:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-10-11T11:00:00",
+      "event": "Программирование - профессионалы (ком. 2026)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67256953,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-10-11T04:00:00"
     },
     {
       "duration": 7200,
