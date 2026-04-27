@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T11:29:59Z",
+  "lastUpdated": "2026-04-27T16:20:11Z",
   "count": 161,
   "contests": [
     {
@@ -206,7 +206,7 @@
       "id": 66788154,
       "n_problems": 0,
       "n_statistics": 1,
-      "parsed_at": "2026-04-27T00:07:06.563105",
+      "parsed_at": "2026-04-27T12:08:05.917259",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -281,7 +281,7 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-27T07:49:06.225678",
+      "parsed_at": "2026-04-27T12:38:05.695810",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -316,36 +316,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-04-26T17:59:00"
-    },
-    {
-      "duration": 3600,
-      "end": "2026-04-27T12:00:00",
-      "event": "AtCoder Weekday Contest 0056 Beta",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/awc0056",
-      "id": 67212808,
-      "n_problems": 5,
-      "n_statistics": 158,
-      "parsed_at": "2026-04-27T11:27:06.168960",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-04-27T11:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-04-27T15:30:00",
-      "event": "Monday Munch - DSA Challenge 35",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY35",
-      "id": 67134357,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-27T12:30:00"
     },
     {
       "duration": 3600,
@@ -406,6 +376,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-04-28T09:00:00"
+    },
+    {
+      "duration": 3600,
+      "end": "2026-04-28T12:00:00",
+      "event": "AtCoder Weekday Contest 0057 Beta",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/awc0057",
+      "id": 67279736,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-04-28T11:00:00"
     },
     {
       "duration": 8100,
@@ -586,6 +571,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-05-02T04:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-05-02T23:00:00",
+      "event": "The 4th Universal Cup. Stage 23: Nanyang",
+      "host": "ucup.ac",
+      "href": "https://ucup.ac/",
+      "id": 67280988,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ucup.ac",
+      "resource_id": 139,
+      "start": "2026-05-02T05:00:00"
     },
     {
       "duration": 111600,
