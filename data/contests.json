@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T01:55:44Z",
+  "lastUpdated": "2026-04-27T07:29:51Z",
   "count": 161,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 448,
-      "parsed_at": "2026-04-26T17:17:10.187625",
+      "n_statistics": 449,
+      "parsed_at": "2026-04-27T05:18:05.570331",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -281,7 +281,7 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-26T22:11:07.359361",
+      "parsed_at": "2026-04-27T03:00:06.921195",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -316,21 +316,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-04-26T17:59:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-04-27T06:30:00",
-      "event": "LUCC presents: Tech Storm 6 - Intra LU Programming Contest 2026",
-      "host": "judge.eluminatis-of-lu.com",
-      "href": "https://serious-oj.com/contest/69edc9135f6eb47f01fd8ae2",
-      "id": 67254402,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "judge.eluminatis-of-lu.com",
-      "resource_id": 177,
-      "start": "2026-04-27T04:00:00"
     },
     {
       "duration": 3600,
@@ -1366,6 +1351,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-30T09:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-05-30T13:40:00",
+      "event": "AtCoder Beginner Contest 460",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/abc460",
+      "id": 67273262,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-05-30T12:00:00"
     },
     {
       "duration": 25200,
