@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T16:20:11Z",
+  "lastUpdated": "2026-04-27T20:53:10Z",
   "count": 161,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 449,
-      "parsed_at": "2026-04-27T05:18:05.570331",
+      "n_statistics": 454,
+      "parsed_at": "2026-04-27T17:19:06.208946",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -281,7 +281,7 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-27T12:38:05.695810",
+      "parsed_at": "2026-04-27T17:27:05.698914",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -301,21 +301,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-26T08:04:00"
-    },
-    {
-      "duration": 86280,
-      "end": "2026-04-27T17:57:00",
-      "event": "TestA1.0 [public, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/aonkon-1",
-      "id": 67262978,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2026-04-26T17:59:00"
     },
     {
       "duration": 3600,
@@ -1156,6 +1141,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-16T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-16T16:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2228",
+      "id": 67283563,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-05-16T14:35:00"
     },
     {
       "duration": 25200,
