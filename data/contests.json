@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-28T02:02:35Z",
-  "count": 155,
+  "lastUpdated": "2026-04-28T07:26:39Z",
+  "count": 157,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 454,
-      "parsed_at": "2026-04-27T17:19:06.208946",
+      "parsed_at": "2026-04-28T05:20:08.089365",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -258,15 +258,15 @@
       "start": "2026-04-16T19:01:30"
     },
     {
-      "duration": 259200,
-      "end": "2026-04-28T12:30:00",
+      "duration": 712740,
+      "end": "2026-05-03T18:29:00",
       "event": "Weekly Hiring Contest | Top Tier MNC | April 2026",
       "host": "naukri.com/code360",
       "href": "https://www.naukri.com/code360/contests/weekly-hiring-contest-top-tier-mnc-april-2026",
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-27T22:15:06.919008",
+      "parsed_at": "2026-04-28T03:04:07.687110",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -1158,6 +1158,21 @@
       "start": "2026-05-23T08:00:00"
     },
     {
+      "duration": 6000,
+      "end": "2026-05-23T13:40:00",
+      "event": "Tokio Marine & Nichido Fire Insurance Programming Contest 2026 (AtCoder Beginner Contest 459)",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc459",
+      "id": 67293892,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-05-23T12:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-05-24T14:00:00",
       "event": "SecLeaf Q2 CTF 2026",
@@ -1666,6 +1681,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-07-12T04:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-16T09:00:00",
+      "event": "2026牛客暑期多校训练营1 [ACM]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/133876",
+      "id": 67295076,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-07-16T04:00:00"
     },
     {
       "duration": 172800,
