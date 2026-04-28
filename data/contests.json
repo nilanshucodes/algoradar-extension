@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-28T16:46:40Z",
-  "count": 158,
+  "lastUpdated": "2026-04-28T20:59:38Z",
+  "count": 157,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 454,
-      "parsed_at": "2026-04-28T05:20:08.089365",
+      "n_statistics": 455,
+      "parsed_at": "2026-04-28T17:21:06.522834",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -288,21 +288,6 @@
       "start": "2026-04-26T08:04:00"
     },
     {
-      "duration": 8100,
-      "end": "2026-04-28T16:50:00",
-      "event": "Codeforces Round 1095 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2226",
-      "id": 67027689,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-28T14:35:00"
-    },
-    {
       "duration": 25200,
       "end": "2026-04-29T11:00:00",
       "event": "Подготовка к отбору на IOI 2026",
@@ -365,7 +350,7 @@
     {
       "duration": 9000,
       "end": "2026-04-30T17:05:00",
-      "event": "Codeforces Round (Div. 3)",
+      "event": "Codeforces Round 1096 (Div. 3)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2227",
       "id": 67168332,
