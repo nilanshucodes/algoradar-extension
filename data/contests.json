@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-29T16:23:52Z",
-  "count": 156,
+  "lastUpdated": "2026-04-29T20:53:16Z",
+  "count": 162,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 455,
-      "parsed_at": "2026-04-29T05:22:06.323951",
+      "n_statistics": 456,
+      "parsed_at": "2026-04-29T17:23:57.067132",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -288,38 +288,8 @@
       "start": "2026-04-26T08:04:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-04-29T16:30:00",
-      "event": "Starters 236 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START236",
-      "id": 66401823,
-      "n_problems": 8,
-      "n_statistics": 14478,
-      "parsed_at": "2026-04-29T16:08:06.733109",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-04-29T14:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-04-29T17:00:00",
-      "event": "Beginner Contest 111",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-111",
-      "id": 66999369,
-      "n_problems": null,
-      "n_statistics": 12,
-      "parsed_at": "2026-04-29T16:20:14.220566",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-04-29T15:30:00"
-    },
-    {
       "duration": 10800,
-      "end": "2026-04-30T03:30:00",
+      "end": "2026-04-30T05:30:00",
       "event": "CodeGem 4.0 || Gauhati University X GFG",
       "host": "geeksforgeeks.org",
       "href": "https://practice.geeksforgeeks.org/contest/codegem-40-gauhati-university-x-gfg/",
@@ -330,7 +300,7 @@
       "problems": null,
       "resource": "geeksforgeeks.org",
       "resource_id": 126,
-      "start": "2026-04-30T00:30:00"
+      "start": "2026-04-30T02:30:00"
     },
     {
       "duration": 9000,
@@ -421,6 +391,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-01T18:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-05-03T18:30:00",
+      "event": "Weekend Dev Challenge 48: Golang Projects",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DEVWEEKEND48",
+      "id": 67320784,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-05-01T18:30:00"
     },
     {
       "duration": 18000,
@@ -738,6 +723,21 @@
       "start": "2026-05-06T06:05:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-05-06T16:30:00",
+      "event": "Starters 237",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START237",
+      "id": 67320783,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-05-06T14:30:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-05-08T11:00:00",
       "event": "THCon 2K26 CTF",
@@ -948,6 +948,51 @@
       "start": "2026-05-13T04:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-05-13T16:30:00",
+      "event": "Starters 238",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START238",
+      "id": 67320782,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-05-13T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-05-13T17:00:00",
+      "event": "Beginner Contest 112",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-112",
+      "id": 67320876,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-05-13T15:30:00"
+    },
+    {
+      "duration": 0,
+      "end": "2026-05-14T13:33:00",
+      "event": "Community Code Cup [sport_coding]. Code Cup X",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1774",
+      "id": 67320721,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-05-14T13:33:00"
+    },
+    {
       "duration": 255600,
       "end": "2026-05-17T23:00:00",
       "event": "NorthSec 2026",
@@ -1098,6 +1143,21 @@
       "start": "2026-05-20T04:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2026-05-20T16:30:00",
+      "event": "Starters 239",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START239",
+      "id": 67320781,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-05-20T14:30:00"
+    },
+    {
       "duration": 172800,
       "end": "2026-05-24T21:00:00",
       "event": "DEF CON CTF Qualifier 2026",
@@ -1186,6 +1246,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-05-27T04:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-27T16:30:00",
+      "event": "Starters 240",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START240",
+      "id": 67320780,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-05-27T14:30:00"
     },
     {
       "duration": 2400,
@@ -2191,6 +2266,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-10-11T04:00:00"
+    },
+    {
+      "duration": 25200,
+      "end": "2026-10-18T11:00:00",
+      "event": "Программирование - профессионалы (ком. 2026)",
+      "host": "dl.gsu.by",
+      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 67320865,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "dl.gsu.by",
+      "resource_id": 4,
+      "start": "2026-10-18T04:00:00"
     },
     {
       "duration": 7200,
