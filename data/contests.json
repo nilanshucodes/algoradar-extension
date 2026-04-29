@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T02:04:06Z",
+  "lastUpdated": "2026-04-29T07:14:54Z",
   "count": 157,
   "contests": [
     {
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 455,
-      "parsed_at": "2026-04-28T17:21:06.522834",
+      "parsed_at": "2026-04-29T05:22:06.323951",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -205,8 +205,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 1,
-      "n_statistics": 237,
-      "parsed_at": "2026-04-26T04:38:06.312681",
+      "n_statistics": 266,
+      "parsed_at": "2026-04-29T04:39:06.499201",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -305,7 +305,7 @@
     {
       "duration": 7200,
       "end": "2026-04-29T16:30:00",
-      "event": "Starters 236",
+      "event": "Starters 236 (Rated till 5 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START236",
       "id": 66401823,
