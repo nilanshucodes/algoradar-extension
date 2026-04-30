@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T07:23:42Z",
-  "count": 164,
+  "lastUpdated": "2026-04-30T11:22:48Z",
+  "count": 166,
   "contests": [
     {
       "duration": 23612094,
@@ -483,21 +483,6 @@
       "start": "2026-05-02T12:00:00"
     },
     {
-      "duration": 9000,
-      "end": "2026-05-02T17:05:00",
-      "event": "KEP Contest #19. Rated",
-      "host": "kep.uz",
-      "href": "https://kep.uz/competitions/contests/contest/496",
-      "id": 67258732,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kep.uz",
-      "resource_id": 146,
-      "start": "2026-05-02T14:35:00"
-    },
-    {
       "duration": 5400,
       "end": "2026-05-03T04:00:00",
       "event": "Weekly Contest 500",
@@ -616,6 +601,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-05-03T12:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-05-03T17:05:00",
+      "event": "KEP Contest #19. Rated",
+      "host": "kep.uz",
+      "href": "https://kep.uz/competitions/contests/contest/496",
+      "id": 67258732,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kep.uz",
+      "resource_id": 146,
+      "start": "2026-05-03T14:35:00"
     },
     {
       "duration": 9000,
@@ -901,6 +901,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-05-10T04:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-10T13:00:00",
+      "event": "牛客周赛 Round 143",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/134529",
+      "id": 67332021,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-05-10T11:00:00"
     },
     {
       "duration": 7200,
@@ -1426,6 +1441,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-06-03T04:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-03T16:30:00",
+      "event": "Starters 241",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START241",
+      "id": 67332939,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-06-03T14:30:00"
     },
     {
       "duration": 129600,
