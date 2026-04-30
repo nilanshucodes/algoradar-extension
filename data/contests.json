@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T20:53:16Z",
+  "lastUpdated": "2026-04-30T02:03:47Z",
   "count": 162,
   "contests": [
     {
@@ -266,7 +266,7 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-29T10:18:06.431932",
+      "parsed_at": "2026-04-29T23:30:08.108902",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -603,8 +603,8 @@
       "start": "2026-05-03T12:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-05-03T16:35:00",
+      "duration": 9000,
+      "end": "2026-05-03T17:05:00",
       "event": "Repovive Premier Round 3",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
@@ -615,7 +615,7 @@
       "problems": null,
       "resource": "repovive.com",
       "resource_id": 180,
-      "start": "2026-05-03T13:35:00"
+      "start": "2026-05-03T14:35:00"
     },
     {
       "duration": 18000,
