@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T11:22:48Z",
-  "count": 166,
+  "lastUpdated": "2026-04-30T16:12:59Z",
+  "count": 167,
   "contests": [
     {
       "duration": 23612094,
@@ -266,7 +266,7 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-29T23:30:08.108902",
+      "parsed_at": "2026-04-30T12:42:06.164886",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -325,8 +325,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-228",
       "id": 67194310,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 60,
+      "parsed_at": "2026-04-30T16:12:06.763610",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -646,6 +646,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-05-04T04:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-05-04T15:30:00",
+      "event": "Monday Munch - DSA Challenge 001 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY001",
+      "id": 67336733,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-05-04T12:30:00"
     },
     {
       "duration": 18000,
