@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T16:12:59Z",
+  "lastUpdated": "2026-04-30T20:51:08Z",
   "count": 167,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 457,
-      "parsed_at": "2026-04-30T05:24:07.145368",
+      "n_statistics": 473,
+      "parsed_at": "2026-04-30T17:25:06.228308",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -288,51 +288,6 @@
       "start": "2026-04-26T08:04:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-04-30T17:30:00",
-      "event": "CodeGem 4.0 Gauhati University X GFG",
-      "host": "geeksforgeeks.org",
-      "href": "https://practice.geeksforgeeks.org/contest/codegem-40-gauhati-university-x-gfg-5917/",
-      "id": 67328221,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "geeksforgeeks.org",
-      "resource_id": 126,
-      "start": "2026-04-30T14:30:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-04-30T17:05:00",
-      "event": "Codeforces Round 1096 (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2227",
-      "id": 67168332,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-04-30T14:35:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-04-30T17:01:00",
-      "event": "Weekly Contest 228",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-228",
-      "id": 67194310,
-      "n_problems": null,
-      "n_statistics": 60,
-      "parsed_at": "2026-04-30T16:12:06.763610",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-04-30T15:01:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-05-01T09:00:00",
       "event": "2026牛客五一集训派对day1 [ACM]",
@@ -361,6 +316,21 @@
       "resource": "hackerrank.com",
       "resource_id": 63,
       "start": "2026-05-01T05:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-05-01T09:30:00",
+      "event": "Intra LU Programming Contest - reply",
+      "host": "judge.eluminatis-of-lu.com",
+      "href": "https://serious-oj.com/contest/69f3af6d78d6d94012233be1",
+      "id": 67342581,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "judge.eluminatis-of-lu.com",
+      "resource_id": 177,
+      "start": "2026-05-01T06:30:00"
     },
     {
       "duration": 129600,
@@ -781,6 +751,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-07T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-07T17:01:00",
+      "event": "Weekly Contest 229",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-229",
+      "id": 67340365,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-05-07T15:01:00"
     },
     {
       "duration": 198000,
@@ -1276,6 +1261,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-23T14:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-05-23T17:35:00",
+      "event": "Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2229",
+      "id": 67340477,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-05-23T14:35:00"
     },
     {
       "duration": 25200,
