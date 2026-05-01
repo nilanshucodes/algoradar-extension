@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-01T07:21:56Z",
-  "count": 169,
+  "lastUpdated": "2026-05-01T11:01:17Z",
+  "count": 168,
   "contests": [
     {
       "duration": 23612094,
@@ -288,21 +288,6 @@
       "start": "2026-05-01T00:00:03"
     },
     {
-      "duration": 18000,
-      "end": "2026-05-01T09:00:00",
-      "event": "2026牛客五一集训派对day1 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133439",
-      "id": 66984151,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-05-01T04:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-05-02T05:30:00",
       "event": "HackerRank Orchestrate",
@@ -318,21 +303,6 @@
       "start": "2026-05-01T05:30:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-05-01T09:30:00",
-      "event": "Intra LU Programming Contest - reply",
-      "host": "judge.eluminatis-of-lu.com",
-      "href": "https://serious-oj.com/contest/69f3af6d78d6d94012233be1",
-      "id": 67342581,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "judge.eluminatis-of-lu.com",
-      "resource_id": 177,
-      "start": "2026-05-01T06:30:00"
-    },
-    {
       "duration": 129600,
       "end": "2026-05-02T19:00:00",
       "event": "KubSTU CTF",
@@ -346,6 +316,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-01T07:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-05-01T17:30:00",
+      "event": "Intra LU Programming Contest - replay",
+      "host": "judge.eluminatis-of-lu.com",
+      "href": "https://serious-oj.com/contest/69f3af6d78d6d94012233be1",
+      "id": 67342581,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "judge.eluminatis-of-lu.com",
+      "resource_id": 177,
+      "start": "2026-05-01T14:30:00"
     },
     {
       "duration": 172800,
