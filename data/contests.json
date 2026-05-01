@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T11:01:17Z",
+  "lastUpdated": "2026-05-01T15:47:20Z",
   "count": 168,
   "contests": [
     {
@@ -251,7 +251,7 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-05-01T01:54:08.436808",
+      "parsed_at": "2026-05-01T15:06:08.190734",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -406,21 +406,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-02T08:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-05-03T10:00:00",
-      "event": "Midnight Sun CTF 2026 Quals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/2773/",
-      "id": 67092522,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-05-02T10:00:00"
     },
     {
       "duration": 6000,
@@ -841,6 +826,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-09T09:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2026-05-10T10:00:00",
+      "event": "Midnight Sun CTF 2026 Quals",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/2773/",
+      "id": 67092522,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-05-09T10:00:00"
     },
     {
       "duration": 6000,
