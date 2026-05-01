@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T20:51:08Z",
-  "count": 167,
+  "lastUpdated": "2026-05-01T02:07:33Z",
+  "count": 168,
   "contests": [
     {
       "duration": 23612094,
@@ -168,21 +168,6 @@
       "start": "2026-03-25T17:38:23"
     },
     {
-      "duration": 2591948,
-      "end": "2026-04-30T23:59:00",
-      "event": "Predicting Irrigation Need [beginner, tabular, balanced accuracy score]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/playground-series-s6e4",
-      "id": 66626231,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-03-31T23:59:52"
-    },
-    {
       "duration": 4003442,
       "end": "2026-05-18T23:59:00",
       "event": "The Gemma 4 Good Hackathon [artificial intelligence, tabular, text]",
@@ -266,7 +251,7 @@
       "id": 67168452,
       "n_problems": null,
       "n_statistics": null,
-      "parsed_at": "2026-04-30T12:42:06.164886",
+      "parsed_at": "2026-05-01T01:54:08.436808",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
@@ -286,6 +271,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-26T08:04:00"
+    },
+    {
+      "duration": 2678337,
+      "end": "2026-05-31T23:59:00",
+      "event": "Predicting F1 Pit Stops [beginner, tabular, roc auc score]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/playground-series-s6e5",
+      "id": 67346903,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-05-01T00:00:03"
     },
     {
       "duration": 18000,
@@ -931,6 +931,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-10T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-10T15:35:00",
+      "event": "Repovive Starter Round 1",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 67344519,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-05-10T13:35:00"
     },
     {
       "duration": 10800,
