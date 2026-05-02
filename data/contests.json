@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-02T06:57:29Z",
-  "count": 168,
+  "lastUpdated": "2026-05-02T10:42:26Z",
+  "count": 167,
   "contests": [
     {
       "duration": 23612094,
@@ -355,27 +355,12 @@
       "href": "https://www.codechef.com/DEVWEEKEND48",
       "id": 67320784,
       "n_problems": 5,
-      "n_statistics": 10,
-      "parsed_at": "2026-05-02T04:08:07.986453",
+      "n_statistics": 22,
+      "parsed_at": "2026-05-02T10:34:07.186837",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-05-01T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-05-02T09:00:00",
-      "event": "2026牛客五一集训派对day2 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133506",
-      "id": 67108027,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-05-02T04:00:00"
     },
     {
       "duration": 18000,
