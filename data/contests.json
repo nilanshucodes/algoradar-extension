@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T10:42:26Z",
+  "lastUpdated": "2026-05-02T15:38:07Z",
   "count": 167,
   "contests": [
     {
@@ -355,8 +355,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND48",
       "id": 67320784,
       "n_problems": 5,
-      "n_statistics": 22,
-      "parsed_at": "2026-05-02T10:34:07.186837",
+      "n_statistics": 28,
+      "parsed_at": "2026-05-02T13:47:07.767172",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -391,21 +391,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-02T08:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-05-02T13:40:00",
-      "event": "AtCoder Beginner Contest 456",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc456",
-      "id": 66928512,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-05-02T12:00:00"
     },
     {
       "duration": 5400,
@@ -855,6 +840,21 @@
       "problems": null,
       "resource": "leetcode.com",
       "resource_id": 102,
+      "start": "2026-05-09T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-09T16:30:00",
+      "event": "RoboContest Round #110 | 9-may Xotira va qadrlash kuni",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3852",
+      "id": 67382437,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
       "start": "2026-05-09T14:30:00"
     },
     {
