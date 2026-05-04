@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T16:25:57Z",
-  "count": 159,
+  "lastUpdated": "2026-05-04T20:58:40Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 490,
-      "parsed_at": "2026-05-04T05:32:07.809356",
+      "n_statistics": 500,
+      "parsed_at": "2026-05-04T17:33:07.694638",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -633,6 +633,21 @@
       "start": "2026-05-10T04:00:00"
     },
     {
+      "duration": 0,
+      "end": "2026-05-10T06:00:00",
+      "event": "Problem 996",
+      "host": "projecteuler.net",
+      "href": "https://projecteuler.net/news",
+      "id": 67430026,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "projecteuler.net",
+      "resource_id": 65,
+      "start": "2026-05-10T06:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-05-10T13:00:00",
       "event": "牛客周赛 Round 143",
@@ -903,6 +918,21 @@
       "start": "2026-05-17T05:00:00"
     },
     {
+      "duration": 0,
+      "end": "2026-05-17T09:00:00",
+      "event": "Problem 997",
+      "host": "projecteuler.net",
+      "href": "https://projecteuler.net/news",
+      "id": 67430027,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "projecteuler.net",
+      "resource_id": 65,
+      "start": "2026-05-17T09:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-05-17T14:00:00",
       "event": "AtCoder Regular Contest++ 220",
@@ -1005,6 +1035,21 @@
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
+      "start": "2026-05-23T12:00:00"
+    },
+    {
+      "duration": 0,
+      "end": "2026-05-23T12:00:00",
+      "event": "Problem 998",
+      "host": "projecteuler.net",
+      "href": "https://projecteuler.net/news",
+      "id": 67430028,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "projecteuler.net",
+      "resource_id": 65,
       "start": "2026-05-23T12:00:00"
     },
     {
@@ -1203,6 +1248,21 @@
       "start": "2026-05-30T12:00:00"
     },
     {
+      "duration": 0,
+      "end": "2026-05-30T15:00:00",
+      "event": "Problem 999",
+      "host": "projecteuler.net",
+      "href": "https://projecteuler.net/news",
+      "id": 67430029,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "projecteuler.net",
+      "resource_id": 65,
+      "start": "2026-05-30T15:00:00"
+    },
+    {
       "duration": 25200,
       "end": "2026-05-31T11:00:00",
       "event": "Программирование - профессионалы (ком. 2026)",
@@ -1306,6 +1366,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-06T12:00:00"
+    },
+    {
+      "duration": 0,
+      "end": "2026-06-06T18:00:00",
+      "event": "Problem 1000",
+      "host": "projecteuler.net",
+      "href": "https://projecteuler.net/news",
+      "id": 67430030,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "projecteuler.net",
+      "resource_id": 65,
+      "start": "2026-06-06T18:00:00"
     },
     {
       "duration": 25200,
