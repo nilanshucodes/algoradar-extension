@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T11:42:24Z",
-  "count": 160,
+  "lastUpdated": "2026-05-04T16:25:57Z",
+  "count": 159,
   "contests": [
     {
       "duration": 23612094,
@@ -271,21 +271,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-05-01T16:24:03"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-05-04T15:30:00",
-      "event": "Monday Munch - DSA Challenge 001 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY001",
-      "id": 67336733,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-05-04T12:30:00"
     },
     {
       "duration": 18000,
