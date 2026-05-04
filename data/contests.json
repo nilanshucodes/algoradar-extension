@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T01:59:27Z",
+  "lastUpdated": "2026-05-04T07:42:46Z",
   "count": 161,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 489,
-      "parsed_at": "2026-05-03T17:31:08.329513",
+      "n_statistics": 490,
+      "parsed_at": "2026-05-04T05:32:07.809356",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -61,21 +61,6 @@
       "resource": "datsteam.dev",
       "resource_id": 174,
       "start": "2025-11-13T00:00:00"
-    },
-    {
-      "duration": 5266800,
-      "end": "2026-05-04T04:00:00",
-      "event": "ICRA 2026 Sim2Real Soccer Challenge",
-      "host": "competesai.com",
-      "href": "https://competesai.com/competitions/icra-sim2real-soccer",
-      "id": 63991366,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "competesai.com",
-      "resource_id": 182,
-      "start": "2026-03-04T05:00:00"
     },
     {
       "duration": 7282422,
@@ -1111,6 +1096,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-24T04:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-05-24T14:00:00",
+      "event": "UOJ Round #34",
+      "host": "uoj.ac",
+      "href": "https://uoj.ac/contest/107",
+      "id": 67418157,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "uoj.ac",
+      "resource_id": 172,
+      "start": "2026-05-24T10:00:00"
     },
     {
       "duration": 25200,
