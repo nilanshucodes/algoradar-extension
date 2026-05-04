@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T07:42:46Z",
-  "count": 161,
+  "lastUpdated": "2026-05-04T11:42:24Z",
+  "count": 160,
   "contests": [
     {
       "duration": 23612094,
@@ -271,21 +271,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-05-01T16:24:03"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-05-04T09:00:00",
-      "event": "2026牛客五一集训派对day4 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133508",
-      "id": 67159645,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-05-04T04:00:00"
     },
     {
       "duration": 10800,
