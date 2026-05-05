@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-05T07:12:28Z",
-  "count": 165,
+  "lastUpdated": "2026-05-05T11:11:09Z",
+  "count": 163,
   "contests": [
     {
       "duration": 23612094,
@@ -271,36 +271,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-05-01T16:24:03"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-05-05T09:00:00",
-      "event": "Next DP Contest",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/ndpc",
-      "id": 67094456,
-      "n_problems": 20,
-      "n_statistics": 656,
-      "parsed_at": "2026-05-05T07:02:28.571484",
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-05-05T04:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-05-05T09:00:00",
-      "event": "2026牛客五一集训派对day5 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133509",
-      "id": 67159646,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-05-05T04:00:00"
     },
     {
       "duration": 86400,
