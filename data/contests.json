@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-05T01:59:10Z",
-  "count": 164,
+  "lastUpdated": "2026-05-05T07:12:28Z",
+  "count": 165,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 500,
-      "parsed_at": "2026-05-04T17:33:07.694638",
+      "parsed_at": "2026-05-05T05:34:07.832988",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -175,8 +175,8 @@
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
       "n_problems": 1,
-      "n_statistics": 297,
-      "parsed_at": "2026-05-02T04:40:08.374733",
+      "n_statistics": 325,
+      "parsed_at": "2026-05-05T04:41:08.438055",
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
@@ -279,9 +279,9 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/ndpc",
       "id": 67094456,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 20,
+      "n_statistics": 656,
+      "parsed_at": "2026-05-05T07:02:28.571484",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -946,6 +946,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-05-17T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-17T15:35:00",
+      "event": "Repovive Standard Round 3",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 67442887,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-05-17T13:35:00"
     },
     {
       "duration": 172800,
