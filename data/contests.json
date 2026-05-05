@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-05T11:11:09Z",
-  "count": 163,
+  "lastUpdated": "2026-05-05T16:18:33Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -286,6 +286,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-05T06:30:00"
+    },
+    {
+      "duration": 7978726,
+      "end": "2026-08-05T23:59:00",
+      "event": "ROGII - Wellbore Geology Prediction [geology, multimodal, evaluation, mean squared error]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction",
+      "id": 67452318,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-05-05T15:40:14"
     },
     {
       "duration": 25200,
