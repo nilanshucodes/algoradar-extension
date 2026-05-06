@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T16:23:05Z",
-  "count": 165,
+  "lastUpdated": "2026-05-06T21:03:06Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 519,
-      "parsed_at": "2026-05-06T05:36:08.264547",
+      "n_statistics": 537,
+      "parsed_at": "2026-05-06T17:37:05.815567",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -294,28 +294,13 @@
       "host": "bubblecup.org",
       "href": "https://www.bubblecup.org/CompetitorsCorner/Problems",
       "id": 67472080,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 10,
+      "n_statistics": 2,
+      "parsed_at": "2026-05-06T19:00:07.311038",
       "problems": null,
       "resource": "bubblecup.org",
       "resource_id": 101,
       "start": "2026-05-06T13:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-05-06T16:30:00",
-      "event": "Starters 237 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START237",
-      "id": 67320783,
-      "n_problems": 8,
-      "n_statistics": 13813,
-      "parsed_at": "2026-05-06T16:08:05.690638",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-05-06T14:30:00"
     },
     {
       "duration": 86400,
