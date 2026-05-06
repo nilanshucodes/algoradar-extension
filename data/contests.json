@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T01:58:48Z",
-  "count": 165,
+  "lastUpdated": "2026-05-06T07:42:07Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 514,
-      "parsed_at": "2026-05-05T17:35:07.468883",
+      "n_statistics": 519,
+      "parsed_at": "2026-05-06T05:36:08.264547",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -271,21 +271,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-05-01T16:24:03"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-05-06T06:30:00",
-      "event": "RAZER CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3241/",
-      "id": 66930396,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-05-05T06:30:00"
     },
     {
       "duration": 7978726,
