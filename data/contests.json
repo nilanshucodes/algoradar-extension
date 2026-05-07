@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T11:41:56Z",
+  "lastUpdated": "2026-05-07T16:43:16Z",
   "count": 170,
   "contests": [
     {
@@ -295,8 +295,8 @@
       "href": "https://www.bubblecup.org/CompetitorsCorner/Problems",
       "id": 67472080,
       "n_problems": 10,
-      "n_statistics": 2,
-      "parsed_at": "2026-05-06T19:00:07.311038",
+      "n_statistics": 7,
+      "parsed_at": "2026-05-07T14:29:11.861573",
       "problems": null,
       "resource": "bubblecup.org",
       "resource_id": 101,
@@ -325,8 +325,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-229",
       "id": 67340365,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 124,
+      "parsed_at": "2026-05-07T16:39:05.839699",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
