@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-08T16:08:59Z",
-  "count": 174,
+  "lastUpdated": "2026-05-08T20:47:51Z",
+  "count": 173,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 542,
-      "parsed_at": "2026-05-08T05:40:06.387565",
+      "n_statistics": 549,
+      "parsed_at": "2026-05-08T17:41:06.239777",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -316,36 +316,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-08T10:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-05-08T19:00:00",
-      "event": "UOI 2026. Day 1",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/uveh0bl5m55f5dfr3loqsk2ov0",
-      "id": 67516421,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": "2026-05-08T16:05:05.748342",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-05-08T14:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-05-08T17:00:00",
-      "event": "Educational Round 2",
-      "host": "judge.eluminatis-of-lu.com",
-      "href": "https://serious-oj.com/contest/69fc327291f2a2e18ca3d006",
-      "id": 67489810,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "judge.eluminatis-of-lu.com",
-      "resource_id": 177,
-      "start": "2026-05-08T14:30:00"
     },
     {
       "duration": 151200,
@@ -1471,6 +1441,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-05T10:00:00"
+    },
+    {
+      "duration": 259200,
+      "end": "2026-06-08T17:00:00",
+      "event": "RPCA CTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3278/",
+      "id": 67524120,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-06-05T17:00:00"
     },
     {
       "duration": 86400,
