@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-11T17:19:13Z",
-  "count": 162,
+  "lastUpdated": "2026-05-11T21:10:30Z",
+  "count": 163,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 552,
-      "parsed_at": "2026-05-11T05:46:05.888499",
+      "n_statistics": 553,
+      "parsed_at": "2026-05-11T17:47:06.388388",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -341,7 +341,7 @@
       "id": 67532809,
       "n_problems": 5,
       "n_statistics": 11,
-      "parsed_at": "2026-05-11T12:30:07.563638",
+      "parsed_at": "2026-05-11T18:55:06.461070",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
@@ -541,6 +541,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-15T16:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-05-16T09:05:00",
+      "event": "NDUB Inter University Programming Contest 2026 - Online Mirror. trqrizu",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106522",
+      "id": 67598487,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-05-16T04:05:00"
     },
     {
       "duration": 14400,
