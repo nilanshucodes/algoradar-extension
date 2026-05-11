@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T08:19:59Z",
+  "lastUpdated": "2026-05-11T12:34:15Z",
   "count": 164,
   "contests": [
     {
@@ -340,8 +340,8 @@
       "href": "https://dmoj.ca/contest/gtpc26ir",
       "id": 67532809,
       "n_problems": 5,
-      "n_statistics": 9,
-      "parsed_at": "2026-05-11T06:05:05.621298",
+      "n_statistics": 11,
+      "parsed_at": "2026-05-11T12:30:07.563638",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
