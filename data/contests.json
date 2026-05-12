@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T11:47:07Z",
+  "lastUpdated": "2026-05-12T17:02:37Z",
   "count": 162,
   "contests": [
     {
@@ -341,7 +341,7 @@
       "id": 67532809,
       "n_problems": 5,
       "n_statistics": 13,
-      "parsed_at": "2026-05-12T07:45:07.203080",
+      "parsed_at": "2026-05-12T14:10:07.319202",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
