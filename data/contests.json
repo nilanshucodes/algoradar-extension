@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-12T07:37:35Z",
-  "count": 163,
+  "lastUpdated": "2026-05-12T11:47:07Z",
+  "count": 162,
   "contests": [
     {
       "duration": 23612094,
@@ -295,8 +295,8 @@
       "href": "https://www.bubblecup.org/CompetitorsCorner/Problems",
       "id": 67472080,
       "n_problems": 10,
-      "n_statistics": 33,
-      "parsed_at": "2026-05-11T15:54:06.559115",
+      "n_statistics": 37,
+      "parsed_at": "2026-05-12T11:23:11.485658",
       "problems": null,
       "resource": "bubblecup.org",
       "resource_id": 101,
@@ -341,7 +341,7 @@
       "id": 67532809,
       "n_problems": 5,
       "n_statistics": 13,
-      "parsed_at": "2026-05-12T01:20:06.609696",
+      "parsed_at": "2026-05-12T07:45:07.203080",
       "problems": null,
       "resource": "dmoj.ca",
       "resource_id": 77,
@@ -1305,21 +1305,6 @@
       "problems": null,
       "resource": "ctftime.org",
       "resource_id": 70,
-      "start": "2026-06-06T12:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-06-06T13:40:00",
-      "event": "AtCoder Beginner Contest 461",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc461",
-      "id": 67489436,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
       "start": "2026-06-06T12:00:00"
     },
     {
