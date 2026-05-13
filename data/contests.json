@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-13T11:55:36Z",
-  "count": 166,
+  "lastUpdated": "2026-05-13T17:08:46Z",
+  "count": 164,
   "contests": [
     {
       "duration": 23612094,
@@ -333,36 +333,6 @@
       "start": "2026-05-09T12:00:00"
     },
     {
-      "duration": 5400,
-      "end": "2026-05-13T16:00:00",
-      "event": "Greater Toronto Programming Competition Individual Round (Mirror)",
-      "host": "dmoj.ca",
-      "href": "https://dmoj.ca/contest/gtpc26ir",
-      "id": 67532809,
-      "n_problems": 5,
-      "n_statistics": 16,
-      "parsed_at": "2026-05-13T09:25:06.476684",
-      "problems": null,
-      "resource": "dmoj.ca",
-      "resource_id": 77,
-      "start": "2026-05-09T16:00:00"
-    },
-    {
-      "duration": 284400,
-      "end": "2026-05-13T15:00:00",
-      "event": "RAMunchers CTF",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3283/",
-      "id": 67521113,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-05-10T08:00:00"
-    },
-    {
       "duration": 1123200,
       "end": "2026-05-25T08:00:00",
       "event": "Spring Challenge 2026",
@@ -391,36 +361,6 @@
       "resource": "usaco.org",
       "resource_id": 25,
       "start": "2026-05-12T12:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-05-13T17:00:00",
-      "event": "Starters 238 (Rated till 6 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START238",
-      "id": 67320782,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-05-13T14:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-05-13T17:00:00",
-      "event": "Beginner Contest 112",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-112",
-      "id": 67320876,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-05-13T15:30:00"
     },
     {
       "duration": 0,
@@ -511,6 +451,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-05-15T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-15T17:00:00",
+      "event": "4-KHIMIO O'zbekiston terma jamoasiga nomzodlarni saralash bosqichi [MIRROR]",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3875",
+      "id": 67644298,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-05-15T15:00:00"
     },
     {
       "duration": 172800,
@@ -620,7 +575,7 @@
     {
       "duration": 8100,
       "end": "2026-05-16T16:50:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1098 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2228",
       "id": 67283563,
@@ -841,6 +796,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-05-20T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-05-21T16:35:00",
+      "event": "Codeforces Round (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2231",
+      "id": 67641553,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-05-21T14:35:00"
     },
     {
       "duration": 9000,
