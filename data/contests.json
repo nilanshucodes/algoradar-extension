@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-12T21:09:25Z",
-  "count": 162,
+  "lastUpdated": "2026-05-13T02:12:32Z",
+  "count": 163,
   "contests": [
     {
       "duration": 23612094,
@@ -766,6 +766,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-05-17T13:35:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-05-17T22:00:00",
+      "event": "VII UnBalloon Contest Mirror. arthur_9548",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106523",
+      "id": 67628264,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-05-17T17:00:00"
     },
     {
       "duration": 172800,
