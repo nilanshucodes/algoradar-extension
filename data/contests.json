@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-16T02:04:44Z",
-  "count": 167,
+  "lastUpdated": "2026-05-16T07:10:13Z",
+  "count": 169,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 581,
-      "parsed_at": "2026-05-15T17:55:06.633265",
+      "n_statistics": 582,
+      "parsed_at": "2026-05-16T05:56:06.011805",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -325,8 +325,8 @@
       "href": "https://www.codingame.com/contests/spring-challenge-2026-troll-farm",
       "id": 67275504,
       "n_problems": null,
-      "n_statistics": 1297,
-      "parsed_at": "2026-05-16T02:00:10.555806",
+      "n_statistics": 1314,
+      "parsed_at": "2026-05-16T06:48:07.259167",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -400,8 +400,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND50",
       "id": 67638793,
       "n_problems": 5,
-      "n_statistics": 6,
-      "parsed_at": "2026-05-16T00:54:07.441103",
+      "n_statistics": 7,
+      "parsed_at": "2026-05-16T04:07:06.986025",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -409,7 +409,7 @@
     },
     {
       "duration": 18000,
-      "end": "2026-05-16T09:05:00",
+      "end": "2026-05-16T09:35:00",
       "event": "NDUB Inter University Programming Contest 2026 - Online Mirror. trqrizu",
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106522",
@@ -420,7 +420,7 @@
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
-      "start": "2026-05-16T04:05:00"
+      "start": "2026-05-16T04:35:00"
     },
     {
       "duration": 14400,
@@ -429,9 +429,9 @@
       "host": "atcoder.jp",
       "href": "https://atcoder.jp/contests/ahc065",
       "id": 67158894,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 1,
+      "n_statistics": 1301,
+      "parsed_at": "2026-05-16T07:08:31.777260",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -465,6 +465,21 @@
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
+      "start": "2026-05-16T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-05-16T12:00:00",
+      "event": "EGOI 2026, Italy. Day 2",
+      "host": "egoi.org",
+      "href": "https://egoi2026.it/",
+      "id": 67705814,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "egoi.org",
+      "resource_id": 186,
       "start": "2026-05-16T07:00:00"
     },
     {
@@ -559,7 +574,7 @@
     },
     {
       "duration": 0,
-      "end": "2026-05-17T10:00:00",
+      "end": "2026-05-17T09:00:00",
       "event": "Problem 997",
       "host": "projecteuler.net",
       "href": "https://projecteuler.net/news",
@@ -570,7 +585,7 @@
       "problems": null,
       "resource": "projecteuler.net",
       "resource_id": 65,
-      "start": "2026-05-17T10:00:00"
+      "start": "2026-05-17T09:00:00"
     },
     {
       "duration": 7200,
@@ -676,6 +691,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-18T04:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-05-18T15:30:00",
+      "event": "Monday Munch - DSA Challenge 003 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY003",
+      "id": 67704150,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-05-18T12:30:00"
     },
     {
       "duration": 7200,
@@ -874,7 +904,7 @@
     },
     {
       "duration": 0,
-      "end": "2026-05-23T13:00:00",
+      "end": "2026-05-23T12:00:00",
       "event": "Problem 998",
       "host": "projecteuler.net",
       "href": "https://projecteuler.net/news",
@@ -885,7 +915,7 @@
       "problems": null,
       "resource": "projecteuler.net",
       "resource_id": 65,
-      "start": "2026-05-23T13:00:00"
+      "start": "2026-05-23T12:00:00"
     },
     {
       "duration": 86400,
@@ -1234,7 +1264,7 @@
     },
     {
       "duration": 0,
-      "end": "2026-05-30T16:00:00",
+      "end": "2026-05-30T15:00:00",
       "event": "Problem 999",
       "host": "projecteuler.net",
       "href": "https://projecteuler.net/news",
@@ -1245,7 +1275,7 @@
       "problems": null,
       "resource": "projecteuler.net",
       "resource_id": 65,
-      "start": "2026-05-30T16:00:00"
+      "start": "2026-05-30T15:00:00"
     },
     {
       "duration": 25200,
@@ -1384,7 +1414,7 @@
     },
     {
       "duration": 0,
-      "end": "2026-06-06T19:00:00",
+      "end": "2026-06-06T18:00:00",
       "event": "Problem 1000",
       "host": "projecteuler.net",
       "href": "https://projecteuler.net/news",
@@ -1395,7 +1425,7 @@
       "problems": null,
       "resource": "projecteuler.net",
       "resource_id": 65,
-      "start": "2026-06-06T19:00:00"
+      "start": "2026-06-06T18:00:00"
     },
     {
       "duration": 25200,
