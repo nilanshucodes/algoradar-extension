@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T20:38:43Z",
+  "lastUpdated": "2026-05-24T02:26:40Z",
   "count": 141,
   "contests": [
     {
@@ -280,8 +280,8 @@
       "href": "https://www.codingame.com/contests/spring-challenge-2026-troll-farm",
       "id": 67275504,
       "n_problems": null,
-      "n_statistics": 1969,
-      "parsed_at": "2026-05-23T20:20:08.432035",
+      "n_statistics": 1978,
+      "parsed_at": "2026-05-24T02:20:08.887664",
       "problems": null,
       "resource": "codingame.com",
       "resource_id": 81,
@@ -310,8 +310,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND51",
       "id": 67802715,
       "n_problems": 5,
-      "n_statistics": 21,
-      "parsed_at": "2026-05-23T20:12:08.553776",
+      "n_statistics": 22,
+      "parsed_at": "2026-05-23T23:25:06.561643",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
