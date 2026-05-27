@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T17:51:42Z",
+  "lastUpdated": "2026-05-27T21:49:39Z",
   "count": 136,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 631,
-      "parsed_at": "2026-05-27T06:21:06.642842",
+      "n_statistics": 632,
+      "parsed_at": "2026-05-27T18:22:06.303974",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -499,7 +499,7 @@
     },
     {
       "duration": 18000,
-      "end": "2026-05-30T21:00:00",
+      "end": "2026-05-30T22:00:00",
       "event": "XIII Maratona Mineira de Programação - XIII Minas Gerais Programming Contest. MvKaio",
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106552",
@@ -510,7 +510,7 @@
       "problems": null,
       "resource": "codeforces.com/gyms",
       "resource_id": 64,
-      "start": "2026-05-30T16:00:00"
+      "start": "2026-05-30T17:00:00"
     },
     {
       "duration": 18000,
