@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T17:56:28Z",
+  "lastUpdated": "2026-05-28T21:49:23Z",
   "count": 135,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 633,
-      "parsed_at": "2026-05-28T06:23:06.432390",
+      "n_statistics": 635,
+      "parsed_at": "2026-05-28T18:24:06.644991",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -440,7 +440,7 @@
     {
       "duration": 7200,
       "end": "2026-05-30T16:35:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1101 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2232",
       "id": 67654044,
