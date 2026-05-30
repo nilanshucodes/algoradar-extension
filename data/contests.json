@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-30T07:35:09Z",
-  "count": 149,
+  "lastUpdated": "2026-05-30T11:12:48Z",
+  "count": 148,
   "contests": [
     {
       "duration": 23612094,
@@ -310,8 +310,8 @@
       "href": "https://atcoder.jp/contests/ahc066",
       "id": 67489434,
       "n_problems": 1,
-      "n_statistics": 1676,
-      "parsed_at": "2026-05-29T17:01:02.946077",
+      "n_statistics": 1931,
+      "parsed_at": "2026-05-30T08:57:06.461341",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -355,8 +355,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND52",
       "id": 67955168,
       "n_problems": 5,
-      "n_statistics": 12,
-      "parsed_at": "2026-05-30T07:20:08.622704",
+      "n_statistics": 18,
+      "parsed_at": "2026-05-30T10:33:06.978249",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -376,21 +376,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-30T02:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-05-30T09:00:00",
-      "event": "第九届广西大学生程序设计大赛暨2026邀请赛（热身赛） [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/136163",
-      "id": 67951864,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-05-30T07:00:00"
     },
     {
       "duration": 21600,
