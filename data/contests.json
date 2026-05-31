@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-31T02:35:39Z",
-  "count": 140,
+  "lastUpdated": "2026-05-31T08:09:01Z",
+  "count": 141,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 638,
-      "parsed_at": "2026-05-30T18:28:06.230578",
+      "parsed_at": "2026-05-31T06:29:07.152241",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -325,8 +325,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND52",
       "id": 67955168,
       "n_problems": 5,
-      "n_statistics": 44,
-      "parsed_at": "2026-05-30T23:25:06.100326",
+      "n_statistics": 57,
+      "parsed_at": "2026-05-31T05:51:06.848943",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -376,36 +376,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-05-30T10:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-05-31T06:00:00",
-      "event": "第九届广西大学生程序设计大赛暨2026邀请赛 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/136164",
-      "id": 67951865,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-05-31T01:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-05-31T04:00:00",
-      "event": "Weekly Contest 504",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/weekly-contest-504",
-      "id": 67872655,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-05-31T02:30:00"
     },
     {
       "duration": 25200,
@@ -496,6 +466,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-06-01T11:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-06-01T15:30:00",
+      "event": "Monday Munch - DSA Challenge 004 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY005",
+      "id": 68040788,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-06-01T12:30:00"
     },
     {
       "duration": 9000,
@@ -616,6 +601,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-06T06:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-06-06T10:40:00",
+      "event": "CAT 2026 Final. jonathanirvings",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106556",
+      "id": 68036731,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-06-06T06:40:00"
     },
     {
       "duration": 86400,
@@ -750,6 +750,21 @@
       "problems": null,
       "resource": "codeforces.com",
       "resource_id": 1,
+      "start": "2026-06-07T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-07T16:35:00",
+      "event": "Repovive Standard Round 4",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68037618,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
       "start": "2026-06-07T14:35:00"
     },
     {
