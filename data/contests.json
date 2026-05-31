@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-31T11:27:49Z",
-  "count": 139,
+  "lastUpdated": "2026-05-31T15:59:37Z",
+  "count": 136,
   "contests": [
     {
       "duration": 23612094,
@@ -325,8 +325,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND52",
       "id": 67955168,
       "n_problems": 5,
-      "n_statistics": 72,
-      "parsed_at": "2026-05-31T09:04:07.649928",
+      "n_statistics": 114,
+      "parsed_at": "2026-05-31T15:30:08.663271",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -361,51 +361,6 @@
       "resource": "dmoj.ca",
       "resource_id": 77,
       "start": "2026-05-30T04:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-05-31T11:30:00",
-      "event": "Blitz Round #21",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/ujar1bp9sd72pcvuhtne219s64",
-      "id": 67956480,
-      "n_problems": 5,
-      "n_statistics": 84,
-      "parsed_at": "2026-05-31T11:22:07.415788",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-05-31T10:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-05-31T13:00:00",
-      "event": "牛客周赛 Round 146 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/135882",
-      "id": 67843814,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-05-31T11:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-05-31T14:30:00",
-      "event": "AtCoder Regular Contest++ 221",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/arc221",
-      "id": 67297817,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-05-31T12:00:00"
     },
     {
       "duration": 7200,
