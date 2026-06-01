@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-01T10:10:23Z",
-  "count": 137,
+  "lastUpdated": "2026-06-01T19:51:47Z",
+  "count": 135,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 641,
-      "parsed_at": "2026-06-01T06:31:07.705870",
+      "n_statistics": 642,
+      "parsed_at": "2026-06-01T18:32:07.992825",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -348,51 +348,6 @@
       "start": "2026-06-01T00:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-06-01T13:00:00",
-      "event": "牛客2026年儿童节比赛 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/135295",
-      "id": 67638814,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-06-01T11:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-06-01T15:30:00",
-      "event": "Monday Munch - DSA Challenge 005 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY005",
-      "id": 68040788,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-06-01T12:30:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-06-01T17:00:00",
-      "event": "RoboContest Round #111 | 1-iyun Xalqaro Bolalar bayrami",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3911",
-      "id": 67908223,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-06-01T14:30:00"
-    },
-    {
       "duration": 25200,
       "end": "2026-06-03T11:00:00",
       "event": "Подготовка к отбору на IOI 2026",
@@ -420,6 +375,21 @@
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
+      "start": "2026-06-03T14:30:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-06-03T17:00:00",
+      "event": "RoboContest Round #111 | 1-iyun Xalqaro Bolalar bayrami",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3911",
+      "id": 67908223,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
       "start": "2026-06-03T14:30:00"
     },
     {
