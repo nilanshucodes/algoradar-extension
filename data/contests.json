@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-03T14:21:19Z",
-  "count": 135,
+  "lastUpdated": "2026-06-03T18:39:41Z",
+  "count": 133,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 646,
-      "parsed_at": "2026-06-03T06:35:07.637445",
+      "n_statistics": 650,
+      "parsed_at": "2026-06-03T18:36:08.909272",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -316,36 +316,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-01T00:00:00"
-    },
-    {
-      "duration": 9000,
-      "end": "2026-06-03T17:00:00",
-      "event": "RoboContest Round #111 | 1-iyun Xalqaro Bolalar bayrami",
-      "host": "robocontest.uz",
-      "href": "https://robocontest.uz/olympiads/3911",
-      "id": 67908223,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "robocontest.uz",
-      "resource_id": 137,
-      "start": "2026-06-03T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-06-03T16:30:00",
-      "event": "Starters 241 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START241",
-      "id": 68087796,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-06-03T14:30:00"
     },
     {
       "duration": 7200,
