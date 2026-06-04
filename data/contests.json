@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-03T22:23:33Z",
-  "count": 133,
+  "lastUpdated": "2026-06-04T02:46:39Z",
+  "count": 109,
   "contests": [
     {
       "duration": 23612094,
@@ -46,21 +46,6 @@
       "resource": "datsteam.dev",
       "resource_id": 174,
       "start": "2025-11-13T00:00:00"
-    },
-    {
-      "duration": 7282422,
-      "end": "2026-06-03T23:59:00",
-      "event": "BirdCLEF+ 2026 [earth and nature, animals, multilabel classification, audio event classification, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/birdclef-2026",
-      "id": 66054023,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-03-11T17:05:18"
     },
     {
       "duration": 7866439,
@@ -250,8 +235,8 @@
       "href": "https://atcoder.jp/contests/ahc066",
       "id": 67489434,
       "n_problems": 1,
-      "n_statistics": 2784,
-      "parsed_at": "2026-06-02T00:45:09.660776",
+      "n_statistics": 2994,
+      "parsed_at": "2026-06-04T01:19:08.064145",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -316,6 +301,21 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-01T00:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-06-04T05:00:00",
+      "event": "The 24th Programming Contest of Beijing Normal University. Sakura_xyz",
+      "host": "codeforces.com/gyms",
+      "href": "https://codeforces.com/gym/106562",
+      "id": 68100277,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com/gyms",
+      "resource_id": 64,
+      "start": "2026-06-04T00:00:00"
     },
     {
       "duration": 7200,
@@ -498,21 +498,6 @@
       "start": "2026-06-07T02:30:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-06-07T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087767,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-06-07T04:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-06-08T10:00:00",
       "event": "SSMCTF 2026 Qualifiers",
@@ -693,21 +678,6 @@
       "start": "2026-06-14T02:30:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-06-14T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087768,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-06-14T04:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-06-14T14:00:00",
       "event": "AtCoder Regular Contest 222",
@@ -858,21 +828,6 @@
       "start": "2026-06-20T14:30:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-06-21T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087769,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-06-21T04:00:00"
-    },
-    {
       "duration": 14400,
       "end": "2026-06-21T14:00:00",
       "event": "AtCoder Heuristic Contest 067",
@@ -963,21 +918,6 @@
       "start": "2026-06-27T12:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-06-28T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087770,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-06-28T04:00:00"
-    },
-    {
       "duration": 7200,
       "end": "2026-07-01T16:30:00",
       "event": "Starters 245",
@@ -1053,21 +993,6 @@
       "start": "2026-07-04T12:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-07-05T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087771,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-07-05T04:00:00"
-    },
-    {
       "duration": 172800,
       "end": "2026-07-08T00:00:00",
       "event": "LYKNCTF",
@@ -1098,21 +1023,6 @@
       "start": "2026-07-10T18:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-07-12T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087772,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-07-12T04:00:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-07-17T09:00:00",
       "event": "2026牛客暑期多校训练营1 [ACM]",
@@ -1141,21 +1051,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-17T15:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-07-19T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087773,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-07-19T04:00:00"
     },
     {
       "duration": 86400,
@@ -1218,21 +1113,6 @@
       "start": "2026-07-25T12:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-07-26T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087774,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-07-26T04:00:00"
-    },
-    {
       "duration": 86400,
       "end": "2026-08-01T12:00:00",
       "event": "DeadSec CTF 2026",
@@ -1278,21 +1158,6 @@
       "start": "2026-08-01T07:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-08-02T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087775,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-08-02T04:00:00"
-    },
-    {
       "duration": 172800,
       "end": "2026-08-10T00:00:00",
       "event": "scriptCTF 2026",
@@ -1306,21 +1171,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-08T00:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-08-09T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087776,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-08-09T04:00:00"
     },
     {
       "duration": 259200,
@@ -1338,21 +1188,6 @@
       "start": "2026-08-14T12:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-08-16T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087777,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-08-16T04:00:00"
-    },
-    {
       "duration": 172800,
       "end": "2026-08-23T12:00:00",
       "event": "BrunnerCTF 2026",
@@ -1366,21 +1201,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-21T12:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-08-23T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087778,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-08-23T04:00:00"
     },
     {
       "duration": 86400,
@@ -1413,21 +1233,6 @@
       "start": "2026-08-29T14:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-08-30T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087779,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-08-30T04:00:00"
-    },
-    {
       "duration": 172800,
       "end": "2026-09-06T16:00:00",
       "event": "NNS CTF 2026",
@@ -1441,21 +1246,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-04T16:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-09-06T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087780,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-09-06T04:00:00"
     },
     {
       "duration": 172800,
@@ -1473,21 +1263,6 @@
       "start": "2026-09-11T10:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-09-13T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087781,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-09-13T04:00:00"
-    },
-    {
       "duration": 36000,
       "end": "2026-09-17T15:00:00",
       "event": "VolgaCTF 2026 Final",
@@ -1501,21 +1276,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-17T05:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-09-20T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087782,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-09-20T04:00:00"
     },
     {
       "duration": 129600,
@@ -1546,21 +1306,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-09-26T12:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-09-27T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087783,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-09-27T04:00:00"
     },
     {
       "duration": 658740,
@@ -1713,36 +1458,6 @@
       "start": "2026-10-03T15:00:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-10-04T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087784,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-10-04T04:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-10-11T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087785,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-10-11T04:00:00"
-    },
-    {
       "duration": 122400,
       "end": "2026-10-19T00:00:00",
       "event": "DEADFACE CTF 2026",
@@ -1756,21 +1471,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-10-17T14:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-10-18T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087786,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-10-18T04:00:00"
     },
     {
       "duration": 7200,
@@ -1848,36 +1548,6 @@
       "start": "2026-10-24T06:30:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-10-25T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087787,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-10-25T04:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-11-01T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087788,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-11-01T04:00:00"
-    },
-    {
       "duration": 15300,
       "end": "2026-11-06T22:30:00",
       "event": "BlackAlps CTF 2026",
@@ -1893,21 +1563,6 @@
       "start": "2026-11-06T18:15:00"
     },
     {
-      "duration": 25200,
-      "end": "2026-11-08T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087789,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-11-08T04:00:00"
-    },
-    {
       "duration": 129600,
       "end": "2026-11-15T21:00:00",
       "event": "Platypwn 2026",
@@ -1921,21 +1576,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-14T09:00:00"
-    },
-    {
-      "duration": 25200,
-      "end": "2026-11-15T11:00:00",
-      "event": "Программирование - профессионалы (ком. 2026)",
-      "host": "dl.gsu.by",
-      "href": "https://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
-      "id": 68087790,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "dl.gsu.by",
-      "resource_id": 4,
-      "start": "2026-11-15T04:00:00"
     },
     {
       "duration": 172800,
