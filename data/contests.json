@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-05T17:07:35Z",
-  "count": 137,
+  "lastUpdated": "2026-06-05T21:17:01Z",
+  "count": 138,
   "contests": [
     {
       "duration": 23612094,
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 658,
-      "parsed_at": "2026-06-05T06:39:08.630271",
+      "n_statistics": 660,
+      "parsed_at": "2026-06-05T18:40:10.263974",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -421,6 +421,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-06-06T12:00:00"
+    },
+    {
+      "duration": 93600,
+      "end": "2026-06-07T15:00:00",
+      "event": "DalCTF 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3320/",
+      "id": 68133934,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-06-06T13:00:00"
     },
     {
       "duration": 5400,
