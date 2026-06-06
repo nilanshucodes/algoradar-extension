@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-05T21:17:01Z",
-  "count": 138,
+  "lastUpdated": "2026-06-06T02:12:42Z",
+  "count": 139,
   "contests": [
     {
       "duration": 23612094,
@@ -354,9 +354,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND53",
       "id": 68087795,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 4,
+      "n_statistics": 9,
+      "parsed_at": "2026-06-06T00:55:09.795003",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -1051,6 +1051,21 @@
       "resource": "dl.gsu.by",
       "resource_id": 4,
       "start": "2026-06-28T04:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-28T14:00:00",
+      "event": "AtCoder Regular Contest 223",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc223",
+      "id": 68137569,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-06-28T12:00:00"
     },
     {
       "duration": 7200,
