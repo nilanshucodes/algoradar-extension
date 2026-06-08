@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-08T02:43:03Z",
-  "count": 111,
+  "lastUpdated": "2026-06-08T09:17:26Z",
+  "count": 112,
   "contests": [
     {
       "duration": 23612094,
@@ -26,7 +26,7 @@
       "id": 62459761,
       "n_problems": 4,
       "n_statistics": 670,
-      "parsed_at": "2026-06-07T18:44:06.839555",
+      "parsed_at": "2026-06-08T06:45:07.231724",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -235,8 +235,8 @@
       "href": "https://atcoder.jp/contests/ahc066",
       "id": 67489434,
       "n_problems": 1,
-      "n_statistics": 3607,
-      "parsed_at": "2026-06-07T11:00:09.714780",
+      "n_statistics": 3654,
+      "parsed_at": "2026-06-08T03:20:07.182213",
       "problems": null,
       "resource": "atcoder.jp",
       "resource_id": 93,
@@ -781,6 +781,21 @@
       "resource": "projecteuler.net",
       "resource_id": 65,
       "start": "2026-06-21T01:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-06-21T04:00:00",
+      "event": "Weekly Contest 507",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-507",
+      "id": 68183173,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-06-21T02:30:00"
     },
     {
       "duration": 14400,
