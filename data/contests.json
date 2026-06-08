@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T17:43:42Z",
+  "lastUpdated": "2026-06-08T21:44:24Z",
   "count": 110,
   "contests": [
     {
@@ -25,8 +25,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 4,
-      "n_statistics": 670,
-      "parsed_at": "2026-06-08T06:45:07.231724",
+      "n_statistics": 672,
+      "parsed_at": "2026-06-08T18:46:06.065557",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -310,8 +310,8 @@
       "href": "https://lightoj.com/contest/grandcontest1",
       "id": 68170554,
       "n_problems": 11,
-      "n_statistics": 7,
-      "parsed_at": "2026-06-08T10:00:13.870685",
+      "n_statistics": 13,
+      "parsed_at": "2026-06-08T21:13:06.567356",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -349,21 +349,6 @@
     },
     {
       "duration": 7200,
-      "end": "2026-06-09T16:35:00",
-      "event": "Repovive Standard Round 4",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 68087598,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-06-09T14:35:00"
-    },
-    {
-      "duration": 7200,
       "end": "2026-06-10T16:30:00",
       "event": "Starters 242",
       "host": "codechef.com",
@@ -376,6 +361,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-06-10T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-10T16:35:00",
+      "event": "Repovive Standard Round 4",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68087598,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-06-10T14:35:00"
     },
     {
       "duration": 5400,
