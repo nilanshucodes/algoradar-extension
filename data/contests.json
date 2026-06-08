@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-08T13:59:07Z",
-  "count": 111,
+  "lastUpdated": "2026-06-08T17:43:42Z",
+  "count": 110,
   "contests": [
     {
       "duration": 23612094,
@@ -303,21 +303,6 @@
       "start": "2026-06-05T05:00:00"
     },
     {
-      "duration": 259200,
-      "end": "2026-06-08T17:00:00",
-      "event": "RPCA CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3278/",
-      "id": 67524120,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-06-05T17:00:00"
-    },
-    {
       "duration": 604740,
       "end": "2026-06-15T03:59:00",
       "event": "Grand Contest - 1 ( C Programming Course) [protected, icpc, individual]",
@@ -346,21 +331,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-06-08T05:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-06-08T15:30:00",
-      "event": "Monday Munch - DSA Challenge 006 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY006",
-      "id": 68172450,
-      "n_problems": 6,
-      "n_statistics": 1032,
-      "parsed_at": "2026-06-08T13:47:07.521084",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-06-08T12:30:00"
     },
     {
       "duration": 7200,
@@ -451,6 +421,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-06-12T11:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-06-12T17:05:00",
+      "event": "Codeforces Round 1103 (Div. 3)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2236",
+      "id": 68188111,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-06-12T14:35:00"
     },
     {
       "duration": 287940,
