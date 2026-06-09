@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-09T08:25:42Z",
-  "count": 110,
+  "lastUpdated": "2026-06-09T12:30:08Z",
+  "count": 113,
   "contests": [
     {
       "duration": 23612094,
@@ -295,8 +295,8 @@
       "href": "https://basecamp.eolymp.com/contests/4sfvl4s13h3l137j93b90p91oo",
       "id": 68114985,
       "n_problems": 20,
-      "n_statistics": 62,
-      "parsed_at": "2026-06-08T09:31:21.985176",
+      "n_statistics": 75,
+      "parsed_at": "2026-06-09T08:56:07.712244",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/9la0mctuj53b33im75413bhgi0",
       "id": 68145141,
       "n_problems": 20,
-      "n_statistics": 5,
-      "parsed_at": "2026-06-08T11:00:08.870518",
+      "n_statistics": 23,
+      "parsed_at": "2026-06-09T10:24:08.062543",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -346,6 +346,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-06-09T14:35:00"
+    },
+    {
+      "duration": 1263540,
+      "end": "2026-06-24T19:59:00",
+      "event": "C Programming Intensive course. Lesson 2. Conditional Statement - Part 2",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/240s78s6692q96bfnruoh4gfno",
+      "id": 68203225,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-06-10T05:00:00"
     },
     {
       "duration": 7200,
@@ -586,6 +601,21 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-06-14T12:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-06-15T15:30:00",
+      "event": "Monday Munch - DSA Challenge 007 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY007",
+      "id": 68204300,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-06-15T12:30:00"
     },
     {
       "duration": 43200,
@@ -1021,6 +1051,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-10T18:00:00"
+    },
+    {
+      "duration": 6000,
+      "end": "2026-07-11T13:40:00",
+      "event": "AtCoder Beginner Contest 466",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc466",
+      "id": 68202452,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-07-11T12:00:00"
     },
     {
       "duration": 0,
