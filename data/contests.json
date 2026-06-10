@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-10T08:42:27Z",
-  "count": 113,
+  "lastUpdated": "2026-06-10T12:48:46Z",
+  "count": 114,
   "contests": [
     {
       "duration": 24389694,
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/9la0mctuj53b33im75413bhgi0",
       "id": 68145141,
       "n_problems": 20,
-      "n_statistics": 23,
-      "parsed_at": "2026-06-09T10:24:08.062543",
+      "n_statistics": 34,
+      "parsed_at": "2026-06-10T09:48:06.495547",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -339,9 +339,9 @@
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/240s78s6692q96bfnruoh4gfno",
       "id": 68203225,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 20,
+      "n_statistics": 4,
+      "parsed_at": "2026-06-10T11:00:10.854046",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -436,6 +436,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-06-12T14:35:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2026-06-14T18:30:00",
+      "event": "Weekend Dev Challenge 54: .NET projects",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DEVWEEKEND54",
+      "id": 68222483,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-06-12T18:30:00"
     },
     {
       "duration": 287940,
