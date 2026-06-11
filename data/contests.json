@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T09:07:00Z",
+  "lastUpdated": "2026-06-11T13:52:06Z",
   "count": 127,
   "contests": [
     {
@@ -325,8 +325,8 @@
       "href": "https://basecamp.eolymp.com/contests/9la0mctuj53b33im75413bhgi0",
       "id": 68145141,
       "n_problems": 20,
-      "n_statistics": 34,
-      "parsed_at": "2026-06-10T09:48:06.495547",
+      "n_statistics": 37,
+      "parsed_at": "2026-06-11T09:13:14.894186",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -340,8 +340,8 @@
       "href": "https://basecamp.eolymp.com/contests/240s78s6692q96bfnruoh4gfno",
       "id": 68203225,
       "n_problems": 20,
-      "n_statistics": 4,
-      "parsed_at": "2026-06-10T11:00:10.854046",
+      "n_statistics": 15,
+      "parsed_at": "2026-06-11T10:25:30.811835",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
