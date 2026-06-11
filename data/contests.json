@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T13:52:06Z",
-  "count": 127,
+  "lastUpdated": "2026-06-11T18:06:33Z",
+  "count": 128,
   "contests": [
     {
       "duration": 24389694,
@@ -310,8 +310,8 @@
       "href": "https://lightoj.com/contest/grandcontest1",
       "id": 68170554,
       "n_problems": 11,
-      "n_statistics": 26,
-      "parsed_at": "2026-06-11T05:14:06.514191",
+      "n_statistics": 27,
+      "parsed_at": "2026-06-11T16:26:06.720981",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -348,19 +348,19 @@
       "start": "2026-06-10T05:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-06-11T17:01:00",
-      "event": "Weekly Contest 234",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-234",
-      "id": 68113707,
+      "duration": 1263540,
+      "end": "2026-06-26T19:59:00",
+      "event": "C Programming Intensive course. Lesson 3. Loops - Part 1",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/iiqlue84196tpbp3tt39t65lv8",
+      "id": 68247151,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-06-11T15:01:00"
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-06-12T05:00:00"
     },
     {
       "duration": 10800,
@@ -691,6 +691,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-06-18T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-18T17:01:00",
+      "event": "Weekly Contest 235",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-235",
+      "id": 68247269,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-06-18T15:01:00"
     },
     {
       "duration": 86400,
