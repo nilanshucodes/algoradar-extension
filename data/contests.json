@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T21:53:43Z",
-  "count": 129,
+  "lastUpdated": "2026-06-12T02:39:21Z",
+  "count": 130,
   "contests": [
     {
       "duration": 24389694,
@@ -1396,6 +1396,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-01T07:00:00"
+    },
+    {
+      "duration": 43200,
+      "end": "2026-08-05T19:00:00",
+      "event": "Kali Team - CTF 26",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3328/",
+      "id": 68253090,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-08-05T07:00:00"
     },
     {
       "duration": 172800,
