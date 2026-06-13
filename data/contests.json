@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T21:24:45Z",
+  "lastUpdated": "2026-06-13T02:32:17Z",
   "count": 129,
   "contests": [
     {
@@ -183,8 +183,8 @@
       "start": "2026-04-16T19:01:30"
     },
     {
-      "duration": 4788670,
-      "end": "2026-06-15T22:59:00",
+      "duration": 4558270,
+      "end": "2026-06-13T06:59:00",
       "event": "5-Day AI Agents: Intensive Vibe Coding Course With Google [learn]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google",
@@ -310,8 +310,8 @@
       "href": "https://lightoj.com/contest/grandcontest1",
       "id": 68170554,
       "n_problems": 11,
-      "n_statistics": 34,
-      "parsed_at": "2026-06-12T14:51:14.705170",
+      "n_statistics": 35,
+      "parsed_at": "2026-06-13T02:04:06.617537",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -384,9 +384,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DEVWEEKEND54",
       "id": 68222483,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 5,
+      "n_statistics": 6,
+      "parsed_at": "2026-06-13T00:55:07.111818",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
