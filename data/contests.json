@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-14T11:49:09Z",
-  "count": 129,
+  "lastUpdated": "2026-06-14T16:15:31Z",
+  "count": 126,
   "contests": [
     {
       "duration": 24389694,
@@ -385,8 +385,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND54",
       "id": 68222483,
       "n_problems": 5,
-      "n_statistics": 65,
-      "parsed_at": "2026-06-14T09:05:35.677289",
+      "n_statistics": 91,
+      "parsed_at": "2026-06-14T15:31:10.059684",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -439,36 +439,6 @@
     },
     {
       "duration": 86400,
-      "end": "2026-06-14T14:00:00",
-      "event": "Crypto CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3034/",
-      "id": 68231313,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-06-13T14:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-06-14T14:00:00",
-      "event": "Operation Heist CTF 2026",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3327/",
-      "id": 68231314,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-06-13T14:00:00"
-    },
-    {
-      "duration": 86400,
       "end": "2026-06-15T01:00:00",
       "event": "SCTF 2026",
       "host": "ctftime.org",
@@ -481,36 +451,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-06-14T01:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-06-14T13:00:00",
-      "event": "牛客周赛 Round 148 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/136707",
-      "id": 68122304,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-06-14T11:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-06-14T14:00:00",
-      "event": "AtCoder Regular Contest 222",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/arc222",
-      "id": 68087814,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-06-14T12:00:00"
     },
     {
       "duration": 18000,
@@ -811,6 +751,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-06-21T11:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-06-21T17:05:00",
+      "event": "Repovive Premier Round 5",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68303737,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-06-21T14:35:00"
     },
     {
       "duration": 7200,
