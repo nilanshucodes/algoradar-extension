@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-15T10:49:42Z",
-  "count": 125,
+  "lastUpdated": "2026-06-15T18:59:54Z",
+  "count": 124,
   "contests": [
     {
       "duration": 24389694,
@@ -481,21 +481,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-06-15T08:24:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-06-15T15:30:00",
-      "event": "Monday Munch - DSA Challenge 007 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY007",
-      "id": 68204300,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-06-15T12:30:00"
     },
     {
       "duration": 43200,
