@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-15T22:10:07Z",
-  "count": 124,
+  "lastUpdated": "2026-06-16T02:50:04Z",
+  "count": 123,
   "contests": [
     {
       "duration": 24389694,
@@ -46,21 +46,6 @@
       "resource": "datsteam.dev",
       "resource_id": 174,
       "start": "2025-11-13T00:00:00"
-    },
-    {
-      "duration": 7866439,
-      "end": "2026-06-15T23:59:00",
-      "event": "NVIDIA Nemotron Model Reasoning Challenge [deep learning, pre-trained model, general knowledge and reasoning, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge",
-      "id": 66200100,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-03-16T22:51:41"
     },
     {
       "duration": 8323140,
