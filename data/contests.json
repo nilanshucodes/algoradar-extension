@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T22:05:03Z",
-  "count": 129,
+  "lastUpdated": "2026-06-17T02:47:03Z",
+  "count": 128,
   "contests": [
     {
       "duration": 24389694,
@@ -181,21 +181,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-04-21T12:47:50"
-    },
-    {
-      "duration": 4001697,
-      "end": "2026-06-16T23:59:00",
-      "event": "Maze Crawler [games, artificial intelligence, reinforcement learning, simulations, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/maze-crawler",
-      "id": 67362465,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-05-01T16:24:03"
     },
     {
       "duration": 7978726,
