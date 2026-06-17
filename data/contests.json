@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-17T13:35:44Z",
-  "count": 130,
+  "lastUpdated": "2026-06-17T17:44:55Z",
+  "count": 129,
   "contests": [
     {
       "duration": 24389694,
@@ -498,24 +498,9 @@
       "start": "2026-06-17T05:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-06-17T16:30:00",
-      "event": "Starters 243 (Rated till 6 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START243",
-      "id": 68087793,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-06-17T14:30:00"
-    },
-    {
       "duration": 9900,
       "end": "2026-06-17T17:50:00",
-      "event": "Community Code Cup [sport_coding]. Code Cup X",
+      "event": "Community Code Cup [sport_coding]. Code Cup X - I тур",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1774",
       "id": 67320721,
