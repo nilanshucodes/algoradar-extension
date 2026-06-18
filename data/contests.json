@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T12:45:21Z",
+  "lastUpdated": "2026-06-18T17:54:55Z",
   "count": 134,
   "contests": [
     {
@@ -513,34 +513,19 @@
       "start": "2026-06-18T12:00:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-06-18T17:35:00",
-      "event": "Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2237",
-      "id": 68214097,
+      "duration": 1263540,
+      "end": "2026-07-03T19:59:00",
+      "event": "C Programming Intensive course. Lesson 4. Arrays - Part 1",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/tiqdiu7fa56l33ok1kj906dlq4",
+      "id": 68361907,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-06-18T14:35:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-06-18T17:01:00",
-      "event": "Weekly Contest 235",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-235",
-      "id": 68247269,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-06-18T15:01:00"
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-06-19T05:00:00"
     },
     {
       "duration": 86400,
@@ -781,6 +766,21 @@
       "resource": "naukri.com/code360",
       "resource_id": 136,
       "start": "2026-06-24T15:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-06-25T17:01:00",
+      "event": "Weekly Contest 236",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-236",
+      "id": 68364036,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-06-25T15:01:00"
     },
     {
       "duration": 172800,
