@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T09:23:59Z",
-  "count": 140,
+  "lastUpdated": "2026-06-19T13:27:31Z",
+  "count": 141,
   "contests": [
     {
       "duration": 24389694,
@@ -475,8 +475,8 @@
       "href": "https://basecamp.eolymp.com/contests/94k814r8553070ua1nv53c9gc4",
       "id": 68319858,
       "n_problems": 20,
-      "n_statistics": 12,
-      "parsed_at": "2026-06-18T10:24:54.753564",
+      "n_statistics": 19,
+      "parsed_at": "2026-06-19T09:49:10.102389",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -504,9 +504,9 @@
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/tiqdiu7fa56l33ok1kj906dlq4",
       "id": 68361907,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 20,
+      "n_statistics": 2,
+      "parsed_at": "2026-06-19T11:00:17.840651",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -721,6 +721,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-06-21T14:35:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-06-22T16:30:00",
+      "event": "Monday Munch - DSA Challenge 008 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY008",
+      "id": 68380209,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-06-22T13:30:00"
     },
     {
       "duration": 7200,
