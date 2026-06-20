@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T11:50:32Z",
-  "count": 142,
+  "lastUpdated": "2026-06-20T16:11:10Z",
+  "count": 141,
   "contests": [
     {
       "duration": 24389694,
@@ -550,42 +550,12 @@
       "href": "https://www.codechef.com/DEVWEEKEND55",
       "id": 68341783,
       "n_problems": 5,
-      "n_statistics": 17,
-      "parsed_at": "2026-06-20T10:34:09.402385",
+      "n_statistics": 22,
+      "parsed_at": "2026-06-20T13:47:10.791159",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-06-19T18:30:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-06-20T13:40:00",
-      "event": "AtCoder Beginner Contest 463",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc463",
-      "id": 68087815,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-06-20T12:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-06-20T16:00:00",
-      "event": "Biweekly Contest 185",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/biweekly-contest-185",
-      "id": 68063208,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-06-20T14:30:00"
     },
     {
       "duration": 0,
@@ -976,6 +946,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-06-28T14:35:00"
+    },
+    {
+      "duration": 8100,
+      "end": "2026-06-30T16:50:00",
+      "event": "Codeforces Round (Div. 3)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2241",
+      "id": 68403846,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-06-30T14:35:00"
     },
     {
       "duration": 7200,
