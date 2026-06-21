@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T21:04:39Z",
-  "count": 142,
+  "lastUpdated": "2026-06-21T02:47:24Z",
+  "count": 140,
   "contests": [
     {
       "duration": 24389694,
@@ -551,41 +551,11 @@
       "id": 68341783,
       "n_problems": 5,
       "n_statistics": 32,
-      "parsed_at": "2026-06-20T20:22:08.860235",
+      "parsed_at": "2026-06-20T23:35:06.784958",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-06-19T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-06-20T22:15:00",
-      "event": "II SBC São Paulo Programming Marathon. racsosabe",
-      "host": "codeforces.com/gyms",
-      "href": "https://codeforces.com/gym/106598",
-      "id": 68406316,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com/gyms",
-      "resource_id": 64,
-      "start": "2026-06-20T17:15:00"
-    },
-    {
-      "duration": 0,
-      "end": "2026-06-21T01:00:00",
-      "event": "Problem 1003",
-      "host": "projecteuler.net",
-      "href": "https://projecteuler.net/news",
-      "id": 68159954,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "projecteuler.net",
-      "resource_id": 65,
-      "start": "2026-06-21T01:00:00"
     },
     {
       "duration": 5400,
