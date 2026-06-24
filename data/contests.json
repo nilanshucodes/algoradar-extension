@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T21:23:57Z",
-  "count": 143,
+  "lastUpdated": "2026-06-24T02:26:53Z",
+  "count": 142,
   "contests": [
     {
       "duration": 24389694,
@@ -46,21 +46,6 @@
       "resource": "datsteam.dev",
       "resource_id": 174,
       "start": "2025-11-13T00:00:00"
-    },
-    {
-      "duration": 8323140,
-      "end": "2026-06-23T23:59:00",
-      "event": "Leonardo - Airborne Object Recognition Challenge [image, video, object detection, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/leonardo-airborne-object-recognition-challenge",
-      "id": 66276983,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-03-19T16:00:00"
     },
     {
       "duration": 19808447,
@@ -153,8 +138,8 @@
       "start": "2026-04-15T18:41:14"
     },
     {
-      "duration": 5893050,
-      "end": "2026-06-23T23:59:00",
+      "duration": 7102650,
+      "end": "2026-07-07T23:59:00",
       "event": "Orbit Wars [games, artificial intelligence, reinforcement learning, custom metric]",
       "host": "kaggle.com",
       "href": "https://www.kaggle.com/competitions/orbit-wars",
@@ -460,8 +445,8 @@
       "href": "https://imc2.kattis.com/contests/imc2-2",
       "id": 68319804,
       "n_problems": 1,
-      "n_statistics": 67,
-      "parsed_at": "2026-06-21T22:12:07.602199",
+      "n_statistics": 74,
+      "parsed_at": "2026-06-23T22:13:07.723260",
       "problems": null,
       "resource": "open.kattis.com",
       "resource_id": 91,
