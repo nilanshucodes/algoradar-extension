@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T08:17:30Z",
+  "lastUpdated": "2026-06-24T12:13:42Z",
   "count": 145,
   "contests": [
     {
@@ -475,8 +475,8 @@
       "href": "https://basecamp.eolymp.com/contests/pnk11nd3m90cpb26v7316uv9a8",
       "id": 68427842,
       "n_problems": 19,
-      "n_statistics": 12,
-      "parsed_at": "2026-06-23T10:25:07.474113",
+      "n_statistics": 15,
+      "parsed_at": "2026-06-24T09:49:07.156063",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -489,7 +489,7 @@
       "host": "basecamp.eolymp.com",
       "href": "https://basecamp.eolymp.com/contests/t3rf6bf3o13i1e8tuqt1rt1e00",
       "id": 68445339,
-      "n_problems": null,
+      "n_problems": 20,
       "n_statistics": null,
       "parsed_at": null,
       "problems": null,
@@ -500,7 +500,7 @@
     {
       "duration": 7200,
       "end": "2026-06-24T16:30:00",
-      "event": "Starters 244",
+      "event": "Starters 244 (Rated till 5 star)",
       "host": "codechef.com",
       "href": "https://www.codechef.com/START244",
       "id": 68087792,
