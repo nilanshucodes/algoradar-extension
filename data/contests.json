@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T21:22:25Z",
-  "count": 152,
+  "lastUpdated": "2026-06-26T02:30:13Z",
+  "count": 151,
   "contests": [
     {
       "duration": 32160540,
@@ -16,21 +16,6 @@
       "resource": "aiplanet.com",
       "resource_id": 124,
       "start": "2025-06-21T13:00:00"
-    },
-    {
-      "duration": 24389694,
-      "end": "2026-06-25T23:59:00",
-      "event": "Hull Tactical - Market Prediction [finance, tabular, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/hull-tactical-market-prediction",
-      "id": 61937507,
-      "n_problems": null,
-      "n_statistics": 2696,
-      "parsed_at": "2025-11-26T10:24:06.155305",
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2025-09-16T17:04:06"
     },
     {
       "duration": 31586340,
@@ -445,8 +430,8 @@
       "href": "https://imc2.kattis.com/contests/imc2-2",
       "id": 68319804,
       "n_problems": 1,
-      "n_statistics": 74,
-      "parsed_at": "2026-06-23T22:13:07.723260",
+      "n_statistics": 84,
+      "parsed_at": "2026-06-25T22:14:07.416419",
       "problems": null,
       "resource": "open.kattis.com",
       "resource_id": 91,
