@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T08:25:14Z",
-  "count": 151,
+  "lastUpdated": "2026-06-26T12:06:07Z",
+  "count": 158,
   "contests": [
     {
       "duration": 32160540,
@@ -16,21 +16,6 @@
       "resource": "aiplanet.com",
       "resource_id": 124,
       "start": "2025-06-21T13:00:00"
-    },
-    {
-      "duration": 31586340,
-      "end": "2026-10-08T20:59:00",
-      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Training round",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1553",
-      "id": 62459761,
-      "n_problems": 4,
-      "n_statistics": 698,
-      "parsed_at": "2026-06-26T07:20:21.544931",
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2025-10-08T07:00:00"
     },
     {
       "duration": 31536000,
@@ -460,8 +445,8 @@
       "href": "https://basecamp.eolymp.com/contests/pnk11nd3m90cpb26v7316uv9a8",
       "id": 68427842,
       "n_problems": 19,
-      "n_statistics": 17,
-      "parsed_at": "2026-06-25T09:13:07.144630",
+      "n_statistics": 22,
+      "parsed_at": "2026-06-26T08:37:06.985842",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -475,8 +460,8 @@
       "href": "https://basecamp.eolymp.com/contests/t3rf6bf3o13i1e8tuqt1rt1e00",
       "id": 68445339,
       "n_problems": 20,
-      "n_statistics": 4,
-      "parsed_at": "2026-06-25T10:24:18.062834",
+      "n_statistics": 11,
+      "parsed_at": "2026-06-26T09:49:07.143945",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -496,6 +481,21 @@
       "resource": "wincentdragonbyte.com",
       "resource_id": 178,
       "start": "2026-06-25T22:00:00"
+    },
+    {
+      "duration": 1263540,
+      "end": "2026-07-10T19:59:00",
+      "event": "C Programming Intensive course. Lesson 5. Strings - Part 1",
+      "host": "basecamp.eolymp.com",
+      "href": "https://basecamp.eolymp.com/contests/g1rfsm4gi10qp9msffq40p4sj8",
+      "id": 68506752,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": "2026-06-26T11:00:08.598654",
+      "problems": null,
+      "resource": "basecamp.eolymp.com",
+      "resource_id": 10,
+      "start": "2026-06-26T05:00:00"
     },
     {
       "duration": 86400,
@@ -526,6 +526,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-06-26T11:00:00"
+    },
+    {
+      "duration": 194340,
+      "end": "2026-06-28T18:29:00",
+      "event": "Nutrition Health Survey- Age Prediction Summer Analytics 2026, IIT Guwahati",
+      "host": "aiplanet.com",
+      "href": "https://aiplanet.com/challenges/nutrition-health-survey-age-prediction-summer-analytics-2026-iit-guwahati-79e7c3ac/359/",
+      "id": 68506463,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "aiplanet.com",
+      "resource_id": 124,
+      "start": "2026-06-26T12:30:00"
     },
     {
       "duration": 172800,
@@ -605,7 +620,7 @@
     {
       "duration": 9000,
       "end": "2026-06-27T17:05:00",
-      "event": "Codeforces Round (Div. 1)",
+      "event": "Codeforces Round 1105 (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2239",
       "id": 68369340,
@@ -620,7 +635,7 @@
     {
       "duration": 9000,
       "end": "2026-06-27T17:05:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1105 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2240",
       "id": 68369341,
@@ -768,6 +783,21 @@
       "start": "2026-06-30T14:35:00"
     },
     {
+      "duration": 7048740,
+      "end": "2026-09-20T20:59:00",
+      "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Training round",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1553",
+      "id": 62459761,
+      "n_problems": 4,
+      "n_statistics": 698,
+      "parsed_at": "2026-06-26T07:20:21.544931",
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-07-01T07:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-01T16:30:00",
       "event": "Starters 245",
@@ -781,6 +811,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-01T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-02T17:01:00",
+      "event": "Weekly Contest 237",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-237",
+      "id": 68506772,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-07-02T15:01:00"
     },
     {
       "duration": 7200,
@@ -931,6 +976,21 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-07-05T02:00:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-07-05T04:00:00",
+      "event": "Weekly Contest 509",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-509",
+      "id": 68507917,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-07-05T02:30:00"
     },
     {
       "duration": 0,
@@ -1204,6 +1264,21 @@
     },
     {
       "duration": 7200,
+      "end": "2026-07-12T14:00:00",
+      "event": "AtCoder Regular Contest-- 224",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc224",
+      "id": 68506788,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-07-12T12:00:00"
+    },
+    {
+      "duration": 7200,
       "end": "2026-07-15T16:30:00",
       "event": "Starters 247",
       "host": "codechef.com",
@@ -1321,6 +1396,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-07-18T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-19T14:00:00",
+      "event": "AtCoder Regular Contest 225",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc225",
+      "id": 68506791,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-07-19T12:00:00"
     },
     {
       "duration": 18000,
@@ -1606,6 +1696,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-08T00:00:00"
+    },
+    {
+      "duration": 604800,
+      "end": "2026-08-16T00:00:00",
+      "event": "38th International Olympiad in Informatics. Uzbekistan",
+      "host": "stats.ioinformatics.org",
+      "href": "https://stats.ioinformatics.org/olympiads/2026",
+      "id": 68506496,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "stats.ioinformatics.org",
+      "resource_id": 82,
+      "start": "2026-08-09T00:00:00"
     },
     {
       "duration": 32400,
@@ -2208,8 +2313,8 @@
       "start": "2026-11-14T09:00:00"
     },
     {
-      "duration": 395940,
-      "end": "2026-11-20T20:59:00",
+      "duration": 432000,
+      "end": "2026-11-21T07:00:00",
       "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Заключительный этап",
       "host": "cups.online",
       "href": "https://cups.online/rounds/1807",
