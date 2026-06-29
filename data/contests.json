@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T17:27:54Z",
-  "count": 149,
+  "lastUpdated": "2026-06-29T21:16:49Z",
+  "count": 150,
   "contests": [
     {
       "duration": 31536000,
@@ -181,21 +181,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-06-11T18:31:39"
-    },
-    {
-      "duration": 1267140,
-      "end": "2026-06-29T19:59:00",
-      "event": "C Programming Intensive course. Lesson 3. Loops - Part 2",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/fq3r8mkq910ihdedaf478mc2jc",
-      "id": 68285684,
-      "n_problems": 19,
-      "n_statistics": 45,
-      "parsed_at": "2026-06-29T13:46:08.440979",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-15T04:00:00"
     },
     {
       "duration": 9676800,
@@ -558,6 +543,21 @@
       "start": "2026-06-29T05:00:00"
     },
     {
+      "duration": 7966667,
+      "end": "2026-09-29T23:59:00",
+      "event": "Biohub - Cell Tracking During Development [biology, computer vision, image, video, object detection, custom metric]",
+      "host": "kaggle.com",
+      "href": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
+      "id": 68560017,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "kaggle.com",
+      "resource_id": 74,
+      "start": "2026-06-29T19:01:13"
+    },
+    {
       "duration": 8100,
       "end": "2026-06-30T16:50:00",
       "event": "Codeforces Round 1107 (Div. 3)",
@@ -830,7 +830,7 @@
     {
       "duration": 7200,
       "end": "2026-07-05T16:35:00",
-      "event": "Repovive Career Starter Round 4",
+      "event": "Repovive Starter Round 4",
       "host": "repovive.com",
       "href": "https://repovive.com/contests",
       "id": 68534498,
@@ -1111,6 +1111,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-07-12T12:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-07-12T17:05:00",
+      "event": "Repovive Premier Round 6",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68559584,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-07-12T14:35:00"
     },
     {
       "duration": 7200,
