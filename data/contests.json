@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T08:23:39Z",
+  "lastUpdated": "2026-06-30T12:03:50Z",
   "count": 152,
   "contests": [
     {
@@ -393,66 +393,6 @@
       "start": "2026-06-19T05:00:00"
     },
     {
-      "duration": 3024000,
-      "end": "2026-07-25T07:00:00",
-      "event": "Кенгуру. Пробный",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1744",
-      "id": 66276956,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-06-20T07:00:00"
-    },
-    {
-      "duration": 3024000,
-      "end": "2026-07-25T07:00:00",
-      "event": "Кенгуру. Основной",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1745",
-      "id": 66276957,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-06-20T07:00:00"
-    },
-    {
-      "duration": 3024000,
-      "end": "2026-07-25T07:54:00",
-      "event": "Кенгуру. Пробный",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1746",
-      "id": 66295570,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-06-20T07:54:00"
-    },
-    {
-      "duration": 3024000,
-      "end": "2026-07-25T07:55:00",
-      "event": "Кенгуру. Основной",
-      "host": "cups.online",
-      "href": "https://cups.online/rounds/1747",
-      "id": 66295571,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "cups.online",
-      "resource_id": 138,
-      "start": "2026-06-20T07:55:00"
-    },
-    {
       "duration": 1263540,
       "end": "2026-07-06T19:59:00",
       "event": "C Programming Intensive course. Lesson 4. Arrays - Part 2",
@@ -535,8 +475,8 @@
       "href": "https://basecamp.eolymp.com/contests/miqof5tt4p4bdes980vs1umd24",
       "id": 68550839,
       "n_problems": 19,
-      "n_statistics": 1,
-      "parsed_at": "2026-06-29T11:00:52.658442",
+      "n_statistics": 2,
+      "parsed_at": "2026-06-30T10:27:10.553755",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -594,6 +534,21 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/START245",
       "id": 68087791,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-07-01T14:30:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2026-07-01T17:30:00",
+      "event": "Starters 244 (Rated till 5 star)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/TECHDUMMY",
+      "id": 68574313,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
@@ -1083,6 +1038,21 @@
       "start": "2026-07-12T00:30:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-07-12T04:00:00",
+      "event": "Weekly Contest 510",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-510",
+      "id": 68572091,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-07-12T02:30:00"
+    },
+    {
       "duration": 0,
       "end": "2026-07-12T10:00:00",
       "event": "Problem 1006",
@@ -1278,6 +1248,21 @@
       "start": "2026-07-18T12:00:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-07-18T16:00:00",
+      "event": "Biweekly Contest 187",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/biweekly-contest-187",
+      "id": 68572090,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-07-18T14:30:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-19T14:00:00",
       "event": "AtCoder Regular Contest 225",
@@ -1426,6 +1411,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-29T14:30:00"
+    },
+    {
+      "duration": 864000,
+      "end": "2026-08-10T10:00:00",
+      "event": "RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/ahc069",
+      "id": 68572023,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-07-31T10:00:00"
     },
     {
       "duration": 86400,
