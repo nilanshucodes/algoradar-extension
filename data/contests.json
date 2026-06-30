@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T17:02:59Z",
-  "count": 152,
+  "lastUpdated": "2026-06-30T21:22:05Z",
+  "count": 150,
   "contests": [
     {
       "duration": 31536000,
@@ -438,21 +438,6 @@
       "start": "2026-06-26T05:00:00"
     },
     {
-      "duration": 367140,
-      "end": "2026-06-30T18:29:00",
-      "event": "Nutrition Health Survey- Age Prediction Summer Analytics 2026, IIT Guwahati",
-      "host": "aiplanet.com",
-      "href": "https://aiplanet.com/challenges/nutrition-health-survey-age-prediction-summer-analytics-2026-iit-guwahati-79e7c3ac/359/",
-      "id": 68506463,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "aiplanet.com",
-      "resource_id": 124,
-      "start": "2026-06-26T12:30:00"
-    },
-    {
       "duration": 5637540,
       "end": "2026-08-31T20:59:00",
       "event": "Внутри LLM: собери RAG-пайплайн (дорешивание) [ml]. Итоговое задание курса \"Внутри LLM: как думает ChatGPT?\" (дорешивание)",
@@ -519,21 +504,6 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/START245",
       "id": 68087791,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-07-01T14:30:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-07-01T17:30:00",
-      "event": "Starters 244 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/TECHDUMMY",
-      "id": 68574313,
       "n_problems": null,
       "n_statistics": null,
       "parsed_at": null,
