@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-01T02:37:00Z",
-  "count": 149,
+  "lastUpdated": "2026-07-01T08:43:31Z",
+  "count": 150,
   "contests": [
     {
       "duration": 31536000,
@@ -474,9 +474,9 @@
       "host": "cups.online",
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
-      "n_problems": 4,
+      "n_problems": 8,
       "n_statistics": 698,
-      "parsed_at": "2026-06-26T07:20:21.544931",
+      "parsed_at": "2026-07-01T07:03:35.630509",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -1051,6 +1051,21 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-07-12T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-12T13:00:00",
+      "event": "牛客周赛 Round 152 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/137448",
+      "id": 68587507,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-07-12T11:00:00"
     },
     {
       "duration": 7200,
