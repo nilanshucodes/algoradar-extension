@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T12:00:21Z",
-  "count": 156,
+  "lastUpdated": "2026-07-03T16:18:56Z",
+  "count": 155,
   "contests": [
     {
       "duration": 31536000,
@@ -400,8 +400,8 @@
       "href": "https://cups.online/rounds/1810",
       "id": 68516925,
       "n_problems": 1,
-      "n_statistics": 1,
-      "parsed_at": "2026-07-03T02:26:22.611582",
+      "n_statistics": 3,
+      "parsed_at": "2026-07-03T14:28:03.156840",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -496,21 +496,6 @@
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
       "start": "2026-07-03T05:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-07-03T13:00:00",
-      "event": "牛客小白月赛135 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/137264",
-      "id": 68478902,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-07-03T11:00:00"
     },
     {
       "duration": 172800,
