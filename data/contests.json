@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-04T01:59:42Z",
-  "count": 154,
+  "lastUpdated": "2026-07-04T07:37:07Z",
+  "count": 153,
   "contests": [
     {
       "duration": 31536000,
@@ -386,7 +386,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 3,
-      "parsed_at": "2026-07-03T14:28:03.156840",
+      "parsed_at": "2026-07-04T02:28:23.413162",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -460,8 +460,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 797,
-      "parsed_at": "2026-07-03T19:08:08.266794",
+      "n_statistics": 803,
+      "parsed_at": "2026-07-04T07:09:08.589783",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -490,27 +490,12 @@
       "href": "https://www.codechef.com/DEVWEEKEND57",
       "id": 68592192,
       "n_problems": 16,
-      "n_statistics": 6,
-      "parsed_at": "2026-07-04T00:55:08.868837",
+      "n_statistics": 17,
+      "parsed_at": "2026-07-04T07:21:12.919188",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-03T18:30:00"
-    },
-    {
-      "duration": 32400,
-      "end": "2026-07-04T06:00:00",
-      "event": "MindBreak 2026 by ESGI",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3315/",
-      "id": 68225943,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-07-03T21:00:00"
     },
     {
       "duration": 172800,
