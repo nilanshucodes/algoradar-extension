@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-04T15:54:49Z",
-  "count": 152,
+  "lastUpdated": "2026-07-04T20:43:01Z",
+  "count": 150,
   "contests": [
     {
       "duration": 31536000,
@@ -460,8 +460,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 803,
-      "parsed_at": "2026-07-04T07:09:08.589783",
+      "n_statistics": 820,
+      "parsed_at": "2026-07-04T19:10:15.653162",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -490,8 +490,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND57",
       "id": 68592192,
       "n_problems": 16,
-      "n_statistics": 31,
-      "parsed_at": "2026-07-04T13:47:08.447110",
+      "n_statistics": 59,
+      "parsed_at": "2026-07-04T20:14:07.610370",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -543,21 +543,6 @@
       "start": "2026-07-04T10:00:00"
     },
     {
-      "duration": 18000,
-      "end": "2026-07-04T17:00:00",
-      "event": "Индивидуальные тренировки 2026. День 5",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/95769/enter/?retPage=",
-      "id": 68539233,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-07-04T12:00:00"
-    },
-    {
       "duration": 43200,
       "end": "2026-07-05T01:00:00",
       "event": "Fluid Attacks' CTF 2026-2",
@@ -571,36 +556,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-04T13:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-07-04T19:00:00",
-      "event": "KPI Open 2026",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/ak5a721v0d1pr8mpu5gsgfbbmg",
-      "id": 68488771,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": "2026-07-04T15:49:10.486994",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-07-04T14:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-07-04T16:00:00",
-      "event": "Biweekly Contest 186",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/biweekly-contest-186",
-      "id": 68319824,
-      "n_problems": 4,
-      "n_statistics": 4250,
-      "parsed_at": "2026-07-04T15:45:08.351496",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-07-04T14:30:00"
     },
     {
       "duration": 216000,
@@ -661,6 +616,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-07-05T11:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-05T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 6",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/96357/enter/?retPage=",
+      "id": 68662978,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-05T12:00:00"
     },
     {
       "duration": 7200,
