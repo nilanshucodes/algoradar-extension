@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-05T11:23:07Z",
-  "count": 146,
+  "lastUpdated": "2026-07-05T16:00:34Z",
+  "count": 145,
   "contests": [
     {
       "duration": 31536000,
@@ -385,8 +385,8 @@
       "href": "https://cups.online/rounds/1810",
       "id": 68516925,
       "n_problems": 1,
-      "n_statistics": 3,
-      "parsed_at": "2026-07-05T02:32:11.212563",
+      "n_statistics": 4,
+      "parsed_at": "2026-07-05T14:33:13.541741",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -490,8 +490,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND57",
       "id": 68592192,
       "n_problems": 16,
-      "n_statistics": 76,
-      "parsed_at": "2026-07-05T09:06:08.937714",
+      "n_statistics": 101,
+      "parsed_at": "2026-07-05T15:32:06.763085",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -541,21 +541,6 @@
       "resource": "uoj.ac",
       "resource_id": 172,
       "start": "2026-07-05T02:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-07-05T13:00:00",
-      "event": "牛客周赛 Round 151 [IOI]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/137267",
-      "id": 68480370,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-07-05T11:00:00"
     },
     {
       "duration": 18000,
