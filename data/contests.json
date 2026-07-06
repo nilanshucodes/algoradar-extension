@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T02:12:47Z",
-  "count": 140,
+  "lastUpdated": "2026-07-06T09:04:27Z",
+  "count": 143,
   "contests": [
     {
       "duration": 31536000,
@@ -386,7 +386,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 4,
-      "parsed_at": "2026-07-05T14:33:13.541741",
+      "parsed_at": "2026-07-06T02:34:10.055619",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -401,7 +401,7 @@
       "id": 68550839,
       "n_problems": 19,
       "n_statistics": 15,
-      "parsed_at": "2026-07-05T07:30:10.898066",
+      "parsed_at": "2026-07-06T06:55:07.968776",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -460,8 +460,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 832,
-      "parsed_at": "2026-07-05T19:12:07.697239",
+      "n_statistics": 833,
+      "parsed_at": "2026-07-06T07:13:07.229336",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -1083,6 +1083,21 @@
       "start": "2026-07-18T14:35:00"
     },
     {
+      "duration": 5400,
+      "end": "2026-07-19T04:00:00",
+      "event": "Weekly Contest 511",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-511",
+      "id": 68696722,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2026-07-19T02:30:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-19T14:00:00",
       "event": "AtCoder Regular Contest 225",
@@ -1293,6 +1308,21 @@
       "start": "2026-08-01T07:00:00"
     },
     {
+      "duration": 6000,
+      "end": "2026-08-01T13:40:00",
+      "event": "AtCoder Beginner Contest 469",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc469",
+      "id": 68695403,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-08-01T12:00:00"
+    },
+    {
       "duration": 86400,
       "end": "2026-08-02T12:30:00",
       "event": "HackerRank Orchestrate August'26",
@@ -1411,6 +1441,21 @@
       "resource": "stats.ioinformatics.org",
       "resource_id": 82,
       "start": "2026-08-09T00:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-09T14:00:00",
+      "event": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Beginner Contest 226)",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/arc226",
+      "id": 68695670,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-08-09T12:00:00"
     },
     {
       "duration": 32400,
