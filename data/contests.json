@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T13:37:35Z",
-  "count": 144,
+  "lastUpdated": "2026-07-06T17:34:44Z",
+  "count": 143,
   "contests": [
     {
       "duration": 31536000,
@@ -386,7 +386,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 4,
-      "parsed_at": "2026-07-06T02:34:10.055619",
+      "parsed_at": "2026-07-06T14:35:11.874583",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -511,36 +511,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-06T00:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-07-06T16:30:00",
-      "event": "Monday Munch - DSA Challenge 010 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY010",
-      "id": 68592812,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-07-06T13:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-07-06T16:35:00",
-      "event": "Educational Codeforces Round 192 (Rated for Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2242",
-      "id": 68453058,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-07-06T14:35:00"
     },
     {
       "duration": 122400,
@@ -691,21 +661,6 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-07-10T11:00:00"
-    },
-    {
-      "duration": 8100,
-      "end": "2026-07-10T16:50:00",
-      "event": "Codeforces Round (Div. 3)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2244",
-      "id": 68492696,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-07-10T14:35:00"
     },
     {
       "duration": 172800,
@@ -918,6 +873,21 @@
       "start": "2026-07-12T14:35:00"
     },
     {
+      "duration": 8100,
+      "end": "2026-07-14T16:50:00",
+      "event": "Codeforces Round (Div. 3)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2244",
+      "id": 68492696,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2026-07-14T14:35:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-15T16:30:00",
       "event": "Starters 247",
@@ -1126,6 +1096,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-07-19T12:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2026-07-19T17:00:00",
+      "event": "RoboContest Round #112",
+      "host": "robocontest.uz",
+      "href": "https://robocontest.uz/olympiads/3941",
+      "id": 68702754,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "robocontest.uz",
+      "resource_id": 137,
+      "start": "2026-07-19T14:30:00"
     },
     {
       "duration": 18000,
