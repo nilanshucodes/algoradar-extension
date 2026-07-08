@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T16:24:41Z",
-  "count": 148,
+  "lastUpdated": "2026-07-08T20:56:51Z",
+  "count": 147,
   "contests": [
     {
       "duration": 31536000,
@@ -319,21 +319,6 @@
     },
     {
       "duration": 1263540,
-      "end": "2026-07-08T19:59:00",
-      "event": "CPIC. Lesson 4. Arrays - Part 3",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/t3rf6bf3o13i1e8tuqt1rt1e00",
-      "id": 68445339,
-      "n_problems": 20,
-      "n_statistics": 36,
-      "parsed_at": "2026-07-08T08:24:07.257351",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-06-24T05:00:00"
-    },
-    {
-      "duration": 1263540,
       "end": "2026-07-10T19:59:00",
       "event": "CPIC. Lesson 5. Strings - Part 1",
       "host": "basecamp.eolymp.com",
@@ -430,8 +415,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 866,
-      "parsed_at": "2026-07-08T07:17:06.422385",
+      "n_statistics": 882,
+      "parsed_at": "2026-07-08T19:18:09.332234",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -468,36 +453,6 @@
       "start": "2026-07-07T17:53:04"
     },
     {
-      "duration": 7200,
-      "end": "2026-07-08T16:30:00",
-      "event": "Starters 246 (Rated till 4 Star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START246",
-      "id": 68356367,
-      "n_problems": 7,
-      "n_statistics": 22204,
-      "parsed_at": "2026-07-08T16:03:09.631134",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-07-08T14:30:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-07-08T17:00:00",
-      "event": "Beginner Contest 116",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/beginner-contest-116",
-      "id": 68491832,
-      "n_problems": null,
-      "n_statistics": 60,
-      "parsed_at": "2026-07-08T16:19:07.603597",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-07-08T15:30:00"
-    },
-    {
       "duration": 25200,
       "end": "2026-07-09T09:00:00",
       "event": "World Tour Finals 2026 Algorithm",
@@ -526,6 +481,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-07-09T02:00:00"
+    },
+    {
+      "duration": 604740,
+      "end": "2026-07-16T02:59:00",
+      "event": "Contest I (Basic, Conditional and Loop) [protected, icpc, individual]",
+      "host": "lightoj.com",
+      "href": "https://lightoj.com/contest/contestibasicloop",
+      "id": 68746878,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "lightoj.com",
+      "resource_id": 122,
+      "start": "2026-07-09T03:00:00"
     },
     {
       "duration": 9000,
@@ -1156,6 +1126,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-22T14:30:00"
+    },
+    {
+      "duration": 5400,
+      "end": "2026-07-22T17:00:00",
+      "event": "Beginner Contest 117",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/beginner-contest-117",
+      "id": 68746230,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-07-22T15:30:00"
     },
     {
       "duration": 86400,
