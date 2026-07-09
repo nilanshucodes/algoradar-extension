@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T12:26:25Z",
+  "lastUpdated": "2026-07-09T17:11:43Z",
   "count": 144,
   "contests": [
     {
@@ -341,7 +341,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 4,
-      "parsed_at": "2026-07-09T02:40:09.035739",
+      "parsed_at": "2026-07-09T14:41:06.778094",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -466,21 +466,6 @@
       "resource": "lightoj.com",
       "resource_id": 122,
       "start": "2026-07-09T03:00:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-07-09T17:01:00",
-      "event": "Weekly Contest 238",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-238",
-      "id": 68619521,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-07-09T15:01:00"
     },
     {
       "duration": 1800,
@@ -798,8 +783,8 @@
       "start": "2026-07-15T14:30:00"
     },
     {
-      "duration": 10800,
-      "end": "2026-07-16T17:35:00",
+      "duration": 9000,
+      "end": "2026-07-16T17:05:00",
       "event": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2245",
@@ -811,6 +796,21 @@
       "resource": "codeforces.com",
       "resource_id": 1,
       "start": "2026-07-16T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-16T17:01:00",
+      "event": "Weekly Contest 239",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-239",
+      "id": 68766083,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-07-16T15:01:00"
     },
     {
       "duration": 18000,
