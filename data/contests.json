@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-11T04:38:19Z",
-  "count": 143,
+  "lastUpdated": "2026-07-11T07:06:08Z",
+  "count": 142,
   "contests": [
     {
       "duration": 31536000,
@@ -386,7 +386,7 @@
       "id": 68595549,
       "n_problems": 19,
       "n_statistics": 19,
-      "parsed_at": "2026-07-10T07:29:06.795559",
+      "parsed_at": "2026-07-11T06:53:07.918491",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -416,7 +416,7 @@
       "id": 68598719,
       "n_problems": 20,
       "n_statistics": 12,
-      "parsed_at": "2026-07-10T06:51:07.389212",
+      "parsed_at": "2026-07-11T06:15:09.019463",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -445,8 +445,8 @@
       "href": "https://lightoj.com/contest/contestibasicloop",
       "id": 68746878,
       "n_problems": 5,
-      "n_statistics": 13,
-      "parsed_at": "2026-07-10T18:37:06.935081",
+      "n_statistics": 14,
+      "parsed_at": "2026-07-11T05:49:07.287567",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
@@ -466,21 +466,6 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-10T18:30:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-07-11T05:30:00",
-      "event": "UOJ NOI Round #10 Day1",
-      "host": "uoj.ac",
-      "href": "https://uoj.ac/contest/110",
-      "id": 68376529,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "uoj.ac",
-      "resource_id": 172,
-      "start": "2026-07-11T00:30:00"
     },
     {
       "duration": 86400,
