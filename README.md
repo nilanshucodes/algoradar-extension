@@ -48,16 +48,18 @@ algoradar/
 └── README.md
 
 ```
- Development
+### Development
 Backend Development
-bash# Install dependencies
+Install dependencies 
+```bash
 npm install -g vercel
+```
 
 # Run locally
-vercel dev
+`vercel dev`
 
 # Deploy to production
-vercel --prod
+`vercel --prod`
 
 
 ### Extension Development
@@ -78,14 +80,8 @@ The backend is deployed on Vercel and serves **pre-generated static contest data
 
 # Data Update Architecture
 
-## Previous Approach(Deprecated)
 - GitHub Actions cron job fetched from CLIST API
-- Worked for 1700+ commits
-- **Issue:** Cloudflare bot protection started blocking GitHub Actions IPs (403 errors)
-
-## Current Approach
-- Local macOS script runs every 3 hours + on system wake
-- Uses residential IP (trusted by Cloudflare)
+- **SolvedIssue:** Cloudflare bot protection started blocking GitHub Actions IPs (403 errors)
 - Commits and pushes to GitHub automatically
 - Vercel detects push and serves updated data
 - Zero Cloudflare blocks
@@ -114,13 +110,11 @@ Contributions welcome! Please:
 
 ## Known Limitations
 
-- Contest data updates when maintainer's machine is online (typically every 3-6 hours)
-- If machine is offline for extended periods, data may be slightly stale (contests are announced days/weeks ahead, so this rarely affects users)
 - UI remains intentionally minimal to keep the extension lightweight
 
 
 ### Future Improvements
-- Migrate to a 24/7 VPS for always-on updates (Oracle Cloud Free Tier or similar)
+
 - Optional persistent storage (only if future scale requires it)
 
 ## Latest Release (v1.2.0)
