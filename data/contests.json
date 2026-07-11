@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T10:55:01Z",
+  "lastUpdated": "2026-07-11T15:44:20Z",
   "count": 142,
   "contests": [
     {
@@ -326,7 +326,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 4,
-      "parsed_at": "2026-07-11T02:43:17.081213",
+      "parsed_at": "2026-07-11T14:44:17.590683",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -460,8 +460,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND58",
       "id": 68719373,
       "n_problems": 11,
-      "n_statistics": 53,
-      "parsed_at": "2026-07-11T10:33:08.425889",
+      "n_statistics": 65,
+      "parsed_at": "2026-07-11T13:46:06.894616",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -481,21 +481,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-11T09:00:00"
-    },
-    {
-      "duration": 6000,
-      "end": "2026-07-11T13:40:00",
-      "event": "AtCoder Beginner Contest 466",
-      "host": "atcoder.jp",
-      "href": "https://atcoder.jp/contests/abc466",
-      "id": 68202452,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "atcoder.jp",
-      "resource_id": 93,
-      "start": "2026-07-11T12:00:00"
     },
     {
       "duration": 9000,
@@ -571,6 +556,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-07-12T02:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-12T14:00:00",
+      "event": "CYF Junior 2026. Отборочный этап",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/96682/enter/?retPage=standings",
+      "id": 68805693,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-12T09:00:00"
     },
     {
       "duration": 0,
