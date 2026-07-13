@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-12T20:36:29Z",
-  "count": 129,
+  "lastUpdated": "2026-07-13T01:52:16Z",
+  "count": 130,
   "contests": [
     {
       "duration": 31536000,
@@ -400,8 +400,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 907,
-      "parsed_at": "2026-07-12T08:58:27.490172",
+      "n_statistics": 913,
+      "parsed_at": "2026-07-12T20:59:07.938317",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -1651,6 +1651,21 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-09-28T06:00:00"
+    },
+    {
+      "duration": 129600,
+      "end": "2026-10-04T21:00:00",
+      "event": "Securinets CTF Quals 2026",
+      "host": "ctftime.org",
+      "href": "https://ctftime.org/event/3364/",
+      "id": 68834290,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ctftime.org",
+      "resource_id": 70,
+      "start": "2026-10-03T09:00:00"
     },
     {
       "duration": 43200,
