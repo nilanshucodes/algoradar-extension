@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T08:09:14Z",
-  "count": 131,
+  "lastUpdated": "2026-07-13T12:25:47Z",
+  "count": 132,
   "contests": [
     {
       "duration": 31536000,
@@ -401,7 +401,7 @@
       "id": 62459761,
       "n_problems": 8,
       "n_statistics": 913,
-      "parsed_at": "2026-07-12T20:59:07.938317",
+      "parsed_at": "2026-07-13T09:00:11.272947",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -457,11 +457,11 @@
       "end": "2026-07-13T17:00:00",
       "event": "Зеркало: CYF Junior 2026. Отборочный этап",
       "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/96677/enter/?retPage=standings",
+      "href": "https://official.contest.yandex.ru/CYF/contest/96677/standings",
       "id": 68787687,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 9,
+      "n_statistics": 47,
+      "parsed_at": "2026-07-13T12:20:39.551840",
       "problems": null,
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
@@ -946,6 +946,21 @@
       "resource": "atcoder.jp",
       "resource_id": 93,
       "start": "2026-07-25T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-26T13:00:00",
+      "event": "牛客周赛 Round 154 [IOI]",
+      "host": "ac.nowcoder.com",
+      "href": "https://ac.nowcoder.com/acm/contest/137840",
+      "id": 68842584,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "ac.nowcoder.com",
+      "resource_id": 166,
+      "start": "2026-07-26T11:00:00"
     },
     {
       "duration": 7200,
