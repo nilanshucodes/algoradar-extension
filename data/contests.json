@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T16:12:41Z",
+  "lastUpdated": "2026-07-15T20:50:11Z",
   "count": 132,
   "contests": [
     {
@@ -363,21 +363,6 @@
       "start": "2026-07-01T00:00:00"
     },
     {
-      "duration": 1263540,
-      "end": "2026-07-15T19:59:00",
-      "event": "CPIC. Lesson 6. Functions",
-      "host": "basecamp.eolymp.com",
-      "href": "https://basecamp.eolymp.com/contests/grrp6i2aqd67ldrmjfua5ub8fo",
-      "id": 68595549,
-      "n_problems": 19,
-      "n_statistics": 28,
-      "parsed_at": "2026-07-15T04:30:08.606623",
-      "problems": null,
-      "resource": "basecamp.eolymp.com",
-      "resource_id": 10,
-      "start": "2026-07-01T05:00:00"
-    },
-    {
       "duration": 7048740,
       "end": "2026-09-20T20:59:00",
       "event": "Russian Olympiad in Artificial Intelligence 2026 [ai]. Training round",
@@ -451,21 +436,6 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-07-13T14:35:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-07-15T16:30:00",
-      "event": "Starters 247 (Rated till 5 star)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/START247",
-      "id": 68356715,
-      "n_problems": 8,
-      "n_statistics": 24175,
-      "parsed_at": "2026-07-15T15:52:10.962956",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-07-15T14:30:00"
     },
     {
       "duration": 9000,
@@ -708,6 +678,21 @@
       "start": "2026-07-19T02:30:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-07-19T14:00:00",
+      "event": "CYF Junior 2026. Заключительный этап",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://ext.contest.yandex.ru/CYF/contest/96758/enter/?retPage=",
+      "id": 68883717,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-19T09:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-19T13:00:00",
       "event": "牛客周赛 Round 153 [IOI]",
@@ -766,6 +751,21 @@
       "resource": "repovive.com",
       "resource_id": 180,
       "start": "2026-07-19T14:35:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-20T17:00:00",
+      "event": "Зеркало: CYF Junior 2026. Заключительный этап",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/96789/enter/?retPage=",
+      "id": 68886419,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-20T12:00:00"
     },
     {
       "duration": 10800,
