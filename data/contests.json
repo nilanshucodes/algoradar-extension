@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T20:50:05Z",
+  "lastUpdated": "2026-07-15T01:25:54Z",
   "count": 130,
   "contests": [
     {
@@ -385,8 +385,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 923,
-      "parsed_at": "2026-07-14T09:01:10.479787",
+      "n_statistics": 930,
+      "parsed_at": "2026-07-14T21:02:08.224655",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -430,8 +430,8 @@
       "href": "https://lightoj.com/contest/contestibasicloop",
       "id": 68746878,
       "n_problems": 5,
-      "n_statistics": 21,
-      "parsed_at": "2026-07-14T12:32:06.907262",
+      "n_statistics": 23,
+      "parsed_at": "2026-07-14T23:44:06.824336",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
