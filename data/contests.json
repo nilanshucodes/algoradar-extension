@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T01:46:17Z",
+  "lastUpdated": "2026-07-16T07:16:03Z",
   "count": 131,
   "contests": [
     {
@@ -311,7 +311,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 6,
-      "parsed_at": "2026-07-15T14:51:18.296760",
+      "parsed_at": "2026-07-16T02:52:16.851460",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -370,8 +370,8 @@
       "href": "https://basecamp.eolymp.com/contests/djeipspin50k93tsrqghhqt1r8",
       "id": 68598719,
       "n_problems": 20,
-      "n_statistics": 22,
-      "parsed_at": "2026-07-15T03:52:07.021637",
+      "n_statistics": 26,
+      "parsed_at": "2026-07-16T03:16:07.898167",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
@@ -391,21 +391,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-07-07T17:53:04"
-    },
-    {
-      "duration": 604740,
-      "end": "2026-07-16T02:59:00",
-      "event": "Contest 6 (Basic, Conditional and Loop) [protected, icpc, individual]",
-      "host": "lightoj.com",
-      "href": "https://lightoj.com/contest/contestibasicloop",
-      "id": 68746878,
-      "n_problems": 5,
-      "n_statistics": 25,
-      "parsed_at": "2026-07-15T22:08:07.249008",
-      "problems": null,
-      "resource": "lightoj.com",
-      "resource_id": 122,
-      "start": "2026-07-09T03:00:00"
     },
     {
       "duration": 604800,
@@ -1006,6 +991,21 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-31T22:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-08-01T06:00:00",
+      "event": "CodeQUEEN 2026 決勝",
+      "host": "atcoder.jp?lang=ja",
+      "href": "https://atcoder.jp/contests/codequeen2026-final-Public",
+      "id": 68893136,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-08-01T04:00:00"
     },
     {
       "duration": 115200,
