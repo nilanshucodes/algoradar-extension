@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-15T20:50:11Z",
-  "count": 132,
+  "lastUpdated": "2026-07-16T01:46:17Z",
+  "count": 131,
   "contests": [
     {
       "duration": 31536000,
@@ -91,21 +91,6 @@
       "resource": "cups.online",
       "resource_id": 138,
       "start": "2026-04-13T07:38:14"
-    },
-    {
-      "duration": 7881466,
-      "end": "2026-07-15T23:59:00",
-      "event": "The 2026 NeuroGolf Championship [golf, artificial intelligence, neural networks, optimization, custom metric]",
-      "host": "kaggle.com",
-      "href": "https://www.kaggle.com/competitions/neurogolf-2026",
-      "id": 67001395,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "kaggle.com",
-      "resource_id": 74,
-      "start": "2026-04-15T18:41:14"
     },
     {
       "duration": 7978726,
@@ -370,8 +355,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 933,
-      "parsed_at": "2026-07-15T09:03:25.481837",
+      "n_statistics": 938,
+      "parsed_at": "2026-07-15T21:04:06.759390",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -415,8 +400,8 @@
       "href": "https://lightoj.com/contest/contestibasicloop",
       "id": 68746878,
       "n_problems": 5,
-      "n_statistics": 23,
-      "parsed_at": "2026-07-15T10:56:08.242831",
+      "n_statistics": 25,
+      "parsed_at": "2026-07-15T22:08:07.249008",
       "problems": null,
       "resource": "lightoj.com",
       "resource_id": 122,
