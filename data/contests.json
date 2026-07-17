@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T01:49:56Z",
+  "lastUpdated": "2026-07-17T07:10:59Z",
   "count": 136,
   "contests": [
     {
@@ -311,7 +311,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 6,
-      "parsed_at": "2026-07-16T14:53:28.448977",
+      "parsed_at": "2026-07-17T02:54:18.420279",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -370,8 +370,8 @@
       "href": "https://basecamp.eolymp.com/contests/djeipspin50k93tsrqghhqt1r8",
       "id": 68598719,
       "n_problems": 20,
-      "n_statistics": 26,
-      "parsed_at": "2026-07-16T03:16:07.898167",
+      "n_statistics": 27,
+      "parsed_at": "2026-07-17T02:40:10.456030",
       "problems": null,
       "resource": "basecamp.eolymp.com",
       "resource_id": 10,
