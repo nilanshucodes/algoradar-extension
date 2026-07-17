@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-17T11:14:46Z",
-  "count": 138,
+  "lastUpdated": "2026-07-17T16:07:32Z",
+  "count": 139,
   "contests": [
     {
       "duration": 31536000,
@@ -311,7 +311,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 6,
-      "parsed_at": "2026-07-17T02:54:18.420279",
+      "parsed_at": "2026-07-17T14:55:17.924280",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -1156,6 +1156,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-08-01T14:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-08-03T10:00:00",
+      "event": "[ICPC2017 Hong Kong R] ICPC 2017 区域赛香港站重现赛 [guzhi, icpc, squad]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/340426",
+      "id": 68919798,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-03T05:00:00"
     },
     {
       "duration": 43200,
