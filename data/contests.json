@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-18T15:44:39Z",
-  "count": 135,
+  "lastUpdated": "2026-07-18T20:37:13Z",
+  "count": 133,
   "contests": [
     {
       "duration": 31536000,
@@ -415,8 +415,8 @@
       "href": "https://www.codechef.com/DEVWEEKEND59",
       "id": 68860642,
       "n_problems": 12,
-      "n_statistics": 86,
-      "parsed_at": "2026-07-18T13:46:09.121784",
+      "n_statistics": 151,
+      "parsed_at": "2026-07-18T20:12:08.006467",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
@@ -466,36 +466,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-07-18T12:00:00"
-    },
-    {
-      "duration": 5400,
-      "end": "2026-07-18T16:00:00",
-      "event": "Biweekly Contest 187",
-      "host": "leetcode.com",
-      "href": "https://leetcode.com/contest/biweekly-contest-187",
-      "id": 68572090,
-      "n_problems": 4,
-      "n_statistics": 3075,
-      "parsed_at": "2026-07-18T15:26:08.540638",
-      "problems": null,
-      "resource": "leetcode.com",
-      "resource_id": 102,
-      "start": "2026-07-18T14:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2026-07-18T16:35:00",
-      "event": "Codeforces Round 1111 (Div. 2)",
-      "host": "codeforces.com",
-      "href": "https://codeforces.com/contests/2247",
-      "id": 68635073,
-      "n_problems": 7,
-      "n_statistics": 8353,
-      "parsed_at": "2026-07-18T15:41:07.940079",
-      "problems": null,
-      "resource": "codeforces.com",
-      "resource_id": 1,
-      "start": "2026-07-18T14:35:00"
     },
     {
       "duration": 5400,
