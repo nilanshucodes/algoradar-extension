@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T16:19:07Z",
-  "count": 128,
+  "lastUpdated": "2026-07-20T21:01:33Z",
+  "count": 126,
   "contests": [
     {
       "duration": 31536000,
@@ -361,36 +361,6 @@
       "resource": "kaggle.com",
       "resource_id": 74,
       "start": "2026-07-07T17:53:04"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-07-20T17:00:00",
-      "event": "Зеркало: CYF Junior 2026. Заключительный этап",
-      "host": "contest.yandex.ru/CYF",
-      "href": "https://official.contest.yandex.ru/CYF/contest/96789/enter/?retPage=",
-      "id": 68886419,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "contest.yandex.ru/CYF",
-      "resource_id": 112,
-      "start": "2026-07-20T12:00:00"
-    },
-    {
-      "duration": 10800,
-      "end": "2026-07-20T16:30:00",
-      "event": "Monday Munch - DSA Challenge 012 (Rated)",
-      "host": "codechef.com",
-      "href": "https://www.codechef.com/DSAMONDAY012",
-      "id": 68880972,
-      "n_problems": 6,
-      "n_statistics": 5231,
-      "parsed_at": "2026-07-20T16:05:07.090237",
-      "problems": null,
-      "resource": "codechef.com",
-      "resource_id": 2,
-      "start": "2026-07-20T13:30:00"
     },
     {
       "duration": 86400,
