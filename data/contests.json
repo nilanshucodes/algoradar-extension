@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T12:09:01Z",
-  "count": 129,
+  "lastUpdated": "2026-07-20T16:19:07Z",
+  "count": 128,
   "contests": [
     {
       "duration": 31536000,
@@ -296,7 +296,7 @@
       "id": 68516925,
       "n_problems": 1,
       "n_statistics": 9,
-      "parsed_at": "2026-07-20T03:00:18.685447",
+      "parsed_at": "2026-07-20T15:01:15.432596",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -363,21 +363,6 @@
       "start": "2026-07-07T17:53:04"
     },
     {
-      "duration": 604800,
-      "end": "2026-07-20T14:35:00",
-      "event": "Weekly Challenge 1: Approximation",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 68722276,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-07-13T14:35:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-07-20T17:00:00",
       "event": "Зеркало: CYF Junior 2026. Заключительный этап",
@@ -399,9 +384,9 @@
       "host": "codechef.com",
       "href": "https://www.codechef.com/DSAMONDAY012",
       "id": 68880972,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_problems": 6,
+      "n_statistics": 5231,
+      "parsed_at": "2026-07-20T16:05:07.090237",
       "problems": null,
       "resource": "codechef.com",
       "resource_id": 2,
