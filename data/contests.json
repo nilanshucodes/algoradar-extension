@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T16:16:08Z",
-  "count": 134,
+  "lastUpdated": "2026-07-21T20:57:36Z",
+  "count": 135,
   "contests": [
     {
       "duration": 31536000,
@@ -65,7 +65,7 @@
     {
       "duration": 31536000,
       "end": "2027-04-07T22:32:00",
-      "event": "Lincatoria Problems. Jajceslav",
+      "event": "lincatoria-interval-dp. Jajceslav",
       "host": "codeforces.com/gyms",
       "href": "https://codeforces.com/gym/106465",
       "id": 66803787,
@@ -378,6 +378,21 @@
       "start": "2026-07-22T04:00:00"
     },
     {
+      "duration": 18000,
+      "end": "2026-07-22T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 7",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/97132/enter/?retPage=",
+      "id": 69015673,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-22T12:00:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-07-22T16:30:00",
       "event": "Starters 248",
@@ -635,7 +650,7 @@
     {
       "duration": 9000,
       "end": "2026-07-26T17:05:00",
-      "event": "Codeforces Round (Div. 1)",
+      "event": "Codeforces Round 1112 (Div. 1)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2249",
       "id": 68938374,
@@ -650,7 +665,7 @@
     {
       "duration": 9000,
       "end": "2026-07-26T17:05:00",
-      "event": "Codeforces Round (Div. 2)",
+      "event": "Codeforces Round 1112 (Div. 2)",
       "host": "codeforces.com",
       "href": "https://codeforces.com/contests/2250",
       "id": 68938375,
