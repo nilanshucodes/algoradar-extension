@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T07:29:12Z",
-  "count": 136,
+  "lastUpdated": "2026-07-22T11:41:41Z",
+  "count": 137,
   "contests": [
     {
       "duration": 31536000,
@@ -341,7 +341,7 @@
       "id": 62459761,
       "n_problems": 8,
       "n_statistics": 982,
-      "parsed_at": "2026-07-21T21:13:07.018910",
+      "parsed_at": "2026-07-22T09:13:31.717262",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -376,21 +376,6 @@
       "resource": "challenge.ucup.ac",
       "resource_id": 183,
       "start": "2026-07-20T12:00:00"
-    },
-    {
-      "duration": 18000,
-      "end": "2026-07-22T09:00:00",
-      "event": "2026牛客暑期多校训练营2 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133877",
-      "id": 68503959,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-07-22T04:00:00"
     },
     {
       "duration": 18000,
@@ -708,6 +693,21 @@
       "start": "2026-07-26T14:35:00"
     },
     {
+      "duration": 10800,
+      "end": "2026-07-27T16:30:00",
+      "event": "Monday Munch - DSA Challenge 013 (Rated)",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/DSAMONDAY013",
+      "id": 69028032,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2026-07-27T13:30:00"
+    },
+    {
       "duration": 18000,
       "end": "2026-07-29T09:00:00",
       "event": "2026牛客暑期多校训练营4 [ACM]",
@@ -991,6 +991,21 @@
       "resource": "leetcode.com",
       "resource_id": 102,
       "start": "2026-08-02T02:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2026-08-02T10:00:00",
+      "event": "【LGR-293-Div.2】洛谷 8 月月赛 I & CLJOI Round 2 [rated, ioi]",
+      "host": "luogu.com.cn",
+      "href": "https://www.luogu.com.cn/contest/290490",
+      "id": 69027148,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "luogu.com.cn",
+      "resource_id": 162,
+      "start": "2026-08-02T06:00:00"
     },
     {
       "duration": 7200,
