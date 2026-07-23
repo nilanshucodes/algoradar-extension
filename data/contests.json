@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T07:26:39Z",
+  "lastUpdated": "2026-07-23T11:45:29Z",
   "count": 135,
   "contests": [
     {
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 984,
-      "parsed_at": "2026-07-22T21:14:07.888606",
+      "n_statistics": 985,
+      "parsed_at": "2026-07-23T09:15:10.436529",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -858,6 +858,21 @@
       "start": "2026-08-01T07:00:00"
     },
     {
+      "duration": 0,
+      "end": "2026-08-01T08:26:00",
+      "event": "Community Code Cup [sport_coding]. Code Cup X - II тур",
+      "host": "cups.online",
+      "href": "https://cups.online/rounds/1817",
+      "id": 69050574,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "cups.online",
+      "resource_id": 138,
+      "start": "2026-08-01T08:26:00"
+    },
+    {
       "duration": 7200,
       "end": "2026-08-01T13:35:00",
       "event": "Codeforces Round (Div. 2)",
@@ -1158,6 +1173,21 @@
       "start": "2026-08-08T12:00:00"
     },
     {
+      "duration": 6000,
+      "end": "2026-08-08T13:40:00",
+      "event": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
+      "host": "atcoder.jp",
+      "href": "https://atcoder.jp/contests/abc470",
+      "id": 69051500,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "atcoder.jp",
+      "resource_id": 93,
+      "start": "2026-08-08T12:00:00"
+    },
+    {
       "duration": 604800,
       "end": "2026-08-16T00:00:00",
       "event": "38th International Olympiad in Informatics. Uzbekistan",
@@ -1336,21 +1366,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-08-21T12:00:00"
-    },
-    {
-      "duration": 172800,
-      "end": "2026-08-30T14:00:00",
-      "event": "HITCON CTF 2026 Quals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3340/",
-      "id": 68436004,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-08-28T14:00:00"
     },
     {
       "duration": 86400,
@@ -1936,21 +1951,6 @@
       "resource": "ctftime.org",
       "resource_id": 70,
       "start": "2026-11-06T18:15:00"
-    },
-    {
-      "duration": 122400,
-      "end": "2026-11-08T10:00:00",
-      "event": "HITCON CTF 2026 Final",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3341/",
-      "id": 68436001,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-11-07T00:00:00"
     },
     {
       "duration": 129600,
