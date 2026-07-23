@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T16:19:32Z",
-  "count": 135,
+  "lastUpdated": "2026-07-23T20:51:09Z",
+  "count": 136,
   "contests": [
     {
       "duration": 31536000,
@@ -393,21 +393,6 @@
       "start": "2026-07-23T01:00:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-07-23T17:01:00",
-      "event": "Weekly Contest 240",
-      "host": "naukri.com/code360",
-      "href": "https://www.naukri.com/code360/contests/weekly-contest-240",
-      "id": 68903857,
-      "n_problems": null,
-      "n_statistics": 153,
-      "parsed_at": "2026-07-23T16:12:08.987435",
-      "problems": null,
-      "resource": "naukri.com/code360",
-      "resource_id": 136,
-      "start": "2026-07-23T15:01:00"
-    },
-    {
       "duration": 18000,
       "end": "2026-07-24T09:00:00",
       "event": "2026牛客暑期多校训练营3 [ACM]",
@@ -421,6 +406,21 @@
       "resource": "ac.nowcoder.com",
       "resource_id": 166,
       "start": "2026-07-24T04:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2026-07-24T17:00:00",
+      "event": "Индивидуальные тренировки 2026. День 8",
+      "host": "contest.yandex.ru/CYF",
+      "href": "https://official.contest.yandex.ru/CYF/contest/97326/enter/?retPage=",
+      "id": 69063643,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "contest.yandex.ru/CYF",
+      "resource_id": 112,
+      "start": "2026-07-24T12:00:00"
     },
     {
       "duration": 172800,
@@ -691,6 +691,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-29T14:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-30T17:01:00",
+      "event": "Weekly Contest 241",
+      "host": "naukri.com/code360",
+      "href": "https://www.naukri.com/code360/contests/weekly-contest-241",
+      "id": 69060594,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "naukri.com/code360",
+      "resource_id": 136,
+      "start": "2026-07-30T15:01:00"
     },
     {
       "duration": 18000,
