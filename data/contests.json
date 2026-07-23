@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T11:45:29Z",
+  "lastUpdated": "2026-07-23T16:19:32Z",
   "count": 135,
   "contests": [
     {
@@ -295,8 +295,8 @@
       "href": "https://cups.online/rounds/1810",
       "id": 68516925,
       "n_problems": 1,
-      "n_statistics": 11,
-      "parsed_at": "2026-07-23T03:05:11.348737",
+      "n_statistics": 12,
+      "parsed_at": "2026-07-23T15:06:17.782900",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -400,8 +400,8 @@
       "href": "https://www.naukri.com/code360/contests/weekly-contest-240",
       "id": 68903857,
       "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
+      "n_statistics": 153,
+      "parsed_at": "2026-07-23T16:12:08.987435",
       "problems": null,
       "resource": "naukri.com/code360",
       "resource_id": 136,
