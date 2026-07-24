@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T20:51:09Z",
-  "count": 136,
+  "lastUpdated": "2026-07-24T01:50:08Z",
+  "count": 135,
   "contests": [
     {
       "duration": 31536000,
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 985,
-      "parsed_at": "2026-07-23T09:15:10.436529",
+      "n_statistics": 989,
+      "parsed_at": "2026-07-23T21:16:23.522933",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -376,21 +376,6 @@
       "resource": "challenge.ucup.ac",
       "resource_id": 183,
       "start": "2026-07-20T12:00:00"
-    },
-    {
-      "duration": 86400,
-      "end": "2026-07-24T01:00:00",
-      "event": "Codegate CTF 2026 Finals",
-      "host": "ctftime.org",
-      "href": "https://ctftime.org/event/3292/",
-      "id": 68006329,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ctftime.org",
-      "resource_id": 70,
-      "start": "2026-07-23T01:00:00"
     },
     {
       "duration": 18000,
