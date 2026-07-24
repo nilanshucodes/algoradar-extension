@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T07:24:56Z",
+  "lastUpdated": "2026-07-24T12:44:40Z",
   "count": 135,
   "contests": [
     {
@@ -340,8 +340,8 @@
       "href": "https://cups.online/rounds/1553",
       "id": 62459761,
       "n_problems": 8,
-      "n_statistics": 989,
-      "parsed_at": "2026-07-23T21:16:23.522933",
+      "n_statistics": 990,
+      "parsed_at": "2026-07-24T09:17:06.927043",
       "problems": null,
       "resource": "cups.online",
       "resource_id": 138,
@@ -379,21 +379,6 @@
     },
     {
       "duration": 18000,
-      "end": "2026-07-24T09:00:00",
-      "event": "2026牛客暑期多校训练营3 [ACM]",
-      "host": "ac.nowcoder.com",
-      "href": "https://ac.nowcoder.com/acm/contest/133878",
-      "id": 68917249,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "ac.nowcoder.com",
-      "resource_id": 166,
-      "start": "2026-07-24T04:00:00"
-    },
-    {
-      "duration": 18000,
       "end": "2026-07-24T17:00:00",
       "event": "Индивидуальные тренировки 2026. День 8",
       "host": "contest.yandex.ru/CYF",
@@ -406,6 +391,21 @@
       "resource": "contest.yandex.ru/CYF",
       "resource_id": 112,
       "start": "2026-07-24T12:00:00"
+    },
+    {
+      "duration": 604740,
+      "end": "2026-07-31T15:59:00",
+      "event": "Contest - 7 (Topic: Loop and Array) [protected, icpc, individual]",
+      "host": "lightoj.com",
+      "href": "https://lightoj.com/contest/contest7loopandarray",
+      "id": 69081479,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "lightoj.com",
+      "resource_id": 122,
+      "start": "2026-07-24T16:00:00"
     },
     {
       "duration": 172800,
@@ -618,21 +618,6 @@
       "start": "2026-07-26T14:35:00"
     },
     {
-      "duration": 7200,
-      "end": "2026-07-26T16:35:00",
-      "event": "Repovive Standard Round 6",
-      "host": "repovive.com",
-      "href": "https://repovive.com/contests",
-      "id": 68970622,
-      "n_problems": null,
-      "n_statistics": null,
-      "parsed_at": null,
-      "problems": null,
-      "resource": "repovive.com",
-      "resource_id": 180,
-      "start": "2026-07-26T14:35:00"
-    },
-    {
       "duration": 10800,
       "end": "2026-07-27T16:30:00",
       "event": "Monday Munch - DSA Challenge 013 (Rated)",
@@ -646,6 +631,21 @@
       "resource": "codechef.com",
       "resource_id": 2,
       "start": "2026-07-27T13:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2026-07-27T16:35:00",
+      "event": "Repovive Standard Round 6",
+      "host": "repovive.com",
+      "href": "https://repovive.com/contests",
+      "id": 68970622,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "repovive.com",
+      "resource_id": 180,
+      "start": "2026-07-27T14:35:00"
     },
     {
       "duration": 18000,
